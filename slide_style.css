@@ -1,0 +1,108 @@
+/**********************
+  Base Dark Theme
+  - global font settings
+  - global text color
+***********************/
+.reveal {
+  background-color: #454545 !important;   /* slide background */
+  color: #e6e6e6 !important;              /* default text color */
+  font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 25px;                        /* base font size for paragraphs */
+  line-height: 1.4;                        /* text readability */
+}
+
+/* Reveal.js background container */
+.reveal .backgrounds {
+  background-color: #424242 !important;
+}
+
+
+/**********************
+  Headings
+  - h1, h2, h3 hierarchy
+***********************/
+.reveal h1 {
+  color: #67bdfb !important;
+  font-size: 2.0em;       /* main slide title */
+  font-weight: 700;
+  margin-bottom: 0.4em;
+}
+
+.reveal h2 {
+  color: #67bdfb !important;
+  font-size: 1.6em;       /* section headers */
+  font-weight: 600;
+  margin-bottom: 0.4em;
+}
+
+.reveal h3 {
+  color: #e6e6e6 !important;
+  font-size: 1.3em;       /* subsection headers */
+  font-weight: 500;
+  margin-bottom: 0.3em;
+}
+
+
+/**********************
+  Paragraphs
+  - improve spacing and readability
+***********************/
+.reveal p {
+  margin-top: 0.4em;
+  margin-bottom: 0.6em;
+}
+
+
+/**********************
+  Lists
+***********************/
+.reveal ul,
+.reveal ol {
+  margin-left: 20px;
+  line-height: 1.5;     /* easier to read lists */
+}
+
+.reveal li {
+  margin-bottom: 0.3em; /* spacing between items */
+}
+
+
+/**********************
+  Inline Code (text inside `backticks`)
+***********************/
+.reveal code {
+  color: #55ff5d !important;          /* text color */
+  background-color: #070707 !important;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.85em;                  /* slightly smaller than text */
+  font-family: "Fira Code", monospace;
+}
+
+
+/**********************
+  Code Blocks
+  - triple backticks ```
+***********************/
+.reveal pre code {
+  background-color: #1a1a1a !important;
+  color: #c8ffc8 !important;
+  padding: 14px;
+  border-radius: 8px;
+  font-size: 0.9em;
+  line-height: 1.4;
+  font-family: "Fira Code", monospace;
+}
+
+
+
+
+/**********************
+  Footer Text (if added with ::: footer)
+***********************/
+.reveal .footer {
+  font-size: 0.7em;
+  color: #bbbbbb;
+}
+
+
