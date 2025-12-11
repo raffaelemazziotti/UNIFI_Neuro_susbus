@@ -207,30 +207,12 @@ This diversity supports specialized functions across the nervous system.
 
 ---
 
-## Activity Break
-
-Try this simple demonstration:
-
-1. Close your eyes.  
-2. Touch your nose with your finger.
-
-This requires:
-- Sensory feedback  
-- Motor planning  
-- Proprioception  
-- Coordinated neuronal signaling  
-
-It illustrates how neurons work together to generate behavior.
-
----
-
 ## Summary of Key Concepts
 
 - Neurons are the fundamental signaling units of the nervous system  
 - Structure determines function  
 - Signals are electrical within neurons and chemical between them  
 - Dendrites receive, soma integrates, axon transmits, terminals communicate  
-
 
 ---
 
