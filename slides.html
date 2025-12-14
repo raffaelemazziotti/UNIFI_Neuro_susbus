@@ -124,14 +124,18 @@
       margin-right: 0; 
     }
   </style>
+  <meta name="mermaid-theme" content="neutral">
+  <script src="slides_files/libs/quarto-diagram/mermaid.min.js"></script>
+  <script src="slides_files/libs/quarto-diagram/mermaid-init.js"></script>
+  <link href="slides_files/libs/quarto-diagram/mermaid.css" rel="stylesheet">
 </head>
 <body class="quarto-light">
   <div class="reveal">
     <div class="slides">
 
-<section id="title-slide" class="quarto-title-block center">
+<section id="title-slide" data-background-image="images/logo/NEUROFARBA.svg" data-background-position="center 10%" data-background-size="500px" class="quarto-title-block center">
   <h1 class="title">Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes</h1>
-  <p class="subtitle">Module 1 - Part 1</p>
+  <p class="subtitle">Module 1</p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -145,14 +149,22 @@ Raffaele M Mazziotti, PhD
 </div>
 
 </section>
-<section id="what-is-neuroscience" class="slide level2 center">
+<section id="module-overview" class="slide level2 center">
+<h2>Module Overview</h2>
+<p>Module 1</p>
+<ol type="1">
+<li><a href="#/neuron">The Neuron</a></li>
+<li><a href="#/ion-movement">Ion Movement</a></li>
+</ol>
+</section>
+<section id="neuron" class="slide level2 center">
 <h2>What Is Neuroscience?</h2>
 <div class="columns">
 <div class="column">
 <p>Neuroscience asks a simple question:<br>
 <strong>How does the brain produce behavior?</strong></p>
 <ul>
-<li>Studies the Central (brain and spinal cord) and Peropheral (somatic, autonomic and enteric) nervous systems<br>
+<li>Studies the Central (brain and spinal cord) and Peripheral (somatic, autonomic and enteric) nervous systems<br>
 </li>
 <li>Connects biology, psychology, physics, engineering, and philosophy</li>
 </ul>
@@ -239,7 +251,7 @@ They are electrically and chemically excitable. The function of a neuron depends
 </div>
 </div></div>
 </section>
-<section id="cell-body-soma" class="slide level2 center">
+<section id="soma" class="slide level2 center">
 <h2>Cell Body (Soma)</h2>
 <div class="columns">
 <div class="column">
@@ -259,7 +271,7 @@ They are electrically and chemically excitable. The function of a neuron depends
 </div>
 </div></div>
 </section>
-<section id="axon-hillock" class="slide level2 center">
+<section id="hillock" class="slide level2 center">
 <h2>Axon Hillock</h2>
 <div class="columns">
 <div class="column">
@@ -356,7 +368,6 @@ They are electrically and chemically excitable. The function of a neuron depends
 <li>Neurotransmitter type</li>
 </ul>
 <p>This diversity supports specialized functions across the nervous system.</p>
-<p><em>(Later chapters will cover sensory, motor, and integrative circuits.)</em></p>
 </section>
 <section id="summary-of-key-concepts" class="slide level2 center">
 <h2>Summary of Key Concepts</h2>
@@ -382,12 +393,729 @@ They are electrically and chemically excitable. The function of a neuron depends
 <li>Which part releases neurotransmitter?</li>
 </ol>
 </section>
-<section class="slide level2 center">
+<section id="ion-movement" class="slide level2 center">
+<h2>Ion Movement</h2>
+<div class="columns">
+<div class="column">
+<p>Neurons communicate using electrical signals.<br>
+These signals exist because <span class="highlight">ions move across cell membranes</span>.</p>
+<p>Understanding ion movement is the foundation for:</p>
+<ul>
+<li>Electrical signaling</li>
+<li>Membrane potential</li>
+<li>Action potentials</li>
+<li>Synaptic transmission</li>
+</ul>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/ion_einstein.gif" class="quarto-figure quarto-figure-right" width="500"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="ions" class="slide level2 center">
+<h2>What Is an Ion?</h2>
+<div class="columns">
+<div class="column">
+<p>An <strong>ion</strong> is an atom or molecule with an <span class="highlight">electrical charge</span>.</p>
+<ul>
+<li>Positive charge → cation<br>
+</li>
+<li>Negative charge → anion</li>
+</ul>
+<p>In neuroscience, the most important ions are:</p>
+<ul>
+<li>Sodium (Na⁺)</li>
+<li>Potassium (K⁺)</li>
+<li>Chloride (Cl⁻)</li>
+<li>Calcium (Ca²⁺)</li>
+</ul>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/ions.png" class="quarto-figure quarto-figure-right" width="300"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="why-charges-matter-in-the-brain" class="slide level2 center">
+<h2>Why Charges Matter in the Brain</h2>
+<p>Electrical signals arise because:</p>
+<ul>
+<li>Ions carry charge</li>
+<li>Neurons separate charges across membranes</li>
+<li>Differences in charge create electrical forces</li>
+</ul>
+<p>No electricity, no neural signaling.</p>
+</section>
+<section id="the-neuronal-membrane" class="slide level2 center">
+<h2>The Neuronal Membrane</h2>
+<div class="columns">
+<div class="column">
+<p>The neuron is surrounded by a <span class="highlight">lipid bilayer membrane</span>.</p>
+<p>Key properties:</p>
+<ul>
+<li>Electrically insulating</li>
+<li>Impermeable to most ions</li>
+<li>Contains specialized proteins that allow controlled ion movement</li>
+</ul>
+<p>This separation is essential for signaling.</p>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/bilayer.png" class="quarto-figure quarto-figure-right" width="450"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="ion-channels" class="slide level2 center">
+<h2>Ion Channels</h2>
+<div class="columns">
+<div class="column">
+<p>Ion channels are <span class="highlight">proteins embedded in the membrane</span>.</p>
+<p>They:</p>
+<ul>
+<li>Allow specific ions to cross</li>
+<li>Are selective (not all ions can pass)</li>
+<li>Can open or close</li>
+</ul>
+<p>Ion movement only occurs through these channels.</p>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/bilayer_protein.jpg" class="quarto-figure quarto-figure-right" width="500"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="channel-selectivity" class="slide level2 center">
+<h2>Channel Selectivity</h2>
+<div class="columns">
+<div class="column">
+<p>Ion channels are selective because:</p>
+<ul>
+<li>Ions differ in size</li>
+<li>Ions differ in charge</li>
+<li>Channel pores are highly specific</li>
+</ul>
+<p>Example:</p>
+<ul>
+<li>Sodium channels allow Na⁺ but not K⁺</li>
+<li>Potassium channels allow K⁺ but not Na⁺</li>
+</ul>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/ion_ch_selective.png" class="quarto-figure quarto-figure-right" width="500"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="two-forces-acting-on-ions" class="slide level2 center">
+<h2>Two Forces Acting on Ions</h2>
+<p>Ion movement depends on <strong>two forces</strong>:</p>
+<ol type="1">
+<li><strong>Diffusion</strong><br>
+</li>
+<li><strong>Electrical attraction or repulsion</strong></li>
+</ol>
+<p>The combined effect determines ion flow.</p>
+</section>
+<section id="diffusion" class="slide level2 center">
+<h2>Diffusion</h2>
+<div class="columns">
+<div class="column">
+<p>Diffusion is movement from:</p>
+<div class="cell" data-reveal="true" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class=""><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+  A[High concentration]
+  B[Low concentration]
+
+  A --&gt;|Net flow| B
+  B -. No net flow .-&gt; A
+  style A fill:#2b2b2b,stroke:#67bdfb,color:#e6e6e6
+  style B fill:#2b2b2b,stroke:#67bdfb,color:#e6e6e6
+  linkStyle default stroke:#bbbbbb,stroke-width:2px
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+<p>If more <a href="#/ions">Na⁺</a> ions are outside the neuron than inside, <a href="#/ions">Na⁺</a> tends to move inward.</p>
+<div class="info-box">
+<p>It does <code>not</code> require energy.</p>
+</div>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/diffusion.png" class="quarto-figure quarto-figure-right" width="500"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="electrical-forces" class="slide level2 center">
+<h2>Electrical Forces</h2>
+<div class="columns">
+<div class="column">
+<p>Charged particles are influenced by:</p>
+<ul>
+<li>Opposite charges attract</li>
+<li>Same charges repel</li>
+</ul>
+<p>A negatively charged interior attracts positive ions.</p>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/ions_electric_force.jpg" class="quarto-figure quarto-figure-right" width="500"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="electrochemical-gradient" class="slide level2 center">
+<h2>Electrochemical Gradient</h2>
+<p>The <strong>electrochemical gradient</strong> combines:</p>
+<ul>
+<li>Chemical gradient (diffusion)</li>
+<li>Electrical gradient (charge)</li>
+</ul>
+<p>Ion movement depends on <code>both</code> at the same time.</p>
+<p>This is the key principle of neural signaling.</p>
+</section>
+<section id="example-sodium-ions-na" class="slide level2 center">
+<h2>Example: Sodium Ions (Na⁺)</h2>
+<p>Typically:</p>
+<ul>
+<li>High Na⁺ outside the neuron</li>
+<li>Low Na⁺ inside</li>
+<li>Inside of neuron is negatively charged</li>
+</ul>
+<p>Both diffusion and electrical forces push Na⁺ <strong>into</strong> the cell.</p>
+<div class="info-box">
+<p>The inside of the neuron (and cells in general) is negative mainly because of large amount of <code>anions</code> inside the cell like <code>proteins</code> and other large organic anions (phosphates, metabolites).</p>
+</div>
+</section>
+<section id="example-potassium-ions-k" class="slide level2 center">
+<h2>Example: Potassium Ions (K⁺)</h2>
+<p>Typically:</p>
+<ul>
+<li>High K⁺ inside the neuron</li>
+<li>Low K⁺ outside</li>
+<li>Electrical force pulls K⁺ inward</li>
+<li>Diffusion pushes K⁺ outward</li>
+</ul>
+<p>The two forces oppose each other.</p>
+</section>
+<section id="equilibrium-potential" class="slide level2 center">
+<h2>Equilibrium Potential</h2>
+<p>The <strong>equilibrium potential</strong> is the membrane voltage at which:</p>
+<ul>
+<li>Electrical force exactly balances diffusion</li>
+<li>No net movement of an ion occurs</li>
+</ul>
+<p>Each ion has its own equilibrium potential.</p>
+</section>
+<section id="important-concept" class="slide level2 center">
+<h2>Important Concept</h2>
+<p>Different ions want to move in different directions.</p>
+<p>Neural electrical signals emerge from:</p>
+<ul>
+<li>Which channels are open</li>
+<li>Which ions can move</li>
+<li>The direction of ion flow</li>
+</ul>
+</section>
+<section id="calcium" class="slide level2 center">
+<h2>Calcium Ions (Ca²⁺)</h2>
+<p>Calcium is special because:</p>
+<ul>
+<li>Very low concentration inside neurons</li>
+<li>Strong electrical charge</li>
+<li>Acts as both an ion and a signaling molecule</li>
+</ul>
+<p>Opening Ca²⁺ channels has powerful effects.</p>
+</section>
+<section id="ion-movement-is-passive" class="slide level2 center">
+<h2>Ion Movement Is Passive</h2>
+<p>Ion movement through channels:</p>
+<ul>
+<li>Does not require energy</li>
+<li>Is driven by electrochemical gradients</li>
+</ul>
+<blockquote>
+<p><code>But maintaining the gradients require energy!</code> The gradients are maintained by specific proteins called <strong>pumps</strong> that can move ions against their gradients.</p>
+</blockquote>
+</section>
+<section id="membrane-voltage" class="slide level2 center">
+<h2>Membrane Voltage</h2>
+<div class="columns">
+<div class="column">
+<p>The neuron’s membrane separates electrical charges.</p>
+<p>This separation creates a quantity called <strong>membrane voltage</strong>.</p>
+<ul>
+<li>Voltage is a <em>difference</em> in electrical potential</li>
+<li>It tells us how strong the electrical force is</li>
+<li>It is measured across the membrane, not inside the cell</li>
+</ul>
+<div class="info-box">
+<p>Voltage is not a substance and not a force.<br>
+It is a measure of how much electrical energy is available to move charges.</p>
+</div>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/membrane_voltage.png" class="quarto-figure quarto-figure-right" width="500"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="equilibrium-potential-formal-definition" class="slide level2 center">
+<h2>Equilibrium Potential (Formal Definition)</h2>
+<p>The <strong>equilibrium potential</strong> of an ion is:</p>
+<blockquote>
+<p>The membrane voltage at which there is <code>no net movement</code> of that ion across the membrane.</p>
+</blockquote>
+<p>Important points:</p>
+<ul>
+<li>It depends on concentration differences</li>
+<li>It depends on charge</li>
+</ul>
+</section>
+<section id="the-nernst-equation" class="slide level2 center">
+<h2>The Nernst Equation</h2>
+<p>To describe equilibrium <strong>quantitatively</strong>, we use the <strong>Nernst equation</strong>.</p>
+<p>It links:</p>
+<ul>
+<li>ion concentration differences</li>
+<li>electrical voltage across the membrane</li>
+</ul>
+<p><span class="math display">\[
+E_{\mathrm{ion}} = \frac{RT}{zF}\ln\left(\frac{[\mathrm{ion}]_{\mathrm{out}}}{[\mathrm{ion}]_{\mathrm{in}}}\right)
+\]</span></p>
+<ul>
+<li><span class="math inline">\(E_{\mathrm{ion}}\)</span>: equilibrium potential of the ion<br>
+</li>
+<li><span class="math inline">\(R\)</span>: gas constant<br>
+</li>
+<li><span class="math inline">\(T\)</span>: absolute temperature<br>
+</li>
+<li><span class="math inline">\(z\)</span>: ion charge (valence)<br>
+</li>
+<li><span class="math inline">\(F\)</span>: Faraday constant<br>
+</li>
+</ul>
+</section>
+<section id="what-the-equation-means-not-how-to-use-it" class="slide level2 center">
+<h2>What the Equation Means (Not How to Use It)</h2>
+<p>You do not need to memorize this formula.</p>
+<p>What matters is what it tells us:</p>
+<ul>
+<li>Larger concentration differences → larger equilibrium voltage</li>
+<li>Higher charge → stronger electrical effect</li>
+<li>Each ion has its own equilibrium potential</li>
+</ul>
+<div class="info-box">
+<p>The term (z) is the ion’s charge:</p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 6%">
+<col style="width: 4%">
+<col style="width: 27%">
+<col style="width: 31%">
+<col style="width: 30%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Ion</th>
+<th>z</th>
+<th style="text-align: center;">Inside Concentration</th>
+<th style="text-align: center;">Outside Concentation</th>
+<th style="text-align: center;">Equilibrium Potential</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>K⁺</td>
+<td>+1</td>
+<td style="text-align: center;">15 mM</td>
+<td style="text-align: center;">145 mM</td>
+<td style="text-align: center;">+ 60 mV</td>
+</tr>
+<tr class="even">
+<td>Na⁺</td>
+<td>+1</td>
+<td style="text-align: center;">125 mM</td>
+<td style="text-align: center;">5 mM</td>
+<td style="text-align: center;">-85 mV</td>
+</tr>
+<tr class="odd">
+<td>Ca²⁺</td>
+<td>+2</td>
+<td style="text-align: center;">0.0002 mM</td>
+<td style="text-align: center;">2 mM</td>
+<td style="text-align: center;">125 mV</td>
+</tr>
+<tr class="even">
+<td>Cl⁻</td>
+<td>-1</td>
+<td style="text-align: center;">13 mM</td>
+<td style="text-align: center;">150 mM</td>
+<td style="text-align: center;">-65 mV</td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="from-equilibrium-potential-to-membrane-potential" class="slide level2 center">
+<h2>From Equilibrium Potential to Membrane Potential</h2>
+<p>So far we have described equilibrium for <strong>one ion at a time</strong>.</p>
+<p>Real neurons are a bit different:</p>
+<ul>
+<li>Multiple ion species are present</li>
+<li>Multiple channels are open simultaneously</li>
+</ul>
+<p>The membrane voltage reflects the <code>combined effect</code> of all ions.</p>
+</section>
+<section id="what-is-the-membrane-potential" class="slide level2 center">
+<h2>What Is the Membrane Potential?</h2>
+<blockquote>
+<p>The <strong>membrane potential</strong> is: The electrical potential difference between the inside and the outside of the cell membrane. It is measured in <a href="https://en.wikipedia.org/wiki/Volt">millivolts (mV)</a>, 1 mV = 0.001 Volts (V).</p>
+</blockquote>
+<p>Each ion has:</p>
+<ul>
+<li>Its own equilibrium potential</li>
+<li>Its own concentration gradient</li>
+</ul>
+<p>But the membrane potential is:</p>
+<ul>
+<li>Not equal to <span class="math inline">\(E_{\mathrm{Na}}\)</span></li>
+<li>Not equal to <span class="math inline">\(E_{\mathrm{K}}\)</span></li>
+<li>Not equal to <span class="math inline">\(E_{\mathrm{Cl}}\)</span></li>
+<li>It lies <code>between</code> them.</li>
+</ul>
+</section>
+<section id="which-ion-dominates" class="slide level2 center">
+<h2>Which Ion Dominates?</h2>
+<p>The influence of an ion depends on:</p>
+<blockquote>
+<p><code>Permeability</code>, a measure of how easily a given ion can cross the membrane through its channels.</p>
+</blockquote>
+<p>At rest, neuronal membranes are:</p>
+<ul>
+<li>Highly permeable to <span class="math inline">\(K^+\)</span></li>
+<li>Weakly permeable to <span class="math inline">\(Na^+\)</span></li>
+<li>Moderately permeable to <span class="math inline">\(Cl^-\)</span></li>
+</ul>
+<p>As a result, the membrane potential is close to <span class="math inline">\(E_{\mathrm{K}}\)</span>.</p>
+<div class="info-box">
+<p>In most neurons <code>resting membrane potential</code> is <span class="math inline">\(\approx -65\,\mathrm{mV}\)</span>. This reflects potassium dominance at rest.</p>
+</div>
+</section>
+<section id="voltage-change" class="slide level2 center">
+<h2>Voltage Change</h2>
+<p>If channels open for an ion the membrane potential moves toward that ion’s equilibrium potential.</p>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p><strong>Example: Opening Sodium Channels</strong></p>
+<p>If <span class="math inline">\(Na^+\)</span> channels open:</p>
+<ul>
+<li><span class="math inline">\(Na^+\)</span> enters the cell</li>
+<li>Membrane potential becomes less negative</li>
+<li>Voltage moves toward <span class="math inline">\(E_{\mathrm{Na}} \approx +60\,\mathrm{mV}\)</span></li>
+</ul>
+<p>This process is called <code>depolarization</code>.</p>
+</div>
+</div><div class="column">
+<div class="info-box">
+<p><strong>Example: Opening Potassium Channels</strong></p>
+<p>If <span class="math inline">\(K^+\)</span> channels open:</p>
+<ul>
+<li><span class="math inline">\(K^+\)</span> leaves the cell</li>
+<li>Membrane potential becomes more negative</li>
+<li>Voltage moves toward <span class="math inline">\(E_{\mathrm{K}} \approx -90\,\mathrm{mV}\)</span></li>
+</ul>
+<p>This process is called <code>hyperpolarization</code>.</p>
+</div>
+</div></div>
+</section>
+<section id="the-goldmanhodgkinkatz-equation" class="slide level2 center">
+<h2>The Goldman–Hodgkin–Katz Equation</h2>
+<p>When multiple ions contribute to the membrane voltage, the membrane potential is given by the <strong>Goldman–Hodgkin–Katz (GHK) equation</strong>:</p>
+<p><span class="math display">\[
+V_m =
+\frac{RT}{F}
+\ln\!\left(
+\frac{
+P_{\mathrm{K}}[K^+]_{\mathrm{out}} +
+P_{\mathrm{Na}}[Na^+]_{\mathrm{out}} +
+P_{\mathrm{Cl}}[Cl^-]_{\mathrm{in}}
+}{
+P_{\mathrm{K}}[K^+]_{\mathrm{in}} +
+P_{\mathrm{Na}}[Na^+]_{\mathrm{in}} +
+P_{\mathrm{Cl}}[Cl^-]_{\mathrm{out}}
+}
+\right)
+\]</span></p>
+<div class="columns">
+<div class="column">
+<ul>
+<li><span class="math inline">\(V_m\)</span> is the membrane potential<br>
+</li>
+<li><span class="math inline">\(P_{\mathrm{K}}, P_{\mathrm{Na}}, P_{\mathrm{Cl}}\)</span> are permeabilities<br>
+</li>
+<li><span class="math inline">\([\cdot]_{\mathrm{in}}\)</span> and <span class="math inline">\([\cdot]_{\mathrm{out}}\)</span> are ion concentrations<br>
+</li>
+<li><span class="math inline">\(R\)</span>, <span class="math inline">\(T\)</span>, and <span class="math inline">\(F\)</span> have the same meaning as in the Nernst equation<br>
+</li>
+</ul>
+<blockquote>
+<p>If only one ion is permeable: Goldman reduces to Nernst</p>
+</blockquote>
+</div><div class="column">
+<div class="info-box">
+<p>You may notice that:</p>
+<ul>
+<li><span class="math inline">\([Cl^-]_{\mathrm{in}}\)</span> appears in the numerator</li>
+<li><span class="math inline">\([Cl^-]_{\mathrm{out}}\)</span> appears in the denominator</li>
+</ul>
+<p>This happens because:</p>
+<ul>
+<li>Chloride carries a negative charge</li>
+<li>Its electrical force acts in the opposite direction</li>
+</ul>
+</div>
+</div></div>
+</section>
+<section id="from-steady-voltage-to-signals" class="slide level2 center">
+<h2>From Steady Voltage to Signals</h2>
+<p>Neurons use changes in membrane potential as signals.</p>
+<p>These changes can be:</p>
+<ul>
+<li>Small or large</li>
+<li>Slow or fast</li>
+<li>Local or long-range</li>
+</ul>
+<div class="info-box">
+<p>Two main types exist:</p>
+<ul>
+<li><strong>Graded potentials</strong></li>
+<li><strong>Action potentials</strong></li>
+</ul>
+<p>They differ in origin, size, and function.</p>
+</div>
+</section>
+<section id="graded-potentials" class="slide level2 center">
+<h2>Graded Potentials</h2>
+<blockquote>
+<p><span class="highlight">Graded potential</span>: <strong>local change</strong> in membrane potential whose magnitude depends on the strength of the stimulus.</p>
+</blockquote>
+<div class="columns">
+<div class="column">
+<p>Key properties:</p>
+<ul>
+<li>Amplitude varies continuously</li>
+<li>Can be <code>depolarizing</code> or <code>hyperpolarizing</code></li>
+<li>Spread passively</li>
+<li>Become smaller with distance</li>
+</ul>
+</div><div class="column">
+<div class="info-box">
+<p>This decay is due to:</p>
+<ul>
+<li>Membrane resistance</li>
+<li>Cytoplasmic resistance</li>
+</ul>
+</div>
+<div class="info-box">
+<p>They are common in:</p>
+<ul>
+<li><a href="#/dendrites">Dendrites</a></li>
+<li><a href="#/soma">Soma</a></li>
+</ul>
+</div>
+</div></div>
+</section>
+<section id="integration-of-graded-potentials" class="slide level2 center">
+<h2>Integration of Graded Potentials</h2>
+<div class="columns">
+<div class="column">
+<p>Multiple graded potentials can:</p>
+<ul>
+<li>Add together in space (spatial summation)</li>
+<li>Add together in time (temporal summation)</li>
+</ul>
+<blockquote>
+<p>Neurons continuously integrate incoming signals.</p>
+</blockquote>
+<p>Integration mainly occurs at:</p>
+<ul>
+<li>The cell body</li>
+<li>The axon initial segment (<a href="#/hillock">axon hillock</a>)</li>
+</ul>
+<blockquote>
+<p>This region decides whether a <span class="highlight">new type</span> of signal is generated.</p>
+</blockquote>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/neuron_gp_summation.jpg" class="quarto-figure quarto-figure-right" width="400"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="actionpotential" class="slide level2 center">
+<h2>Action Potentials</h2>
+<div class="columns">
+<div class="column">
+<p>If depolarization is strong enough:</p>
+<ul>
+<li>A critical voltage is reached</li>
+<li>A different electrical event is triggered</li>
+</ul>
+<p>This voltage is called the <span class="highlight">threshold</span>. Potentials beyond the threshold trigger <code>Action Potentials</code>.</p>
+<blockquote>
+<p><strong>Action potential</strong>: A large, rapid, and <code>stereotyped</code> change in membrane potential, originated at the level of the axon <a href="#/hillock">hillock</a>, that propagates along the axon.</p>
+</blockquote>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/neuron_signals.jpg" class="quarto-figure quarto-figure-right" width="500"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="why-action-potentials-are-needed" class="slide level2 center">
+<h2>Why Action Potentials Are Needed</h2>
+<div class="columns">
+<div class="column">
+<p>Graded potentials decay with distance.</p>
+<p>To communicate over long axons, neurons need:</p>
+<ul>
+<li>A signal that does not fade</li>
+<li>A reliable, all-or-none event</li>
+</ul>
+<p>That signal is the action potential.</p>
+<div class="info-box">
+<p>To understand action potentials, we must explain:</p>
+<ul>
+<li>Voltage-gated ion channels</li>
+<li>Positive feedback</li>
+<li>Time-dependent permeability changes</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/neuron_action_pot_crop.gif" class="quarto-figure quarto-figure-right" width="400"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="membrane-proteins-and-transport" class="slide level2 center">
+<h2>Membrane Proteins and Transport</h2>
+<p>The lipid bilayer is electrically insulating. Ions can cross the membrane only through <strong>membrane proteins</strong>.</p>
+<p>Membrane transport proteins fall into two broad categories:</p>
+<ul>
+<li><strong>Channels</strong></li>
+<li><strong>Transporters (carriers and pumps)</strong></li>
+</ul>
+<div class="info-box">
+<p><span class="highlight">Ion channel</span>: A protein that forms a continuous aqueous pathway across the membrane, allowing ions to move down their electrochemical gradient.</p>
+<p>Properties:</p>
+<ul>
+<li>Do not use metabolic energy (passive)</li>
+<li>Do not move ions against gradients (no energy)</li>
+<li>Selective to specific Ions</li>
+</ul>
+</div>
+</section>
+<section id="channel-gating" class="slide level2 center">
+<h2>Channel Gating</h2>
+<p>Ion channels are not static holes.</p>
+<p>They fluctuate between:</p>
+<ul>
+<li>Closed states</li>
+<li>Open states</li>
+</ul>
+<blockquote>
+<p><span class="highlight">Gating</span>: The process by which an ion channel switches between open and closed states.</p>
+</blockquote>
+<div class="info-box">
+<p>Channels can be gated by different physical signals:</p>
+<ul>
+<li>Chemical binding (ligand-gated - e.g.&nbsp;Neurotransmitters)</li>
+<li>Mechanical deformation (mechanosensitive)</li>
+<li>Membrane voltage (voltage-gated - activated when the membrane cross a specific voltage)</li>
+</ul>
+</div>
+</section>
+<section id="graded-potentials-and-channels" class="slide level2 center">
+<h2>Graded Potentials and Channels</h2>
+<p>During Graded Potentials:</p>
+<ul>
+<li>Passive channels remain unchanged</li>
+<li>Voltage-gated channels remain mostly closed</li>
+</ul>
+<blockquote>
+<p>Voltage changes are <strong>passive and proportional</strong> to input and decay over space-time.</p>
+</blockquote>
+<p>When depolarization is small:</p>
+<ul>
+<li>A few voltage-gated <span class="math inline">\(Na^+\)</span> channels open</li>
+<li>Resulting <span class="math inline">\(Na^+\)</span> influx is weak</li>
+<li>Leak and <span class="math inline">\(K^+\)</span> currents counteract depolarization</li>
+</ul>
+<p>The voltage relaxes back to rest.</p>
+</section>
+<section id="threshold-crossing" class="slide level2 center">
+<h2>Threshold Crossing</h2>
+<p>At threshold:</p>
+<ul>
+<li>Voltage-gated <span class="math inline">\(Na^+\)</span> channel opening becomes significant</li>
+<li><span class="math inline">\(Na^+\)</span> influx exceeds opposing currents</li>
+<li>Depolarization accelerates</li>
+</ul>
+<p>This marks the transition from <strong>passive to active</strong> behavior.</p>
+<div class="info-box">
+<p>Once threshold is crossed:</p>
+<ul>
+<li>Many <span class="math inline">\(Na^+\)</span> channels open rapidly</li>
+<li>Membrane permeability to <span class="math inline">\(Na^+\)</span> increases sharply</li>
+<li>Voltage changes are no longer passive</li>
+</ul>
+<p>The action potential is initiated.</p>
+</div>
+</section>
+<section id="during-the-action-potential" class="slide level2 center">
+<h2>During the Action Potential</h2>
+<p>During the spike:</p>
+<ul>
+<li>Voltage-gated <span class="math inline">\(Na^+\)</span> channels open, then inactivate</li>
+<li>Voltage-gated <span class="math inline">\(K^+\)</span> channels open with delay</li>
+<li>Passive channels are negligible by comparison</li>
+</ul>
+<p>Voltage is dominated by <strong>voltage-gated dynamics</strong>.</p>
+<p>After the action potential:</p>
+<ul>
+<li><span class="math inline">\(Na^+\)</span> channels recover from inactivation</li>
+<li><span class="math inline">\(K^+\)</span> channels close</li>
+<li>Passive channels dominate again</li>
+</ul>
+<blockquote>
+<p><span class="highlight">Inactivation</span>: A state in which a voltage-gated channel is closed and temporarily unable to reopen, even though the membrane is still depolarized.</p>
+</blockquote>
 
 
 </section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
+<p><img src="images/logo/NEUROFARBA_logo.svg" class="slide-logo"></p>
 <div class="footer footer-default">
 
 </div>

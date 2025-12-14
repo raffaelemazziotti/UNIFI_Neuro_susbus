@@ -1,8 +1,85 @@
 /**********************
+  Links
+  - clear but not distracting
+***********************/
+.reveal a {
+  color: #9ad1ff;                 /* softer blue than headings */
+  text-decoration: none;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+  transition: color 0.2s ease;
+}
+
+
+.reveal a:hover {
+  color: #67bdfb;                 /* heading blue on hover */
+  text-decoration: underline;
+}
+
+/**********************
   Base Dark Theme
   - global font settings
   - global text color
 ***********************/
+
+.info-box {
+  margin: 16px 0;
+  padding: 14px 18px;
+  border-left: 6px solid #67bdfb;
+  background-color: rgba(103, 189, 251, 0.15);
+  color: #e6e6e6;
+  border-radius: 6px;
+  font-size: 0.95em;
+  line-height: 1.5;
+}
+
+/* logo*/
+.reveal .slide-logo {
+  height: 100px !important;
+  max-height: none !important;
+}
+
+.reveal .left {
+  text-align: left;
+}
+
+/**********************
+  Definitions / Blockquotes
+***********************/
+.reveal blockquote {
+  margin: 20px 0;
+  padding: 14px 18px;
+  border-left: 4px solid #bbbbbb;
+  background-color: rgba(255, 255, 255, 0.06);
+  color: #e6e6e6;
+  border-radius: 4px;
+  font-size: 1.0em;
+  line-height: 1.5;
+}
+
+/**********************
+  Numbered Lists (ol)
+  - clear hierarchy
+  - readable on dark background
+***********************/
+.reveal ol {
+  margin-left: 28px;
+  line-height: 1.6;
+  counter-reset: item;
+}
+
+.reveal ol li {
+  margin-bottom: 0.4em;
+  position: relative;
+  padding-left: 0.4em;
+}
+
+/* Style the numbers */
+.reveal ol li::marker {
+  color: #bcbcbc;          /* same blue as headings */
+  font-weight: 600;
+}
+
 .reveal {
   background-color: #454545 !important;   /* slide background */
   color: #e6e6e6 !important;              /* default text color */
@@ -79,21 +156,28 @@
   font-family: "Fira Code", monospace;
 }
 
+.highlight {
+  background-color: rgba(103, 189, 251, 0.18);
+  color: #e6e6e6;
+  padding: 0.12em 0.35em;
+  border-radius: 5px;
+  font-weight: 600;
+}
+
 
 /**********************
   Code Blocks
   - triple backticks ```
 ***********************/
-.reveal pre code {
-  background-color: #1a1a1a !important;
-  color: #c8ffc8 !important;
-  padding: 14px;
-  border-radius: 8px;
-  font-size: 0.9em;
-  line-height: 1.4;
+.reveal code {
+  color: #9ad1ff !important;            /* soft blue, matches headings */
+  background-color: #3c3c3c !important;
+  padding: 0.12em 0.35em;
+  border-radius: 5px;
+  font-size: 0.9em;                     /* close to body text */
   font-family: "Fira Code", monospace;
+  font-weight: 500;
 }
-
 
 
 
