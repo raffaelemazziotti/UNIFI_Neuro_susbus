@@ -24,6 +24,7 @@ format:
       theme: neutral
     
 ---
+
 ## Module Overview
 
 Module 1
@@ -31,7 +32,7 @@ Module 1
 1. [The Neuron](#neuron)
 2. [Ion Movement](#ion-movement)
 
-## What Is Neuroscience? {#neuron}
+## 1. What Is Neuroscience? {#neuron}
 
 ::: columns
 ::: column
@@ -50,7 +51,7 @@ Neuroscience asks a simple question:
 
 ---
 
-## What Is a Neuron?
+## 1. What Is a Neuron?
 
 ::: columns
 ::: column
@@ -71,7 +72,7 @@ The function of a neuron depends on its structure.
 
 ---
 
-## Major Parts of the Neuron
+## 1. Major Parts of the Neuron
 
 ::: columns
 
@@ -90,7 +91,7 @@ These components determine how signals are received, processed, and transmitted.
 :::
 ---
 
-## Diagram: Typical Neuron
+## 1. Diagram: Typical Neuron
 
 ::: columns
 ::: column
@@ -108,7 +109,7 @@ A neuron has:
 
 ---
 
-## Dendrites {#dendrites}
+## 1. Dendrites {#dendrites}
 
 ::: columns
 ::: column
@@ -123,7 +124,7 @@ A neuron has:
 ::: 
 ---
 
-## Cell Body (Soma) {#soma}
+## 1. Cell Body (Soma) {#soma}
 
 ::: columns
 ::: column
@@ -139,7 +140,7 @@ A neuron has:
 
 ---
 
-## Axon Hillock {#hillock}
+## 1. Axon Hillock {#hillock}
 ::: columns
 ::: column
 - Junction between soma and axon  
@@ -153,7 +154,7 @@ A neuron has:
 :::
 ---
 
-## The Axon
+## 1. The Axon
 ::: columns
 ::: column
 - Conducts electrical signals over long distances  
@@ -167,7 +168,7 @@ A neuron has:
 :::
 ---
 
-## Presynaptic Terminal
+## 1. Presynaptic Terminal
 ::: columns
 ::: column
 - End of the axon  
@@ -181,7 +182,7 @@ A neuron has:
 :::
 ---
 
-## Neurons Communicate Electrically and Chemically
+## 1. Neurons Communicate Electrically and Chemically
 
 1. **Electrical signals** travel along the axon.  
 2. **Chemical signals** (neurotransmitters) are released at the synapse.  
@@ -190,7 +191,7 @@ This dual mode of signaling enables fast and flexible communication.
 
 ---
 
-## Structure Influences Function
+## 1. Structure Influences Function
 ::: columns
 ::: column
 Examples:
@@ -207,7 +208,7 @@ Form and function are tightly linked in neuronal physiology.
 :::
 ---
 
-## Neuron Diversity (Overview)
+## 1. Neuron Diversity (Overview)
 
 Neurons vary in:
 
@@ -221,7 +222,7 @@ This diversity supports specialized functions across the nervous system.
 
 ---
 
-## Summary of Key Concepts
+## 1. Summary of Key Concepts
 
 - Neurons are the fundamental signaling units of the nervous system  
 - Structure determines function  
@@ -230,7 +231,7 @@ This diversity supports specialized functions across the nervous system.
 
 ---
 
-## Self-Check Questions
+## 1. Self-Check Questions
 
 1. Which part of the neuron initiates the action potential?  
 2. How do dendritic spines enhance synaptic communication?  
@@ -239,7 +240,7 @@ This diversity supports specialized functions across the nervous system.
 
 ---
 
-## Ion Movement{#ion-movement}
+## 2. Ion Movement{#ion-movement}
 ::: columns
 ::: column
 Neurons communicate using electrical signals.  
@@ -259,7 +260,7 @@ Understanding ion movement is the foundation for:
 
 ---
 
-## What Is an Ion?{#ions}
+## 2. What Is an Ion?{#ions}
 ::: columns
 ::: column
 An **ion** is an atom or molecule with an [electrical charge]{.highlight}.
@@ -280,7 +281,7 @@ In neuroscience, the most important ions are:
 :::
 ---
 
-## Why Charges Matter in the Brain
+## 2. Why Charges Matter in the Brain
 
 Electrical signals arise because:
 
@@ -292,7 +293,7 @@ No electricity, no neural signaling.
 
 ---
 
-## The Neuronal Membrane
+## 2. The Neuronal Membrane
 
 ::: columns
 ::: column
@@ -312,7 +313,7 @@ This separation is essential for signaling.
 :::
 ---
 
-## Ion Channels
+## 2. Ion Channels
 ::: columns
 ::: column
 Ion channels are [proteins embedded in the membrane]{.highlight}.
@@ -331,7 +332,7 @@ Ion movement only occurs through these channels.
 :::
 ---
 
-## Channel Selectivity
+## 2. Channel Selectivity
 
 ::: columns
 ::: column
@@ -352,7 +353,7 @@ Example:
 :::
 ---
 
-## Two Forces Acting on Ions
+## 2. Two Forces Acting on Ions
 
 Ion movement depends on **two forces**:
 
@@ -363,7 +364,7 @@ The combined effect determines ion flow.
 
 ---
 
-## Diffusion
+## 2. Diffusion
 
 ::: columns
 ::: column
@@ -396,7 +397,7 @@ It does `not` require energy.
 
 ---
 
-## Electrical Forces
+## 2. Electrical Forces
 
 ::: columns
 ::: column
@@ -414,7 +415,7 @@ A negatively charged interior attracts positive ions.
 :::
 ---
 
-## Electrochemical Gradient
+## 2. Electrochemical Gradient
 
 The **electrochemical gradient** combines:
 
@@ -428,7 +429,7 @@ This is the key principle of neural signaling.
 
 ---
 
-## Example: Sodium Ions (Na⁺)
+## 2. Example: Sodium Ions (Na⁺)
 
 Typically:
 
@@ -445,7 +446,7 @@ The inside of the neuron (and cells in general) is negative mainly because of la
 
 ---
 
-## Example: Potassium Ions (K⁺)
+## 2. Example: Potassium Ions (K⁺)
 
 Typically:
 
@@ -459,7 +460,7 @@ The two forces oppose each other.
 
 ---
 
-## Equilibrium Potential
+## 2. Equilibrium Potential
 
 The **equilibrium potential** is the membrane voltage at which:
 
@@ -472,7 +473,7 @@ Each ion has its own equilibrium potential.
 
 ---
 
-## Important Concept
+## 2. Important Concept
 
 Different ions want to move in different directions.
 
@@ -486,7 +487,7 @@ Neural electrical signals emerge from:
 
 ---
 
-## Calcium Ions (Ca²⁺){#calcium}
+## 2. Calcium Ions (Ca²⁺){#calcium}
 
 Calcium is special because:
 
@@ -500,7 +501,7 @@ Opening Ca²⁺ channels has powerful effects.
 
 ---
 
-## Ion Movement Is Passive
+## 2. Ion Movement Is Passive
 
 Ion movement through channels:
 
@@ -513,7 +514,7 @@ Ion movement through channels:
 
 ---
 
-## Membrane Voltage
+## 2. Membrane Voltage
 
 ::: columns
 ::: column
@@ -537,7 +538,7 @@ It is a measure of how much electrical energy is available to move charges.
 
 ---
 
-## Equilibrium Potential (Formal Definition)
+## 2. Equilibrium Potential (Formal Definition)
 
 The **equilibrium potential** of an ion is:
 
@@ -550,7 +551,7 @@ Important points:
 
 ---
 
-## The Nernst Equation
+## 2. The Nernst Equation
 
 To describe equilibrium **quantitatively**, we use the **Nernst equation**.
 
@@ -573,7 +574,7 @@ $$
 
 ---
 
-## What the Equation Means (Not How to Use It)
+## 2. What the Equation Means (Not How to Use It)
 
 You do not need to memorize this formula.
 
@@ -596,7 +597,7 @@ The term \(z\) is the ion’s charge:
 
 ---
 
-## From Equilibrium Potential to Membrane Potential
+## 2. From Equilibrium Potential to Membrane Potential
 
 So far we have described equilibrium for **one ion at a time**.
 
@@ -609,7 +610,7 @@ The membrane voltage reflects the `combined effect` of all ions.
 
 ---
 
-## What Is the Membrane Potential?
+## 2. What Is the Membrane Potential?
 
 > The **membrane potential** is: The electrical potential difference between the inside and the outside of the cell membrane. It is measured in [millivolts (mV)](https://en.wikipedia.org/wiki/Volt), 1 mV = 0.001 Volts (V).
 
@@ -629,7 +630,7 @@ But the membrane potential is:
 
 ---
 
-## Which Ion Dominates?
+## 2. Which Ion Dominates?
 
 The influence of an ion depends on: 
 
@@ -652,7 +653,7 @@ This reflects potassium dominance at rest.
 
 ---
 
-## Voltage Change
+## 2. Voltage Change
 
 If channels open for an ion the membrane potential moves toward that ion’s equilibrium potential.
 
@@ -687,7 +688,7 @@ This process is called `hyperpolarization`.
 
 ---
 
-## The Goldman–Hodgkin–Katz Equation
+## 2. The Goldman–Hodgkin–Katz Equation
 
 When multiple ions contribute to the membrane voltage, the membrane potential is given by the **Goldman–Hodgkin–Katz (GHK) equation**:
 
@@ -740,16 +741,16 @@ This happens because:
 
 ---
 
-## From Steady Voltage to Signals
+## 2. From Steady Voltage to Signals
 
 Neurons use changes in membrane potential as signals.
 
 These changes can be:
 
 ::: {.nonincremental}
-- Small or large
-- Slow or fast
-- Local or long-range
+- Small or large (millivolts )
+- Slow or fast (milliseconds)
+- Local or long-range (micrometers to meters)
 :::
 
 ::: info-box
@@ -766,7 +767,7 @@ They differ in origin, size, and function.
 
 ---
 
-## Graded Potentials
+## 2. Graded Potentials
 
 
 > [Graded potential]{.highlight}: **local change** in membrane potential whose magnitude depends on the strength of the stimulus.
@@ -802,7 +803,7 @@ They are common in:
 
 ---
 
-## Integration of Graded Potentials
+## 2. Integration of Graded Potentials
 
 ::: columns
 
@@ -838,7 +839,7 @@ Integration mainly occurs at:
 
 ---
 
-## Action Potentials {#actionpotential}
+## 2. Action Potentials {#actionpotential}
 ::: columns
 ::: column
 If depolarization is strong enough:
@@ -860,7 +861,7 @@ This voltage is called the [threshold]{.highlight}. Potentials beyond the thresh
 
 ---
 
-## Why Action Potentials Are Needed
+## 2. Why Action Potentials Are Needed
 ::: columns
 ::: column
 Graded potentials decay with distance.
@@ -893,9 +894,7 @@ To understand action potentials, we must explain:
 
 ---
 
-
-
-## Membrane Proteins and Transport
+## 2. Membrane Proteins and Transport
 
 The lipid bilayer is electrically insulating. Ions can cross the membrane only through **membrane proteins**.
 
@@ -919,7 +918,10 @@ Properties:
 
 ---
 
-## Channel Gating
+## 2. Channel Gating
+
+::: columns
+::: column
 
 Ion channels are not static holes.
 
@@ -930,8 +932,6 @@ They fluctuate between:
 - Open states
 :::
 
->[Gating]{.highlight}: The process by which an ion channel switches between open and closed states.
-
 ::: info-box
 Channels can be gated by different physical signals:
 
@@ -940,11 +940,21 @@ Channels can be gated by different physical signals:
 - Mechanical deformation (mechanosensitive)
 - Membrane voltage (voltage-gated - activated when the membrane cross a specific voltage)
 :::
+
+:::
+
+:::
+::: column
+>[Gating]{.highlight}: The process by which an ion channel switches between open and closed states.
+
+![](images/ion_channel.gif){width="500" fig-align="right"}
+
+:::
 :::
 
 ---
 
-## Graded Potentials and Channels
+## 2. Graded Potentials and Channels
 
 During Graded Potentials:
 
@@ -960,14 +970,14 @@ When depolarization is small:
 ::: {.nonincremental}
 - A few voltage-gated $Na^+$ channels open
 - Resulting $Na^+$ influx is weak
-- Leak and $K^+$ currents counteract depolarization
+- Passive $K^+$ currents counteract depolarization
 :::
 
 The voltage relaxes back to rest.
 
 ---
 
-## Threshold Crossing
+## 2. Threshold Crossing
 
 At threshold:
 
@@ -993,14 +1003,15 @@ The action potential is initiated.
 
 ---
 
-## During the Action Potential
+## 2. During the Action Potential
 
+::: columns
+::: column
 During the spike:
 
 ::: {.nonincremental}
-- Voltage-gated $Na^+$ channels open, then inactivate
+- Voltage-gated $Na^+$ channels open, then `inactivate`
 - Voltage-gated $K^+$ channels open with delay
-- Passive channels are negligible by comparison
 :::
 
 Voltage is dominated by **voltage-gated dynamics**.
@@ -1012,7 +1023,120 @@ After the action potential:
 - $K^+$ channels close
 - Passive channels dominate again
 :::
-
+:::
+::: column
+![](images/neuron_action_potential.gif){width="400" fig-align="right"}
+:::
+:::
 
 >[Inactivation]{.highlight}: A state in which a voltage-gated channel is closed and temporarily unable to reopen, even though the membrane is still depolarized.
 
+---
+
+## 2. Refractory Period
+
+::: columns
+::: column
+After an action potential, the neuron cannot immediately fire another spike.
+
+>**Refractory period**: A time interval following an action potential during which the neuron’s ability to generate another action potential is `reduced or absent`.
+
+This phase is caused purely by **Na⁺ channel inactivation**.
+
+Refractory periods ensure that:
+
+::: {.nonincremental}
+- Action potentials propagate in one direction
+- Spikes are separated in time (`neural code`)
+- Maximum firing frequency is limited
+:::
+
+:::
+::: column
+![](images/neuron_action_potential.gif){width="400" fig-align="right"}
+:::
+:::
+
+---
+
+## 2. Axon Diameter and Conduction Speed
+
+The speed of action potential propagation depends on axon geometry.
+
+Larger axons:
+
+::: {.nonincremental}
+- Have lower internal (axial) resistance
+- Allow local currents to spread more easily
+- Depolarize adjacent membrane faster
+:::
+
+As a result, action potentials propagate **faster** in thicker axons.
+
+---
+
+## 2. Myelination and Electrical Insulation
+
+Many axons are wrapped in **myelin**, a multilayered insulating sheath formed by glial cells.
+
+Myelination is not continuous along the axon.
+
+Axons contain regularly spaced gaps called **nodes of Ranvier**.
+
+At nodes:
+
+::: {.nonincremental}
+- The membrane is unmyelinated
+- Voltage-gated $Na^+$ channels are highly concentrated
+- Action potentials are regenerated
+:::
+
+---
+
+## 2. Saltatory Conduction
+
+In myelinated axons:
+
+::: {.nonincremental}
+- Depolarization spreads passively under the myelin
+- Action potentials occur only at nodes
+- The signal appears to “jump” from node to node
+:::
+
+This mode of propagation is called **saltatory conduction**. As a result, conduction speed increases dramatically. This is a physical optimization of signal transmission.
+
+---
+
+## 2. In-Class Exercise — True or False
+
+For each statement, decide whether it is **True (T)** or **False (F)**.
+
+::: {.nonincremental}
+1. The lipid bilayer by itself allows ions to cross the membrane easily.  
+2. Ion channels consume energy to move ions across the membrane.  
+3. Diffusion and electrical forces always act in the same direction.  
+4. Each ion has its own equilibrium potential.  
+5. The membrane potential is usually equal to one specific equilibrium potential.  
+6. Graded potentials decrease in amplitude as they spread.  
+7. Action potentials require voltage-gated ion channels.  
+8. Sodium channel inactivation is responsible for the refractory period.  
+9. Increasing axon diameter increases conduction speed.  
+10. In myelinated axons, action potentials occur at nodes of Ranvier only.  
+:::
+
+---
+
+## 2. In-Class Exercise - Answers
+
+::: {.nonincremental}
+1. **False** - the lipid bilayer is electrically insulating to ions.  
+2. **False** - ion channels are passive; pumps consume energy.  
+3. **False** - diffusion and electrical forces can oppose each other.  
+4. **True** - equilibrium potential depends on ion charge and concentrations.  
+5. **False** - membrane potential reflects multiple ions and permeabilities.  
+6. **True** - graded potentials spread passively and decay with distance.  
+7. **True** - voltage-gated channels are required for action potentials.  
+8. **True** - Na⁺ channel inactivation causes refractoriness.  
+9. **True** - larger diameter reduces axial resistance.  
+10. **True** - spikes are regenerated only at nodes in myelinated axons.  
+:::
