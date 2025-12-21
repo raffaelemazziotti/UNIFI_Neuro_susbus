@@ -1,0 +1,232 @@
+---
+title: "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes"
+subtitle: "Module 1 - Introduction"
+author: "Raffaele M Mazziotti, PhD"
+institute: "University of Florence"
+format:
+  revealjs:
+    controls: true
+    theme: default
+    slide-number: true
+    logo: images/logo/NEUROFARBA_logo.svg
+    css: slide_style.css
+    transition: fade
+    center: true
+    math: mathjax
+    chalkboard: 
+      buttons: false
+    progress: true
+    title-slide-attributes:
+      data-background-image: images/logo/NEUROFARBA.svg
+      data-background-size: 500px
+      data-background-position: "center 10%"
+    mermaid:
+      theme: neutral
+    
+---
+
+## 1. What Is Neuroscience? {#neuron}
+
+::: columns
+::: column
+Neuroscience asks a simple question:  
+**How does the brain produce behavior?**
+
+- Studies the Central (brain and spinal cord) and Peripheral (somatic, autonomic and enteric) nervous systems  
+- Connects biology, psychology, physics, engineering, and philosophy 
+
+**Goal of this course:** build intuition about how the nervous system works, without assuming prior biology knowledge.
+::: 
+::: column
+![](images/cpns.png){width="400" fig-align="right"}
+::: 
+:::
+
+---
+
+## 1. What Is a Neuron?
+
+::: columns
+::: column
+Neurons are the **basic units** of the brain.  
+Their main function is to **send electrical signals** over short and long distances.  
+They are electrically and chemically excitable.
+The function of a neuron depends on its structure.
+
+![](images/neurons2.png){width="350" fig-align="right"}
+
+:::
+
+::: column
+![](images/neurons3.png){width="350" fig-align="right"}
+![](images/neurons.png){width="350" fig-align="right"}
+::: 
+::: 
+
+---
+
+## 1. Major Parts of the Neuron
+
+::: columns
+
+::: column
+- **Dendrites**  
+- **Cell body (soma)**
+- **Axon hillock**
+- **Axon**
+- **Presynaptic terminal**
+These components determine how signals are received, processed, and transmitted.
+:::
+
+::: column
+![](images/neuron_compartments.png){width="500" fig-align="right"}
+:::
+:::
+---
+
+## 1. Diagram: Typical Neuron
+
+::: columns
+::: column
+A neuron has:  
+- Branching dendrites  
+- A soma with nucleus  
+- A long axon  
+- Terminal branches forming synapses
+:::
+
+::: column
+![](images/neuron_compartments.png){width="500" fig-align="right"}
+::: 
+::: 
+
+---
+
+## 1. Dendrites {#dendrites}
+
+::: columns
+::: column
+- Branch out from the soma  
+- Primary targets of incoming signals  
+- The number of dendrites influences how many inputs the neuron can receive  
+- Often contain **spines**, which increase surface area for synaptic contact
+::: 
+::: column
+![](images/neuron_compartments.png){width="500" fig-align="right"}
+::: 
+::: 
+---
+
+## 1. Cell Body (Soma) {#soma}
+
+::: columns
+::: column
+- Contains nucleus and organelles  
+- Integrates incoming signals from dendrites  
+- Biochemistry of the cell shapes its excitability and response properties  
+::: 
+
+::: column
+![](images/neuron_compartments.png){width="500" fig-align="right"}
+::: 
+:::
+
+---
+
+## 1. Axon Hillock {#hillock}
+::: columns
+::: column
+- Junction between soma and axon  
+- Location where **action potentials are initiated**  
+- Sensitive to the summed electrical inputs from dendrites and soma
+::: 
+
+::: column
+![](images/neuron_compartments.png){width="500" fig-align="right"}
+::: 
+:::
+---
+
+## 1. The Axon
+::: columns
+::: column
+- Conducts electrical signals over long distances  
+- May be myelinated to increase conduction speed  
+- Can branch extensively
+::: 
+
+::: column
+![](images/neuron_compartments.png){width="500" fig-align="right"}
+::: 
+:::
+---
+
+## 1. Presynaptic Terminal
+::: columns
+::: column
+- End of the axon  
+- Releases neurotransmitter onto postsynaptic cells  
+- Forms multiple terminals for communication with many neurons
+::: 
+
+::: column
+![](images/neuron_compartments.png){width="500" fig-align="right"}
+::: 
+:::
+---
+
+## 1. Neurons Communicate Electrically and Chemically
+
+1. **Electrical signals** travel along the axon.  
+2. **Chemical signals** (neurotransmitters) are released at the synapse.  
+
+This dual mode of signaling enables fast and flexible communication.
+
+---
+
+## 1. Structure Influences Function
+::: columns
+::: column
+Examples:
+- More dendrites → more inputs  
+- Axon myelination → faster conduction  
+- Terminal branching → more downstream targets  
+
+Form and function are tightly linked in neuronal physiology.
+::: 
+
+::: column
+![](images/neurons_structure.png){width="500" fig-align="right"}
+::: 
+:::
+---
+
+## 1. Neuron Diversity (Overview)
+
+Neurons vary in:
+
+- Size  
+- Shape  
+- Dendritic complexity  
+- Axon length  
+- Neurotransmitter type  
+
+This diversity supports specialized functions across the nervous system.
+
+---
+
+## 1. Summary of Key Concepts
+
+- Neurons are the fundamental signaling units of the nervous system  
+- Structure determines function  
+- Signals are electrical within neurons and chemical between them  
+- Dendrites receive, soma integrates, axon transmits, terminals communicate  
+
+---
+
+## 1. Self-Check Questions
+
+1. Which part of the neuron initiates the action potential?  
+2. How do dendritic spines enhance synaptic communication?  
+3. Why does neuron structure influence neuron function?  
+4. Which part releases neurotransmitter?

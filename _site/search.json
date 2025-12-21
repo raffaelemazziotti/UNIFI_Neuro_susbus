@@ -1,0 +1,422 @@
+[
+  {
+    "objectID": "3_synapse.html#synaptic-communication",
+    "href": "3_synapse.html#synaptic-communication",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Synaptic Communication",
+    "text": "Synaptic Communication\nNeurons transmit information to other neurons and target cells using specialized compartments called Synapses. A synapse is a specialized junction where a neuron communicates with another neuron (or another cell).\n\nIMPORTANT: In synapses neurons are not physically continous, but there is a gap called Synaptic Cleft\n\n\n\n\n\nSynapses allow:\n\nDirectional signaling\n\nSignal modulation\n\nIntegration of multiple inputs\n\n\n\n\n\nThree main components:\n\nPresynaptic compartment (or terminal)\nSynaptic cleft\n\nPostsynaptic compartment (or spine)"
+  },
+  {
+    "objectID": "1_intro.html#neuron",
+    "href": "1_intro.html#neuron",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. What Is Neuroscience?",
+    "text": "1. What Is Neuroscience?\n\n\nNeuroscience asks a simple question:\nHow does the brain produce behavior?\n\nStudies the Central (brain and spinal cord) and Peripheral (somatic, autonomic and enteric) nervous systems\n\nConnects biology, psychology, physics, engineering, and philosophy\n\nGoal of this course: build intuition about how the nervous system works, without assuming prior biology knowledge."
+  },
+  {
+    "objectID": "1_intro.html#what-is-a-neuron",
+    "href": "1_intro.html#what-is-a-neuron",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. What Is a Neuron?",
+    "text": "1. What Is a Neuron?\n\n\nNeurons are the basic units of the brain.\nTheir main function is to send electrical signals over short and long distances.\nThey are electrically and chemically excitable. The function of a neuron depends on its structure."
+  },
+  {
+    "objectID": "1_intro.html#major-parts-of-the-neuron",
+    "href": "1_intro.html#major-parts-of-the-neuron",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. Major Parts of the Neuron",
+    "text": "1. Major Parts of the Neuron\n\n\n\nDendrites\n\nCell body (soma)\nAxon hillock\nAxon\nPresynaptic terminal These components determine how signals are received, processed, and transmitted."
+  },
+  {
+    "objectID": "1_intro.html#diagram-typical-neuron",
+    "href": "1_intro.html#diagram-typical-neuron",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. Diagram: Typical Neuron",
+    "text": "1. Diagram: Typical Neuron\n\n\nA neuron has:\n- Branching dendrites\n- A soma with nucleus\n- A long axon\n- Terminal branches forming synapses"
+  },
+  {
+    "objectID": "1_intro.html#dendrites",
+    "href": "1_intro.html#dendrites",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. Dendrites",
+    "text": "1. Dendrites\n\n\n\nBranch out from the soma\n\nPrimary targets of incoming signals\n\nThe number of dendrites influences how many inputs the neuron can receive\n\nOften contain spines, which increase surface area for synaptic contact"
+  },
+  {
+    "objectID": "1_intro.html#soma",
+    "href": "1_intro.html#soma",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. Cell Body (Soma)",
+    "text": "1. Cell Body (Soma)\n\n\n\nContains nucleus and organelles\n\nIntegrates incoming signals from dendrites\n\nBiochemistry of the cell shapes its excitability and response properties"
+  },
+  {
+    "objectID": "1_intro.html#hillock",
+    "href": "1_intro.html#hillock",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. Axon Hillock",
+    "text": "1. Axon Hillock\n\n\n\nJunction between soma and axon\n\nLocation where action potentials are initiated\n\nSensitive to the summed electrical inputs from dendrites and soma"
+  },
+  {
+    "objectID": "1_intro.html#the-axon",
+    "href": "1_intro.html#the-axon",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. The Axon",
+    "text": "1. The Axon\n\n\n\nConducts electrical signals over long distances\n\nMay be myelinated to increase conduction speed\n\nCan branch extensively"
+  },
+  {
+    "objectID": "1_intro.html#presynaptic-terminal",
+    "href": "1_intro.html#presynaptic-terminal",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. Presynaptic Terminal",
+    "text": "1. Presynaptic Terminal\n\n\n\nEnd of the axon\n\nReleases neurotransmitter onto postsynaptic cells\n\nForms multiple terminals for communication with many neurons"
+  },
+  {
+    "objectID": "1_intro.html#neurons-communicate-electrically-and-chemically",
+    "href": "1_intro.html#neurons-communicate-electrically-and-chemically",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. Neurons Communicate Electrically and Chemically",
+    "text": "1. Neurons Communicate Electrically and Chemically\n\nElectrical signals travel along the axon.\n\nChemical signals (neurotransmitters) are released at the synapse.\n\nThis dual mode of signaling enables fast and flexible communication."
+  },
+  {
+    "objectID": "1_intro.html#structure-influences-function",
+    "href": "1_intro.html#structure-influences-function",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. Structure Influences Function",
+    "text": "1. Structure Influences Function\n\n\nExamples: - More dendrites → more inputs\n- Axon myelination → faster conduction\n- Terminal branching → more downstream targets\nForm and function are tightly linked in neuronal physiology."
+  },
+  {
+    "objectID": "1_intro.html#neuron-diversity-overview",
+    "href": "1_intro.html#neuron-diversity-overview",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. Neuron Diversity (Overview)",
+    "text": "1. Neuron Diversity (Overview)\nNeurons vary in:\n\nSize\n\nShape\n\nDendritic complexity\n\nAxon length\n\nNeurotransmitter type\n\nThis diversity supports specialized functions across the nervous system."
+  },
+  {
+    "objectID": "1_intro.html#summary-of-key-concepts",
+    "href": "1_intro.html#summary-of-key-concepts",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. Summary of Key Concepts",
+    "text": "1. Summary of Key Concepts\n\nNeurons are the fundamental signaling units of the nervous system\n\nStructure determines function\n\nSignals are electrical within neurons and chemical between them\n\nDendrites receive, soma integrates, axon transmits, terminals communicate"
+  },
+  {
+    "objectID": "1_intro.html#self-check-questions",
+    "href": "1_intro.html#self-check-questions",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. Self-Check Questions",
+    "text": "1. Self-Check Questions\n\nWhich part of the neuron initiates the action potential?\n\nHow do dendritic spines enhance synaptic communication?\n\nWhy does neuron structure influence neuron function?\n\nWhich part releases neurotransmitter?"
+  },
+  {
+    "objectID": "0_content.html#course-overview",
+    "href": "0_content.html#course-overview",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Course Overview",
+    "text": "Course Overview\nWelcome to the course.\nModules\n\nIntroduction\nNeuron\nNeuronal Communication"
+  },
+  {
+    "objectID": "2_neuron.html#ion-movement",
+    "href": "2_neuron.html#ion-movement",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Ion Movement",
+    "text": "2. Ion Movement\n\n\nNeurons communicate using electrical signals.\nThese signals exist because ions move across cell membranes.\nUnderstanding ion movement is the foundation for:\n\nElectrical signaling\nMembrane potential\nAction potentials\nSynaptic transmission"
+  },
+  {
+    "objectID": "2_neuron.html#ions",
+    "href": "2_neuron.html#ions",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. What Is an Ion?",
+    "text": "2. What Is an Ion?\n\n\nAn ion is an atom or molecule with an electrical charge.\n\nPositive charge → cation\n\nNegative charge → anion\n\nIn neuroscience, the most important ions are:\n\nSodium (Na⁺)\nPotassium (K⁺)\nChloride (Cl⁻)\nCalcium (Ca²⁺)"
+  },
+  {
+    "objectID": "2_neuron.html#why-charges-matter-in-the-brain",
+    "href": "2_neuron.html#why-charges-matter-in-the-brain",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Why Charges Matter in the Brain",
+    "text": "2. Why Charges Matter in the Brain\nElectrical signals arise because:\n\nIons carry charge\nNeurons separate charges across membranes\nDifferences in charge create electrical forces\n\nNo electricity, no neural signaling."
+  },
+  {
+    "objectID": "2_neuron.html#the-neuronal-membrane",
+    "href": "2_neuron.html#the-neuronal-membrane",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. The Neuronal Membrane",
+    "text": "2. The Neuronal Membrane\n\n\nThe neuron is surrounded by a lipid bilayer membrane.\nKey properties:\n\nElectrically insulating\nImpermeable to most ions\nContains specialized proteins that allow controlled ion movement\n\nThis separation is essential for signaling."
+  },
+  {
+    "objectID": "2_neuron.html#ion-channels",
+    "href": "2_neuron.html#ion-channels",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Ion Channels",
+    "text": "2. Ion Channels\n\n\nIon channels are proteins embedded in the membrane.\nThey:\n\nAllow specific ions to cross\nAre selective (not all ions can pass)\nCan open or close\n\nIon movement only occurs through these channels."
+  },
+  {
+    "objectID": "2_neuron.html#channel-selectivity",
+    "href": "2_neuron.html#channel-selectivity",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Channel Selectivity",
+    "text": "2. Channel Selectivity\n\n\nIon channels are selective because:\n\nIons differ in size\nIons differ in charge\nChannel pores are highly specific\n\nExample:\n\nSodium channels allow Na⁺ but not K⁺\nPotassium channels allow K⁺ but not Na⁺"
+  },
+  {
+    "objectID": "2_neuron.html#two-forces-acting-on-ions",
+    "href": "2_neuron.html#two-forces-acting-on-ions",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Two Forces Acting on Ions",
+    "text": "2. Two Forces Acting on Ions\nIon movement depends on two forces:\n\nDiffusion\n\nElectrical attraction or repulsion\n\nThe combined effect determines ion flow."
+  },
+  {
+    "objectID": "2_neuron.html#diffusion",
+    "href": "2_neuron.html#diffusion",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Diffusion",
+    "text": "2. Diffusion\n\n\nDiffusion is movement from:\n\n\n\n\n\nflowchart LR\n  A[High concentration]\n  B[Low concentration]\n\n  A --&gt;|Net flow| B\n  B -. No net flow .-&gt; A\n  style A fill:#2b2b2b,stroke:#67bdfb,color:#e6e6e6\n  style B fill:#2b2b2b,stroke:#67bdfb,color:#e6e6e6\n  linkStyle default stroke:#bbbbbb,stroke-width:2px\n\n\n\n\n\n\nIf more Na⁺ ions are outside the neuron than inside, Na⁺ tends to move inward.\n\nIt does not require energy."
+  },
+  {
+    "objectID": "2_neuron.html#electrical-forces",
+    "href": "2_neuron.html#electrical-forces",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Electrical Forces",
+    "text": "2. Electrical Forces\n\n\nCharged particles are influenced by:\n\nOpposite charges attract\nSame charges repel\n\nA negatively charged interior attracts positive ions."
+  },
+  {
+    "objectID": "2_neuron.html#electrochemical-gradient",
+    "href": "2_neuron.html#electrochemical-gradient",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Electrochemical Gradient",
+    "text": "2. Electrochemical Gradient\nThe electrochemical gradient combines:\n\nChemical gradient (diffusion)\nElectrical gradient (charge)\n\nIon movement depends on both at the same time.\nThis is the key principle of neural signaling."
+  },
+  {
+    "objectID": "2_neuron.html#example-sodium-ions-na",
+    "href": "2_neuron.html#example-sodium-ions-na",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Example: Sodium Ions (Na⁺)",
+    "text": "2. Example: Sodium Ions (Na⁺)\nTypically:\n\nHigh Na⁺ outside the neuron\nLow Na⁺ inside\nInside of neuron is negatively charged\n\nBoth diffusion and electrical forces push Na⁺ into the cell.\n\nThe inside of the neuron (and cells in general) is negative mainly because of large amount of anions inside the cell like proteins and other large organic anions (phosphates, metabolites)."
+  },
+  {
+    "objectID": "2_neuron.html#example-potassium-ions-k",
+    "href": "2_neuron.html#example-potassium-ions-k",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Example: Potassium Ions (K⁺)",
+    "text": "2. Example: Potassium Ions (K⁺)\nTypically:\n\nHigh K⁺ inside the neuron\nLow K⁺ outside\nElectrical force pulls K⁺ inward\nDiffusion pushes K⁺ outward\n\nThe two forces oppose each other."
+  },
+  {
+    "objectID": "2_neuron.html#equilibrium-potential",
+    "href": "2_neuron.html#equilibrium-potential",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Equilibrium Potential",
+    "text": "2. Equilibrium Potential\nThe equilibrium potential is the membrane voltage at which:\n\nElectrical force exactly balances diffusion\nNo net movement of an ion occurs\n\nEach ion has its own equilibrium potential."
+  },
+  {
+    "objectID": "2_neuron.html#important-concept",
+    "href": "2_neuron.html#important-concept",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Important Concept",
+    "text": "2. Important Concept\nDifferent ions want to move in different directions.\nNeural electrical signals emerge from:\n\nWhich channels are open\nWhich ions can move\nThe direction of ion flow"
+  },
+  {
+    "objectID": "2_neuron.html#calcium",
+    "href": "2_neuron.html#calcium",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Calcium Ions (Ca²⁺)",
+    "text": "2. Calcium Ions (Ca²⁺)\nCalcium is special because:\n\nVery low concentration inside neurons\nStrong electrical charge\nActs as both an ion and a signaling molecule\n\nOpening Ca²⁺ channels has powerful effects."
+  },
+  {
+    "objectID": "2_neuron.html#ion-movement-is-passive",
+    "href": "2_neuron.html#ion-movement-is-passive",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Ion Movement Is Passive",
+    "text": "2. Ion Movement Is Passive\nIon movement through channels:\n\nDoes not require energy\nIs driven by electrochemical gradients\n\n\nBut maintaining the gradients require energy! The gradients are maintained by specific proteins called pumps that can move ions against their gradients."
+  },
+  {
+    "objectID": "2_neuron.html#membrane-voltage",
+    "href": "2_neuron.html#membrane-voltage",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Membrane Voltage",
+    "text": "2. Membrane Voltage\n\n\nThe neuron’s membrane separates electrical charges.\nThis separation creates a quantity called membrane voltage.\n\nVoltage is a difference in electrical potential\nIt tells us how strong the electrical force is\nIt is measured across the membrane, not inside the cell\n\n\nVoltage is not a substance and not a force.\nIt is a measure of how much electrical energy is available to move charges."
+  },
+  {
+    "objectID": "2_neuron.html#equilibrium-potential-formal-definition",
+    "href": "2_neuron.html#equilibrium-potential-formal-definition",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Equilibrium Potential (Formal Definition)",
+    "text": "2. Equilibrium Potential (Formal Definition)\nThe equilibrium potential of an ion is:\n\nThe membrane voltage at which there is no net movement of that ion across the membrane.\n\nImportant points:\n\nIt depends on concentration differences\nIt depends on charge"
+  },
+  {
+    "objectID": "2_neuron.html#the-nernst-equation",
+    "href": "2_neuron.html#the-nernst-equation",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. The Nernst Equation",
+    "text": "2. The Nernst Equation\nTo describe equilibrium quantitatively, we use the Nernst equation.\nIt links:\n\nion concentration differences\nelectrical voltage across the membrane\n\n\\[\nE_{\\mathrm{ion}} = \\frac{RT}{zF}\\ln\\left(\\frac{[\\mathrm{ion}]_{\\mathrm{out}}}{[\\mathrm{ion}]_{\\mathrm{in}}}\\right)\n\\]\n\n\\(E_{\\mathrm{ion}}\\): equilibrium potential of the ion\n\n\\(R\\): gas constant\n\n\\(T\\): absolute temperature\n\n\\(z\\): ion charge (valence)\n\n\\(F\\): Faraday constant"
+  },
+  {
+    "objectID": "2_neuron.html#what-the-equation-means-not-how-to-use-it",
+    "href": "2_neuron.html#what-the-equation-means-not-how-to-use-it",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. What the Equation Means (Not How to Use It)",
+    "text": "2. What the Equation Means (Not How to Use It)\nYou do not need to memorize this formula.\nWhat matters is what it tells us:\n\nLarger concentration differences → larger equilibrium voltage\nHigher charge → stronger electrical effect\nEach ion has its own equilibrium potential\n\n\nThe term (z) is the ion’s charge:\n\n\n\n\n\n\n\n\n\n\nIon\nz\nInside Concentration\nOutside Concentation\nEquilibrium Potential\n\n\n\n\nK⁺\n+1\n15 mM\n145 mM\n+ 60 mV\n\n\nNa⁺\n+1\n125 mM\n5 mM\n-85 mV\n\n\nCa²⁺\n+2\n0.0002 mM\n2 mM\n125 mV\n\n\nCl⁻\n-1\n13 mM\n150 mM\n-65 mV"
+  },
+  {
+    "objectID": "2_neuron.html#from-equilibrium-potential-to-membrane-potential",
+    "href": "2_neuron.html#from-equilibrium-potential-to-membrane-potential",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. From Equilibrium Potential to Membrane Potential",
+    "text": "2. From Equilibrium Potential to Membrane Potential\nSo far we have described equilibrium for one ion at a time.\nReal neurons are a bit different:\n\nMultiple ion species are present\nMultiple channels are open simultaneously\n\nThe membrane voltage reflects the combined effect of all ions."
+  },
+  {
+    "objectID": "2_neuron.html#what-is-the-membrane-potential",
+    "href": "2_neuron.html#what-is-the-membrane-potential",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. What Is the Membrane Potential?",
+    "text": "2. What Is the Membrane Potential?\n\nThe membrane potential is: The electrical potential difference between the inside and the outside of the cell membrane. It is measured in millivolts (mV), 1 mV = 0.001 Volts (V).\n\nEach ion has:\n\nIts own equilibrium potential\nIts own concentration gradient\n\nBut the membrane potential is:\n\nNot equal to \\(E_{\\mathrm{Na}}\\)\nNot equal to \\(E_{\\mathrm{K}}\\)\nNot equal to \\(E_{\\mathrm{Cl}}\\)\nIt lies between them."
+  },
+  {
+    "objectID": "2_neuron.html#which-ion-dominates",
+    "href": "2_neuron.html#which-ion-dominates",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Which Ion Dominates?",
+    "text": "2. Which Ion Dominates?\nThe influence of an ion depends on:\n\nPermeability, a measure of how easily a given ion can cross the membrane through its channels.\n\nAt rest, neuronal membranes are:\n\nHighly permeable to \\(K^+\\)\nWeakly permeable to \\(Na^+\\)\nModerately permeable to \\(Cl^-\\)\n\nAs a result, the membrane potential is close to \\(E_{\\mathrm{K}}\\).\n\nIn most neurons resting membrane potential is \\(\\approx -65\\,\\mathrm{mV}\\). This reflects potassium dominance at rest."
+  },
+  {
+    "objectID": "2_neuron.html#voltage-change",
+    "href": "2_neuron.html#voltage-change",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Voltage Change",
+    "text": "2. Voltage Change\nIf channels open for an ion the membrane potential moves toward that ion’s equilibrium potential.\n\n\n\nExample: Opening Sodium Channels\nIf \\(Na^+\\) channels open:\n\n\\(Na^+\\) enters the cell\nMembrane potential becomes less negative\nVoltage moves toward \\(E_{\\mathrm{Na}} \\approx +60\\,\\mathrm{mV}\\)\n\nThis process is called depolarization.\n\n\n\nExample: Opening Potassium Channels\nIf \\(K^+\\) channels open:\n\n\\(K^+\\) leaves the cell\nMembrane potential becomes more negative\nVoltage moves toward \\(E_{\\mathrm{K}} \\approx -90\\,\\mathrm{mV}\\)\n\nThis process is called hyperpolarization."
+  },
+  {
+    "objectID": "2_neuron.html#the-goldmanhodgkinkatz-equation",
+    "href": "2_neuron.html#the-goldmanhodgkinkatz-equation",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. The Goldman–Hodgkin–Katz Equation",
+    "text": "2. The Goldman–Hodgkin–Katz Equation\nWhen multiple ions contribute to the membrane voltage, the membrane potential is given by the Goldman–Hodgkin–Katz (GHK) equation:\n\\[\nV_m =\n\\frac{RT}{F}\n\\ln\\!\\left(\n\\frac{\nP_{\\mathrm{K}}[K^+]_{\\mathrm{out}} +\nP_{\\mathrm{Na}}[Na^+]_{\\mathrm{out}} +\nP_{\\mathrm{Cl}}[Cl^-]_{\\mathrm{in}}\n}{\nP_{\\mathrm{K}}[K^+]_{\\mathrm{in}} +\nP_{\\mathrm{Na}}[Na^+]_{\\mathrm{in}} +\nP_{\\mathrm{Cl}}[Cl^-]_{\\mathrm{out}}\n}\n\\right)\n\\]\n\n\n\n\\(V_m\\) is the membrane potential\n\n\\(P_{\\mathrm{K}}, P_{\\mathrm{Na}}, P_{\\mathrm{Cl}}\\) are permeabilities\n\n\\([\\cdot]_{\\mathrm{in}}\\) and \\([\\cdot]_{\\mathrm{out}}\\) are ion concentrations\n\n\\(R\\), \\(T\\), and \\(F\\) have the same meaning as in the Nernst equation\n\n\n\nIf only one ion is permeable: Goldman reduces to Nernst\n\n\n\nYou may notice that:\n\n\\([Cl^-]_{\\mathrm{in}}\\) appears in the numerator\n\\([Cl^-]_{\\mathrm{out}}\\) appears in the denominator\n\nThis happens because:\n\nChloride carries a negative charge\nIts electrical force acts in the opposite direction"
+  },
+  {
+    "objectID": "2_neuron.html#from-steady-voltage-to-signals",
+    "href": "2_neuron.html#from-steady-voltage-to-signals",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. From Steady Voltage to Signals",
+    "text": "2. From Steady Voltage to Signals\nNeurons use changes in membrane potential as signals.\nThese changes can be:\n\nSmall or large (millivolts )\nSlow or fast (milliseconds)\nLocal or long-range (micrometers to meters)\n\n\nTwo main types exist:\n\nGraded potentials\nAction potentials\n\nThey differ in origin, size, and function."
+  },
+  {
+    "objectID": "2_neuron.html#graded-potentials",
+    "href": "2_neuron.html#graded-potentials",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Graded Potentials",
+    "text": "2. Graded Potentials\n\nGraded potential: local change in membrane potential whose magnitude depends on the strength of the stimulus.\n\n\n\nKey properties:\n\nAmplitude varies continuously\nCan be depolarizing or hyperpolarizing\nSpread passively\nBecome smaller with distance\n\n\n\nThis decay is due to:\n\nMembrane resistance\nCytoplasmic resistance\n\n\n\nThey are common in:\n\nDendrites\nSoma"
+  },
+  {
+    "objectID": "2_neuron.html#integration-of-graded-potentials",
+    "href": "2_neuron.html#integration-of-graded-potentials",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Integration of Graded Potentials",
+    "text": "2. Integration of Graded Potentials\n\n\nMultiple graded potentials can:\n\nAdd together in space (spatial summation)\nAdd together in time (temporal summation)\n\n\nNeurons continuously integrate incoming signals.\n\nIntegration mainly occurs at:\n\nThe cell body\nThe axon initial segment (axon hillock)\n\n\nThis region decides whether a new type of signal is generated."
+  },
+  {
+    "objectID": "2_neuron.html#actionpotential",
+    "href": "2_neuron.html#actionpotential",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Action Potentials",
+    "text": "2. Action Potentials\n\n\nIf depolarization is strong enough:\n\nA critical voltage is reached\nA different electrical event is triggered\n\nThis voltage is called the threshold. Potentials beyond the threshold trigger Action Potentials.\n\nAction potential: A large, rapid, and stereotyped change in membrane potential, originated at the level of the axon hillock, that propagates along the axon."
+  },
+  {
+    "objectID": "2_neuron.html#why-action-potentials-are-needed",
+    "href": "2_neuron.html#why-action-potentials-are-needed",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Why Action Potentials Are Needed",
+    "text": "2. Why Action Potentials Are Needed\n\n\nGraded potentials decay with distance.\nTo communicate over long axons, neurons need:\n\nA signal that does not fade\nA reliable, all-or-none event\n\nThat signal is the action potential.\n\nTo understand action potentials, we must explain:\n\nVoltage-gated ion channels\nPositive feedback\nTime-dependent permeability changes"
+  },
+  {
+    "objectID": "2_neuron.html#membrane-proteins-and-transport",
+    "href": "2_neuron.html#membrane-proteins-and-transport",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Membrane Proteins and Transport",
+    "text": "2. Membrane Proteins and Transport\nThe lipid bilayer is electrically insulating. Ions can cross the membrane only through membrane proteins.\nMembrane transport proteins fall into two broad categories:\n\nChannels\nTransporters (carriers and pumps)\n\n\nIon channel: A protein that forms a continuous aqueous pathway across the membrane, allowing ions to move down their electrochemical gradient.\nProperties:\n\nDo not use metabolic energy (passive)\nDo not move ions against gradients (no energy)\nSelective to specific Ions"
+  },
+  {
+    "objectID": "2_neuron.html#channel-gating",
+    "href": "2_neuron.html#channel-gating",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Channel Gating",
+    "text": "2. Channel Gating\n\n\nIon channels are not static holes.\nThey fluctuate between:\n\nClosed states\nOpen states\n\n\nChannels can be gated by different physical signals:\n\nChemical binding (ligand-gated - e.g. Neurotransmitters)\nMechanical deformation (mechanosensitive)\nMembrane voltage (voltage-gated - activated when the membrane cross a specific voltage)\n\n\n\n\nGating: The process by which an ion channel switches between open and closed states."
+  },
+  {
+    "objectID": "2_neuron.html#graded-potentials-and-channels",
+    "href": "2_neuron.html#graded-potentials-and-channels",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Graded Potentials and Channels",
+    "text": "2. Graded Potentials and Channels\nDuring Graded Potentials:\n\nPassive channels remain unchanged\nVoltage-gated channels remain mostly closed\n\n\nVoltage changes are passive and proportional to input and decay over space-time.\n\nWhen depolarization is small:\n\nA few voltage-gated \\(Na^+\\) channels open\nResulting \\(Na^+\\) influx is weak\nPassive \\(K^+\\) currents counteract depolarization\n\nThe voltage relaxes back to rest."
+  },
+  {
+    "objectID": "2_neuron.html#threshold-crossing",
+    "href": "2_neuron.html#threshold-crossing",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Threshold Crossing",
+    "text": "2. Threshold Crossing\nAt threshold:\n\nVoltage-gated \\(Na^+\\) channel opening becomes significant\n\\(Na^+\\) influx exceeds opposing currents\nDepolarization accelerates\n\nThis marks the transition from passive to active behavior.\n\nOnce threshold is crossed:\n\nMany \\(Na^+\\) channels open rapidly\nMembrane permeability to \\(Na^+\\) increases sharply\nVoltage changes are no longer passive\n\nThe action potential is initiated."
+  },
+  {
+    "objectID": "2_neuron.html#during-the-action-potential",
+    "href": "2_neuron.html#during-the-action-potential",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. During the Action Potential",
+    "text": "2. During the Action Potential\n\n\nDuring the spike:\n\nVoltage-gated \\(Na^+\\) channels open, then inactivate\nVoltage-gated \\(K^+\\) channels open with delay\n\nVoltage is dominated by voltage-gated dynamics.\nAfter the action potential:\n\n\\(Na^+\\) channels recover from inactivation\n\\(K^+\\) channels close\nPassive channels dominate again\n\n\n\n\n\n\n\n\n\nInactivation: A state in which a voltage-gated channel is closed and temporarily unable to reopen, even though the membrane is still depolarized."
+  },
+  {
+    "objectID": "2_neuron.html#refractory-period",
+    "href": "2_neuron.html#refractory-period",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Refractory Period",
+    "text": "2. Refractory Period\n\n\nAfter an action potential, the neuron cannot immediately fire another spike.\n\nRefractory period: A time interval following an action potential during which the neuron’s ability to generate another action potential is reduced or absent.\n\nThis phase is caused purely by Na⁺ channel inactivation.\nRefractory periods ensure that:\n\nAction potentials propagate in one direction\nSpikes are separated in time (neural code)\nMaximum firing frequency is limited"
+  },
+  {
+    "objectID": "2_neuron.html#axon-diameter-and-conduction-speed",
+    "href": "2_neuron.html#axon-diameter-and-conduction-speed",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Axon Diameter and Conduction Speed",
+    "text": "2. Axon Diameter and Conduction Speed\nThe speed of action potential propagation depends on axon geometry.\nLarger axons:\n\nHave lower internal (axial) resistance\nAllow local currents to spread more easily\nDepolarize adjacent membrane faster\n\nAs a result, action potentials propagate faster in thicker axons."
+  },
+  {
+    "objectID": "2_neuron.html#myelination-and-electrical-insulation",
+    "href": "2_neuron.html#myelination-and-electrical-insulation",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Myelination and Electrical Insulation",
+    "text": "2. Myelination and Electrical Insulation\nMany axons are wrapped in myelin, a multilayered insulating sheath formed by glial cells.\nMyelination is not continuous along the axon.\nAxons contain regularly spaced gaps called nodes of Ranvier.\nAt nodes:\n\nThe membrane is unmyelinated\nVoltage-gated \\(Na^+\\) channels are highly concentrated\nAction potentials are regenerated"
+  },
+  {
+    "objectID": "2_neuron.html#saltatory-conduction",
+    "href": "2_neuron.html#saltatory-conduction",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Saltatory Conduction",
+    "text": "2. Saltatory Conduction\nIn myelinated axons:\n\nDepolarization spreads passively under the myelin\nAction potentials occur only at nodes\nThe signal appears to “jump” from node to node\n\nThis mode of propagation is called saltatory conduction. As a result, conduction speed increases dramatically. This is a physical optimization of signal transmission."
+  },
+  {
+    "objectID": "2_neuron.html#in-class-exercise-true-or-false",
+    "href": "2_neuron.html#in-class-exercise-true-or-false",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. In-Class Exercise — True or False",
+    "text": "2. In-Class Exercise — True or False\nFor each statement, decide whether it is True (T) or False (F).\n\nThe lipid bilayer by itself allows ions to cross the membrane easily.\n\nIon channels consume energy to move ions across the membrane.\n\nDiffusion and electrical forces always act in the same direction.\n\nEach ion has its own equilibrium potential.\n\nThe membrane potential is usually equal to one specific equilibrium potential.\n\nGraded potentials decrease in amplitude as they spread.\n\nAction potentials require voltage-gated ion channels.\n\nSodium channel inactivation is responsible for the refractory period.\n\nIncreasing axon diameter increases conduction speed.\n\nIn myelinated axons, action potentials occur at nodes of Ranvier only."
+  },
+  {
+    "objectID": "2_neuron.html#in-class-exercise---answers",
+    "href": "2_neuron.html#in-class-exercise---answers",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. In-Class Exercise - Answers",
+    "text": "2. In-Class Exercise - Answers\n\nFalse - the lipid bilayer is electrically insulating to ions.\n\nFalse - ion channels are passive; pumps consume energy.\n\nFalse - diffusion and electrical forces can oppose each other.\n\nTrue - equilibrium potential depends on ion charge and concentrations.\n\nFalse - membrane potential reflects multiple ions and permeabilities.\n\nTrue - graded potentials spread passively and decay with distance.\n\nTrue - voltage-gated channels are required for action potentials.\n\nTrue - Na⁺ channel inactivation causes refractoriness.\n\nTrue - larger diameter reduces axial resistance.\n\nTrue - spikes are regenerated only at nodes in myelinated axons."
+  },
+  {
+    "objectID": "3_synapse.html#why-synapses",
+    "href": "3_synapse.html#why-synapses",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Why Synapses?",
+    "text": "Why Synapses?\n\nAction potentials propagate along a single neuron\n\nNeurons are not physically continuous\n\nInformation must cross a cell-to-cell gap\n\nSynapses allow:\n\nDirectional signaling\n\nSignal modulation\n\nIntegration of multiple inputs"
+  },
+  {
+    "objectID": "3_synapse.html#presynaptic-events",
+    "href": "3_synapse.html#presynaptic-events",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Presynaptic Events",
+    "text": "Presynaptic Events\n\n\n\nAction potential arrives at terminal\nMembrane depolarization\nOpening of voltage-gated Ca²⁺ channels\nCa²⁺ influx triggers vesicle fusion\nNeurotransmitter released into synaptic cleft"
+  },
+  {
+    "objectID": "3_synapse.html#synaptic-vesicles",
+    "href": "3_synapse.html#synaptic-vesicles",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Synaptic Vesicles",
+    "text": "Synaptic Vesicles\n\n\n\nSmall membrane-bound organelles in the presynaptic terminal\n\nStore neurotransmitters at high concentration\n\nCluster near active zones of the presynaptic membrane\n\n\nKey properties:\n\nVesicles are recycled locally\nRelease occurs in discrete, quantal events\nThe release is mediated by SNARE proteins\n\n\n\n\nProcess:\n\nSNAREs bring vesicle and presynaptic membranes close together\n\nCa²⁺ influx triggers final fusion step\n\nNeurotransmitter released by exocytosis"
+  }
+]

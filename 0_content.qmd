@@ -1,0 +1,33 @@
+---
+title: "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes"
+title-block: false
+page-layout: full
+format:
+  revealjs:
+    controls: true
+    theme: default
+    slide-number: true
+    logo: images/logo/NEUROFARBA_logo.svg
+    css: slide_style.css
+    transition: fade
+    center: true
+    math: mathjax
+    chalkboard: 
+      buttons: false
+    progress: true
+    title-slide-attributes:
+      data-background-image: images/logo/NEUROFARBA.svg
+      data-background-size: 500px
+      data-background-position: "center 10%"
+    mermaid:
+      theme: neutral
+---
+## Course Overview
+
+Welcome to the course.
+
+### Modules
+
+- [Introduction](1_intro.html)
+- [Neuron](2_neuron.html)
+- [Neuronal Communication](3_synapse.html)

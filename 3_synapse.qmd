@@ -1,0 +1,108 @@
+---
+title: "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes"
+subtitle: "Module 1 - Neuronal Communication"
+author: "Raffaele M Mazziotti, PhD"
+institute: "University of Florence"
+format:
+  revealjs:
+    controls: true
+    theme: default
+    slide-number: true
+    logo: images/logo/NEUROFARBA_logo.svg
+    css: slide_style.css
+    transition: fade
+    center: true
+    math: mathjax
+    chalkboard: 
+      buttons: false
+    progress: true
+    title-slide-attributes:
+      data-background-image: images/logo/NEUROFARBA.svg
+      data-background-size: 500px
+      data-background-position: "center 10%"
+    mermaid:
+      theme: neutral
+    
+---
+## Synaptic Communication
+
+Neurons transmit information to other neurons and target cells using specialized compartments called [Synapses]{.highlight}.
+A **synapse** is a specialized junction where a neuron communicates with another neuron (or another cell).
+
+> IMPORTANT: In synapses neurons are not physically continous, but there is a gap called [Synaptic Cleft]{.highlight}
+
+::: columns
+::: column
+
+::: info-box
+- Synapses allow:
+  - Directional signaling  
+  - Signal modulation  
+  - Integration of multiple inputs
+:::
+
+:::
+::: column
+
+::: info-box
+Three main components:
+
+- Presynaptic compartment (or terminal)
+- Synaptic cleft  
+- Postsynaptic compartment (or spine)
+:::
+
+:::
+:::
+
+---
+## Presynaptic Events
+
+::: columns
+::: column
+
+1. [Action potential]{.highlight} arrives at terminal
+2. Membrane [depolarization]{.highlight}
+3. Opening of [voltage-gated Ca²⁺ channels]{.highlight}
+4. Ca²⁺ influx triggers [vesicle]{.highlight} fusion
+5. [Neurotransmitter released]{.highlight} into synaptic cleft
+
+:::
+::: column
+![](images/syn_compartments.png){width="400" fig-align="right"}
+:::
+:::
+
+## Synaptic Vesicles
+
+::: columns
+::: column
+- Small membrane-bound organelles in the presynaptic terminal  
+- **Store neurotransmitters** at high concentration  
+- Cluster near [active zones]{.highlight} of the presynaptic membrane  
+
+::: info-box
+
+Key properties:
+
+- Vesicles are recycled locally
+- Release occurs in discrete, [quantal]{.highlight} events
+- The release is mediated by **SNARE proteins**
+:::
+
+::: 
+::: column
+
+::: info-box
+Process:
+
+- SNAREs bring vesicle and presynaptic membranes close together  
+- Ca²⁺ influx triggers final fusion step  
+- Neurotransmitter released by [exocytosis]{.highlight}
+
+:::
+
+![](images/syn_snare.gif){width="400" fig-align="right"}
+
+::: 
+::: 
