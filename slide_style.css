@@ -16,6 +16,18 @@
   text-decoration: underline;
 }
 
+.home-link {
+  position: absolute;
+  bottom: 1%;
+  left: 1%;
+  transform: translateX(-50%);
+  opacity: 0.6;
+}
+
+.home-link img {
+  width: 40px;
+}
+
 /**********************
   Base Dark Theme
   - global font settings

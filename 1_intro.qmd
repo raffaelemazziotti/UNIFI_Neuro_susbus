@@ -63,6 +63,7 @@ The function of a neuron depends on its structure.
 ::: 
 ::: 
 
+
 ---
 
 ## 1. Major Parts of the Neuron
@@ -133,18 +134,67 @@ A neuron has:
 
 ---
 
+## 1. The Nucleus and DNA
+
+::: columns
+::: column
+
+- The nucleus contains the cell’s [DNA]{.highlight}
+- DNA is a long chain of [nucleotides]{.highlight}
+- Nucleotides form [**genes**]{.highlight}
+
+::: info-box
+Genes are instructions for building cellular components
+:::
+
+![](images/intro_nucleotides.png){width="300" fig-align="right"}
+
+:::
+::: column
+![](images/intro_nucleus.gif){width="400" fig-align="right"}
+:::
+:::
+
+---
+
+## 1. From Genes to Proteins
+
+::: columns
+::: column
+
+- Genes encode [**proteins**]{.highlight}
+- Proteins are chains of [amino acids]{.highlight}
+- The sequence of nucleotides determines:
+  - The sequence of amino acids
+  - The structure and function of the protein
+
+> Proteins are the working molecules of the cell
+
+:::
+::: column
+
+![](images/intro_amino_acids.jpg){width="400" fig-align="right"}
+![](images/intro_protein.gif){width="400" fig-align="right"}
+
+:::
+:::
+
 ## 1. Axon Hillock {#hillock}
 ::: columns
 ::: column
+
 - Junction between soma and axon  
 - Location where **action potentials are initiated**  
 - Sensitive to the summed electrical inputs from dendrites and soma
-::: 
 
+:::
 ::: column
+
 ![](images/neuron_compartments.png){width="500" fig-align="right"}
+
 ::: 
 :::
+
 ---
 
 ## 1. The Axon

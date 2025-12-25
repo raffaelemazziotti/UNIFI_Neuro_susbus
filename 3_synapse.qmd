@@ -29,7 +29,7 @@ format:
 Neurons transmit information to other neurons and target cells using specialized compartments called [Synapses]{.highlight}.
 A **synapse** is a specialized junction where a neuron communicates with another neuron (or another cell).
 
-> IMPORTANT: In synapses neurons are not physically continous, but there is a gap called [Synaptic Cleft]{.highlight}
+> IMPORTANT: In synapses, neurons are not physically continous, but there is a gap called [Synaptic Cleft]{.highlight}
 
 ::: columns
 ::: column
@@ -56,6 +56,7 @@ Three main components:
 :::
 
 ---
+
 ## Presynaptic Events
 
 ::: columns
@@ -77,7 +78,7 @@ Three main components:
 
 ::: columns
 ::: column
-- Small membrane-bound organelles in the presynaptic terminal  
+- Small `membrane-bound organelles` in the presynaptic terminal  
 - **Store neurotransmitters** at high concentration  
 - Cluster near [active zones]{.highlight} of the presynaptic membrane  
 
@@ -85,9 +86,10 @@ Three main components:
 
 Key properties:
 
-- Vesicles are recycled locally
 - Release occurs in discrete, [quantal]{.highlight} events
 - The release is mediated by **SNARE proteins**
+- Vesicles are [recycled]{.highlight} locally
+
 :::
 
 ::: 
@@ -106,3 +108,68 @@ Process:
 
 ::: 
 ::: 
+
+## Postsynaptic Membrane
+
+::: columns
+
+::: column
+Contains neurotransmitter `receptors`
+
+::: info-box
+Receptors can be of two main `classes`:
+
+- **Ionotropic receptors**
+  - Ligand-gated ion channels
+  - Fast responses
+
+- **Metabotropic receptors**
+  - G-protein coupled
+  - Slower but modulatory (long-lasting response)
+:::
+
+:::
+::: column
+
+![](images/syn_compartments.png){width="400" fig-align="right"}
+
+:::
+:::
+
+## Postsynaptic Events
+
+::: columns
+
+::: column
+Neurotransmitter binding produces grades signals of different types:
+
+- **EPSP**: **excitatory** postsynaptic potential
+- **IPSP**: **inhibitory** postsynaptic potential
+
+::: info-box
+[Excitatory synapses]{.highlight}:
+
+- Depolarize the membrane
+- Mediated by Ca²⁺ influx
+
+[Inhibitory synapses]{.highlight}:
+
+- Hyperpolarize or stabilize membrane potential
+- Mediated by Cl⁻ influx
+
+:::
+:::
+::: column
+![](images/syn_transmission.gif){width="500" fig-align="right"}
+
+:::info-box
+Neurotransmitter action ends by:
+
+- Reuptake into presynaptic terminal
+- Enzymatic degradation away from synapse
+:::
+
+:::
+:::
+
+
