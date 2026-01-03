@@ -129,7 +129,7 @@
   <div class="reveal">
     <div class="slides">
 
-<section id="title-slide" data-background-image="images/logo/NEUROFARBA.svg" data-background-position="center 10%" data-background-size="500px" class="quarto-title-block center">
+<section id="title-slide" data-background-image="images/logo/NEUROFARBA.svg" data-background-position="center 10%" data-background-size="500px" data-state="title-slide" class="quarto-title-block center">
   <h1 class="title">Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes</h1>
   <p class="subtitle">Module 1 - Neuronal Communication</p>
 
@@ -146,39 +146,37 @@ Raffaele M Mazziotti, PhD
 
 </section>
 <section id="synaptic-communication" class="slide level2 center">
-<h2>Synaptic Communication</h2>
-<p>Neurons transmit information to other neurons and target cells using specialized compartments called <span class="highlight">Synapses</span>. A <strong>synapse</strong> is a specialized junction where a neuron communicates with another neuron (or another cell).</p>
+<h2>3. Synaptic Communication</h2>
+<p>Neurons transmit information to other neurons and target cells using specialized compartments called <span class="highlight">Synapses</span>. A Synapse is a <code>specialized junction</code> where a neuron communicates with another neuron (or another cell).</p>
 <blockquote>
 <p>IMPORTANT: In synapses, neurons are not physically continous, but there is a gap called <span class="highlight">Synaptic Cleft</span></p>
 </blockquote>
 <div class="columns">
 <div class="column">
 <div class="info-box">
+<p>Three main components:</p>
 <ul>
-<li>Synapses allow:
+<li><strong>Presynaptic</strong> compartment (or terminal)</li>
+<li>Synaptic cleft<br>
+</li>
+<li><strong>Postsynaptic</strong> compartment (or spine)</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="info-box">
+<p>Synapses allow:</p>
 <ul>
 <li>Directional signaling<br>
 </li>
 <li>Signal modulation<br>
 </li>
 <li>Integration of multiple inputs</li>
-</ul></li>
-</ul>
-</div>
-</div><div class="column">
-<div class="info-box">
-<p>Three main components:</p>
-<ul>
-<li>Presynaptic compartment (or terminal)</li>
-<li>Synaptic cleft<br>
-</li>
-<li>Postsynaptic compartment (or spine)</li>
 </ul>
 </div>
 </div></div>
 </section>
 <section id="presynaptic-events" class="slide level2 center">
-<h2>Presynaptic Events</h2>
+<h2>3. Presynaptic Events</h2>
 <div class="columns">
 <div class="column">
 <ol type="1">
@@ -197,7 +195,7 @@ Raffaele M Mazziotti, PhD
 </div></div>
 </section>
 <section id="synaptic-vesicles" class="slide level2 center">
-<h2>Synaptic Vesicles</h2>
+<h2>3. Synaptic Vesicles</h2>
 <div class="columns">
 <div class="column">
 <ul>
@@ -234,19 +232,19 @@ Raffaele M Mazziotti, PhD
 </div></div>
 </section>
 <section id="postsynaptic-membrane" class="slide level2 center">
-<h2>Postsynaptic Membrane</h2>
+<h2>3. Postsynaptic Membrane</h2>
 <div class="columns">
 <div class="column">
-<p>Contains neurotransmitter <code>receptors</code></p>
+<p>Contains neurotransmitter <a href="https://en.wikipedia.org/wiki/Receptor_(biochemistry)">Receptors</a></p>
 <div class="info-box">
 <p>Receptors can be of two main <code>classes</code>:</p>
 <ul>
-<li><strong>Ionotropic receptors</strong>
+<li><strong><code>Ionotropic</code> receptors</strong>
 <ul>
 <li>Ligand-gated ion channels</li>
 <li>Fast responses</li>
 </ul></li>
-<li><strong>Metabotropic receptors</strong>
+<li><strong><code>Metabotropic</code> receptors</strong>
 <ul>
 <li>G-protein coupled</li>
 <li>Slower but modulatory (long-lasting response)</li>
@@ -262,23 +260,23 @@ Raffaele M Mazziotti, PhD
 </div></div>
 </section>
 <section id="postsynaptic-events" class="slide level2 center">
-<h2>Postsynaptic Events</h2>
+<h2>3. Postsynaptic Events</h2>
 <div class="columns">
 <div class="column">
-<p>Neurotransmitter binding produces grades signals of different types:</p>
+<p>Neurotransmitter binding produces graded signals of different types:</p>
 <ul>
-<li><strong>EPSP</strong>: <strong>excitatory</strong> postsynaptic potential</li>
-<li><strong>IPSP</strong>: <strong>inhibitory</strong> postsynaptic potential</li>
+<li><strong><code>EPSP</code></strong>: <strong>Excitatory</strong> PostSynaptic Potential</li>
+<li><strong><code>IPSP</code></strong>: <strong>Inhibitory</strong> PostSynaptic Potential</li>
 </ul>
 <div class="info-box">
 <p><span class="highlight">Excitatory synapses</span>:</p>
 <ul>
-<li>Depolarize the membrane</li>
-<li>Mediated by Ca²⁺ influx</li>
+<li><a href="2_neuron.html#voltage_change">Depolarize</a> the membrane</li>
+<li>Mediated by Na (or Ca²⁺ in special cases) influx</li>
 </ul>
 <p><span class="highlight">Inhibitory synapses</span>:</p>
 <ul>
-<li>Hyperpolarize or stabilize membrane potential</li>
+<li><a href="2_neuron.html#voltage_change">Hyperpolarize</a> or stabilize membrane potential</li>
 <li>Mediated by Cl⁻ influx</li>
 </ul>
 </div>
@@ -291,11 +289,489 @@ Raffaele M Mazziotti, PhD
 <div class="info-box">
 <p>Neurotransmitter action ends by:</p>
 <ul>
-<li>Reuptake into presynaptic terminal</li>
-<li>Enzymatic degradation away from synapse</li>
+<li><code>Reuptake</code> into presynaptic terminal</li>
+<li><code>Enzymatic degradation</code></li>
 </ul>
 </div>
 </div></div>
+</section>
+<section id="neurotransmitters" class="slide level2 center">
+<h2>3. Neurotransmitters</h2>
+<p>Neurotransmitters are <code>chemical messengers</code> released at synapses<br>
+They transmit signals from a presynaptic neuron to a postsynaptic cell</p>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Each neurotransmitter:</p>
+<ul>
+<li>Is synthesized in the neuron</li>
+<li>Is released in response to activity</li>
+<li>Acts on specific receptors</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="info-box">
+<p>Neurotransmitters can be grouped by function:</p>
+<ul>
+<li><strong>Excitatory</strong></li>
+<li><strong>Inhibitory</strong></li>
+<li><strong>Modulatory</strong></li>
+</ul>
+</div>
+</div></div>
+<blockquote>
+<p>The effect depends on the <code>receptor</code>, not only on the neurotransmitter</p>
+</blockquote>
+</section>
+<section id="glutamate---glu" class="slide level2 center">
+<h2>3. Glutamate - Glu</h2>
+<div class="columns">
+<div class="column">
+<blockquote>
+<p>Main <span class="highlight">excitatory</span> neurotransmitter in the brain</p>
+</blockquote>
+<ul>
+<li>Increases neuronal excitability (EPSP)</li>
+<li>Really abbundant in the brain</li>
+</ul>
+<div class="info-box">
+<p>Acts on:</p>
+<ul>
+<li>Ionotropic receptors</li>
+<li>Metabotropic receptors</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/syn_glu.png" class="quarto-figure quarto-figure-right" width="350"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="gaba" class="slide level2 center">
+<h2>3. GABA</h2>
+<div class="columns">
+<div class="column">
+<blockquote>
+<p>Main <span class="highlight">inhibitory</span> neurotransmitter in the brain</p>
+</blockquote>
+<ul>
+<li>Reduces neuronal excitability (IPSP)</li>
+<li>Essential for network stability</li>
+</ul>
+<div class="info-box">
+<p>Acts on:</p>
+<ul>
+<li>Ionotropic receptors (fast inhibition)</li>
+<li>Metabotropic receptors (slow inhibition)</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/syn_GABA.png" class="quarto-figure quarto-figure-right" width="350"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="acetylcholine---ach" class="slide level2 center">
+<h2>3. Acetylcholine - ACh</h2>
+<div class="columns">
+<div class="column">
+<blockquote>
+<p>Acts as a <code>Diffuse Projection System</code> in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: <code>Cholinergic system</code></p>
+</blockquote>
+<p>Involved in:</p>
+<ul>
+<li>Muscle contraction</li>
+<li>Vital and Cognitive functions</li>
+</ul>
+<div class="info-box">
+<p>Acts on:</p>
+<ul>
+<li>Ionotropic receptors</li>
+<li>Metabotropic receptors</li>
+</ul>
+</div>
+</div><div class="column">
+<p><img data-src="images/syn_ach.png" class="quarto-figure quarto-figure-right" width="250"> <img data-src="images/syn_diffuse_proj.jpg" class="quarto-figure quarto-figure-right" width="350"></p>
+</div></div>
+</section>
+<section id="serotonin" class="slide level2 center">
+<h2>3. Serotonin - 5-Ht</h2>
+<div class="columns">
+<div class="column">
+<blockquote>
+<p>Acts as a <code>Diffuse Projection System</code> in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: <code>Serotoninergic system</code></p>
+</blockquote>
+<p>Involved in:</p>
+<ul>
+<li>Mood and Emotional processing</li>
+<li>Vital functions including Sleep and Appetite</li>
+</ul>
+<div class="info-box">
+<p>Acts on:</p>
+<ul>
+<li>Ionotropic receptors</li>
+<li>Metabotropic receptors</li>
+</ul>
+</div>
+</div><div class="column">
+<p><img data-src="images/syn_5ht.png" class="quarto-figure quarto-figure-right" width="250"> <img data-src="images/syn_diffuse_proj.jpg" class="quarto-figure quarto-figure-right" width="350"></p>
+</div></div>
+</section>
+<section id="dopamine" class="slide level2 center">
+<h2>3. Dopamine - DA</h2>
+<div class="columns">
+<div class="column">
+<blockquote>
+<p>Acts as a <code>Diffuse Projection System</code> in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: <code>Dopaminergic system</code></p>
+<p>Involved in:</p>
+</blockquote>
+<ul>
+<li>Motivation, Learning and Reward</li>
+<li>Movement control</li>
+</ul>
+<div class="info-box">
+<p>Acts on:</p>
+<ul>
+<li>Metabotropic receptors</li>
+</ul>
+</div>
+</div><div class="column">
+<p><img data-src="images/syn_dop.png" class="quarto-figure quarto-figure-right" width="250"> <img data-src="images/syn_diffuse_proj.jpg" class="quarto-figure quarto-figure-right" width="350"></p>
+</div></div>
+</section>
+<section id="noradrenaline---na" class="slide level2 center">
+<h2>3. Noradrenaline - NA</h2>
+<div class="columns">
+<div class="column">
+<blockquote>
+<p>Or Norepinephrine. Acts as a <code>Diffuse Projection System</code> in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: <code>Noradrenergic System</code>.</p>
+</blockquote>
+<p>Involved in:</p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Arousal">Arousal</a> and Attention</li>
+<li>Stress response</li>
+</ul>
+<div class="info-box">
+<p>Acts on:</p>
+<ul>
+<li>Metabotropic receptors</li>
+</ul>
+</div>
+</div><div class="column">
+<p><img data-src="images/syn_nor.png" class="quarto-figure quarto-figure-right" width="250"> <img data-src="images/syn_diffuse_proj.jpg" class="quarto-figure quarto-figure-right" width="350"></p>
+</div></div>
+</section>
+<section id="adrenaline" class="slide level2 center">
+<h2>3. Adrenaline</h2>
+<div class="columns">
+<div class="column">
+<blockquote>
+<p>Or Epinephrine. Less abundant in the Central Nervous System than other neurotransmitters. More Peripheral.</p>
+</blockquote>
+<p>Involved in:</p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Arousal">Arousal</a> and <a href="https://en.wikipedia.org/wiki/Autonomic_nervous_system">Autonomic</a> regulation</li>
+<li>Stress response</li>
+</ul>
+<div class="info-box">
+<p>Acts on:</p>
+<ul>
+<li>Metabotropic receptors</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/syn_adre.png" class="quarto-figure quarto-figure-right" width="350"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="other-signaling-molecules" class="slide level2 center">
+<h2>3. Other Signaling Molecules</h2>
+<p>In addition to classical neurotransmitters, neurons use other chemical signals.<br>
+These molecules often act as modulators rather than fast transmitters</p>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Neuropeptides</p>
+<ul>
+<li><strong>Endorphins</strong>
+<ul>
+<li>Pain, Reward, Stress regulation …</li>
+</ul></li>
+<li><strong>Oxytocin</strong>
+<ul>
+<li>Social, Maternal behavior …</li>
+</ul></li>
+<li><strong>Substance P</strong>
+<ul>
+<li>Pain, Inflammatory responses …</li>
+</ul></li>
+</ul>
+</div>
+</div><div class="column">
+<div class="info-box">
+<p>Other Signaling Systems</p>
+<ul>
+<li><strong>Endocannabinoids</strong>
+<ul>
+<li>Appetite, mood, and memory, <a href="https://en.wikipedia.org/wiki/Retrograde_signaling">Retrograde signaling</a> ….</li>
+</ul></li>
+<li><strong>Nitric Oxide (NO)</strong>
+<ul>
+<li>Retrograde and Short-range signaling, Blood flow regulation …</li>
+</ul></li>
+</ul>
+</div>
+</div></div>
+</section>
+<section id="receptors" class="slide level2 center">
+<h2>3. Receptors</h2>
+<p>Neurotransmitters act by binding to <code>receptors</code> on the postsynaptic membrane<br>
+Receptors determine the <code>speed and effect</code> of synaptic transmission</p>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p><strong>Ionotropic</strong> Receptors</p>
+<ul>
+<li><code>Ligand</code>-gated ion channels</li>
+<li>Neurotransmitter <code>binding</code> directly opens the channel</li>
+<li>Produce <code>fast</code> responses (milliseconds)</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="info-box">
+<p><strong>Metabotropic</strong> Receptors</p>
+<ul>
+<li>Do not form ion channels</li>
+<li>Coupled to intracellular <a href="https://en.wikipedia.org/wiki/Signal_transduction">signaling pathways</a></li>
+<li>Neurotransmitter binding activates <code>G-proteins</code></li>
+<li>Effects are <code>slower</code> but longer-lasting</li>
+</ul>
+</div>
+</div></div>
+</section>
+<section id="glutamate-ionotropic-receptors" class="slide level2 center">
+<h2>3. Glutamate Ionotropic Receptors</h2>
+<div class="columns">
+<div class="column">
+<p>Glutamate activates multiple ionotropic receptors, including:</p>
+<ul>
+<li><strong><code>AMPA</code> receptors</strong>
+<ul>
+<li>Fast <code>excitatory</code> transmission</li>
+<li>Allow <code>Na⁺</code> influx</li>
+<li>Main mediator of <span class="highlight">rapid excitation</span></li>
+</ul></li>
+<li><strong><code>NMDA</code> receptors</strong>
+<ul>
+<li>Slower and Long-lasting kinetics</li>
+<li>Permeable to <code>Ca²⁺</code></li>
+<li>Involved in <span class="highlight">synaptic plasticity</span></li>
+</ul></li>
+</ul>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/syn_glu_iono.jpg" class="quarto-figure quarto-figure-right" width="450"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="gaba-ionotropic-receptors" class="slide level2 center">
+<h2>3. GABA Ionotropic Receptors</h2>
+<div class="columns">
+<div class="column">
+<p><strong>GABA-A receptors</strong></p>
+<ul>
+<li>Ionotropic <code>inhibitory</code> receptors</li>
+<li>Allow <code>Cl⁻</code> influx</li>
+<li>Reduce neuronal excitability</li>
+</ul>
+<p>Provide <span class="highlight">fast inhibition</span> in neural circuits</p>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/syn_GABA_recep.png" class="quarto-figure quarto-figure-right" width="450"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="metabotropic-receptors" class="slide level2 center">
+<h2>3. Metabotropic Receptors</h2>
+<ul>
+<li>Do not form ion channels</li>
+<li>Coupled to intracellular <a href="https://en.wikipedia.org/wiki/Signal_transduction">singaling pathways</a></li>
+<li>Neurotransmitter binding activates <code>G-proteins</code></li>
+<li>Effects are <code>slower</code> but longer-lasting</li>
+</ul>
+<blockquote>
+<p><code>Signaling Pathway</code>: chain of intracellular events where molecules relay messages from outside the cell to trigger specific internal responses like growth, division, or death</p>
+</blockquote>
+</section>
+<section id="metabotropic-glutamate-receptors-mglurs" class="slide level2 center">
+<h2>3. <strong>Metabotropic glutamate receptors (mGluRs)</strong></h2>
+<div class="columns">
+<div class="column">
+<ul>
+<li>Modulate synaptic transmission</li>
+<li>Regulate ion channel activity indirectly</li>
+<li>Influence plasticity and excitability</li>
+</ul>
+<blockquote>
+<p>Similar mechanisms apply to many <span class="term" data-tooltip="AKA: diffuse projection system">modulatory systems</span> systems, such as <a href="#/dopamine">dopamine</a> and <a href="#/serotonin">serotonin</a></p>
+</blockquote>
+<div class="info-box">
+<p><span class="highlight">Neuromodulation</span> is the process by which a neurotransmitter does not directly trigger a fast electrical signal, but instead changes how a neuron or a network responds to external inputs.</p>
+</div>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/syn_metabotropic.png" class="quarto-figure quarto-figure-right" width="300"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="position-of-the-synapse" class="slide level2 center">
+<h2>3. Position of the Synapse</h2>
+<p>Also the position of a synapse along a neuron matters, because neurons are not electrically uniform cables. Where a signal arrives strongly shapes what it can do.</p>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<ul>
+<li><strong>Axo-dendritic</strong>
+<ul>
+<li>Axon contacts a dendrite (Most common type)</li>
+<li>Often excitatory</li>
+</ul></li>
+</ul>
+</div>
+<div class="info-box">
+<ul>
+<li><strong>Axo-somatic</strong>
+<ul>
+<li>Axon contacts the cell body</li>
+<li>Strong influence on spike generation</li>
+</ul></li>
+</ul>
+</div>
+</div><div class="column">
+<div class="info-box">
+<ul>
+<li><strong>Axo-axonic</strong>
+<ul>
+<li>Axon contacts another axon</li>
+<li>Modulates neurotransmitter release</li>
+</ul></li>
+</ul>
+</div>
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/syn_syn_type.jpg" class="quarto-figure quarto-figure-right" width="500"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="neurotransmitter-clearance" class="slide level2 center">
+<h2>3. Neurotransmitter Clearance</h2>
+<p>After release, neurotransmitters must be removed from the synaptic cleft<br>
+This ensures that synaptic signals are brief and precisely controlled</p>
+<ul>
+<li><span class="highlight">Reuptake</span>
+<ul>
+<li>Neurotransmitter is <code>transported back</code> into the presynaptic terminal</li>
+<li>Mediated by specific <code>membrane transporters</code></li>
+<li>Allows <code>recycling</code> of neurotransmitter molecules</li>
+</ul></li>
+<li><span class="highlight">Enzymatic Degradation</span>
+<ul>
+<li>Neurotransmitter is broken down by <code>enzymes</code> in the synaptic cleft</li>
+<li>Prevents prolonged receptor activation</li>
+</ul></li>
+</ul>
+</section>
+<section id="drugs-and-neurotransmitter-clearance" class="slide level2 center">
+<h2>3. Drugs and Neurotransmitter Clearance</h2>
+<p>Many drugs act by altering how neurotransmitters are removed from the synaptic cleft<br>
+By changing clearance, drugs modify the strength and duration of synaptic signaling.</p>
+<div class="columns">
+<div class="column">
+<div class="info-box">
+<p>Selective Serotonin Reuptake Inhibitors (<code>SSRIs</code>)</p>
+<ul>
+<li>Block serotonin reuptake transporters</li>
+<li>Increase serotonin availability at synapses</li>
+</ul>
+<p>Used to treat:</p>
+<ul>
+<li>Depression</li>
+<li>Anxiety disorders</li>
+</ul>
+<p>Effects develop slowly due to circuit-level adaptations</p>
+</div>
+</div><div class="column">
+<div class="info-box">
+<p><code>Cocaine</code></p>
+<ul>
+<li>Blocks reuptake of:
+<ul>
+<li>Dopamine</li>
+<li>Norepinephrine</li>
+<li>Serotonin</li>
+</ul></li>
+</ul>
+<p>Results in:</p>
+<ul>
+<li>Strong increase in synaptic signaling</li>
+<li>Enhanced <code>reward</code> and <code>arousal</code></li>
+<li>High addictive potential</li>
+</ul>
+</div>
+</div></div>
+</section>
+<section id="in-class-exercise---items" class="slide level2 center">
+<h2>In-Class Exercise - Items</h2>
+<ol type="1">
+<li>Synapses are points where neurons are physically continuous<br>
+</li>
+<li>Neurotransmitter effects depend only on the neurotransmitter released<br>
+</li>
+<li>Ionotropic receptors mediate fast synaptic responses<br>
+</li>
+<li>NMDA receptors are permeable to calcium ions<br>
+</li>
+<li>GABA-A receptors are excitatory ion channels<br>
+</li>
+<li>Monoamines mainly act as neuromodulators<br>
+</li>
+<li>Endocannabinoids are released from presynaptic terminals<br>
+</li>
+<li>Neurotransmitter clearance helps limit synaptic signal duration<br>
+</li>
+<li>SSRIs reduce serotonin levels in the synaptic cleft<br>
+</li>
+<li>Axo-axonic synapses can modulate neurotransmitter release</li>
+</ol>
+</section>
+<section id="answers-and-explanations" class="slide level2 center">
+<h2>Answers and Explanations</h2>
+<ol type="1">
+<li><p><strong>False</strong> - Neurons are not physically continuous at synapses; they are separated by the synaptic cleft.</p></li>
+<li><p><strong>False</strong> - The effect depends on the receptor type activated, not only on the neurotransmitter.</p></li>
+<li><p><strong>True</strong> - Ionotropic receptors directly open ion channels and produce fast responses.</p></li>
+<li><p><strong>True</strong> - NMDA receptors are permeable to Ca²⁺ and play a key role in synaptic plasticity.</p></li>
+<li><p><strong>False</strong> - GABA-A receptors are inhibitory and typically allow Cl⁻ influx.</p></li>
+<li><p><strong>True</strong> - Monoamines mainly modulate neural circuits rather than driving fast synaptic transmission.</p></li>
+<li><p><strong>False</strong> - Endocannabinoids are released from postsynaptic neurons and act retrogradely.</p></li>
+<li><p><strong>True</strong> - Clearance mechanisms terminate signaling and preserve temporal precision.</p></li>
+<li><p><strong>False</strong> - SSRIs block serotonin reuptake, increasing its concentration in the synaptic cleft.</p></li>
+<li><p><strong>True</strong> - Axo-axonic synapses regulate neurotransmitter release rather than postsynaptic voltage.</p></li>
+</ol>
 
 
 
@@ -517,6 +993,71 @@ Raffaele M Mazziotti, PhD
           RevealZoom
         ]
       });
+    </script>
+    <script>
+    (function () {
+      function injectHomeLink() {
+        const link = document.createElement("a");
+        link.href = "index.html";
+        link.setAttribute("aria-label", "Back to Index");
+        link.title = "Back to Index";
+
+        // Positioning
+        link.style.position = "absolute";
+        link.style.bottom = "20px";
+        link.style.left = "50%";
+        link.style.transform = "translateX(-50%)";
+        link.style.width = "28px";
+        link.style.height = "28px";
+        link.style.zIndex = "1000";
+        link.style.display = "none";
+        link.style.opacity = "0.75";
+        link.style.cursor = "pointer";
+
+        // Home icon image
+        const img = document.createElement("img");
+        img.src = "images/home.svg";   // <-- your existing file
+        img.alt = "Home";
+        img.width = 28;
+        img.height = 28;
+        img.style.display = "block";
+
+        link.appendChild(img);
+        document.body.appendChild(link);
+
+        // Hover feedback
+        link.addEventListener("mouseenter", () => {
+          link.style.opacity = "1";
+          link.style.transform = "translateX(-50%) scale(2)";
+        });
+
+        link.addEventListener("mouseleave", () => {
+          link.style.opacity = "0.75";
+          link.style.transform = "translateX(-50%) scale(1)";
+        });
+
+        // Show only on title slide
+        function updateVisibility() {
+          if (document.body.classList.contains("title-slide")) {
+            link.style.display = "block";
+          } else {
+            link.style.display = "none";
+          }
+        }
+
+        updateVisibility();
+        Reveal.on("slidechanged", updateVisibility);
+        Reveal.on("ready", updateVisibility);
+      }
+
+      if (window.Reveal && Reveal.isReady()) {
+        injectHomeLink();
+      } else {
+        document.addEventListener("DOMContentLoaded", function () {
+          Reveal.on("ready", injectHomeLink);
+        });
+      }
+    })();
     </script>
     <script id="quarto-html-after-body" type="application/javascript">
       window.document.addEventListener("DOMContentLoaded", function (event) {

@@ -1,12 +1,14 @@
 ---
 title: "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes"
+author: "Raffaele M Mazziotti, PhD"
+institute: "University of Florence"
 title-block: false
 page-layout: full
 format:
   revealjs:
     controls: true
     theme: default
-    slide-number: true
+    slide-number: false
     logo: images/logo/NEUROFARBA_logo.svg
     css: slide_style.css
     transition: fade
@@ -22,12 +24,19 @@ format:
     mermaid:
       theme: neutral
 ---
-## Course Overview
+## Index
 
-Welcome to the course.
+> Hello, Welcome to the course!
 
-### Modules
-
+### Chapters
+::: columns
+::: column
 - [Introduction](1_intro.html)
 - [Neuron](2_neuron.html)
 - [Neuronal Communication](3_synapse.html)
+- [Organization of the Nervous System](4_NS_organization.html)
+::: 
+::: column
+
+:::
+:::

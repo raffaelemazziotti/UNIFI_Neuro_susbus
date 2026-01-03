@@ -133,7 +133,7 @@
   <div class="reveal">
     <div class="slides">
 
-<section id="title-slide" data-background-image="images/logo/NEUROFARBA.svg" data-background-position="center 10%" data-background-size="500px" class="quarto-title-block center">
+<section id="title-slide" data-background-image="images/logo/NEUROFARBA.svg" data-background-position="center 10%" data-background-size="500px" data-state="title-slide" class="quarto-title-block center">
   <h1 class="title">Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes</h1>
   <p class="subtitle">Module 1 - Neuron Biophysics</p>
 
@@ -436,7 +436,7 @@ It is a measure of how much electrical energy is available to move ions.</p>
 <p>In most neurons <code>resting membrane potential</code> is <span class="math inline">\(\approx -65\,\mathrm{mV}\)</span>. This reflects potassium dominance at rest.</p>
 </div>
 </section>
-<section id="voltage-change" class="slide level2 center">
+<section id="voltage_change" class="slide level2 center">
 <h2>2. Voltage Change</h2>
 <p>If channels open for an ion, the membrane potential changes. If a positive ion moves inside the cell, the membrane potential becomes less negative; if it moves outside, it becomes more negative. For negative ions, the effect is reversed.</p>
 <div class="columns">
@@ -480,7 +480,7 @@ It is a measure of how much electrical energy is available to move ions.</p>
 <p>They differ in origin, size, and function.</p>
 </div>
 </section>
-<section id="graded-potentials" class="slide level2 center">
+<section id="graded_potential" class="slide level2 center">
 <h2>2. Graded Potentials</h2>
 <blockquote>
 <p><span class="highlight">Graded potential</span>: <strong>local change</strong> in membrane potential whose magnitude depends on the strength of the stimulus.</p>
@@ -1020,6 +1020,71 @@ It is a measure of how much electrical energy is available to move ions.</p>
           RevealZoom
         ]
       });
+    </script>
+    <script>
+    (function () {
+      function injectHomeLink() {
+        const link = document.createElement("a");
+        link.href = "index.html";
+        link.setAttribute("aria-label", "Back to Index");
+        link.title = "Back to Index";
+
+        // Positioning
+        link.style.position = "absolute";
+        link.style.bottom = "20px";
+        link.style.left = "50%";
+        link.style.transform = "translateX(-50%)";
+        link.style.width = "28px";
+        link.style.height = "28px";
+        link.style.zIndex = "1000";
+        link.style.display = "none";
+        link.style.opacity = "0.75";
+        link.style.cursor = "pointer";
+
+        // Home icon image
+        const img = document.createElement("img");
+        img.src = "images/home.svg";   // <-- your existing file
+        img.alt = "Home";
+        img.width = 28;
+        img.height = 28;
+        img.style.display = "block";
+
+        link.appendChild(img);
+        document.body.appendChild(link);
+
+        // Hover feedback
+        link.addEventListener("mouseenter", () => {
+          link.style.opacity = "1";
+          link.style.transform = "translateX(-50%) scale(2)";
+        });
+
+        link.addEventListener("mouseleave", () => {
+          link.style.opacity = "0.75";
+          link.style.transform = "translateX(-50%) scale(1)";
+        });
+
+        // Show only on title slide
+        function updateVisibility() {
+          if (document.body.classList.contains("title-slide")) {
+            link.style.display = "block";
+          } else {
+            link.style.display = "none";
+          }
+        }
+
+        updateVisibility();
+        Reveal.on("slidechanged", updateVisibility);
+        Reveal.on("ready", updateVisibility);
+      }
+
+      if (window.Reveal && Reveal.isReady()) {
+        injectHomeLink();
+      } else {
+        document.addEventListener("DOMContentLoaded", function () {
+          Reveal.on("ready", injectHomeLink);
+        });
+      }
+    })();
     </script>
     <script id="quarto-html-after-body" type="application/javascript">
       window.document.addEventListener("DOMContentLoaded", function (event) {

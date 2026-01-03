@@ -20,6 +20,8 @@ format:
       data-background-image: images/logo/NEUROFARBA.svg
       data-background-size: 500px
       data-background-position: "center 10%"
+      data-state: title-slide
+    include-after-body: afterbody.html
     mermaid:
       theme: neutral
     
@@ -317,7 +319,7 @@ This reflects potassium dominance at rest.
 
 ---
 
-## 2. Voltage Change
+## 2. Voltage Change {#voltage_change}
 
 If channels open for an ion, the membrane potential changes. If a positive ion moves inside the cell, the membrane potential becomes less negative; if it moves outside, it becomes more negative. For negative ions, the effect is reversed.
 
@@ -377,7 +379,7 @@ They differ in origin, size, and function.
 
 ---
 
-## 2. Graded Potentials
+## 2. Graded Potentials {#graded_potential}
 
 
 > [Graded potential]{.highlight}: **local change** in membrane potential whose magnitude depends on the strength of the stimulus.
@@ -700,7 +702,7 @@ At nodes:
 
 ---
 
-## 2. In-Class Exercise — True or False
+## 2. In-Class Exercise - Items
 
 For each statement, decide whether it is **True (T)** or **False (F)**.
 

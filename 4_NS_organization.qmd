@@ -1,0 +1,517 @@
+---
+title: "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes"
+subtitle: "Module 1 - Organization of the Nervous System"
+author: "Raffaele M Mazziotti, PhD"
+institute: "University of Florence"
+format:
+  revealjs:
+    controls: true
+    theme: default
+    slide-number: true
+    logo: images/logo/NEUROFARBA_logo.svg
+    css: slide_style.css
+    transition: fade
+    center: true
+    math: mathjax
+    chalkboard: 
+      buttons: false
+    progress: true
+    title-slide-attributes:
+      data-background-image: images/logo/NEUROFARBA.svg
+      data-background-size: 500px
+      data-background-position: "center 10%"
+      data-state: title-slide
+    include-after-body: afterbody.html
+      
+    mermaid:
+      theme: neutral
+    
+---
+
+## Organization of the Nervous System
+
+The nervous system is organized into distinct [anatomical]{.highlight} and [functional]{.highlight} divisions.
+It is composed of interconnected networks that work in tight coordination to support vital, sensory, emotional, cognitive, and behavioral functions.
+
+::: columns
+::: column
+> [Anatomical]{.highlight} division classifies the nervous system based on `physical structures` and location
+
+:::
+::: column
+
+> [Functional]{.highlight} division classifies the nervous system based on the type of `information` processed
+
+:::
+:::
+
+## Anatomical Directions
+::: columns
+::: column
+
+::: {.nonincremental}
+- `Rostral` or `Anterior`: toward the front  
+- `Caudal` or `Posterior`: toward the back  
+:::
+
+::: {.nonincremental}
+- `Dorsal`: toward the top  
+- `Ventral`: toward the bottom  
+:::
+
+::: {.nonincremental}
+- `Medial`: toward the midline  
+- `Lateral`: away from the midline
+:::
+
+:::
+::: column
+
+![](images/SN_org_directions1.png){width="250" fig-align="right"}
+![](images/SN_org_directions2.png){width="250" fig-align="right"}
+
+:::
+:::
+
+## Anatomical Planes
+
+::: columns
+::: column
+The Body can be sectioned along three main planes:
+
+- `Sagittal`: Divides left and right halves
+
+- `Coronal`: Divides rostral and caudal parts
+
+- `Horizontal (or Axial or Transverse)`: Divides dorsal and ventral parts
+
+::: 
+::: column
+
+![](images/SN_org_planes.jpg){width="300" fig-align="right"}
+![](images/SN_org_planes2.png){width="400" fig-align="right"}
+
+:::
+:::
+
+## Online Brain Atlases
+
+::: columns
+::: column
+::: info-box
+[Allen Brain Atlas](https://brain-map.org/atlases)
+
+An interactive collection of brain maps linking anatomy, genes, and function, developed by the Allen Institute.
+:::
+::: info-box
+[Neurotorium](https://neurotorium.org/tool/brain-atlas/#cerebral-cortex:-prefrontal-cortex)
+
+An interactive 3D brain atlas for exploring cortical and subcortical structures, designed for education and intuitive navigation.
+:::
+
+::: info-box
+[eBrains](https://ebrains.eu/data-tools-services/brain-atlases)
+
+A collection of digital brain atlases integrated with neuroscience data and tools for exploration and analysis.
+:::
+
+:::
+::: column
+
+```{=html}
+<iframe width="500" height="500" src=https://sketchfab.com/models/d64608a3978b47d8a39c5a15795ca8c4/embed title="Brain Atlases"></iframe>
+```
+:::
+:::
+
+## CNS & PNS
+
+::: columns
+::: column
+The nervous system is classically divided into two main anatomical components:
+
+::: info-box
+**Central Nervous System (CNS)**  
+Brain and spinal cord  
+:::
+
+::: info-box
+**Peripheral Nervous System (PNS)**  
+Nerves and ganglia outside the CNS  
+:::
+
+:::
+::: column
+![](images/SN_org_cpns_diag.png){width="450" fig-align="right"}
+:::
+:::
+
+## Central Nervous System (CNS)
+
+::: columns
+::: column
+::: info-box
+The CNS includes:
+
+- Brain  
+- Spinal cord  
+:::
+
+::: info-box
+Neurons in the CNS are responsible for:
+
+- Sensory processing  
+- Cognitive & Emotional processing 
+- Behavioural output  
+:::
+
+> The CNS is protected by bone, meninges, and cerebrospinal fluid.
+
+:::
+::: column
+![](images/SN_org_CNS.jpg){width="450" fig-align="right"}
+:::
+:::
+
+## Peripheral Nervous System (PNS)
+
+::: columns
+::: column
+The PNS includes:
+
+::: info-box
+- Cranial & Spinal nerves  
+- Autonomic NS  
+- Somatic NS  
+:::
+
+> Its main role is `communication` between the body and the CNS.
+
+::: info-box
+Information flows in two directions:
+
+- `Afferent`: From body to CNS
+- `Efferent`: From CNS to body
+:::
+
+::: 
+::: column
+![](images/SN_org_PNS.jpg){width="500" fig-align="right"}
+![](images/SN_org_aff_eff.png){width="400" fig-align="right"}
+::: 
+::: 
+
+## Somatic nervous system
+
+::: columns
+::: column
+The **somatic nervous system**:
+
+::: info-box
+**Efferent Signals**
+
+- Skeletal muscles  
+- Voluntary movement 
+
+:::
+
+::: info-box
+**Afferent Signals**
+
+- Skin  
+- Muscles and Joints 
+
+This includes the sense of touch, temperature, pain, and [proprioception](https://en.wikipedia.org/wiki/Proprioception).
+:::
+
+
+
+::: 
+::: column
+> Activity in this system is **usually** under `conscious` perception and `voluntary` control.
+
+![](images/SN_org_reflex_arc.png){width="500" fig-align="right"}
+
+::: 
+::: 
+
+## Autonomic nervous system
+
+::: columns
+::: column
+The **autonomic nervous system** regulates internal physiology.
+
+::: info-box
+It controls:
+
+- Vital functions (Heart rate, breathing...) 
+- Smooth muscle (Digestion, salivation...)
+- Glands (Hormones...) 
+:::
+
+> Most autonomic activity occurs `without` conscious awareness.
+> It is composed of two main branches: `Sympathetic` and `Parasympathetic`.
+
+::: 
+::: column
+
+![](images/SN_org_ANS.jpg){width="470" fig-align="right"}
+
+::: 
+::: 
+
+## Sympathetic nervous system
+
+::: columns
+::: column
+
+The **sympathetic nervous system** prepares the body for action [Fight or Flight]{.highlight} Response.
+
+:::info-box
+Activation of the sympathetic system typically leads to:
+
+- Increased heart rate  
+- Bronchodilation  
+- Reduced digestive activity  
+- Mobilization of glucose  
+:::
+
+> Increase the `Arousal` level. These effects support physical and cognitive demands.
+
+::: 
+::: column
+
+![](images/SN_org_ANS.jpg){width="470" fig-align="right"}
+
+::: 
+::: 
+
+## Parasympathetic nervous system
+
+::: columns
+::: column
+The **parasympathetic nervous system** promotes maintenance and recovery. [Rest and Digest]{.highlight} Response.
+
+:::info-box
+Activation of the parasympathetic system typically leads to:
+
+- Decreased heart rate  
+- Increased digestive activity  
+- Energy storage  
+- Glandular secretion  
+:::
+
+> Decrease the `Arousal` level. These effects support recovery and homeostasis.
+
+::: 
+::: column
+
+![](images/SN_org_ANS.jpg){width="470" fig-align="right"}
+
+::: 
+::: 
+
+## Major divisions of the brain
+
+::: columns
+::: column
+From a broad anatomical perspective, the brain is divided into:
+
+- Cerebrum (or Forebrain)
+- Midbrain & Cerebellum
+- Brainstem  (Hindbrain)
+
+::: 
+::: column
+
+```{=html}
+<iframe width="500" height="500" src=https://sketchfab.com/models/8108e55e45b842bb935c33141ca76789/embed title="Brain Anatomy"></iframe>
+```
+
+::: 
+::: 
+
+## The cerebrum
+
+::: columns
+::: column
+
+The cerebrum is divided into two `hemispheres` (Left and Right)
+The hemispheres are connected by large bundles of axons (`Corpus Callosum`).
+
+::: info-box
+It is responsible for:
+
+- Sensory perception  
+- Voluntary movement  
+- Cognition and language  
+- Conscious awareness  
+:::
+
+> Despite strong similarities, the two hemispheres are `not` functionally identical.
+
+::: 
+::: column
+
+
+```{=html}
+<iframe width="500" height="500" src=https://sketchfab.com/models/8108e55e45b842bb935c33141ca76789/embed title="Brain Anatomy"></iframe>
+```
+
+::: 
+::: 
+
+## Cerebral Cortex
+
+::: columns
+::: column
+
+The outer layer of the cerebrum is the **cerebral cortex**.
+
+::: info-box
+Folding pattern
+
+- `Gyri` Raised ridges of cortex
+- `Sulci` Grooves that separate gyri
+
+This pattern increase surface area without increasing volume.
+:::
+
+::: card
+Each hemisphere is subdivided into lobes. The main lobes are:
+[Frontal]{.highlight}, [Parietal]{.highlight}, [Temporal]{.highlight}, [Occipital]{.highlight} 
+:::
+
+::: 
+::: column
+
+```{=html}
+<iframe width="500" height="500" src=https://sketchfab.com/models/8108e55e45b842bb935c33141ca76789/embed title="Brain Anatomy"></iframe>
+```
+
+::: 
+::: 
+
+## Frontal lobe
+
+::: columns
+::: column
+The **frontal lobe** is located anterior to the `central sulcus`.
+
+It is heavily involved in motor control and high-level cognition.
+
+::: info-box
+**Primary roles**
+
+- Voluntary movement  
+- Planning and decision making  
+- Executive control
+:::
+
+::: info-box
+**Effects of damage**
+
+- Motor dysfunctions
+- Changes in personality and social behavior   
+:::
+
+::: 
+::: column
+
+![](images/SN_org_frontal.png){width="500" fig-align="right"}
+
+::: 
+::: 
+
+## Parietal lobe
+
+::: columns
+::: column
+The **parietal lobe** lies posterior to the central sulcus.
+It integrates sensory information to construct `spatial and bodily representations`.
+
+::: info-box
+**Primary roles**
+
+- Somatosensory processing  
+- Spatial awareness (Propioception) 
+- Integration of sensory modalities  
+:::
+
+::: info-box
+**Effects of damage**
+
+- Impaired touch perception   
+- Spatial Neglect, especially after right hemisphere damage
+:::
+
+::: 
+::: column
+
+![](images/SN_org_parietal.png){width="500" fig-align="right"}
+
+::: 
+::: 
+
+## Temporal lobe
+
+::: columns
+::: column
+The **temporal lobe** is located laterally, beneath the lateral sulcus.
+It is closely associated with auditory processing, memory, and emotion.
+
+::: info-box
+**Primary roles**
+
+- Auditory perception  
+- Language comprehension  
+- Memory & Emotional processing
+:::
+
+::: info-box
+**Effects of damage**
+
+- Auditory perception deficits  
+- Impaired language comprehension  
+- Memory & emotional disturbances   
+:::
+
+::: 
+::: column
+
+![](images/SN_org_temporal.png){width="500" fig-align="right"}
+
+::: 
+::: 
+
+## Occipital lobe
+
+::: columns
+::: column
+
+The **occipital lobe** is located at the posterior pole of the brain.
+
+It is primarily dedicated to visual processing.
+
+::: info-box
+**Primary roles**
+
+- Visual perception  
+- Processing of shape, motion, and color  
+:::
+
+::: info-box
+**Effects of damage**
+
+- Partial or complete loss of vision  
+- Visual field deficits
+:::
+
+::: 
+::: column
+
+![](images/SN_org_occipital.png){width="500" fig-align="right"}
+
+
+::: 
+::: 

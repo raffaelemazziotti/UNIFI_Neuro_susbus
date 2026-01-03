@@ -1,6 +1,5 @@
 /**********************
   Links
-  - clear but not distracting
 ***********************/
 .reveal a {
   color: #9ad1ff;                 /* softer blue than headings */
@@ -9,6 +8,41 @@
   text-underline-offset: 3px;
   transition: color 0.2s ease;
 }
+
+.card {
+  margin: 16px 0;
+  padding: 14px 18px;
+  background-color: rgba(255, 255, 255, 0.08);
+  color: #e6e6e6;
+  border-radius: 14px;
+  font-size: 0.9em;
+  line-height: 1.45;
+  backdrop-filter: blur(4px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+}
+
+.tip {
+  margin: 20px 0;
+  padding: 16px 18px;
+  background-color: rgba(255, 236, 179, 0.18);
+  color: #f2f2f2;
+  border-radius: 10px;
+  font-size: 0.9em;
+  line-height: 1.45;
+
+  /* paper-like feel */
+  box-shadow:
+    0 2px 4px rgba(0, 0, 0, 0.25),
+    0 8px 18px rgba(0, 0, 0, 0.35);
+
+  /* subtle border */
+  border: 1px solid rgba(255, 236, 179, 0.35);
+}
+
+.tip strong:first-child {
+  font-weight: 600;
+}
+
 
 
 .reveal a:hover {
@@ -27,6 +61,59 @@
 .home-link img {
   width: 40px;
 }
+
+.term {
+  position: relative;
+  color: #e6e6e6;
+  background-color: rgba(103, 189, 251, 0.15);
+  padding: 0 4px;
+  border-radius: 4px;
+}
+
+/* Tooltip box */
+.term::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  left: 50%;
+  bottom: 140%;
+  transform: translateX(-50%);
+  min-width: 240px;
+  max-width: 340px;
+  padding: 10px 12px;
+  background-color: #151515;
+  color: #e6e6e6;
+  font-size: 0.6em;
+  line-height: 1.45;
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.45);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  z-index: 1000;
+  text-align: left;
+}
+
+/* Tooltip arrow */
+.term::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: 132%;
+  transform: translateX(-50%);
+  border-width: 6px;
+  border-style: solid;
+  border-color: #151515 transparent transparent transparent;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+/* Show on hover */
+.term:hover::after,
+.term:hover::before {
+  opacity: 1;
+}
+
+
 
 /**********************
   Base Dark Theme

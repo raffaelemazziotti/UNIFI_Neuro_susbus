@@ -20,14 +20,18 @@ format:
       data-background-image: images/logo/NEUROFARBA.svg
       data-background-size: 500px
       data-background-position: "center 10%"
+      data-state: title-slide
+    include-after-body: afterbody.html
+      
     mermaid:
       theme: neutral
     
 ---
-## Synaptic Communication
+
+## 3. Synaptic Communication
 
 Neurons transmit information to other neurons and target cells using specialized compartments called [Synapses]{.highlight}.
-A **synapse** is a specialized junction where a neuron communicates with another neuron (or another cell).
+A Synapse is a `specialized junction` where a neuron communicates with another neuron (or another cell).
 
 > IMPORTANT: In synapses, neurons are not physically continous, but there is a gap called [Synaptic Cleft]{.highlight}
 
@@ -35,21 +39,23 @@ A **synapse** is a specialized junction where a neuron communicates with another
 ::: column
 
 ::: info-box
-- Synapses allow:
-  - Directional signaling  
-  - Signal modulation  
-  - Integration of multiple inputs
+Three main components:
+
+- **Presynaptic** compartment (or terminal)
+- Synaptic cleft  
+- **Postsynaptic** compartment (or spine)
 :::
+
 
 :::
 ::: column
 
 ::: info-box
-Three main components:
+Synapses allow:
 
-- Presynaptic compartment (or terminal)
-- Synaptic cleft  
-- Postsynaptic compartment (or spine)
+  - Directional signaling  
+  - Signal modulation  
+  - Integration of multiple inputs
 :::
 
 :::
@@ -57,7 +63,7 @@ Three main components:
 
 ---
 
-## Presynaptic Events
+## 3. Presynaptic Events
 
 ::: columns
 ::: column
@@ -74,7 +80,7 @@ Three main components:
 :::
 :::
 
-## Synaptic Vesicles
+## 3. Synaptic Vesicles
 
 ::: columns
 ::: column
@@ -109,21 +115,21 @@ Process:
 ::: 
 ::: 
 
-## Postsynaptic Membrane
+## 3. Postsynaptic Membrane
 
 ::: columns
 
 ::: column
-Contains neurotransmitter `receptors`
+Contains neurotransmitter [Receptors](https://en.wikipedia.org/wiki/Receptor_(biochemistry))
 
 ::: info-box
 Receptors can be of two main `classes`:
 
-- **Ionotropic receptors**
+- **`Ionotropic` receptors**
   - Ligand-gated ion channels
   - Fast responses
 
-- **Metabotropic receptors**
+- **`Metabotropic` receptors**
   - G-protein coupled
   - Slower but modulatory (long-lasting response)
 :::
@@ -136,25 +142,25 @@ Receptors can be of two main `classes`:
 :::
 :::
 
-## Postsynaptic Events
+## 3. Postsynaptic Events
 
 ::: columns
 
 ::: column
-Neurotransmitter binding produces grades signals of different types:
+Neurotransmitter binding produces graded signals of different types:
 
-- **EPSP**: **excitatory** postsynaptic potential
-- **IPSP**: **inhibitory** postsynaptic potential
+- **`EPSP`**: **Excitatory** PostSynaptic Potential
+- **`IPSP`**: **Inhibitory** PostSynaptic Potential
 
 ::: info-box
 [Excitatory synapses]{.highlight}:
 
-- Depolarize the membrane
-- Mediated by Ca²⁺ influx
+- [Depolarize](2_neuron.html#voltage_change) the membrane
+- Mediated by Na (or Ca²⁺ in special cases) influx
 
 [Inhibitory synapses]{.highlight}:
 
-- Hyperpolarize or stabilize membrane potential
+- [Hyperpolarize](2_neuron.html#voltage_change) or stabilize membrane potential
 - Mediated by Cl⁻ influx
 
 :::
@@ -165,11 +171,474 @@ Neurotransmitter binding produces grades signals of different types:
 :::info-box
 Neurotransmitter action ends by:
 
-- Reuptake into presynaptic terminal
-- Enzymatic degradation away from synapse
+- `Reuptake` into presynaptic terminal
+- `Enzymatic degradation` 
+:::
+
+
+:::
+:::
+
+## 3. Neurotransmitters
+
+Neurotransmitters are `chemical messengers` released at synapses  
+They transmit signals from a presynaptic neuron to a postsynaptic cell
+
+::: columns
+::: column
+::: info-box
+Each neurotransmitter:
+
+- Is synthesized in the neuron
+- Is released in response to activity
+- Acts on specific receptors
+:::
+:::
+::: column
+::: info-box
+Neurotransmitters can be grouped by function:
+
+- **Excitatory**
+- **Inhibitory**
+- **Modulatory**
+:::
+
+:::
+:::
+> The effect depends on the `receptor`, not only on the neurotransmitter
+
+## 3. Glutamate - Glu
+
+::: columns
+::: column
+> Main [excitatory]{.highlight} neurotransmitter in the brain
+
+- Increases neuronal excitability (EPSP)
+- Really abbundant in the brain
+
+::: info-box
+Acts on:
+
+- Ionotropic receptors
+- Metabotropic receptors
+
+:::
+
+:::
+::: column
+![](images/syn_glu.png){width="350" fig-align="right"}
+:::
+:::
+
+## 3. GABA
+
+::: columns
+::: column
+
+> Main [inhibitory]{.highlight} neurotransmitter in the brain
+
+- Reduces neuronal excitability (IPSP)
+- Essential for network stability
+
+::: info-box
+Acts on:
+
+- Ionotropic receptors (fast inhibition)
+- Metabotropic receptors (slow inhibition)
+:::
+
+:::
+::: column
+![](images/syn_GABA.png){width="350" fig-align="right"}
+:::
+:::
+
+## 3. Acetylcholine - ACh 
+
+::: columns
+::: column
+> Acts as a `Diffuse Projection System` in the brain. This means that is produced in specific nuclei and projected throughout the brain.
+> AKA: `Cholinergic system`
+
+Involved in:
+
+- Muscle contraction
+- Vital and Cognitive functions
+
+::: info-box
+Acts on:
+
+- Ionotropic receptors
+- Metabotropic receptors
+:::
+
+:::
+::: column
+![](images/syn_ach.png){width="250" fig-align="right"}
+![](images/syn_diffuse_proj.jpg){width="350" fig-align="right"}
+:::
+:::
+
+## 3. Serotonin - 5-Ht {#serotonin}
+
+::: columns
+::: column
+> Acts as a `Diffuse Projection System` in the brain. This means that is produced in specific nuclei and projected throughout the brain.
+> AKA: `Serotoninergic system`
+
+Involved in:
+
+- Mood and Emotional processing
+- Vital functions including Sleep and Appetite
+
+::: info-box
+Acts on:
+
+- Ionotropic receptors
+- Metabotropic receptors
+:::
+
+:::
+::: column
+![](images/syn_5ht.png){width="250" fig-align="right"}
+![](images/syn_diffuse_proj.jpg){width="350" fig-align="right"}
+:::
+:::
+
+## 3. Dopamine - DA {#dopamine}
+
+::: columns
+::: column
+> Acts as a `Diffuse Projection System` in the brain. This means that is produced in specific nuclei and projected throughout the brain.
+> AKA: `Dopaminergic system`
+> 
+Involved in:
+
+- Motivation, Learning and Reward
+- Movement control
+
+::: info-box
+Acts on:
+
+- Metabotropic receptors
+:::
+
+:::
+::: column
+![](images/syn_dop.png){width="250" fig-align="right"}
+![](images/syn_diffuse_proj.jpg){width="350" fig-align="right"}
+:::
+::: 
+
+## 3. Noradrenaline - NA
+
+::: columns
+::: column
+> Or Norepinephrine. Acts as a `Diffuse Projection System` in the brain. This means that is produced in specific nuclei and projected throughout the brain.
+> AKA: `Noradrenergic System`. 
+ 
+Involved in:
+
+- [Arousal](https://en.wikipedia.org/wiki/Arousal) and Attention
+- Stress response
+
+::: info-box
+Acts on:
+
+- Metabotropic receptors
+:::
+
+:::
+::: column
+![](images/syn_nor.png){width="250" fig-align="right"}
+![](images/syn_diffuse_proj.jpg){width="350" fig-align="right"}
+:::
+:::
+
+## 3. Adrenaline
+
+::: columns
+::: column
+> Or Epinephrine. Less abundant in the Central Nervous System than other neurotransmitters. More Peripheral.
+
+Involved in:
+
+- [Arousal](https://en.wikipedia.org/wiki/Arousal) and [Autonomic](https://en.wikipedia.org/wiki/Autonomic_nervous_system) regulation
+- Stress response
+
+::: info-box
+Acts on:
+
+- Metabotropic receptors
+:::
+
+:::
+::: column
+![](images/syn_adre.png){width="350" fig-align="right"}
+:::
+:::
+
+## 3. Other Signaling Molecules
+
+In addition to classical neurotransmitters, neurons use other chemical signals.  
+These molecules often act as modulators rather than fast transmitters
+
+::: columns
+::: column
+::: info-box
+Neuropeptides
+
+- **Endorphins**
+  - Pain, Reward, Stress regulation ...
+
+- **Oxytocin**
+  - Social, Maternal behavior ...
+
+- **Substance P**
+  - Pain, Inflammatory responses ...
+:::
+
+:::
+::: column
+
+::: info-box
+Other Signaling Systems
+
+- **Endocannabinoids**
+  - Appetite, mood, and memory, [Retrograde signaling](https://en.wikipedia.org/wiki/Retrograde_signaling) ....
+
+- **Nitric Oxide (NO)**
+  - Retrograde and Short-range signaling, Blood flow regulation ...
 :::
 
 :::
 :::
 
+## 3. Receptors
 
+Neurotransmitters act by binding to `receptors` on the postsynaptic membrane  
+Receptors determine the `speed and effect` of synaptic transmission
+
+::: columns
+::: column
+
+::: info-box
+**Ionotropic** Receptors
+
+- `Ligand`-gated ion channels
+- Neurotransmitter `binding` directly opens the channel
+- Produce `fast` responses (milliseconds)
+:::
+
+:::
+::: column
+
+::: info-box
+**Metabotropic** Receptors
+
+- Do not form ion channels
+- Coupled to intracellular [signaling pathways](https://en.wikipedia.org/wiki/Signal_transduction)
+- Neurotransmitter binding activates `G-proteins`
+- Effects are `slower` but longer-lasting
+:::
+
+:::
+:::
+
+## 3. Glutamate Ionotropic Receptors
+
+::: columns
+::: column
+Glutamate activates multiple ionotropic receptors, including:
+
+- **`AMPA` receptors**
+  - Fast `excitatory` transmission
+  - Allow `Na⁺` influx
+  - Main mediator of [rapid excitation]{.highlight}
+
+- **`NMDA` receptors**
+  - Slower and Long-lasting kinetics
+  - Permeable to `Ca²⁺`
+  - Involved in [synaptic plasticity]{.highlight}
+
+::: 
+::: column
+![](images/syn_glu_iono.jpg){width="450" fig-align="right"}
+:::
+:::
+
+## 3. GABA Ionotropic Receptors
+
+::: columns
+::: column
+
+**GABA-A receptors**
+
+  - Ionotropic `inhibitory` receptors
+  - Allow `Cl⁻` influx
+  - Reduce neuronal excitability
+
+Provide [fast inhibition]{.highlight} in neural circuits
+
+:::
+
+::: column
+
+![](images/syn_GABA_recep.png){width="450" fig-align="right"}
+:::
+
+:::
+
+## 3. Metabotropic Receptors
+
+- Do not form ion channels
+- Coupled to intracellular [singaling pathways](https://en.wikipedia.org/wiki/Signal_transduction)
+- Neurotransmitter binding activates `G-proteins`
+- Effects are `slower` but longer-lasting
+
+> `Signaling Pathway`: chain of intracellular events where molecules relay messages from outside the cell to trigger specific internal responses like growth, division, or death
+
+## 3. **Metabotropic glutamate receptors (mGluRs)**
+
+::: columns
+::: column
+  - Modulate synaptic transmission
+  - Regulate ion channel activity indirectly
+  - Influence plasticity and excitability
+
+> Similar mechanisms apply to many [modulatory systems]{data-tooltip="AKA: diffuse projection system" .term} systems, such as [dopamine](#dopamine) and [serotonin](#serotonin)
+
+:::info-box
+[Neuromodulation]{.highlight} is the process by which a neurotransmitter does not directly trigger a fast electrical signal, but instead changes how a neuron or a network responds to external inputs.
+:::
+
+:::
+::: column
+
+![](images/syn_metabotropic.png){width="300" fig-align="right"}
+
+:::
+:::
+
+## 3. Position of the Synapse
+
+Also the position of a synapse along a neuron matters, because neurons are not electrically uniform cables. Where a signal arrives strongly shapes what it can do.
+
+:::columns
+::: column
+
+:::info-box 
+- **Axo-dendritic**
+  - Axon contacts a dendrite (Most common type)
+  - Often excitatory
+:::
+:::info-box
+- **Axo-somatic**
+  - Axon contacts the cell body
+  - Strong influence on spike generation
+:::
+:::
+::: column
+
+:::info-box
+- **Axo-axonic**
+  - Axon contacts another axon
+  - Modulates neurotransmitter release
+:::
+![](images/syn_syn_type.jpg){width="500" fig-align="right"}
+
+
+:::
+:::
+
+## 3. Neurotransmitter Clearance
+
+After release, neurotransmitters must be removed from the synaptic cleft  
+This ensures that synaptic signals are brief and precisely controlled
+
+- [Reuptake]{.highlight}
+  - Neurotransmitter is `transported back` into the presynaptic terminal
+  - Mediated by specific `membrane transporters`
+  - Allows `recycling` of neurotransmitter molecules
+
+- [Enzymatic Degradation]{.highlight}
+  - Neurotransmitter is broken down by `enzymes` in the synaptic cleft
+  - Prevents prolonged receptor activation
+
+## 3. Drugs and Neurotransmitter Clearance
+
+Many drugs act by altering how neurotransmitters are removed from the synaptic cleft  
+By changing clearance, drugs modify the strength and duration of synaptic signaling.
+
+:::columns
+:::column
+
+:::info-box
+Selective Serotonin Reuptake Inhibitors (`SSRIs`)
+
+  - Block serotonin reuptake transporters
+  - Increase serotonin availability at synapses
+
+Used to treat:
+
+- Depression
+- Anxiety disorders
+
+Effects develop slowly due to circuit-level adaptations
+:::
+
+:::
+:::column
+:::info-box
+`Cocaine`
+
+- Blocks reuptake of:
+  - Dopamine
+  - Norepinephrine
+  - Serotonin
+
+Results in:
+
+- Strong increase in synaptic signaling
+- Enhanced `reward` and `arousal`
+- High addictive potential
+:::
+
+:::
+:::
+
+## In-Class Exercise - Items
+
+1. Synapses are points where neurons are physically continuous  
+2. Neurotransmitter effects depend only on the neurotransmitter released  
+3. Ionotropic receptors mediate fast synaptic responses  
+4. NMDA receptors are permeable to calcium ions  
+5. GABA-A receptors are excitatory ion channels  
+6. Monoamines mainly act as neuromodulators  
+7. Endocannabinoids are released from presynaptic terminals  
+8. Neurotransmitter clearance helps limit synaptic signal duration  
+9. SSRIs reduce serotonin levels in the synaptic cleft  
+10. Axo-axonic synapses can modulate neurotransmitter release
+
+
+## Answers and Explanations
+
+1. **False** - Neurons are not physically continuous at synapses; they are separated by the synaptic cleft.
+
+2. **False** - The effect depends on the receptor type activated, not only on the neurotransmitter.
+
+3. **True** - Ionotropic receptors directly open ion channels and produce fast responses.
+
+4. **True** - NMDA receptors are permeable to Ca²⁺ and play a key role in synaptic plasticity.
+
+5. **False** - GABA-A receptors are inhibitory and typically allow Cl⁻ influx.
+
+6. **True** - Monoamines mainly modulate neural circuits rather than driving fast synaptic transmission.
+
+7. **False** - Endocannabinoids are released from postsynaptic neurons and act retrogradely.
+
+8. **True** - Clearance mechanisms terminate signaling and preserve temporal precision.
+
+9. **False** - SSRIs block serotonin reuptake, increasing its concentration in the synaptic cleft.
+
+10. **True** - Axo-axonic synapses regulate neurotransmitter release rather than postsynaptic voltage.

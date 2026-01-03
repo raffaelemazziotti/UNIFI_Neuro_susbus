@@ -20,6 +20,8 @@ format:
       data-background-image: images/logo/NEUROFARBA.svg
       data-background-size: 500px
       data-background-position: "center 10%"
+      data-state: title-slide
+    include-after-body: afterbody.html
     mermaid:
       theme: neutral
     
