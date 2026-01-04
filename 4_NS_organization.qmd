@@ -142,7 +142,65 @@ Nerves and ganglia outside the CNS
 
 :::
 ::: column
-![](images/SN_org_cpns_diag.png){width="450" fig-align="right"}
+
+```{mermaid}
+
+%%{init: {'flowchart': {'rankSpacing': 90, 'nodeSpacing': 60}}}%%
+flowchart TD
+    NS["Nervous<br/>System"]
+    CNS["Central<br/>Nervous<br/>System"]
+    PNS["Peripheral<br/>Nervous<br/>System"]
+    Somatic["Somatic<br/>Nervous<br/>System"]
+    Autonomic["Autonomic<br/>Nervous<br/>System"]
+    Sympathetic["Sympathetic"]
+    Parasympathetic["Parasympathetic"]
+    Enteric["Enteric"]
+
+    NS --> CNS
+    NS --> PNS
+    PNS --> Somatic
+    PNS --> Autonomic
+    Autonomic --> Sympathetic
+    Autonomic --> Parasympathetic
+    Autonomic --> Enteric
+
+    %% Node styles
+    classDef root fill:#67bdfb,color:#000,stroke:#0a3554,stroke-width:4px,font-size:20px
+    classDef central fill:#9ad1ff,color:#000,stroke:#1f5fa0,stroke-width:3.5px,font-size:18px
+    classDef peripheral fill:#ffd27d,color:#000,stroke:#b8891c,stroke-width:3.5px,font-size:18px
+    classDef autonomic fill:#ffb3b3,color:#000,stroke:#b84a4a,stroke-width:3px,font-size:17px
+
+    class NS root
+    class CNS central
+    class PNS peripheral
+    class Somatic peripheral
+    class Autonomic autonomic
+    class Sympathetic autonomic
+    class Parasympathetic autonomic
+    class Enteric autonomic
+
+    %% Rounded boxes
+    style NS rx:22,ry:22
+    style CNS rx:18,ry:18
+    style PNS rx:18,ry:18
+    style Somatic rx:16,ry:16
+    style Autonomic rx:16,ry:16
+    style Sympathetic rx:14,ry:14
+    style Parasympathetic rx:14,ry:14
+    style Enteric rx:14,ry:14
+
+    %% Arrows: hierarchy encoded in weight and style
+    linkStyle 0 stroke:#0a3554,stroke-width:5px
+    linkStyle 1 stroke:#0a3554,stroke-width:5px
+    linkStyle 2 stroke:#b8891c,stroke-width:5px
+    linkStyle 3 stroke:#b84a4a,stroke-width:5px
+    linkStyle 4 stroke:#b84a4a,stroke-width:5px
+    linkStyle 5 stroke:#b84a4a,stroke-width:5px
+    linkStyle 6 stroke:#b84a4a,stroke-width:5px
+
+```
+
+
 :::
 :::
 
@@ -165,7 +223,9 @@ Neurons in the CNS are responsible for:
 - Behavioural output  
 :::
 
-> The CNS is protected by bone, meninges, and cerebrospinal fluid.
+::: card
+The CNS is `protected` by bone, meninges, and cerebrospinal fluid.
+:::
 
 :::
 ::: column
@@ -412,7 +472,7 @@ It is heavily involved in motor control and high-level cognition.
 **Effects of damage**
 
 - Motor dysfunctions
-- Changes in personality and social behavior   
+- Changes in [personality and social behavior](https://en.wikipedia.org/wiki/Phineas_Gage)   
 :::
 
 ::: 
@@ -442,7 +502,7 @@ It integrates sensory information to construct `spatial and bodily representatio
 **Effects of damage**
 
 - Impaired touch perception   
-- Spatial Neglect, especially after right hemisphere damage
+- [Spatial Neglect](https://en.wikipedia.org/wiki/Hemispatial_neglect), especially after right hemisphere damage
 :::
 
 ::: 
@@ -465,7 +525,7 @@ It is closely associated with auditory processing, memory, and emotion.
 
 - Auditory perception  
 - Language comprehension  
-- Memory & Emotional processing
+- [Memory](https://en.wikipedia.org/wiki/Henry_Molaison) & Emotional processing
 :::
 
 ::: info-box
@@ -512,6 +572,302 @@ It is primarily dedicated to visual processing.
 
 ![](images/SN_org_occipital.png){width="500" fig-align="right"}
 
+
+::: 
+::: 
+
+
+## Subcortical structures
+
+Below the Cerebral Cortex we can find also another layer of (Subcortical) structures. 
+
+::: info-box
+Major subcortical structures include:
+
+- Basal nuclei  
+- Hippocampus  
+- Amygdala  
+:::
+
+They are not visible from the surface but are critical for information processing.
+
+> They `interact` extensively with the cortex.
+
+## Basal nuclei
+::: columns
+::: column
+The **basal nuclei** are a group of interconnected nuclei. Including the `dorsal striatum` (caudate nucleus and putamen) and the `ventral striatum` (nucleus accumbens), the globus pallidus, the ventral pallidum, the substantia nigra, and the subthalamic nucleus.
+
+:::info-box
+They are best known for their role in:
+
+- Movement regulation  
+- Action selection  
+- Habit formation  
+:::
+
+>Damage to these structures disrupts `movement` without causing paralysis.
+
+:::
+:::column
+![](images/SN_org_basal_nuclei.jpg){width="500" fig-align="right"}
+:::
+:::
+
+## Hippocampus
+
+::: columns
+::: column
+
+The **hippocampus** is located in the `medial temporal lobe`.
+
+:::info-box
+It is essential for:
+
+- Formation memory and Contextual processing 
+- Spatial navigation  
+- Emotional regulation
+:::
+
+> Damage may impair the ability to form new long-term `memories`.
+
+::: 
+::: column
+![](images/SN_org_hippo_amy.jpg){width="500" fig-align="right"}
+::: 
+::: 
+
+
+## Amygdala
+
+::: columns
+::: column
+The **amygdala** is also located in the `medial temporal lobe`.
+
+:::info-box
+It plays a major role in:
+
+- Emotional processing  
+- Threat detection  
+- Assigning emotional value to stimuli  
+:::
+
+> Damage to this structure may strongly influence learning and memory under `emotional` conditions.
+
+::: 
+::: column
+![](images/SN_org_hippo_amy.jpg){width="500" fig-align="right"}
+::: 
+::: 
+
+## Diencephalon
+
+::: columns
+::: column
+The **diencephalon** lies beneath the cerebrum.
+
+It serves as a critical `interface` between cortical and subcortical systems.
+
+Major components include:
+
+- Thalamus  
+- Hypothalamus  
+- Epithalamus
+
+::: 
+::: column
+
+![](images/SN_org_dienc.png){width="500" fig-align="right"}
+
+::: 
+::: 
+
+
+## Thalamus
+
+::: columns
+::: column
+The **thalamus** is often described as a relay station.
+
+Most sensory information passes through it on the way to cortex.
+
+> However, it is not a passive `relay`.
+> It actively `shapes` and `modulates` information flow.
+
+::: 
+::: column
+
+![](images/SN_org_dienc.png){width="500" fig-align="right"}
+
+::: 
+::: 
+
+
+
+## Hypothalamus
+
+::: columns
+::: column
+
+The **hypothalamus** is a group of different nuclei, small but functionally powerful.
+
+::: info-box
+It regulates:
+
+- Homeostasis  
+- Autonomic nervous system activity  
+- Hormone release  
+- Motivated behaviors  
+:::
+
+> It forms a major `link` between the nervous and endocrine systems.
+
+::: 
+::: column
+
+![](images/SN_org_dienc.png){width="500" fig-align="right"}
+
+::: 
+::: 
+
+## Brainstem
+
+::: columns
+::: column
+
+The **brainstem** connects the brain to the spinal cord.
+
+It is essential for `survival`.
+
+::: info-box
+It controls basic functions such as:
+
+- Breathing  
+- Heart rate  
+- Sleep and arousal  
+:::
+
+::: 
+::: column
+
+![](images/SN_org_brainstem.png){width="500" fig-align="right"}
+
+
+::: 
+::: 
+
+## Brainstem subdivisions
+
+::: columns
+::: column
+
+The brainstem is divided into three major parts:
+
+::: info-box
+- Midbrain  
+- Pons  
+- Medulla  
+:::
+
+> Each contains nuclei and pathways critical for life.
+
+::: 
+::: column
+![](images/SN_org_brainstem.png){width="500" fig-align="right"}
+
+::: 
+::: 
+
+## Cerebellum
+
+::: columns
+::: column
+
+The **cerebellum** lies posterior to the brainstem.
+
+::: info-box
+It is involved in:
+
+- Coordination of movement  
+- Timing  
+- Motor learning  
+:::
+
+> Damage does not prevent movement, but makes it inaccurate and unstable.
+
+::: 
+::: column
+![](images/SN_org_cerebellum.jpg){width="500" fig-align="right"}
+
+::: 
+::: 
+
+## Cranial nerves
+
+Cranial nerves are part of the peripheral nervous system.
+They connect directly to the brain. Most cranial nerves enter or exit the CNS at the brainstem.
+
+> There are **12 pairs of cranial nerves**. Numbered using Roman numerals I to XII .
+
+:::info-box
+Cranial nerves can be classified by function:
+
+- **Sensory**  
+- **Motor**  
+- **Mixed** (sensory and motor)  
+:::
+
+## Cranial nerves
+
+::: columns
+::: column
+
+| Sensory                                                      | Motor                                                            | Mixed                                                                       |
+|--------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| [Olfactory I](https://en.wikipedia.org/wiki/Olfactory_nerve) | [Oculomotor III](https://en.wikipedia.org/wiki/Oculomotor_nerve) | [Trigeminal V](https://en.wikipedia.org/wiki/Trigeminal_nerve)              |
+| [Optic II](https://en.wikipedia.org/wiki/Optic_nerve)        | [Trochlear  IV](https://en.wikipedia.org/wiki/Trochlear_nerve)   | [Facial VII](https://en.wikipedia.org/wiki/Facial_nerve)                    |
+| [Vestibulocochlear VII](https://en.wikipedia.org/wiki/Vestibulocochlear_nerve) | [Abducens VI](https://en.wikipedia.org/wiki/Abducens_nerve)      | [Glossopharyngeal IX](https://en.wikipedia.org/wiki/Glossopharyngeal_nerve) |
+|                                                              | [Accessory  XI](https://en.wikipedia.org/wiki/Accessory_nerve)   | [Vagus X](https://en.wikipedia.org/wiki/Vagus_nerve)                        |
+|                                                              | [Hypoglossal XII](https://en.wikipedia.org/wiki/Hypoglossal_nerve)                                              |                                                                             |
+
+:::info-box
+The [Vagus nerve X]{.highlight} is unique.
+It provides extensive `parasympathetic` innervation to thoracic and abdominal organs.
+It is a major pathway for `autonomic` communication between `brain and body`.
+:::
+
+::: 
+::: column
+
+![](images/SN_org_cranial_nerves.png){width="400" fig-align="right"}
+
+::: 
+:::
+
+## The spinal cord
+
+The **spinal cord** is part of the central nervous system.
+It serves as the main communication pathway between the brain and the body, through the spinal nerves.
+It also performs important processing independently of the brain.
+
+::: columns
+::: column
+
+> Grouped into regions: `Cervical`, `Thoracic`, `Lumbar`, `Sacral`  
+
+
+::: info-box
+Spinal nerves connect to the cord via two roots:
+
+- [Dorsal root]{.highlight} Carries `sensory` information into the spinal cord  
+
+- [Ventral root]{.highlight} Carries `motor` commands out of the spinal cord  
+:::
+
+::: 
+::: column
+
+![](images/SN_org_spinal_cord.jpg){width="500" fig-align="right"}
 
 ::: 
 ::: 

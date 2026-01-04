@@ -124,6 +124,10 @@
       margin-right: 0; 
     }
   </style>
+  <meta name="mermaid-theme" content="neutral">
+  <script src="site_libs/quarto-diagram/mermaid.min.js"></script>
+  <script src="site_libs/quarto-diagram/mermaid-init.js"></script>
+  <link href="site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 </head>
 <body class="quarto-light">
   <div class="reveal">
@@ -232,10 +236,69 @@ Brain and spinal cord</p>
 Nerves and ganglia outside the CNS</p>
 </div>
 </div><div class="column">
-<div class="quarto-figure quarto-figure-right">
-<figure>
-<p><img data-src="images/SN_org_cpns_diag.png" class="quarto-figure quarto-figure-right" width="450"></p>
-</figure>
+<div class="cell" data-reveal="true" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class=""><p></p>
+<div>
+<pre class="mermaid mermaid-js">%%{init: {'flowchart': {'rankSpacing': 90, 'nodeSpacing': 60}}}%%
+flowchart TD
+    NS["Nervous&lt;br/&gt;System"]
+    CNS["Central&lt;br/&gt;Nervous&lt;br/&gt;System"]
+    PNS["Peripheral&lt;br/&gt;Nervous&lt;br/&gt;System"]
+    Somatic["Somatic&lt;br/&gt;Nervous&lt;br/&gt;System"]
+    Autonomic["Autonomic&lt;br/&gt;Nervous&lt;br/&gt;System"]
+    Sympathetic["Sympathetic"]
+    Parasympathetic["Parasympathetic"]
+    Enteric["Enteric"]
+
+    NS --&gt; CNS
+    NS --&gt; PNS
+    PNS --&gt; Somatic
+    PNS --&gt; Autonomic
+    Autonomic --&gt; Sympathetic
+    Autonomic --&gt; Parasympathetic
+    Autonomic --&gt; Enteric
+
+    %% Node styles
+    classDef root fill:#67bdfb,color:#000,stroke:#0a3554,stroke-width:4px,font-size:20px
+    classDef central fill:#9ad1ff,color:#000,stroke:#1f5fa0,stroke-width:3.5px,font-size:18px
+    classDef peripheral fill:#ffd27d,color:#000,stroke:#b8891c,stroke-width:3.5px,font-size:18px
+    classDef autonomic fill:#ffb3b3,color:#000,stroke:#b84a4a,stroke-width:3px,font-size:17px
+
+    class NS root
+    class CNS central
+    class PNS peripheral
+    class Somatic peripheral
+    class Autonomic autonomic
+    class Sympathetic autonomic
+    class Parasympathetic autonomic
+    class Enteric autonomic
+
+    %% Rounded boxes
+    style NS rx:22,ry:22
+    style CNS rx:18,ry:18
+    style PNS rx:18,ry:18
+    style Somatic rx:16,ry:16
+    style Autonomic rx:16,ry:16
+    style Sympathetic rx:14,ry:14
+    style Parasympathetic rx:14,ry:14
+    style Enteric rx:14,ry:14
+
+    %% Arrows: hierarchy encoded in weight and style
+    linkStyle 0 stroke:#0a3554,stroke-width:5px
+    linkStyle 1 stroke:#0a3554,stroke-width:5px
+    linkStyle 2 stroke:#b8891c,stroke-width:5px
+    linkStyle 3 stroke:#b84a4a,stroke-width:5px
+    linkStyle 4 stroke:#b84a4a,stroke-width:5px
+    linkStyle 5 stroke:#b84a4a,stroke-width:5px
+    linkStyle 6 stroke:#b84a4a,stroke-width:5px
+
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
 </div>
 </div></div>
 </section>
@@ -262,9 +325,9 @@ Nerves and ganglia outside the CNS</p>
 </li>
 </ul>
 </div>
-<blockquote>
-<p>The CNS is protected by bone, meninges, and cerebrospinal fluid.</p>
-</blockquote>
+<div class="card">
+<p>The CNS is <code>protected</code> by bone, meninges, and cerebrospinal fluid.</p>
+</div>
 </div><div class="column">
 <div class="quarto-figure quarto-figure-right">
 <figure>
@@ -496,7 +559,7 @@ Nerves and ganglia outside the CNS</p>
 <p><strong>Effects of damage</strong></p>
 <ul>
 <li>Motor dysfunctions</li>
-<li>Changes in personality and social behavior<br>
+<li>Changes in <a href="https://en.wikipedia.org/wiki/Phineas_Gage">personality and social behavior</a><br>
 </li>
 </ul>
 </div>
@@ -528,7 +591,7 @@ Nerves and ganglia outside the CNS</p>
 <ul>
 <li>Impaired touch perception<br>
 </li>
-<li>Spatial Neglect, especially after right hemisphere damage</li>
+<li><a href="https://en.wikipedia.org/wiki/Hemispatial_neglect">Spatial Neglect</a>, especially after right hemisphere damage</li>
 </ul>
 </div>
 </div><div class="column">
@@ -551,7 +614,7 @@ Nerves and ganglia outside the CNS</p>
 </li>
 <li>Language comprehension<br>
 </li>
-<li>Memory &amp; Emotional processing</li>
+<li><a href="https://en.wikipedia.org/wiki/Henry_Molaison">Memory</a> &amp; Emotional processing</li>
 </ul>
 </div>
 <div class="info-box">
@@ -600,6 +663,343 @@ Nerves and ganglia outside the CNS</p>
 <div class="quarto-figure quarto-figure-right">
 <figure>
 <p><img data-src="images/SN_org_occipital.png" class="quarto-figure quarto-figure-right" width="500"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="subcortical-structures" class="slide level2 center">
+<h2>Subcortical structures</h2>
+<p>Below the Cerebral Cortex we can find also another layer of (Subcortical) structures.</p>
+<div class="info-box">
+<p>Major subcortical structures include:</p>
+<ul>
+<li>Basal nuclei<br>
+</li>
+<li>Hippocampus<br>
+</li>
+<li>Amygdala<br>
+</li>
+</ul>
+</div>
+<p>They are not visible from the surface but are critical for information processing.</p>
+<blockquote>
+<p>They <code>interact</code> extensively with the cortex.</p>
+</blockquote>
+</section>
+<section id="basal-nuclei" class="slide level2 center">
+<h2>Basal nuclei</h2>
+<div class="columns">
+<div class="column">
+<p>The <strong>basal nuclei</strong> are a group of interconnected nuclei. Including the <code>dorsal striatum</code> (caudate nucleus and putamen) and the <code>ventral striatum</code> (nucleus accumbens), the globus pallidus, the ventral pallidum, the substantia nigra, and the subthalamic nucleus.</p>
+<div class="info-box">
+<p>They are best known for their role in:</p>
+<ul>
+<li>Movement regulation<br>
+</li>
+<li>Action selection<br>
+</li>
+<li>Habit formation<br>
+</li>
+</ul>
+</div>
+<blockquote>
+<p>Damage to these structures disrupts <code>movement</code> without causing paralysis.</p>
+</blockquote>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/SN_org_basal_nuclei.jpg" class="quarto-figure quarto-figure-right" width="500"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="hippocampus" class="slide level2 center">
+<h2>Hippocampus</h2>
+<div class="columns">
+<div class="column">
+<p>The <strong>hippocampus</strong> is located in the <code>medial temporal lobe</code>.</p>
+<div class="info-box">
+<p>It is essential for:</p>
+<ul>
+<li>Formation memory and Contextual processing</li>
+<li>Spatial navigation<br>
+</li>
+<li>Emotional regulation</li>
+</ul>
+</div>
+<blockquote>
+<p>Damage may impair the ability to form new long-term <code>memories</code>.</p>
+</blockquote>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/SN_org_hippo_amy.jpg" class="quarto-figure quarto-figure-right" width="500"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="amygdala" class="slide level2 center">
+<h2>Amygdala</h2>
+<div class="columns">
+<div class="column">
+<p>The <strong>amygdala</strong> is also located in the <code>medial temporal lobe</code>.</p>
+<div class="info-box">
+<p>It plays a major role in:</p>
+<ul>
+<li>Emotional processing<br>
+</li>
+<li>Threat detection<br>
+</li>
+<li>Assigning emotional value to stimuli<br>
+</li>
+</ul>
+</div>
+<blockquote>
+<p>Damage to this structure may strongly influence learning and memory under <code>emotional</code> conditions.</p>
+</blockquote>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/SN_org_hippo_amy.jpg" class="quarto-figure quarto-figure-right" width="500"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="diencephalon" class="slide level2 center">
+<h2>Diencephalon</h2>
+<div class="columns">
+<div class="column">
+<p>The <strong>diencephalon</strong> lies beneath the cerebrum.</p>
+<p>It serves as a critical <code>interface</code> between cortical and subcortical systems.</p>
+<p>Major components include:</p>
+<ul>
+<li>Thalamus<br>
+</li>
+<li>Hypothalamus<br>
+</li>
+<li>Epithalamus</li>
+</ul>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/SN_org_dienc.png" class="quarto-figure quarto-figure-right" width="500"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="thalamus" class="slide level2 center">
+<h2>Thalamus</h2>
+<div class="columns">
+<div class="column">
+<p>The <strong>thalamus</strong> is often described as a relay station.</p>
+<p>Most sensory information passes through it on the way to cortex.</p>
+<blockquote>
+<p>However, it is not a passive <code>relay</code>. It actively <code>shapes</code> and <code>modulates</code> information flow.</p>
+</blockquote>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/SN_org_dienc.png" class="quarto-figure quarto-figure-right" width="500"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="hypothalamus" class="slide level2 center">
+<h2>Hypothalamus</h2>
+<div class="columns">
+<div class="column">
+<p>The <strong>hypothalamus</strong> is a group of different nuclei, small but functionally powerful.</p>
+<div class="info-box">
+<p>It regulates:</p>
+<ul>
+<li>Homeostasis<br>
+</li>
+<li>Autonomic nervous system activity<br>
+</li>
+<li>Hormone release<br>
+</li>
+<li>Motivated behaviors<br>
+</li>
+</ul>
+</div>
+<blockquote>
+<p>It forms a major <code>link</code> between the nervous and endocrine systems.</p>
+</blockquote>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/SN_org_dienc.png" class="quarto-figure quarto-figure-right" width="500"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="brainstem" class="slide level2 center">
+<h2>Brainstem</h2>
+<div class="columns">
+<div class="column">
+<p>The <strong>brainstem</strong> connects the brain to the spinal cord.</p>
+<p>It is essential for <code>survival</code>.</p>
+<div class="info-box">
+<p>It controls basic functions such as:</p>
+<ul>
+<li>Breathing<br>
+</li>
+<li>Heart rate<br>
+</li>
+<li>Sleep and arousal<br>
+</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/SN_org_brainstem.png" class="quarto-figure quarto-figure-right" width="500"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="brainstem-subdivisions" class="slide level2 center">
+<h2>Brainstem subdivisions</h2>
+<div class="columns">
+<div class="column">
+<p>The brainstem is divided into three major parts:</p>
+<div class="info-box">
+<ul>
+<li>Midbrain<br>
+</li>
+<li>Pons<br>
+</li>
+<li>Medulla<br>
+</li>
+</ul>
+</div>
+<blockquote>
+<p>Each contains nuclei and pathways critical for life.</p>
+</blockquote>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/SN_org_brainstem.png" class="quarto-figure quarto-figure-right" width="500"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="cerebellum" class="slide level2 center">
+<h2>Cerebellum</h2>
+<div class="columns">
+<div class="column">
+<p>The <strong>cerebellum</strong> lies posterior to the brainstem.</p>
+<div class="info-box">
+<p>It is involved in:</p>
+<ul>
+<li>Coordination of movement<br>
+</li>
+<li>Timing<br>
+</li>
+<li>Motor learning<br>
+</li>
+</ul>
+</div>
+<blockquote>
+<p>Damage does not prevent movement, but makes it inaccurate and unstable.</p>
+</blockquote>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/SN_org_cerebellum.jpg" class="quarto-figure quarto-figure-right" width="500"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="cranial-nerves" class="slide level2 center">
+<h2>Cranial nerves</h2>
+<p>Cranial nerves are part of the peripheral nervous system. They connect directly to the brain. Most cranial nerves enter or exit the CNS at the brainstem.</p>
+<blockquote>
+<p>There are <strong>12 pairs of cranial nerves</strong>. Numbered using Roman numerals I to XII .</p>
+</blockquote>
+<div class="info-box">
+<p>Cranial nerves can be classified by function:</p>
+<ul>
+<li><strong>Sensory</strong><br>
+</li>
+<li><strong>Motor</strong><br>
+</li>
+<li><strong>Mixed</strong> (sensory and motor)<br>
+</li>
+</ul>
+</div>
+</section>
+<section id="cranial-nerves-1" class="slide level2 center">
+<h2>Cranial nerves</h2>
+<div class="columns">
+<div class="column">
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th>Sensory</th>
+<th>Motor</th>
+<th>Mixed</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="https://en.wikipedia.org/wiki/Olfactory_nerve">Olfactory I</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Oculomotor_nerve">Oculomotor III</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Trigeminal_nerve">Trigeminal V</a></td>
+</tr>
+<tr class="even">
+<td><a href="https://en.wikipedia.org/wiki/Optic_nerve">Optic II</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Trochlear_nerve">Trochlear IV</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Facial_nerve">Facial VII</a></td>
+</tr>
+<tr class="odd">
+<td><a href="https://en.wikipedia.org/wiki/Vestibulocochlear_nerve">Vestibulocochlear VII</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Abducens_nerve">Abducens VI</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Glossopharyngeal_nerve">Glossopharyngeal IX</a></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><a href="https://en.wikipedia.org/wiki/Accessory_nerve">Accessory XI</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Vagus_nerve">Vagus X</a></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><a href="https://en.wikipedia.org/wiki/Hypoglossal_nerve">Hypoglossal XII</a></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<div class="info-box">
+<p>The <span class="highlight">Vagus nerve X</span> is unique. It provides extensive <code>parasympathetic</code> innervation to thoracic and abdominal organs. It is a major pathway for <code>autonomic</code> communication between <code>brain and body</code>.</p>
+</div>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/SN_org_cranial_nerves.png" class="quarto-figure quarto-figure-right" width="400"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="the-spinal-cord" class="slide level2 center">
+<h2>The spinal cord</h2>
+<p>The <strong>spinal cord</strong> is part of the central nervous system. It serves as the main communication pathway between the brain and the body, through the spinal nerves. It also performs important processing independently of the brain.</p>
+<div class="columns">
+<div class="column">
+<blockquote>
+<p>Grouped into regions: <code>Cervical</code>, <code>Thoracic</code>, <code>Lumbar</code>, <code>Sacral</code></p>
+</blockquote>
+<div class="info-box">
+<p>Spinal nerves connect to the cord via two roots:</p>
+<ul>
+<li><p><span class="highlight">Dorsal root</span> Carries <code>sensory</code> information into the spinal cord</p></li>
+<li><p><span class="highlight">Ventral root</span> Carries <code>motor</code> commands out of the spinal cord<br>
+</p></li>
+</ul>
+</div>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-right">
+<figure>
+<p><img data-src="images/SN_org_spinal_cord.jpg" class="quarto-figure quarto-figure-right" width="500"></p>
 </figure>
 </div>
 </div></div>

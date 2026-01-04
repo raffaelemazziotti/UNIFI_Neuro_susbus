@@ -767,7 +767,7 @@
     "href": "4_NS_organization.html#cns-pns",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "CNS & PNS",
-    "text": "CNS & PNS\n\n\nThe nervous system is classically divided into two main anatomical components:\n\nCentral Nervous System (CNS)\nBrain and spinal cord\n\n\nPeripheral Nervous System (PNS)\nNerves and ganglia outside the CNS"
+    "text": "CNS & PNS\n\n\nThe nervous system is classically divided into two main anatomical components:\n\nCentral Nervous System (CNS)\nBrain and spinal cord\n\n\nPeripheral Nervous System (PNS)\nNerves and ganglia outside the CNS\n\n\n\n\n\n\n\n%%{init: {'flowchart': {'rankSpacing': 90, 'nodeSpacing': 60}}}%%\nflowchart TD\n    NS[\"Nervous&lt;br/&gt;System\"]\n    CNS[\"Central&lt;br/&gt;Nervous&lt;br/&gt;System\"]\n    PNS[\"Peripheral&lt;br/&gt;Nervous&lt;br/&gt;System\"]\n    Somatic[\"Somatic&lt;br/&gt;Nervous&lt;br/&gt;System\"]\n    Autonomic[\"Autonomic&lt;br/&gt;Nervous&lt;br/&gt;System\"]\n    Sympathetic[\"Sympathetic\"]\n    Parasympathetic[\"Parasympathetic\"]\n    Enteric[\"Enteric\"]\n\n    NS --&gt; CNS\n    NS --&gt; PNS\n    PNS --&gt; Somatic\n    PNS --&gt; Autonomic\n    Autonomic --&gt; Sympathetic\n    Autonomic --&gt; Parasympathetic\n    Autonomic --&gt; Enteric\n\n    %% Node styles\n    classDef root fill:#67bdfb,color:#000,stroke:#0a3554,stroke-width:4px,font-size:20px\n    classDef central fill:#9ad1ff,color:#000,stroke:#1f5fa0,stroke-width:3.5px,font-size:18px\n    classDef peripheral fill:#ffd27d,color:#000,stroke:#b8891c,stroke-width:3.5px,font-size:18px\n    classDef autonomic fill:#ffb3b3,color:#000,stroke:#b84a4a,stroke-width:3px,font-size:17px\n\n    class NS root\n    class CNS central\n    class PNS peripheral\n    class Somatic peripheral\n    class Autonomic autonomic\n    class Sympathetic autonomic\n    class Parasympathetic autonomic\n    class Enteric autonomic\n\n    %% Rounded boxes\n    style NS rx:22,ry:22\n    style CNS rx:18,ry:18\n    style PNS rx:18,ry:18\n    style Somatic rx:16,ry:16\n    style Autonomic rx:16,ry:16\n    style Sympathetic rx:14,ry:14\n    style Parasympathetic rx:14,ry:14\n    style Enteric rx:14,ry:14\n\n    %% Arrows: hierarchy encoded in weight and style\n    linkStyle 0 stroke:#0a3554,stroke-width:5px\n    linkStyle 1 stroke:#0a3554,stroke-width:5px\n    linkStyle 2 stroke:#b8891c,stroke-width:5px\n    linkStyle 3 stroke:#b84a4a,stroke-width:5px\n    linkStyle 4 stroke:#b84a4a,stroke-width:5px\n    linkStyle 5 stroke:#b84a4a,stroke-width:5px\n    linkStyle 6 stroke:#b84a4a,stroke-width:5px"
   },
   {
     "objectID": "4_NS_organization.html#central-nervous-system-cns",
@@ -859,5 +859,103 @@
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Occipital lobe",
     "text": "Occipital lobe\n\n\nThe occipital lobe is located at the posterior pole of the brain.\nIt is primarily dedicated to visual processing.\n\nPrimary roles\n\nVisual perception\n\nProcessing of shape, motion, and color\n\n\n\n\nEffects of damage\n\nPartial or complete loss of vision\n\nVisual field deficits"
+  },
+  {
+    "objectID": "4_NS_organization.html#subcortical-structures",
+    "href": "4_NS_organization.html#subcortical-structures",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Subcortical structures",
+    "text": "Subcortical structures\nBelow the Cerebral Cortex we can find also another layer of (Subcortical) structures.\n\nMajor subcortical structures include:\n\nBasal nuclei\n\nHippocampus\n\nAmygdala\n\n\n\nThey are not visible from the surface but are critical for information processing.\n\nThey interact extensively with the cortex."
+  },
+  {
+    "objectID": "4_NS_organization.html#basal-ganglia",
+    "href": "4_NS_organization.html#basal-ganglia",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Basal ganglia",
+    "text": "Basal ganglia\nThe basal ganglia are a group of interconnected nuclei.\nThey are best known for their role in:\n\nMovement regulation\n\nAction selection\n\nHabit formation\n\nDamage to these structures disrupts movement without causing paralysis."
+  },
+  {
+    "objectID": "4_NS_organization.html#hippocampus",
+    "href": "4_NS_organization.html#hippocampus",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Hippocampus",
+    "text": "Hippocampus\n\n\nThe hippocampus is located in the medial temporal lobe.\n\nIt is essential for:\n\nFormation memory and Contextual processing\nSpatial navigation\n\nEmotional regulation\n\n\n\nDamage may impair the ability to form new long-term memories."
+  },
+  {
+    "objectID": "4_NS_organization.html#amygdala",
+    "href": "4_NS_organization.html#amygdala",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Amygdala",
+    "text": "Amygdala\n\n\nThe amygdala is also located in the medial temporal lobe.\n\nIt plays a major role in:\n\nEmotional processing\n\nThreat detection\n\nAssigning emotional value to stimuli\n\n\n\n\nDamage to this structure may strongly influence learning and memory under emotional conditions."
+  },
+  {
+    "objectID": "4_NS_organization.html#diencephalon",
+    "href": "4_NS_organization.html#diencephalon",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Diencephalon",
+    "text": "Diencephalon\n\n\nThe diencephalon lies beneath the cerebrum.\nIt serves as a critical interface between cortical and subcortical systems.\nMajor components include:\n\nThalamus\n\nHypothalamus\n\nEpithalamus"
+  },
+  {
+    "objectID": "4_NS_organization.html#thalamus",
+    "href": "4_NS_organization.html#thalamus",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Thalamus",
+    "text": "Thalamus\n\n\nThe thalamus is often described as a relay station.\nMost sensory information passes through it on the way to cortex.\n\nHowever, it is not a passive relay. It actively shapes and modulates information flow."
+  },
+  {
+    "objectID": "4_NS_organization.html#hypothalamus",
+    "href": "4_NS_organization.html#hypothalamus",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Hypothalamus",
+    "text": "Hypothalamus\n\n\nThe hypothalamus is a group of different nuclei, small but functionally powerful.\n\nIt regulates:\n\nHomeostasis\n\nAutonomic nervous system activity\n\nHormone release\n\nMotivated behaviors\n\n\n\n\nIt forms a major link between the nervous and endocrine systems."
+  },
+  {
+    "objectID": "4_NS_organization.html#brainstem",
+    "href": "4_NS_organization.html#brainstem",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Brainstem",
+    "text": "Brainstem\n\n\nThe brainstem connects the brain to the spinal cord.\nIt is essential for survival.\n\nIt controls basic functions such as:\n\nBreathing\n\nHeart rate\n\nSleep and arousal"
+  },
+  {
+    "objectID": "4_NS_organization.html#brainstem-subdivisions",
+    "href": "4_NS_organization.html#brainstem-subdivisions",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Brainstem subdivisions",
+    "text": "Brainstem subdivisions\n\n\nThe brainstem is divided into three major parts:\n\n\nMidbrain\n\nPons\n\nMedulla\n\n\n\n\nEach contains nuclei and pathways critical for life."
+  },
+  {
+    "objectID": "4_NS_organization.html#cerebellum",
+    "href": "4_NS_organization.html#cerebellum",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Cerebellum",
+    "text": "Cerebellum\n\n\nThe cerebellum lies posterior to the brainstem.\n\nIt is involved in:\n\nCoordination of movement\n\nTiming\n\nMotor learning\n\n\n\n\nDamage does not prevent movement, but makes it inaccurate and unstable."
+  },
+  {
+    "objectID": "4_NS_organization.html#basal-nuclei",
+    "href": "4_NS_organization.html#basal-nuclei",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Basal nuclei",
+    "text": "Basal nuclei\n\n\nThe basal nuclei are a group of interconnected nuclei. Including the dorsal striatum (caudate nucleus and putamen) and the ventral striatum (nucleus accumbens), the globus pallidus, the ventral pallidum, the substantia nigra, and the subthalamic nucleus.\n\nThey are best known for their role in:\n\nMovement regulation\n\nAction selection\n\nHabit formation\n\n\n\n\nDamage to these structures disrupts movement without causing paralysis."
+  },
+  {
+    "objectID": "4_NS_organization.html#the-spinal-cord",
+    "href": "4_NS_organization.html#the-spinal-cord",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "The spinal cord",
+    "text": "The spinal cord\nThe spinal cord is part of the central nervous system. It serves as the main communication pathway between the brain and the body, through the spinal nerves. It also performs important processing independently of the brain.\n\n\n\nGrouped into regions: Cervical, Thoracic, Lumbar, Sacral\n\n\nSpinal nerves connect to the cord via two roots:\n\nDorsal root Carries sensory information into the spinal cord\nVentral root Carries motor commands out of the spinal cord"
+  },
+  {
+    "objectID": "4_NS_organization.html#cranial-nerves",
+    "href": "4_NS_organization.html#cranial-nerves",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Cranial nerves",
+    "text": "Cranial nerves\nCranial nerves are part of the peripheral nervous system. They connect directly to the brain. Most cranial nerves enter or exit the CNS at the brainstem.\n\nThere are 12 pairs of cranial nerves. Numbered using Roman numerals I to XII .\n\n\nCranial nerves can be classified by function:\n\nSensory\n\nMotor\n\nMixed (sensory and motor)"
+  },
+  {
+    "objectID": "4_NS_organization.html#cranial-nerves-1",
+    "href": "4_NS_organization.html#cranial-nerves-1",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Cranial nerves",
+    "text": "Cranial nerves\n\n\n\n\n\nSensory\nMotor\nMixed\n\n\n\n\nOlfactory I\nOculomotor III\nTrigeminal V\n\n\nOptic II\nTrochlear IV\nFacial VII\n\n\nVestibulocochlear VII\nAbducens VI\nGlossopharyngeal IX\n\n\n\nAccessory XI\nVagus X\n\n\n\nHypoglossal XII\n\n\n\n\n\nThe Vagus nerve X is unique. It provides extensive parasympathetic innervation to thoracic and abdominal organs. It is a major pathway for autonomic communication between brain and body."
   }
 ]
