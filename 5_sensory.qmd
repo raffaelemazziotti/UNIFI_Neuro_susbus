@@ -66,4 +66,85 @@ Different receptors are tuned to different stimulus types:
 :::
 
 
+## Sensory Neural Code
+::: columns
+::: column
+Sensory transduction begins at [sensory receptors]{.highlight}.
+
+::: info-box
+[Receptor potentials]{.highlight}
+
+Sensory receptors generate receptor potentials, graded changes in membrane potential. Stronger stimuli generally produce larger receptor potentials.
+If threshold is reached, action potentials are generated.
+:::
+
+::: card
+
+Stimulus intensity is `encoded` in two main ways:
+
+- Firing rate of action potentials  
+- Number of activated receptors
+:::
+
+:::
+::: column
+
+::: info-box
+
+Receptive fields
+
+A **receptive field** is the region of sensory space that influences a neuron.
+
+Examples include:
+
+- A patch of skin  
+- A region of the retina  
+- A specific sound frequency  
+
+:::
+
+![](images/sens_RF_touch.jpg){width="300" fig-align="center"}
+
+:::
+:::
+
+## Sensory pathways
+::: columns
+::: column
+Most sensory systems follow a common pathway:
+
+1. Peripheral receptor  
+2. Entry into CNS  
+3. Relay through the thalamus  
+4. Projection to primary sensory cortex  
+
+:::info-box
+The [thalamus]{.highlight} plays a central role in sensory processing. It does more than `relay` information. 
+It actively `modulates` and organizes sensory signals before they reach cortex.
+:::
+
+:::
+::: column
+
+> An **exception**: `olfaction` - The olfactory system does not relay through the thalamus, but the signal reaches cortex directly.
+
+![](images/sen_sensory_pathways.jpg){width="300" fig-align="center"}
+
+:::
+:::
+
+
+## Primary sensory cortex
+
+Each sensory system has a **primary cortical area**.
+
+These areas:
+
+- Receive organized sensory input  
+- Preserve spatial relationships  
+- Serve as the entry point for cortical processing  
+
+Damage here produces modality-specific deficits.
+
+
 

@@ -971,5 +971,33 @@
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "What is a sensory system",
     "text": "What is a sensory system\n\n\nA sensory system allows the nervous system to detect and process stimuli from the environment.\n\nEach system is specialized for a particular form of energy or stimulus.\n\nDespite their differences, sensory systems share common organizational principles.\n\nSensory Transduction\nSensory systems work by converting physical stimuli into neural signals. This process is called transduction.\n\n\n\nSensory receptors: Sensory transduction begins at sensory receptors.\n\n\nDifferent receptors are tuned to different stimulus types:\n\nPhotoreceptors detect light\n\nMechanoreceptors detect touch and vibration\n\nChemoreceptors detect chemicals\n\nNociceptors detect damaging stimuli"
+  },
+  {
+    "objectID": "5_sensory.html#sensory-neural-code",
+    "href": "5_sensory.html#sensory-neural-code",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Sensory Neural Code",
+    "text": "Sensory Neural Code\n\n\nSensory transduction begins at sensory receptors.\n\nReceptor potentials\nSensory receptors generate receptor potentials, graded changes in membrane potential. Stronger stimuli generally produce larger receptor potentials. If threshold is reached, action potentials are generated.\n\n\nStimulus intensity is encoded in two main ways:\n\nFiring rate of action potentials\n\nNumber of activated receptors\n\n\n\n\nReceptive fields\nA receptive field is the region of sensory space that influences a neuron.\nExamples include:\n\nA patch of skin\n\nA region of the retina\n\nA specific sound frequency"
+  },
+  {
+    "objectID": "5_sensory.html#sensory-pathways",
+    "href": "5_sensory.html#sensory-pathways",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Sensory pathways",
+    "text": "Sensory pathways\n\n\nMost sensory systems follow a common pathway:\n\nPeripheral receptor\n\nEntry into CNS\n\nRelay through the thalamus\n\nProjection to primary sensory cortex\n\n\nThe thalamus plays a central role in sensory processing. It does more than relay information. It actively modulates and organizes sensory signals before they reach cortex.\n\n\n\nAn exception: olfaction - The olfactory system does not relay through the thalamus, but the signal reaches cortex directly."
+  },
+  {
+    "objectID": "5_sensory.html#an-exception-olfaction",
+    "href": "5_sensory.html#an-exception-olfaction",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "An exception: olfaction",
+    "text": "An exception: olfaction\nThe olfactory system does not relay through the thalamus first.\nOlfactory information reaches cortex directly.\nThis reflects its strong evolutionary and emotional significance."
+  },
+  {
+    "objectID": "5_sensory.html#primary-sensory-cortex",
+    "href": "5_sensory.html#primary-sensory-cortex",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Primary sensory cortex",
+    "text": "Primary sensory cortex\nEach sensory system has a primary cortical area.\nThese areas:\n\nReceive organized sensory input\n\nPreserve spatial relationships\n\nServe as the entry point for cortical processing\n\nDamage here produces modality-specific deficits."
   }
 ]
