@@ -166,9 +166,9 @@ Perception does not arise in a single area.
 ::: info-box
 Sensory information is processed across:
 
-- Primary cortex  
-- Secondary areas  
-- Association cortices  
+1. Primary cortex  
+2. Secondary areas  
+3. Association cortices  
 :::
 
 >Perception is an `emergent property` of distributed networks.
