@@ -35,6 +35,7 @@ format:
 - [Neuron](2_neuron.html)
 - [Neuronal Communication](3_synapse.html)
 - [Organization of the Nervous System](4_NS_organization.html)
+- [Sensory Systems](5_sensory.html)
 ::: 
 ::: column
 

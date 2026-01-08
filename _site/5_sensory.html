@@ -129,8 +129,9 @@
   <div class="reveal">
     <div class="slides">
 
-<section id="title-slide" data-background-image="images/logo/NEUROFARBA.svg" data-background-position="center 10%" data-background-size="500px" class="quarto-title-block center">
+<section id="title-slide" data-background-image="images/logo/NEUROFARBA.svg" data-background-position="center 10%" data-background-size="500px" data-state="title-slide" class="quarto-title-block center">
   <h1 class="title">Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes</h1>
+  <p class="subtitle">Module 1 - Sensory Systems</p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -144,23 +145,36 @@ Raffaele M Mazziotti, PhD
 </div>
 
 </section>
-<section id="index" class="slide level2 center">
-<h2>Index</h2>
-<blockquote>
-<p>Hello, Welcome to the course!</p>
-</blockquote>
-<h3 id="chapters">Chapters</h3>
+<section id="what-is-a-sensory-system" class="slide level2 center">
+<h2>What is a sensory system</h2>
 <div class="columns">
 <div class="column">
-<ul>
-<li><a href="1_intro.html">Introduction</a></li>
-<li><a href="2_neuron.html">Neuron</a></li>
-<li><a href="3_synapse.html">Neuronal Communication</a></li>
-<li><a href="4_NS_organization.html">Organization of the Nervous System</a></li>
-<li><a href="5_sensory.html">Sensory Systems</a></li>
-</ul>
+<p>A sensory system allows the nervous system to <code>detect</code> and process <code>stimuli</code> from the environment.</p>
+<blockquote>
+<p>Each system is specialized for a particular form of energy or stimulus.</p>
+</blockquote>
+<p>Despite their differences, sensory systems share common organizational principles.</p>
+<div class="info-box">
+<p><span class="highlight">Sensory Transduction</span></p>
+<p>Sensory systems work by converting <code>physical stimuli</code> into <code>neural signals</code>. This process is called <strong><code>transduction</code></strong>.</p>
+</div>
 </div><div class="column">
-
+<blockquote>
+<p><span class="highlight">Sensory receptors</span>: Sensory transduction begins at <strong><span class="highlight">sensory receptors</span></strong>.</p>
+</blockquote>
+<div class="info-box">
+<p>Different receptors are tuned to different stimulus types:</p>
+<ul>
+<li><code>Photoreceptors</code> detect light<br>
+</li>
+<li><code>Mechanoreceptors</code> detect touch and vibration<br>
+</li>
+<li><code>Chemoreceptors</code> detect chemicals<br>
+</li>
+<li><code>Nociceptors</code> detect damaging stimuli<br>
+</li>
+</ul>
+</div>
 </div></div>
 
 
@@ -225,7 +239,7 @@ Raffaele M Mazziotti, PhD
         progress: true,
 
         // Display the page number of the current slide
-        slideNumber: false,
+        slideNumber: 'c/t',
 
         // 'all', 'print', or 'speaker'
         showSlideNumber: 'all',
@@ -383,6 +397,71 @@ Raffaele M Mazziotti, PhD
           RevealZoom
         ]
       });
+    </script>
+    <script>
+    (function () {
+      function injectHomeLink() {
+        const link = document.createElement("a");
+        link.href = "index.html";
+        link.setAttribute("aria-label", "Back to Index");
+        link.title = "Back to Index";
+
+        // Positioning
+        link.style.position = "absolute";
+        link.style.bottom = "20px";
+        link.style.left = "50%";
+        link.style.transform = "translateX(-50%)";
+        link.style.width = "28px";
+        link.style.height = "28px";
+        link.style.zIndex = "1000";
+        link.style.display = "none";
+        link.style.opacity = "0.75";
+        link.style.cursor = "pointer";
+
+        // Home icon image
+        const img = document.createElement("img");
+        img.src = "images/home.svg";   // <-- your existing file
+        img.alt = "Home";
+        img.width = 28;
+        img.height = 28;
+        img.style.display = "block";
+
+        link.appendChild(img);
+        document.body.appendChild(link);
+
+        // Hover feedback
+        link.addEventListener("mouseenter", () => {
+          link.style.opacity = "1";
+          link.style.transform = "translateX(-50%) scale(2)";
+        });
+
+        link.addEventListener("mouseleave", () => {
+          link.style.opacity = "0.75";
+          link.style.transform = "translateX(-50%) scale(1)";
+        });
+
+        // Show only on title slide
+        function updateVisibility() {
+          if (document.body.classList.contains("title-slide")) {
+            link.style.display = "block";
+          } else {
+            link.style.display = "none";
+          }
+        }
+
+        updateVisibility();
+        Reveal.on("slidechanged", updateVisibility);
+        Reveal.on("ready", updateVisibility);
+      }
+
+      if (window.Reveal && Reveal.isReady()) {
+        injectHomeLink();
+      } else {
+        document.addEventListener("DOMContentLoaded", function () {
+          Reveal.on("ready", injectHomeLink);
+        });
+      }
+    })();
     </script>
     <script id="quarto-html-after-body" type="application/javascript">
       window.document.addEventListener("DOMContentLoaded", function (event) {

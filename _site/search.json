@@ -473,7 +473,7 @@
     "href": "0_content.html#index",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Index",
-    "text": "Index\n\nHello, Welcome to the course!\n\nChapters\n\n\n\nIntroduction\nNeuron\nNeuronal Communication\nOrganization of the Nervous System"
+    "text": "Index\n\nHello, Welcome to the course!\n\nChapters\n\n\n\nIntroduction\nNeuron\nNeuronal Communication\nOrganization of the Nervous System\nSensory Systems"
   },
   {
     "objectID": "3_synapse.html#neurotransmitters",
@@ -949,7 +949,7 @@
     "href": "4_NS_organization.html#cranial-nerves",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Cranial nerves",
-    "text": "Cranial nerves\nCranial nerves are part of the peripheral nervous system. They connect directly to the brain. Most cranial nerves enter or exit the CNS at the brainstem.\n\nThere are 12 pairs of cranial nerves. Numbered using Roman numerals I to XII .\n\n\nCranial nerves can be classified by function:\n\nSensory\n\nMotor\n\nMixed (sensory and motor)"
+    "text": "Cranial nerves\nCranial nerves are part of the peripheral nervous system. They connect directly to the brain.\n\nMost cranial nerves enter or exit the CNS at the brainstem (except olfactory and optic nerves).\n\n\nThere are 12 pairs of cranial nerves. Numbered using Roman numerals I to XII .\n\n\nCranial nerves can be classified by function:\n\nSensory\n\nMotor\n\nMixed (sensory and motor)"
   },
   {
     "objectID": "4_NS_organization.html#cranial-nerves-1",
@@ -957,5 +957,19 @@
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Cranial nerves",
     "text": "Cranial nerves\n\n\n\n\n\nSensory\nMotor\nMixed\n\n\n\n\nOlfactory I\nOculomotor III\nTrigeminal V\n\n\nOptic II\nTrochlear IV\nFacial VII\n\n\nVestibulocochlear VII\nAbducens VI\nGlossopharyngeal IX\n\n\n\nAccessory XI\nVagus X\n\n\n\nHypoglossal XII\n\n\n\n\n\nThe Vagus nerve X is unique. It provides extensive parasympathetic innervation to thoracic and abdominal organs. It is a major pathway for autonomic communication between brain and body."
+  },
+  {
+    "objectID": "4_NS_organization.html#ciao",
+    "href": "4_NS_organization.html#ciao",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "ciao",
+    "text": "ciao"
+  },
+  {
+    "objectID": "5_sensory.html#what-is-a-sensory-system",
+    "href": "5_sensory.html#what-is-a-sensory-system",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "What is a sensory system",
+    "text": "What is a sensory system\n\n\nA sensory system allows the nervous system to detect and process stimuli from the environment.\n\nEach system is specialized for a particular form of energy or stimulus.\n\nDespite their differences, sensory systems share common organizational principles.\n\nSensory Transduction\nSensory systems work by converting physical stimuli into neural signals. This process is called transduction.\n\n\n\nSensory receptors: Sensory transduction begins at sensory receptors.\n\n\nDifferent receptors are tuned to different stimulus types:\n\nPhotoreceptors detect light\n\nMechanoreceptors detect touch and vibration\n\nChemoreceptors detect chemicals\n\nNociceptors detect damaging stimuli"
   }
 ]

@@ -576,7 +576,6 @@ It is primarily dedicated to visual processing.
 ::: 
 ::: 
 
-
 ## Subcortical structures
 
 Below the Cerebral Cortex we can find also another layer of (Subcortical) structures. 
@@ -596,7 +595,7 @@ They are not visible from the surface but are critical for information processin
 ## Basal nuclei
 ::: columns
 ::: column
-The **basal nuclei** are a group of interconnected nuclei. Including the `dorsal striatum` (caudate nucleus and putamen) and the `ventral striatum` (nucleus accumbens), the globus pallidus, the ventral pallidum, the substantia nigra, and the subthalamic nucleus.
+The **[basal nuclei]{.highlight}** are a group of interconnected nuclei. Including the `dorsal striatum` (caudate nucleus and putamen) and the `ventral striatum` (nucleus accumbens), the globus pallidus, the ventral pallidum, the substantia nigra, and the subthalamic nucleus.
 
 :::info-box
 They are best known for their role in:
@@ -635,8 +634,7 @@ It is essential for:
 ::: column
 ![](images/SN_org_hippo_amy.jpg){width="500" fig-align="right"}
 ::: 
-::: 
-
+:::
 
 ## Amygdala
 
@@ -680,14 +678,13 @@ Major components include:
 ![](images/SN_org_dienc.png){width="500" fig-align="right"}
 
 ::: 
-::: 
-
+:::
 
 ## Thalamus
 
 ::: columns
 ::: column
-The **thalamus** is often described as a relay station.
+The **thalamus** is often described as a `relay station`.
 
 Most sensory information passes through it on the way to cortex.
 
@@ -701,8 +698,6 @@ Most sensory information passes through it on the way to cortex.
 
 ::: 
 ::: 
-
-
 
 ## Hypothalamus
 
@@ -804,8 +799,10 @@ It is involved in:
 
 ## Cranial nerves
 
-Cranial nerves are part of the peripheral nervous system.
-They connect directly to the brain. Most cranial nerves enter or exit the CNS at the brainstem.
+Cranial nerves are part of the `peripheral nervous system`.
+They connect directly to the brain. 
+
+>Most cranial nerves enter or exit the CNS at the [brainstem]{.highlight} (except olfactory and optic nerves).
 
 > There are **12 pairs of cranial nerves**. Numbered using Roman numerals I to XII .
 
@@ -839,7 +836,11 @@ It is a major pathway for `autonomic` communication between `brain and body`.
 ::: 
 ::: column
 
-![](images/SN_org_cranial_nerves.png){width="400" fig-align="right"}
+![](images/SN_org_cranial_nerves.png){width="350" fig-align="right"}
+
+```{=html}
+<iframe width="400" height="250" src=https://sketchfab.com/models/ae08e8f3340242fd831cb0de1be65044/embed title="Cranial Nerves"></iframe>
+```
 
 ::: 
 :::
@@ -871,3 +872,8 @@ Spinal nerves connect to the cord via two roots:
 
 ::: 
 ::: 
+
+---
+
+## ciao
+

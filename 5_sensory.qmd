@@ -1,0 +1,69 @@
+---
+title: "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes"
+subtitle: "Module 1 - Sensory Systems"
+author: "Raffaele M Mazziotti, PhD"
+institute: "University of Florence"
+format:
+  revealjs:
+    controls: true
+    theme: default
+    slide-number: true
+    logo: images/logo/NEUROFARBA_logo.svg
+    css: slide_style.css
+    transition: fade
+    center: true
+    math: mathjax
+    chalkboard: 
+      buttons: false
+    progress: true
+    title-slide-attributes:
+      data-background-image: images/logo/NEUROFARBA.svg
+      data-background-size: 500px
+      data-background-position: "center 10%"
+      data-state: title-slide
+    include-after-body: afterbody.html
+      
+    mermaid:
+      theme: neutral
+    
+---
+
+
+## What is a sensory system
+
+::: columns
+::: column
+A sensory system allows the nervous system to `detect` and process `stimuli` from the environment.
+
+>Each system is specialized for a particular form of energy or stimulus.
+
+Despite their differences, sensory systems share common organizational principles.
+
+:::info-box
+[Sensory Transduction]{.highlight}
+
+Sensory systems work by converting `physical stimuli` into `neural signals`.
+This process is called **`transduction`**.
+
+:::
+
+::: 
+::: column
+
+>[Sensory receptors]{.highlight}: Sensory transduction begins at **[sensory receptors]{.highlight}**.
+
+:::info-box
+
+Different receptors are tuned to different stimulus types:
+
+- `Photoreceptors` detect light  
+- `Mechanoreceptors` detect touch and vibration  
+- `Chemoreceptors` detect chemicals  
+- `Nociceptors` detect damaging stimuli  
+:::
+
+:::
+:::
+
+
+
