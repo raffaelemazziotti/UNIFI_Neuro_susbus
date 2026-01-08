@@ -136,15 +136,47 @@ It actively `modulates` and organizes sensory signals before they reach cortex.
 
 ## Primary sensory cortex
 
+::: columns
+::: column
 Each sensory system has a **primary cortical area**.
 
+::: info-box
 These areas:
 
-- Receive organized sensory input  
-- Preserve spatial relationships  
-- Serve as the entry point for cortical processing  
+- Serve as the `entry point` for cortical processing  
+- Receive `organized` sensory input  
+- Preserve `spatial relationships`  
+:::
 
-Damage here produces modality-specific deficits.
+> Damage here produces `modality-specific` deficits.
 
+:::
+::: column
+
+![](images/sen_sensory_pathways.png){width="500" fig-align="center"}
+
+:::
+:::
+
+## Distributed processing
+::: columns
+::: column
+Perception does not arise in a single area.
+
+::: info-box
+Sensory information is processed across:
+
+- Primary cortex  
+- Secondary areas  
+- Association cortices  
+:::
+
+>Perception is an `emergent property` of distributed networks.
+
+:::
+:::column
+![](images/sen_association.png){width="500" fig-align="center"}
+:::
+:::
 
 
