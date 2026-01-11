@@ -28,6 +28,62 @@ format:
     
 ---
 
+## Beyond the “Five Senses”
+
+The idea that humans have only *five senses* is a historical simplification, not a biological one.
+
+::: info-box
+What we call a `sense` is any system that:
+
+- `detects` a specific form of energy or chemical signal
+- `converts` it into neural activity
+- `provides` information about the body or the environment
+:::
+
+By this definition, the nervous system supports many `parallel` sensory channels, often operating outside awareness.
+
+:::tip
+**The brain does not experience “the world” directly.**  
+It constructs reality from multiple specialized input streams, some obvious, some silent.
+:::
+
+## Additional Sensory Systems
+
+Beyond `vision`, `audition`, `smell`, `taste`, and `touch`, the nervous system includes:
+
+::: colummns
+::: column
+
+:::info-box
+[Equilibrioception (vestibular sense)]{.highlight}  
+Signals head position and movement, supporting balance, posture, and stable vision.
+
+[Proprioception]{.highlight}    
+Provides continuous information about limb position, muscle stretch, and joint angle, even with eyes closed.
+
+[Interoception]{.highlight}    
+Monitors the internal state of the body, including heart rate, respiration, hunger, visceral pain, and arousal.
+:::
+
+:::
+::: column
+
+:::info-box
+[Nociception]{.highlight}  
+Detection of harmful stimuli. It is not pain, which is a perceptual and emotional construct.
+
+[Thermoception]{.highlight}   
+Sensing temperature changes.
+
+[Pruriception (Itch)]{.highlight}    
+A distinct sensory modality, not just weak pain.
+
+[Chemoception (internal)]{.highlight}   
+Detection of blood chemistry such as CO₂.
+:::
+
+:::
+:::
 
 ## What is a sensory system
 
@@ -64,7 +120,6 @@ Different receptors are tuned to different stimulus types:
 
 :::
 :::
-
 
 ## Sensory Neural Code
 ::: columns
@@ -133,7 +188,6 @@ It actively `modulates` and organizes sensory signals before they reach cortex.
 :::
 :::
 
-
 ## Primary sensory cortex
 
 ::: columns
@@ -178,5 +232,432 @@ Sensory information is processed across:
 ![](images/sen_association.png){width="500" fig-align="center"}
 :::
 :::
+
+
+
+
+## Vision
+
+::: columns
+::: column
+
+::: info-box
+The visual system responds to [electromagnetic radiation]{.highlight} in the visible spectrum.
+
+Key `properties` of light include:
+
+- `Wavelength`  
+- `Intensity`  
+
+These properties are transformed into neural signals by the `retina`.
+:::
+
+:::info-box
+
+A 'sensory window' is the part of a physical dimension that a biological system can detect. 
+What lies outside the window is not perceived, but it still exists.
+**Human vision** : Sensitive roughly to wavelengths between `~400 nm (violet)` and `~700 nm (red)`
+:::
+
+:::
+::: column
+
+![](images/sen_spectrum.jpg){width="500" fig-align="right"}
+![](images/sen_sensory_win.jpg){width="400" fig-align="center"}
+
+:::
+:::
+
+## Anatomy of the eye
+
+::: columns
+::: column
+
+:::info-box
+Light enters the eye through several `structures`:
+
+- [Cornea]{.highlight}  
+- [Pupil]{.highlight}  
+- [Lens]{.highlight}
+- [Retina]{.highlight}  
+:::
+
+:::card
+The [Retina]{.highlight} is organized in `layers`.
+Light passes through several cell layers before reaching photoreceptors.
+Neural processing begins within the retina itself.
+:::
+
+:::
+:::column
+![](images/sen_eye.png){width="400" fig-align="center"}
+![](images/sen_retina.png){width="400" fig-align="center"}
+:::
+:::
+
+## Photoreceptors
+::: columns
+::: column
+>Photoreceptors are specialized cells that respond to light.
+
+:::info-box
+There are two main types:
+
+- [Rods]{.highlight}  
+- [Cones]{.highlight}    
+:::
+
+::: card
+`Rods` are highly sensitive to light. They are specialized for:
+
+- `Low-light` conditions (Night vision - Scotopic)
+- `No color` information
+
+:::
+
+::: 
+::: column
+
+::: card
+`Cones` are less sensitive to light. They are specialized for:
+
+- Daylight vision  
+- Color perception  
+- High spatial resolution  
+
+Humans typically have `3 cone types`.
+
+:::
+
+![](images/sen_photoreceptors.png){width="400" fig-align="center"}
+
+:::
+:::
+
+## The fovea and the Optic Nerve
+
+:::columns
+::: column
+
+:::card
+The [fovea]{.highlight} is a small region near the center of the retina.
+It contains a `high density of cones`. 
+It provides the `highest visual acuity`.
+:::
+
+::: info-box
+In addition to photoreceptors, the retina contains:
+
+- `Bipolar` cells
+- `Horizontal` cells  
+- `Amacrine` cells  
+- `Ganglion` cells  
+
+These cells shape and refine visual signals.
+:::
+
+
+:::
+:::column
+
+::: card
+The axons of ganglion cells form the [optic nerve]{.highlight}.
+
+This nerve carries visual information to the brain.
+
+Where the optic nerve exits the retina, there are no photoreceptors.
+This creates the `blind spot`.
+:::
+
+![](images/sen_fovea.jpg){width="250" fig-align="left"}
+![](images/sen_rgc.jpg){width="250" fig-align="right"}
+
+:::
+:::
+
+## Retinal ganglion cells (RGC)
+
+::: columns
+::: column
+>Retinal ganglion cells are the `output` neurons of the retina.
+>They receive input indirectly from photoreceptors through bipolar and amacrine cells.
+>Their axons form the `optic nerve`.
+
+:::info-box
+Retinal ganglion cell `receptive fields` are [circular]{.highlight} and organized into [2 regions]:
+
+- A `central` region  
+- A `surrounding` region  
+
+Light affects these regions in `opposite` ways.
+:::
+
+:::
+::: column
+
+![](images/sen_rgc_rf.png){width="350" fig-align="center"}
+![](images/sen_rgc_rf1.png){width="380" fig-align="center"}
+
+:::
+:::
+
+## RGC Receptive Field
+
+:::columns
+:::column
+
+:::info-box
+In [ON-center]{.highlight} ganglion cells:
+
+- Light in the center increases firing  
+- Light in the surround decreases firing  
+
+>They respond best to a bright spot on a darker background.
+
+![](images/sen_rgc_rf_on.jpg){width="150" fig-align="center"}
+
+:::
+
+:::
+:::column
+
+:::info-box
+In [OFF-center]{.highlight} ganglion cells:
+
+- Light in the center decreases firing  
+- Light in the surround increases firing  
+
+>They respond best to a dark spot on a brighter background.
+
+![](images/sen_rgc_rf_off.jpg){width="150" fig-align="center"}
+
+:::
+
+:::
+:::
+
+## RGC Receptive Field 
+
+::: card
+Uniform illumination produces weak responses. his makes the RGC sensitive to `changes` in relative illumination across space-time.
+
+:::
+
+:::columns
+:::column
+
+:::info-box
+Center–surround organization emphasizes:
+
+- `Contrast`
+- `Changes` in light intensity  
+- No relation with the absolute light levels 
+:::
+
+:::
+::: column
+
+::: info-box
+Center-surround receptive fields arise from `retinal circuitry`.
+
+Key contributors include:
+
+- Bipolar cells  
+- Horizontal cells  
+- Amacrine cells  
+
+`Lateral interactions` are essential.
+:::
+
+:::
+:::
+
+## From retina to the Brain
+
+:::columns
+:::column
+
+:::card
+After retinal processing, visual information leaves the eye through the **optic nerve**. Each optic nerve carries information from `one eye`.
+At this stage, information is `segregated` by eye. The optic nerves meet at the [optic chiasm]{.highlight}. Here, some axons cross to the opposite side of the brain.
+This crossing is `partial`, not complete.
+:::
+
+:::info-box
+The `Crossing Rule`:
+
+- Axons from the [nasal]{.highlight} retina **cross** at the chiasm.
+
+- Axons from the [temporal]{.highlight} retina remain on the **same side**.
+
+Each hemisphere receives information from the [contralateral]{.highlight} visual field.
+
+:::
+
+:::
+:::column
+
+:::info-box
+**Ipsilateral**  
+Located on the *same side* of the body as the structure or reference point.
+
+**Contralateral**  
+Located on the *opposite side* of the body relative to the structure or reference point.
+:::
+
+:::info-box
+After the chiasm:
+
+- Left hemisphere processes right visual field  
+- Right hemisphere processes left visual field  
+
+:::
+
+:::
+:::
+
+## The thalamus
+
+:::columns
+:::column
+
+:::card
+Beyond the chiasm, axons continue as the `optic tract`.
+Most optic tract fibers synapse in the `thalamus`. This relay is obligatory for `conscious vision`.
+:::
+
+:::info-box
+Visual information synapses in the [lateral geniculate nucleus]{.highlight} (LGN).
+
+The LGN:
+
+- `Preserves` retinal organization  
+- Maintains `separation` of inputs (monocular)  
+- `Modulates` signal flow to cortex  
+- Receptive fields are similar to those of RGC (circular)
+
+:::
+
+:::
+:::column
+
+![](images/sen_vis_field.jpg){width="300" fig-align="center"}
+![](images/sen_talamus.jpg){width="250" fig-align="center"}
+
+:::
+:::
+
+## Input to V1
+
+:::columns
+:::column
+
+>Axons from the lateral geniculate nucleus project to V1 (Primary Visual Cortex).
+>These projections travel via the `optic radiations`.
+> Arriving to the `IV layer` of V1.
+> Each hemisphere represents the **contralateral visual field**.
+
+:::info-box
+V1 is organized [retinotopically]{.highlight}.
+
+This means that:
+
+- Neighboring points in the retina  
+- Map to neighboring points in cortex  
+
+`Spatial relationships` are preserved.
+
+:::
+
+:::
+:::column
+
+:::info-box
+[Cortical Magnification Factor]{.highlight}:Retinotopy is not uniform.
+
+The fovea occupies a disproportionately large area of V1.
+
+This reflects:
+
+- High cone density  
+- High visual acuity  
+
+Central vision is overrepresented.
+
+:::
+
+![](images/sen_retinotopy.jpg){width="400" fig-align="center"}
+
+:::
+:::
+
+## What V1 neurons encode
+
+:::columns
+:::column
+
+>Neurons in V1 respond to `simple visual features` and start integrating the `binocular` input.
+
+:::info-box
+Features encoded:
+
+- `Edges`  
+- `Orientation`  
+- `Spatial location` 
+- `Binocularity` from layer 2/3
+
+V1 extracts structure from retinal input.
+:::
+
+:::
+:::column
+
+![](images/sen_vispath_v1.jpg){width="400" fig-align="center"}
+![](images/sen_od_columns.jpg){width="300" fig-align="center"}
+
+:::
+:::
+
+## V1 Receptive Fields
+
+:::columns
+:::column
+
+>Neurons in primary visual cortex have receptive fields that differ from those in the retina.
+> **They are not circular.**
+> They are `elongated` and selective for specific visual features.
+
+::: info-box
+Each V1 neuron prefers a specific orientation.
+Rotation of the stimulus away from the preferred orientation reduces the response.
+:::
+
+![](images/sen_v1_rf_shape.jpg){width="300" fig-align="center"}
+
+:::
+:::column
+
+:::info-box
+Even-symmetric receptive fields have:
+
+- Symmetric ON and OFF regions  
+- Strong responses to bars  
+
+They respond best to a bright or dark line at the preferred orientation.
+:::
+
+
+:::info-box
+Odd-symmetric receptive fields have:
+
+- Asymmetric ON and OFF regions  
+- Strong responses to edges  
+
+They are particularly sensitive to luminance transitions.
+:::
+
+:::
+:::
+
 
 
