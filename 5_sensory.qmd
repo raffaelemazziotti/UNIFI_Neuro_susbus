@@ -233,9 +233,6 @@ Sensory information is processed across:
 :::
 :::
 
-
-
-
 ## Vision
 
 ::: columns
@@ -624,7 +621,7 @@ V1 extracts structure from retinal input.
 :::column
 
 >Neurons in primary visual cortex have receptive fields that differ from those in the retina.
-> **They are not circular.**
+> **They are not circular!**
 > They are `elongated` and selective for specific visual features.
 
 ::: info-box
@@ -638,23 +635,57 @@ Rotation of the stimulus away from the preferred orientation reduces the respons
 :::column
 
 :::info-box
-Even-symmetric receptive fields have:
+[Even-symmetric]{.highlight} receptive fields have:
 
 - Symmetric ON and OFF regions  
 - Strong responses to bars  
 
-They respond best to a bright or dark line at the preferred orientation.
+They respond best to a bright or dark `line` at the preferred orientation.
 :::
 
 
 :::info-box
-Odd-symmetric receptive fields have:
+[Odd-symmetric]{.highlight} receptive fields have:
 
 - Asymmetric ON and OFF regions  
 - Strong responses to edges  
 
-They are particularly sensitive to luminance transitions.
+They are particularly sensitive to `luminance transitions`.
 :::
+
+:::
+:::
+
+## V1 Receptive Fields 2
+
+:::columns
+:::column
+
+::: info-box
+
+[Simple cells]{.highlight} have:
+
+- Clearly defined ON and OFF subregions  
+- Strong orientation selectivity  
+- Sensitivity to exact stimulus position and polarity
+
+:::
+
+::: info-box
+[Complex cells]{.highlight} also show `orientation` selectivity.
+
+- Lack clearly separated ON and OFF regions  
+- Are less sensitive to exact position  
+- Respond across larger receptive fields  
+
+They integrate input over space.
+
+::: 
+
+:::
+:::column
+
+![](images/sen_rf_simple_complex.png){width="500" fig-align="center"}
 
 :::
 :::

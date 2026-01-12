@@ -1124,6 +1124,20 @@
     "href": "5_sensory.html#v1-receptive-fields",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "V1 Receptive Fields",
-    "text": "V1 Receptive Fields\n\n\n\nNeurons in primary visual cortex have receptive fields that differ from those in the retina. They are not circular. They are elongated and selective for specific visual features.\n\n\nEach V1 neuron prefers a specific orientation. Rotation of the stimulus away from the preferred orientation reduces the response.\n\n\n\n\n\n\n\n\nEven-symmetric receptive fields have:\n\nSymmetric ON and OFF regions\n\nStrong responses to bars\n\nThey respond best to a bright or dark line at the preferred orientation.\n\n\nOdd-symmetric receptive fields have:\n\nAsymmetric ON and OFF regions\n\nStrong responses to edges\n\nThey are particularly sensitive to luminance transitions."
+    "text": "V1 Receptive Fields\n\n\n\nNeurons in primary visual cortex have receptive fields that differ from those in the retina. They are not circular! They are elongated and selective for specific visual features.\n\n\nEach V1 neuron prefers a specific orientation. Rotation of the stimulus away from the preferred orientation reduces the response.\n\n\n\n\n\n\n\n\nEven-symmetric receptive fields have:\n\nSymmetric ON and OFF regions\n\nStrong responses to bars\n\nThey respond best to a bright or dark line at the preferred orientation.\n\n\nOdd-symmetric receptive fields have:\n\nAsymmetric ON and OFF regions\n\nStrong responses to edges\n\nThey are particularly sensitive to luminance transitions."
+  },
+  {
+    "objectID": "5_sensory.html#v1-receptive-fields-1",
+    "href": "5_sensory.html#v1-receptive-fields-1",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "V1 Receptive Fields",
+    "text": "V1 Receptive Fields\n\n\n\nSimple cells have:\n\nClearly defined ON and OFF subregions\n\nStrong orientation selectivity\n\nSensitivity to exact stimulus position\n\nThey respond best to precisely placed bars or edges.\n\n\nComplex cells also show orientation selectivity.\nHowever, they:\n\nLack clearly separated ON and OFF regions\n\nAre less sensitive to exact position\n\nRespond across larger receptive fields\n\nThey integrate input over space."
+  },
+  {
+    "objectID": "5_sensory.html#v1-receptive-fields-2",
+    "href": "5_sensory.html#v1-receptive-fields-2",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "V1 Receptive Fields 2",
+    "text": "V1 Receptive Fields 2\n\n\n\nSimple cells have:\n\nClearly defined ON and OFF subregions\n\nStrong orientation selectivity\n\nSensitivity to exact stimulus position and polarity\n\n\n\nComplex cells also show orientation selectivity.\n\nLack clearly separated ON and OFF regions\n\nAre less sensitive to exact position\n\nRespond across larger receptive fields\n\nThey integrate input over space."
   }
 ]
