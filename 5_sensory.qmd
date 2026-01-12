@@ -675,19 +675,152 @@ They are particularly sensitive to `luminance transitions`.
 [Complex cells]{.highlight} also show `orientation` selectivity.
 
 - Lack clearly separated ON and OFF regions  
-- Are less sensitive to exact position  
-- Respond across larger receptive fields  
+- Are less sensitive to exact position
 
-They integrate input over space.
+They `integrate` input over space.
 
 ::: 
 
 :::
 :::column
 
-![](images/sen_rf_simple_complex.png){width="500" fig-align="center"}
+![](images/sen_rf_simple_complex.png){width="450" fig-align="center"}
+
 
 :::
+:::
+
+## A feedforward model of vision
+
+:::columns
+:::column
+
+:::info-box
+In the `feedforward models`:
+
+- Simple features are combined into complex ones
+- Features become more abstract  
+- Sensitivity to exact position decreases
+:::
+
+::: info-box
+Feedforward models are [incomplete]{.highlight}.
+
+They do not fully explain:
+
+- `Contextual` effects  
+- `Attention`  
+- [Visual illusions](https://www.illusionsindex.org/i)  
+
+Additional interactions are required.
+:::
+
+:::
+:::column
+
+![](images/sen_rf_video.mp4){width="450" fig-align="center"}
+
+:::
+:::
+
+## Higher-order visual cortex
+
+:::card
+Beyond V1, visual information diverges. Multiple cortical areas specialize in different aspects of vision.
+These areas form distributed processing streams.
+:::
+
+:::info-box
+Visual processing splits into two dominant pathways:
+
+- `Ventral` stream  
+- `Dorsal` stream  
+
+They differ in anatomy, function, and behavioral relevance.
+:::
+
+## The “what” and "where" pathways
+
+:::columns
+:::column
+
+:::info-box
+The [ventral stream]{.highlight} runs from occipital to temporal cortex.
+
+It is primarily involved in:
+
+- `Object` recognition  
+- `Shape` and `color` processing  
+- `Face` perception  
+
+>It answers the question: `What is it?`
+:::
+
+:::
+:::column
+
+:::info-box
+
+The [dorsal stream]{.highlight} runs from occipital to parietal cortex.
+
+It is involved in:
+
+- `Spatial` localization  
+- `Motion` processing  
+- Visually guided `actions`  
+
+>It answers the question: `Where is it?`
+:::
+
+:::
+:::
+
+## Beyond what and where
+
+:::columns
+:::column
+
+:::info-box
+The two-stream model is a simplification.
+
+Modern views emphasize:
+
+- `Interaction` between streams  
+- `Feedback` connections  
+- Task-dependent processing  
+
+Vision is dynamic, not strictly hierarchical.
+
+:::
+
+:::info-box
+Higher-order areas send feedback to earlier visual cortex (`top-down` stream).
+
+- Attention  
+- Contextual effects
+- Prediction
+:::
+
+:::
+:::column
+
+![](images/sen_what_where.jpg){width="400" fig-align="center"}
+
+:::
+:::
+
+
+## The ventral stream and identity
+
+> Faces detection and recognition is a [Holistic process]{.highlight}. This means that faces  are processed as integrated wholes.
+
+:::info-box
+A key region for face perception is the [fusiform area]{.highlight} of the temporal lobe.
+
+It is involved in:
+
+- `Recognizing` individual faces  
+- `Discriminating` subtle facial features  
 :::
 
 

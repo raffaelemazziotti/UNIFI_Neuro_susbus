@@ -1138,6 +1138,55 @@
     "href": "5_sensory.html#v1-receptive-fields-2",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "V1 Receptive Fields 2",
-    "text": "V1 Receptive Fields 2\n\n\n\nSimple cells have:\n\nClearly defined ON and OFF subregions\n\nStrong orientation selectivity\n\nSensitivity to exact stimulus position and polarity\n\n\n\nComplex cells also show orientation selectivity.\n\nLack clearly separated ON and OFF regions\n\nAre less sensitive to exact position\n\nRespond across larger receptive fields\n\nThey integrate input over space."
+    "text": "V1 Receptive Fields 2\n\n\n\nSimple cells have:\n\nClearly defined ON and OFF subregions\n\nStrong orientation selectivity\n\nSensitivity to exact stimulus position and polarity\n\n\n\nComplex cells also show orientation selectivity.\n\nLack clearly separated ON and OFF regions\n\nAre less sensitive to exact position\n\nThey integrate input over space."
+  },
+  {
+    "objectID": "5_sensory.html#a-feedforward-model-of-vision",
+    "href": "5_sensory.html#a-feedforward-model-of-vision",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "A feedforward model of vision",
+    "text": "A feedforward model of vision\n\n\n\nIn the feedforward models:\n\nSimple features are combined into complex ones\nFeatures become more abstract\n\nSensitivity to exact position decreases\n\n\n\nFeedforward models are incomplete.\nThey do not fully explain:\n\nContextual effects\n\nAttention\n\nVisual illusions\n\nAdditional interactions are required.\n\n\n\n\nVideo"
+  },
+  {
+    "objectID": "5_sensory.html#higher-order-visual-cortex",
+    "href": "5_sensory.html#higher-order-visual-cortex",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Higher-order visual cortex",
+    "text": "Higher-order visual cortex\n\nBeyond V1, visual information diverges. Multiple cortical areas specialize in different aspects of vision. These areas form distributed processing streams.\n\n\nVisual processing splits into two dominant pathways:\n\nVentral stream\n\nDorsal stream\n\nThey differ in anatomy, function, and behavioral relevance."
+  },
+  {
+    "objectID": "5_sensory.html#ventral-stream-the-what-pathway",
+    "href": "5_sensory.html#ventral-stream-the-what-pathway",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Ventral stream: the “what” pathway",
+    "text": "Ventral stream: the “what” pathway\nThe ventral stream runs from occipital to temporal cortex.\nIt is primarily involved in:\n\nObject recognition\n\nShape and color processing\n\nFace perception\n\nIt answers the question: What is it?"
+  },
+  {
+    "objectID": "5_sensory.html#ventral-stream-the-what-and-where-pathways",
+    "href": "5_sensory.html#ventral-stream-the-what-and-where-pathways",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Ventral stream: the “what” and “where” pathways",
+    "text": "Ventral stream: the “what” and “where” pathways\nThe ventral stream runs from occipital to temporal cortex.\nIt is primarily involved in:\n\nObject recognition\n\nShape and color processing\n\nFace perception\n\nIt answers the question: What is it?"
+  },
+  {
+    "objectID": "5_sensory.html#the-what-and-where-pathways",
+    "href": "5_sensory.html#the-what-and-where-pathways",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "The “what” and “where” pathways",
+    "text": "The “what” and “where” pathways\n\n\n\nThe ventral stream runs from occipital to temporal cortex.\nIt is primarily involved in:\n\nObject recognition\n\nShape and color processing\n\nFace perception\n\n\nIt answers the question: What is it?\n\n\n\n\nThe dorsal stream runs from occipital to parietal cortex.\nIt is involved in:\n\nSpatial localization\n\nMotion processing\n\nVisually guided actions\n\n\nIt answers the question: Where is it?"
+  },
+  {
+    "objectID": "5_sensory.html#beyond-what-and-where",
+    "href": "5_sensory.html#beyond-what-and-where",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Beyond what and where",
+    "text": "Beyond what and where\n\n\n\nThe two-stream model is a simplification.\nModern views emphasize:\n\nInteraction between streams\n\nFeedback connections\n\nTask-dependent processing\n\nVision is dynamic, not strictly hierarchical.\n\n\nHigher-order areas send feedback to earlier visual cortex (top-down stream).\n\nAttention\n\nContextual effects\nPrediction"
+  },
+  {
+    "objectID": "5_sensory.html#the-ventral-stream-and-identity",
+    "href": "5_sensory.html#the-ventral-stream-and-identity",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "The ventral stream and identity",
+    "text": "The ventral stream and identity\n\nFaces detection and recognition is a Holistic process. This means that faces are processed as integrated wholes.\n\n\nA key region for face perception is the fusiform area of the temporal lobe.\nIt is involved in:\n\nRecognizing individual faces\n\nDiscriminating subtle facial features"
   }
 ]
