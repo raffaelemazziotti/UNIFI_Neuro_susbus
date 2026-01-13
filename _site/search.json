@@ -984,7 +984,7 @@
     "href": "5_sensory.html#sensory-pathways",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Sensory pathways",
-    "text": "Sensory pathways\n\n\nMost sensory systems follow a common pathway:\n\nPeripheral receptor\n\nEntry into CNS\n\nRelay through the thalamus\n\nProjection to primary sensory cortex\n\n\nThe thalamus plays a central role in sensory processing. It does more than relay information. It actively modulates and organizes sensory signals before they reach cortex.\n\n\n\nAn exception: olfaction - The olfactory system does not relay through the thalamus, but the signal reaches cortex directly."
+    "text": "Sensory pathways\n\n\nMost sensory systems follow a common pathway:\n\nPeripheral receptor\n\nEntry into CNS\n\nRelay through the thalamus\n\nProjection to primary sensory cortex\n\n\nThe thalamus plays a central role in sensory processing. It does more than relay information. It actively modulates and organizes sensory signals before they reach cortex.\n\n\n\nThere is one exception the olfaction: The olfactory system does not relay through the thalamus, but the signal reaches cortex directly."
   },
   {
     "objectID": "5_sensory.html#an-exception-olfaction",
@@ -1012,7 +1012,7 @@
     "href": "5_sensory.html#beyond-the-five-senses",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Beyond the “Five Senses”",
-    "text": "Beyond the “Five Senses”\nThe idea that humans have only five senses is a historical simplification, not a biological one.\n\nWhat we call a sense is any system that:\n\ndetects a specific form of energy or chemical signal\nconverts it into neural activity\nprovides information about the body or the environment\n\n\nBy this definition, the nervous system supports many parallel sensory channels, often operating outside awareness.\n\nThe brain does not experience “the world” directly.\nIt constructs reality from multiple specialized input streams, some obvious, some silent."
+    "text": "Beyond the “Five Senses”\nThe idea that humans have only five senses is a historical simplification.\n\nWhat we call a sense is any system that:\n\ndetects a specific form of energy or chemical signal\nconverts it into neural activity\nprovides information about the body or the environment\n\n\nBy this definition, the nervous system supports many parallel sensory channels, often operating outside awareness.\n\nThe brain does not experience “the world” directly.\nIt constructs reality from multiple specialized input streams, some obvious, some silent."
   },
   {
     "objectID": "5_sensory.html#additional-sensory-systems",
@@ -1187,6 +1187,48 @@
     "href": "5_sensory.html#the-ventral-stream-and-identity",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "The ventral stream and identity",
-    "text": "The ventral stream and identity\n\nFaces detection and recognition is a Holistic process. This means that faces are processed as integrated wholes.\n\n\nA key region for face perception is the fusiform area of the temporal lobe.\nIt is involved in:\n\nRecognizing individual faces\n\nDiscriminating subtle facial features"
+    "text": "The ventral stream and identity\n\n\n\nFaces detection and recognition is a Holistic process. This means that faces are processed as integrated wholes.\n\n\nA key region for face perception is the fusiform area of the temporal lobe.\nIt is involved in:\n\nRecognizing individual faces\n\nDiscriminating subtle facial features\n\n\n\n Video"
+  },
+  {
+    "objectID": "5_sensory.html#damage-to-the-what-pathway",
+    "href": "5_sensory.html#damage-to-the-what-pathway",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Damage to the what pathway",
+    "text": "Damage to the what pathway\n\n\n\nDamage to ventral visual cortex can spare basic vision. Patients may see objects clearly but fail to identify or discriminate objects.\n\n\nProsopagnosia is a selective impairment in face recognition.\nAffected individuals:\n\nCan (or cannot, in severe cases) see faces\n\nCannot recognize faces\n\nOther visual abilities are often preserved.\n\n\n\nIndividuals with prosopagnosia often rely on:\n\nVoice\n\nClothing\n\nContextual cues"
+  },
+  {
+    "objectID": "5_sensory.html#prosopagnosia",
+    "href": "5_sensory.html#prosopagnosia",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Prosopagnosia",
+    "text": "Prosopagnosia\nProsopagnosia is a selective impairment in face recognition.\nAffected individuals:\n\nCan see faces\n\nCannot recognize familiar people by face alone\n\nOther visual abilities are often preserved."
+  },
+  {
+    "objectID": "5_sensory.html#what-prosopagnosia-reveals",
+    "href": "5_sensory.html#what-prosopagnosia-reveals",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "What prosopagnosia reveals",
+    "text": "What prosopagnosia reveals\n\n\n\nProsopagnosia demonstrates that:\n\nFace recognition is neurally specialized\n\nVision and recognition can dissociate\n\nThe higher order cortical areas can act as expert systems\n\nSeeing is not the same as knowing.\n\n\nAn expert system is a neural network that:\n\nIs highly selective\n\nEncodes complex, meaningful patterns\n\nResponds efficiently to familiar categories\n\n\n\n\nWe discriminate faces:\n\nRapidly (100-400 ms)\nAutomatically\n\nWith high precision\n\n\n\nThe grandmother neuron hypothesis proposes that:\n\nA single neuron represents a specific, complex concept\n\nFor example, one neuron for your grandmother"
+  },
+  {
+    "objectID": "5_sensory.html#problems-with-grandmother-neurons",
+    "href": "5_sensory.html#problems-with-grandmother-neurons",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Problems with grandmother neurons",
+    "text": "Problems with grandmother neurons\n\n\n\nA strict grandmother neuron model would be:\n\nFragile to cell loss\n\nInflexible\n\nInefficient for representing many identities\n\nMost neuroscientists reject this literal interpretation.\n\n\nThese neurons do not encode a single image. They respond to an abstract identity. They are better understood as:\n\nHighly selective nodes\n\nWithin a distributed representation\n\nNot isolated concept holders.\n\n\n\nHigher-order cortex likely uses sparse coding.\nThis means:\n\nFew neurons respond strongly\n\nMany neurons contribute weakly\n\nRepresentations are distributed but efficient\n\nThis balances specificity and robustness."
+  },
+  {
+    "objectID": "5_sensory.html#spatial-localization-deficits",
+    "href": "5_sensory.html#spatial-localization-deficits",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Spatial localization deficits",
+    "text": "Spatial localization deficits\n\n\n\nDamage to dorsal areas impairs:\n\nImpaired perception of movement\n\nDifficulty tracking moving objects\n\nIn extreme cases, motion appears fragmented or absent.\n\n\nAkinetopsia, or motion blindness, is a rare condition linked to dorsal stream damage.\nPatients perceive the world as a sequence of static snapshots.\nMotion information fails to integrate over time."
+  },
+  {
+    "objectID": "5_sensory.html#the-somatosensory-system",
+    "href": "5_sensory.html#the-somatosensory-system",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "The somatosensory system",
+    "text": "The somatosensory system\nThe sense of touch allows the nervous system to detect mechanical stimulation of the body.\n\n\n\nIt provides information about:\n\nContact\n\nPressure\n\nVibration\n\nStretch\n\nTouch is essential for interaction with the environment."
   }
 ]

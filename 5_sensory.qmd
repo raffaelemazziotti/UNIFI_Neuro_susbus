@@ -30,7 +30,7 @@ format:
 
 ## Beyond the “Five Senses”
 
-The idea that humans have only *five senses* is a historical simplification, not a biological one.
+The idea that humans have only `five senses` is a historical simplification.
 
 ::: info-box
 What we call a `sense` is any system that:
@@ -44,7 +44,7 @@ By this definition, the nervous system supports many `parallel` sensory channels
 
 :::tip
 **The brain does not experience “the world” directly.**  
-It constructs reality from multiple specialized input streams, some obvious, some silent.
+It constructs reality from multiple specialized `input streams`, some obvious, some silent.
 :::
 
 ## Additional Sensory Systems
@@ -56,13 +56,13 @@ Beyond `vision`, `audition`, `smell`, `taste`, and `touch`, the nervous system i
 
 :::info-box
 [Equilibrioception (vestibular sense)]{.highlight}  
-Signals head position and movement, supporting balance, posture, and stable vision.
+Signals head position and movement, supporting `balance`, posture, and stable vision.
 
 [Proprioception]{.highlight}    
-Provides continuous information about limb position, muscle stretch, and joint angle, even with eyes closed.
+Provides continuous information about `limb position`, muscle stretch, and joint angle, even with eyes closed.
 
 [Interoception]{.highlight}    
-Monitors the internal state of the body, including heart rate, respiration, hunger, visceral pain, and arousal.
+Monitors the `internal state` of the body, including heart rate, respiration, hunger, visceral pain, and arousal.
 :::
 
 :::
@@ -70,16 +70,16 @@ Monitors the internal state of the body, including heart rate, respiration, hung
 
 :::info-box
 [Nociception]{.highlight}  
-Detection of harmful stimuli. It is not pain, which is a perceptual and emotional construct.
+Detection of `harmful stimuli`. It is `not` pain, which is a perceptual and emotional construct.
 
 [Thermoception]{.highlight}   
-Sensing temperature changes.
+Sensing `temperature` changes.
 
 [Pruriception (Itch)]{.highlight}    
 A distinct sensory modality, not just weak pain.
 
 [Chemoception (internal)]{.highlight}   
-Detection of blood chemistry such as CO₂.
+Detection of `blood chemistry` such as CO₂.
 :::
 
 :::
@@ -181,7 +181,7 @@ It actively `modulates` and organizes sensory signals before they reach cortex.
 :::
 ::: column
 
-> An **exception**: `olfaction` - The olfactory system does not relay through the thalamus, but the signal reaches cortex directly.
+> There is one **exception** the `olfaction`: The olfactory system does not relay through the thalamus, but the signal reaches cortex directly.
 
 ![](images/sen_sensory_pathways.jpg){width="300" fig-align="center"}
 
@@ -809,8 +809,10 @@ Higher-order areas send feedback to earlier visual cortex (`top-down` stream).
 :::
 :::
 
-
 ## The ventral stream and identity
+
+:::columns
+:::column
 
 > Faces detection and recognition is a [Holistic process]{.highlight}. This means that faces  are processed as integrated wholes.
 
@@ -820,8 +822,200 @@ A key region for face perception is the [fusiform area]{.highlight} of the tempo
 It is involved in:
 
 - `Recognizing` individual faces  
-- `Discriminating` subtle facial features  
+- `Discriminating` subtle facial features 
+:::
+
+:::
+:::column
+
+![](images/sen_faces_inversion.gif){width="400" fig-align="center"}
+![](images/sen_faces_illusion.mp4){width="400" fig-align="center"}
+
+:::
+:::
+
+## Damage to the what pathway 
+
+:::columns
+:::column
+>Damage to ventral visual cortex can spare basic vision.
+>Patients may see objects clearly but fail to identify or discriminate objects.
+
+:::info-box
+
+[Prosopagnosia]{.highlight} is a selective impairment in face recognition.
+
+Affected individuals:
+
+- Can (or cannot, in severe cases) see faces  
+- Cannot `recognize` faces 
+
+Other visual abilities are often preserved.
+
+:::
+
+:::
+:::column
+
+:::info-box
+Individuals with prosopagnosia often rely on:
+
+- Voice  
+- Clothing  
+- Contextual cues  
+:::
+
+![](images/sen_oliver_sacks.jpg){width="200" fig-align="center"}
+
+:::
+:::
+
+## What prosopagnosia reveals
+
+:::columns
+:::column
+
+:::info-box
+Prosopagnosia demonstrates that:
+
+- Face recognition is neurally specialized  
+- Vision and recognition can dissociate  
+- The higher order cortical areas can act as `expert systems` 
+
+Seeing is not the same as knowing.
+:::
+
+:::info-box
+An expert system is a neural network that:
+
+- Is highly `selective`  
+- Encodes complex, meaningful `patterns`  
+- Responds `efficiently` to familiar categories  
+
+:::
+
+:::
+:::column
+
+:::info-box
+We discriminate faces:
+
+- Rapidly (100-400 ms)
+- Automatically  
+- With high precision
+
+:::
+
+:::info-box
+The [grandmother neuron]{.highlight} hypothesis proposes that:
+
+- A single neuron represents a specific, complex concept  
+- For example, one neuron for your grandmother  
+
+:::
+
+:::
+:::
+
+## Problems with grandmother neurons
+
+:::columns
+:::column
+
+:::info-box
+A strict grandmother neuron model would be:
+
+- Fragile to cell loss  
+- Inflexible  
+- Inefficient for representing many identities  
+
+Most neuroscientists reject this literal interpretation.
 :::
 
 
+
+:::card
+These neurons do not encode a single image. 
+They respond to an **abstract identity**. 
+They are better understood as:
+
+- Highly selective nodes  
+- Within a distributed representation  
+
+Not isolated concept holders.
+:::
+
+:::
+:::column
+
+:::info-box
+Higher-order cortex likely uses **sparse coding**.
+
+This means:
+
+- Few neurons respond strongly  
+- Many neurons contribute weakly  
+- Representations are distributed but efficient  
+
+This balances specificity and robustness.
+:::
+
+:::
+:::
+
+## Spatial localization deficits
+
+:::columns
+:::column
+:::info-box
+Damage to dorsal areas impairs:
+
+- Impaired perception of movement  
+- Difficulty tracking moving objects  
+
+In extreme cases, motion appears fragmented or absent.
+:::
+
+:::info-box
+[Akinetopsia]{.highlight}, or motion blindness, is a rare condition linked to dorsal stream damage.
+
+Patients perceive the world as a sequence of static snapshots.
+
+Motion information fails to integrate over time.
+:::
+
+:::
+:::column
+
+![](images/sen_akinetopsia.jpg){width="500" fig-align="center"}
+
+:::
+:::
+
+## The somatosensory system
+
+The sense of touch allows the nervous system to detect mechanical stimulation of the body.
+
+:::columns
+:::column
+
+:::info-box
+It provides information about:
+
+- Contact  
+- Pressure  
+- Vibration  
+- Stretch  
+
+Touch is essential for interaction with the environment.
+:::
+
+
+:::
+:::column
+
+
+
+:::
+:::
 
