@@ -1,0 +1,29 @@
+---
+title: "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes"
+subtitle: "Module 1 - Motor Systems"
+author: "Raffaele M Mazziotti, PhD"
+institute: "University of Florence"
+format:
+  revealjs:
+    controls: true
+    theme: default
+    slide-number: true
+    logo: images/logo/NEUROFARBA_logo.svg
+    css: slide_style.css
+    transition: fade
+    center: true
+    math: mathjax
+    chalkboard: 
+      buttons: false
+    progress: true
+    title-slide-attributes:
+      data-background-image: images/logo/NEUROFARBA.svg
+      data-background-size: 500px
+      data-background-position: "center 10%"
+      data-state: title-slide
+    include-after-body: afterbody.html
+      
+    mermaid:
+      theme: neutral
+    
+---

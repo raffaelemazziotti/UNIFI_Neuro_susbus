@@ -288,9 +288,59 @@
   color: #bbbbbb;
 }
 
+.important {
+  background-color: rgba(255, 236, 179, 0.22);
+  color: #f2f2f2;
+  padding: 0.12em 0.35em;
+  border-radius: 5px;
+  font-weight: 600;
+}
+
+.core {
+  background-color: rgba(103, 189, 251, 0.30);
+  color: #ffffff;
+  padding: 0.14em 0.4em;
+  border-radius: 6px;
+  font-weight: 700;
+}
+
+.caution {
+  background-color: rgba(255, 120, 120, 0.18);
+  color: #f2f2f2;
+  padding: 0.12em 0.35em;
+  border-radius: 5px;
+  font-weight: 600;
+}
+
+.term-soft {
+  color: #9ad1ff;
+  font-weight: 500;
+  border-bottom: 1px dotted rgba(154, 209, 255, 0.6);
+}
+
 /*************************************************
   PDF EXPORT (reveal.js print-pdf mode)
 *************************************************/
+
+.print-pdf .term-soft {
+  color: #003399 !important;
+  border-bottom: 1px dotted #003399;
+}
+
+.print-pdf .caution {
+  background: #fde2e2 !important;
+  color: #660000 !important;
+}
+
+.print-pdf .important {
+  background: #fff3cd !important;
+  color: #111111 !important;
+}
+
+.print-pdf .core {
+  background: #dbeafe !important;
+  color: #003366 !important;
+}
 
 .print-pdf .reveal {
   background: #ffffff !important;
@@ -381,3 +431,4 @@
 .print-pdf .reveal .backgrounds {
   background: #ffffff !important;
 }
+

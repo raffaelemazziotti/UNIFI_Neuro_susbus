@@ -469,6 +469,31 @@ Key contributors include:
 :::
 :::
 
+## Visual acuity
+
+:::columns
+:::column
+>[Visual acuity]{.highlight} refers to the ability to resolve fine spatial detail.
+
+:::info-box
+Visual acuity is constrained by multiple factors:
+
+- Density of photoreceptors in the retina  
+- Size of receptive fields  
+- Cortical magnification in visual cortex  
+
+Acuity is highest in the `fovea` and decreases toward the periphery.
+:::
+:::
+:::column
+
+>`Eye movements` continuously place objects of interest onto high-acuity regions (Fovea).
+
+![](images/sen_vis_acuity.jpg){width="450" fig-align="center"}
+
+:::
+:::
+
 ## From retina to the Brain
 
 :::columns
@@ -994,7 +1019,8 @@ Motion information fails to integrate over time.
 
 ## The somatosensory system
 
-The sense of touch allows the nervous system to detect mechanical stimulation of the body.
+The sense of touch allows the nervous system to detect mechanical stimulation of the body. Touch is not a single sense.
+It is a collection of specialized channels working together.
 
 :::columns
 :::column
@@ -1014,6 +1040,583 @@ Touch is essential for interaction with the environment.
 :::
 :::column
 
+![](images/sen_touch.jpg){width="100" fig-align="right"}
+
+:::info-box
+The somatosensory system includes multiple modalities:
+
+- Light touch  
+- Pressure and vibration  
+- Skin stretch  
+- Proprioception  
+- Pain and temperature  
+
+These modalities are detected by different receptor types.
+
+:::
+
+:::
+:::
+
+## Mechanoreceptors {#mechanoreceptors}
+
+>Touch begins at [mechanoreceptors]{.highlight}.
+These receptors convert mechanical forces into neural signals. Each type is tuned to specific stimulus properties.
+
+:::columns
+:::column
+:::info-box
+Key mechanoreceptors in the skin include:
+
+- **Meissner corpuscles**  
+  Sensitive to motion and light touch  
+
+- **Merkel cells**  
+  Detect edges and fine detail  
+
+- **Pacinian corpuscles**  
+  Detect vibration  
+
+- **Ruffini endings**  
+  Detect skin stretch  
+:::
+
+:::
+:::column
+
+![](images/sen_touch_term.png){width="500" fig-align="center"}
+
+:::
+:::
+
+## Spatial acuity
+
+:::columns
+:::column
+
+:::card
+Each mechanoreceptor has a **receptive field**.
+This is the region of skin where stimulation affects that receptor.
+Smaller receptive fields allow finer spatial resolution.
+:::
+
+:::info-box
+Touch sensitivity is `not uniform` across the body.
+
+Regions such as:
+
+- Fingertips  
+- Lips  
+
+Have higher receptor density and smaller receptive fields.
+:::
+
+:::
+:::column
+
+:::info-box
+Touch intensity is encoded by:
+
+- Firing rate  
+- Number of activated receptors  
+
+:::
+
+:::info-box
+Somatosensory information travels from:
+
+- Peripheral receptors  
+- Through spinal nerves  
+- Into the central nervous system  
+
+This information is organized and preserved along the pathway.
+
+:::
+
+:::
+:::
+
+## Two major somatosensory pathways
+
+
+:::columns
+:::column
+
+Somatosensory information reaches the brain through `two main pathways`.
+
+They differ in:
+
+- The type of information they carry  
+- Their anatomical routes  
+- Their functional roles
+
+:::info-box
+The **dorsal column pathway** carries:
+
+- Fine touch  
+- Vibration  
+- Proprioception  
+
+This pathway supports precise spatial and discriminative touch.
+:::
+
+:::
+:::column
+
+:::info-box
+In the dorsal column pathway:
+
+- Primary afferents enter the spinal cord  
+- Ascend ipsilaterally in the dorsal columns  
+- `Synapse in the medulla`  
+- `Cross` to the contralateral side  
+- Project to the thalamus  
+:::
+
+:::
+:::
+
+## Spinothalamic pathway
+
+:::columns
+:::column
+
+:::info-box
+The **spinothalamic pathway** carries:
+
+- Pain  
+- Temperature
+
+It is specialized for detecting potentially harmful stimuli.
+:::
+
+:::
+:::column
+
+:::info-box
+In the spinothalamic pathway:
+
+- Primary afferents enter the spinal cord  
+- `Synapse almost immediately`  
+- Cross to the contralateral side near entry  
+- Ascend to the thalamus  
+:::
+
+:::info-box
+The two pathways differ in function:
+
+- **Dorsal column**  
+  Precise, fast, spatially accurate  
+
+- **Spinothalamic**  
+  Coarser, slower, protective
+
+:::
+
+:::
+:::
+
+## Somatosensory Pathways
+![](images/sen_touch_pathways.png){width="700" fig-align="center"}
+
+## Primary somatosensory cortex
+
+:::columns
+:::column
+
+>Somatosensory information reaches **primary somatosensory cortex** (S1).
+S1 is located in the postcentral gyrus.
+It contains an ordered map of the body (Somatotopy).
+
+:::info-box
+`Somatotopy` means that:
+
+- Body position is mapped systematically  
+- Neighboring body regions map to neighboring neural regions  
+:::
+
+:::
+:::column
+>The **sensory homunculus** is a distorted body map.
+Body parts with high sensory acuity occupy more cortical space.
+Hands, lips, and face are overrepresented.
+
+![](images/sen_touch_cortex.jpe ){width="300" fig-align="left"}
+<iframe width="200" height="200" src=https://sketchfab.com/models/064a80c62d0942d8a5c89b43f5535182/embed title="Homunculus"></iframe>
+
+:::
+:::
+
+## Cortical magnification and Lesions
+
+:::columns
+:::column
+
+:::info-box
+Cortical representation does not reflect body size.
+
+It reflects:
+
+- Receptor density  
+- Behavioral relevance  
+
+This parallels foveal magnification in vision.
+:::
+
+:::
+:::column
+
+:::info-box
+Lesions in somatosensory cortex produce:
+
+- Loss of sensation in specific body regions  
+- Deficits that reflect the cortical map  
+
+The pattern of loss reveals underlying organization.
+:::
+
+:::
+:::
+
+## Pain as a distinct system
+
+>Pain is not simply strong touch.
+It is a distinct sensory system specialized for detecting potential or actual tissue damage.
+Its primary function is protection, not perception.
+
+:::columns
+:::column
+
+:::info-box
+
+Pain begins at specialized receptors called [nociceptors]{.highlight}.
+
+These receptors respond to:
+
+- Mechanical damage  
+- Extreme temperatures  
+- Chemical irritants  
+
+They are activated only when stimuli exceed safe limits and activate the Spinothalamic pathway.
+
+:::
+
+:::
+:::column
+
+:::info-box
+Nociception is detected by [Free Nerve Endings](#mechanoreceptors) and there are two main fiber types:
+
+- **Aδ fibers**  
+  Fast, sharp, well-localized pain  
+
+- **C fibers**  
+  Slow, dull, poorly localized pain  
+
+These produce different pain sensations.
+:::
+
+:::
+:::
+
+## Central processing of pain
+
+:::columns
+:::column
+
+Pain processing involves multiple brain regions.
+
+These include:
+
+- Thalamus  
+- Amygdala
+- Hyppocampus
+- Somatosensory cortex  
+- Insular cortex  
+- Anterior cingulate cortex  
+- Prefrontal Cortex
+
+Pain has both sensory and emotional components.
+
+:::
+:::column
+
+![](images/sen_touch_pain.jpg ){width="500" fig-align="left"}
+
+:::
+:::
+
+## Pain is multidimensional
+
+:::columns
+:::column
+:::info-box
+Pain includes:
+
+- `Sensory`-discriminative aspects  
+- `Affective`-motivational aspects  
+- `Cognitive` modulation  
+:::
+
+:::card
+[Phantom pain]{.highlight}
+Pain can occur without peripheral input.
+**Phantom pain** arises after limb loss.
+This shows that pain is generated centrally, not only in the periphery.
+:::
+
+:::
+:::column
+
+:::info-box
+Pain signals are not fixed.
+
+They are `modulated` by:
+
+- `Descending` cortical control  
+- Brainstem circuits  
+- `Context and expectation`  
+
+Pain perception is `dynamic`.
+:::
+
+:::
+:::
+
+## The auditory system
+
+>Hearing allows the nervous system to detect and interpret sound.
+Sound is a `pattern of pressure waves in air`from 20 Hz to 20 kHz.
+Perception arises from how these waves are transformed into neural signals.
+
+:::columns
+:::column
+
+![](images/sen_sound.png){width="400" fig-align="center"}
+
+:::info-box
+Sound waves are characterized by:
+
+- [Frequency]{.highlight} related to perceived `pitch`  
+- [Amplitude]{.highlight} related to perceived `loudness`.
+
+
+:::
+
+:::
+:::column
+
+<iframe
+  src="tonegen.html"
+  width="320"
+  height="420"
+  style="
+    border: none;
+    border-radius: 16px;
+    background: #f4f4f4;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.35);
+    overflow: hidden;
+  ">
+</iframe>
+
+:::
+:::
+
+## Anatomy of the ear
+
+:::columns
+:::column
+
+:::info-box
+The auditory system converts:
+
+- Air pressure changes  
+- Into mechanical vibrations  
+- Into electrical signals  
+
+This transformation occurs in specialized structures of the ear.
+:::
+
+:::info-box
+The ear is divided into 3 main parts:
+
+- Outer ear  
+- Middle ear  
+- Inner ear  
+
+Each part performs a specific transformation.
+:::
+
+:::
+:::column
+
+:::card
+The `outer ear` collects sound waves. 
+The `middle ear` amplifies vibrations using `3 small bones`. 
+This amplification is essential for efficient sound transmission.
+:::
+
+:::info-box
+The inner ear contains the [cochlea]{.highlight}.
+
+Inside the cochlea:
+
+- Sound vibrations create traveling waves  
+- Different frequencies peak at different locations  
+
+This spatial separation is fundamental to hearing.
+
+:::
+
+:::
+:::
+
+## Anatomy of the ear
+![Outer, Middle and Inner Ear](images/sen_sound_ear.png){width="600" fig-align="left"}
+![Cochlea](images/sen_sound_cochlea.jpg){width="400" fig-align="right"}
+
+## Hair cells
+
+:::columns
+:::column
+>Sensory transduction occurs in the Coorti organ, where `Hair Cells` convert mechanical movement into electrical signals.
+They are true `sensory receptors`.
+
+:::info-box
+Movement of hair bundles opens mechanically gated ion channels.
+
+This leads to:
+
+- Receptor potentials  
+- Neurotransmitter release  
+- Activation of auditory nerve fibers  
+
+Sound is now encoded neurally.
+
+:::
+
+:::
+:::column
+
+![](images/sen_sound_coorti.gif){width="400" fig-align="right"}
+![](images/sen_sound_hair_cells.gif){width="200" fig-align="right"}
+
+:::
+:::
+
+## From ear to brain
+
+:::info-box
+Brainstem
+
+>The first synapse occurs in the [cochlear nuclei]{.highlight} of the brainstem.
+Information is split into parallel pathways.
+Different aspects of sound are processed simultaneously.
+
+>The [superior olivary complex]{.highlight} is a key site for sound localization.
+It integrates input from both ears.
+Different nuclei specialize in timing and intensity comparisons.
+:::
+
+:::info-box
+From the brainstem, signals ascend through:
+
+- Inferior colliculus  
+- Medial Geniculate Nucleus (Thalamus)  
+
+:::
+
+## Interaural level differences
+
+:::columns
+:::column
+>**Interaural level differences** arise from sound shadowing by the head.
+They are most informative for high-frequency sounds.
+These differences are computed in brainstem circuits.
+
+:::info-box
+The auditory system uses two main `interaural cues`:
+
+- Interaural `time` differences (due to speed of sound)
+- Interaural `amplitude` differences (due to the acoustic shadow)
+
+Each cue is informative under different conditions.
+:::
+
+:::
+:::column
+
+![](images/sen_sound_interaural.png){width="500" fig-align="center"}
+
+:::
+:::
+
+## Primary auditory cortex
+
+
+The **primary auditory cortex** is the first cortical stage of hearing.
+It is located in the temporal lobe.
+It receives organized input from the thalamus.
+
+:::columns
+:::column
+
+>Primary auditory cortex is organized `tonotopically`:
+Neighboring neurons respond to neighboring sound frequencies.
+
+>`Cortical magnification`: Frequencies important for communication occupy more cortical space.
+Representation reflects behavioral relevance, not physical frequency spacing.
+
+:::
+:::column
+
+:::info-box
+Damage to primary auditory cortex rarely causes deafness.
+
+Instead, it impairs:
+
+- Sound discrimination  
+- Complex auditory perception  
+
+Basic hearing often remains intact.
+:::
+
+:::
+:::
+
+## Beyond primary auditory cortex
+
+>Primary auditory cortex encodes basic acoustic features.
+However, hearing does not end in A1. Surrounding A1 are [secondary auditory areas]{.highlight}.
+These regions receive input from A1 and from the thalamus. They integrate information over longer time windows.
+
+:::columns
+:::column
+
+:::info-box
+Higher-order areas respond to:
+
+- `Frequency` combinations  
+- `Temporal` patterns  
+- Sound `sequences`  
+
+These features are essential for speech and music.
+:::
+
+:::
+:::column
+
+:::info-box
+Higher-order auditory cortex supports [auditory objects]{.highlight}.
+An auditory object is a coherent sound source over time.
+Like:
+
+- A voice  
+- A melody  
+- A moving sound  
+
+The brain groups sound features into `perceptual units`.
+:::
 
 
 :::
