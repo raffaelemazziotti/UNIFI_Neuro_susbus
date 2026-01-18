@@ -1,0 +1,401 @@
+{
+  "topic": "Neuronal Communication",
+  "questions": [
+    {
+      "question": "What is a synapse?",
+      "options": [
+        "A continuous cytoplasmic bridge between neurons",
+        "A specialized junction for neuronal communication",
+        "A region of myelin insulation",
+        "An electrical gap junction only"
+      ],
+      "correct": 1,
+      "feedback": "A synapse is a specialized junction where neurons communicate with other cells."
+    },
+    {
+      "question": "What separates the presynaptic and postsynaptic neurons?",
+      "options": [
+        "Myelin sheath",
+        "Synaptic cleft",
+        "Axon hillock",
+        "Cytoskeleton"
+      ],
+      "correct": 1,
+      "feedback": "Neurons are not physically continuous; they are separated by the synaptic cleft."
+    },
+    {
+      "question": "Which component releases neurotransmitters?",
+      "options": [
+        "Postsynaptic membrane",
+        "Synaptic cleft",
+        "Presynaptic terminal",
+        "Dendritic spine"
+      ],
+      "correct": 2,
+      "feedback": "Neurotransmitters are released from the presynaptic terminal."
+    },
+    {
+      "question": "Synaptic signaling is typically:",
+      "options": [
+        "Bidirectional",
+        "Random",
+        "Directional",
+        "Independent of structure"
+      ],
+      "correct": 2,
+      "feedback": "Synaptic transmission is directional, from presynaptic to postsynaptic cell."
+    },
+    {
+      "question": "What triggers neurotransmitter release at the presynaptic terminal?",
+      "options": [
+        "Sodium influx",
+        "Potassium efflux",
+        "Calcium influx",
+        "Chloride influx"
+      ],
+      "correct": 2,
+      "feedback": "Opening of voltage-gated Ca²⁺ channels triggers vesicle fusion."
+    },
+    {
+      "question": "Synaptic vesicles are best described as:",
+      "options": [
+        "Ion channels",
+        "Membrane-bound organelles storing neurotransmitters",
+        "Receptors on the postsynaptic membrane",
+        "Mitochondria at synapses"
+      ],
+      "correct": 1,
+      "feedback": "Synaptic vesicles store neurotransmitters at high concentration."
+    },
+    {
+      "question": "Neurotransmitter release is described as quantal because:",
+      "options": [
+        "It is continuous",
+        "It occurs in discrete packets",
+        "It depends on ion diffusion only",
+        "It is electrically graded"
+      ],
+      "correct": 1,
+      "feedback": "Release occurs in discrete vesicle fusion events."
+    },
+    {
+      "question": "Which proteins mediate vesicle fusion?",
+      "options": [
+        "Ion channels",
+        "G-proteins",
+        "SNARE proteins",
+        "Transporters"
+      ],
+      "correct": 2,
+      "feedback": "SNARE proteins bring vesicle and membrane together for fusion."
+    },
+    {
+      "question": "Neurotransmitter release occurs through:",
+      "options": [
+        "Endocytosis",
+        "Diffusion",
+        "Exocytosis",
+        "Active transport"
+      ],
+      "correct": 2,
+      "feedback": "Vesicles release neurotransmitters by exocytosis."
+    },
+    {
+      "question": "Postsynaptic receptors are located on the:",
+      "options": [
+        "Presynaptic terminal",
+        "Synaptic cleft",
+        "Postsynaptic membrane",
+        "Axon initial segment"
+      ],
+      "correct": 2,
+      "feedback": "Receptors are embedded in the postsynaptic membrane."
+    },
+    {
+      "question": "Ionotropic receptors are characterized by:",
+      "options": [
+        "Slow modulatory effects",
+        "G-protein activation",
+        "Ligand-gated ion channels",
+        "Second messenger cascades"
+      ],
+      "correct": 2,
+      "feedback": "Ionotropic receptors directly open ion channels upon binding."
+    },
+    {
+      "question": "Metabotropic receptors differ from ionotropic receptors because they:",
+      "options": [
+        "Form ion channels",
+        "Act only at inhibitory synapses",
+        "Activate intracellular signaling pathways",
+        "Produce only fast responses"
+      ],
+      "correct": 2,
+      "feedback": "Metabotropic receptors act via G-proteins and signaling cascades."
+    },
+    {
+      "question": "EPSPs are typically produced by:",
+      "options": [
+        "Cl⁻ influx",
+        "Na⁺ influx",
+        "K⁺ efflux only",
+        "Na⁺ efflux"
+      ],
+      "correct": 1,
+      "feedback": "Excitatory synapses usually depolarize the membrane via Na⁺ influx."
+    },
+    {
+      "question": "IPSPs are commonly mediated by:",
+      "options": [
+        "Na⁺ influx",
+        "Ca²⁺ influx",
+        "Cl⁻ influx",
+        "Na⁺ efflux"
+      ],
+      "correct": 2,
+      "feedback": "Inhibitory synapses often involve Cl⁻ influx."
+    },
+    {
+      "question": "How does neurotransmitter action typically end?",
+      "options": [
+        "Ion diffusion",
+        "Reuptake or enzymatic degradation",
+        "Membrane depolarization",
+        "Vesicle fusion"
+      ],
+      "correct": 1,
+      "feedback": "Clearance occurs via reuptake or enzymatic breakdown."
+    },
+    {
+      "question": "Which neurotransmitter is the main excitatory transmitter in the brain?",
+      "options": [
+        "GABA",
+        "Dopamine",
+        "Glutamate",
+        "Acetylcholine"
+      ],
+      "correct": 2,
+      "feedback": "Glutamate is the primary excitatory neurotransmitter in the CNS."
+    },
+    {
+      "question": "Which neurotransmitter is the main inhibitory transmitter in the brain?",
+      "options": [
+        "GABA",
+        "Glutamate",
+        "Serotonin",
+        "Noradrenaline"
+      ],
+      "correct": 0,
+      "feedback": "GABA is the main inhibitory neurotransmitter."
+    },
+    {
+      "question": "Which neurotransmitter acts as a diffuse projection system and is involved in movement and reward?",
+      "options": [
+        "Serotonin",
+        "Dopamine",
+        "GABA",
+        "Glutamate"
+      ],
+      "correct": 1,
+      "feedback": "Dopamine is involved in motivation, learning, and movement."
+    },
+    {
+      "question": "Which neurotransmitter is strongly involved in mood and sleep regulation?",
+      "options": [
+        "Acetylcholine",
+        "Dopamine",
+        "Serotonin",
+        "Glutamate"
+      ],
+      "correct": 2,
+      "feedback": "Serotonin regulates mood, sleep, and appetite."
+    },
+    {
+      "question": "Which neurotransmitter system is called cholinergic?",
+      "options": [
+        "Dopamine",
+        "Serotonin",
+        "Acetylcholine",
+        "Noradrenaline"
+      ],
+      "correct": 2,
+      "feedback": "Acetylcholine defines the cholinergic system."
+    },
+    {
+      "question": "Noradrenaline is primarily involved in:",
+      "options": [
+        "Memory storage",
+        "Arousal and attention",
+        "Fast inhibition",
+        "Muscle contraction"
+      ],
+      "correct": 1,
+      "feedback": "Noradrenaline regulates arousal, attention, and stress responses."
+    },
+    {
+      "question": "Which neurotransmitter is less abundant in the CNS and more peripheral?",
+      "options": [
+        "Dopamine",
+        "Adrenaline",
+        "GABA",
+        "Glutamate"
+      ],
+      "correct": 1,
+      "feedback": "Adrenaline is less abundant in the CNS and more peripheral."
+    },
+    {
+      "question": "Neuropeptides generally act as:",
+      "options": [
+        "Fast excitatory transmitters",
+        "Fast inhibitory transmitters",
+        "Modulatory signals",
+        "Ion channels"
+      ],
+      "correct": 2,
+      "feedback": "Neuropeptides often act as modulators rather than fast transmitters."
+    },
+    {
+      "question": "Endocannabinoids are notable because they:",
+      "options": [
+        "Act only postsynaptically",
+        "Mediate retrograde signaling",
+        "Are classical fast transmitters",
+        "Are stored in vesicles"
+      ],
+      "correct": 1,
+      "feedback": "Endocannabinoids can signal retrogradely from postsynaptic to presynaptic neurons."
+    },
+    {
+      "question": "Nitric oxide (NO) is unusual because it:",
+      "options": [
+        "Is stored in vesicles",
+        "Acts as a gas and diffuses freely",
+        "Only excites neurons",
+        "Acts only at ionotropic receptors"
+      ],
+      "correct": 1,
+      "feedback": "NO is a gaseous signaling molecule that diffuses freely."
+    },
+    {
+      "question": "AMPA receptors primarily mediate:",
+      "options": [
+        "Slow inhibition",
+        "Fast excitation",
+        "Calcium release from stores",
+        "Neuromodulation"
+      ],
+      "correct": 1,
+      "feedback": "AMPA receptors mediate fast excitatory synaptic transmission."
+    },
+    {
+      "question": "NMDA receptors are especially important for:",
+      "options": [
+        "Fast inhibition",
+        "Action potential generation",
+        "Synaptic plasticity",
+        "Chloride conductance"
+      ],
+      "correct": 2,
+      "feedback": "NMDA receptors are involved in synaptic plasticity."
+    },
+    {
+      "question": "GABA-A receptors allow the flow of:",
+      "options": [
+        "Na⁺",
+        "K⁺",
+        "Cl⁻",
+        "Ca²⁺"
+      ],
+      "correct": 2,
+      "feedback": "GABA-A receptors are Cl⁻ permeable ionotropic receptors."
+    },
+    {
+      "question": "Metabotropic receptors produce slower effects because they:",
+      "options": [
+        "Open ion channels directly",
+        "Depend on intracellular signaling cascades",
+        "Are less selective",
+        "Lack neurotransmitter binding"
+      ],
+      "correct": 1,
+      "feedback": "Metabotropic receptors activate intracellular signaling pathways."
+    },
+    {
+      "question": "Neuromodulation refers to:",
+      "options": [
+        "Fast electrical transmission",
+        "Direct ion channel opening",
+        "Changing how neurons respond to inputs",
+        "Blocking neurotransmitter release"
+      ],
+      "correct": 2,
+      "feedback": "Neuromodulation alters neuronal responsiveness rather than triggering fast signals."
+    },
+    {
+      "question": "Which synapse type has the strongest influence on spike generation?",
+      "options": [
+        "Axo-dendritic",
+        "Axo-somatic",
+        "Axo-axonic",
+        "Dendro-dendritic"
+      ],
+      "correct": 1,
+      "feedback": "Axo-somatic synapses strongly influence action potential initiation."
+    },
+    {
+      "question": "Axo-axonic synapses primarily:",
+      "options": [
+        "Generate EPSPs",
+        "Generate IPSPs",
+        "Modulate neurotransmitter release",
+        "Form electrical synapses"
+      ],
+      "correct": 2,
+      "feedback": "Axo-axonic synapses modulate neurotransmitter release."
+    },
+    {
+      "question": "Why must neurotransmitters be rapidly cleared from the synaptic cleft?",
+      "options": [
+        "To conserve energy",
+        "To prevent prolonged receptor activation",
+        "To allow vesicle recycling",
+        "To generate action potentials"
+      ],
+      "correct": 1,
+      "feedback": "Rapid clearance ensures precise and brief synaptic signaling."
+    },
+    {
+      "question": "Reuptake involves:",
+      "options": [
+        "Diffusion away from synapse",
+        "Transport back into presynaptic terminal",
+        "Enzymatic breakdown",
+        "Postsynaptic receptor removal"
+      ],
+      "correct": 1,
+      "feedback": "Reuptake returns neurotransmitters to the presynaptic terminal."
+    },
+    {
+      "question": "SSRIs increase synaptic signaling by:",
+      "options": [
+        "Increasing vesicle release",
+        "Blocking serotonin reuptake",
+        "Activating serotonin receptors",
+        "Increasing serotonin synthesis"
+      ],
+      "correct": 1,
+      "feedback": "SSRIs block serotonin reuptake transporters."
+    },
+    {
+      "question": "Cocaine increases synaptic signaling by blocking reuptake of:",
+      "options": [
+        "Only dopamine",
+        "Only serotonin",
+        "Dopamine, norepinephrine, and serotonin",
+        "GABA and glutamate"
+      ],
+      "correct": 2,
+      "feedback": "Cocaine blocks reuptake of multiple monoamines."
+    }
+  ]
+}

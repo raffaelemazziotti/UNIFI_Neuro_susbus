@@ -1,724 +1,80 @@
 [
   {
-    "objectID": "3_synapse.html#synaptic-communication",
-    "href": "3_synapse.html#synaptic-communication",
+    "objectID": "6_motor.html#what-is-the-motor-system",
+    "href": "6_motor.html#what-is-the-motor-system",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Synaptic Communication",
-    "text": "3. Synaptic Communication\nNeurons transmit information to other neurons and target cells using specialized compartments called Synapses. A Synapse is a specialized junction where a neuron communicates with another neuron (or another cell).\n\nIMPORTANT: In synapses, neurons are not physically continous, but there is a gap called Synaptic Cleft\n\n\n\n\nThree main components:\n\nPresynaptic compartment (or terminal)\nSynaptic cleft\n\nPostsynaptic compartment (or spine)\n\n\n\n\nSynapses allow:\n\nDirectional signaling\n\nSignal modulation\n\nIntegration of multiple inputs"
+    "section": "What is the motor system",
+    "text": "What is the motor system\n\nThe motor system allows the nervous system to generate movement. It transforms goals and intentions into coordinated muscle activity.\n\n\n\n\nProducing movement requires:\n\nSelecting an action\n\nPlanning its structure\n\nExecuting motor commands\n\nMonitoring outcomes\n\nThese processes are distributed across multiple brain regions.\n\n\n\nKey components of the motor system include:\n\nMotor cortex\nBasal ganglia\n\nCerebellum\nBrainstem\n\nSpinal cord\n\nThey interact continuously during movement."
   },
   {
-    "objectID": "1_intro.html#neuron",
-    "href": "1_intro.html#neuron",
+    "objectID": "6_motor.html#primary-motor-cortex",
+    "href": "6_motor.html#primary-motor-cortex",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. What Is Neuroscience?",
-    "text": "1. What Is Neuroscience?\n\n\nNeuroscience asks a simple question:\nHow does the brain produce behavior?\n\nStudies the Central (brain and spinal cord) and Peripheral (somatic, autonomic and enteric) nervous systems\n\nConnects biology, psychology, physics, engineering, and philosophy\n\nGoal of this course: build intuition about how the nervous system works, without assuming prior biology knowledge."
+    "section": "Primary motor cortex",
+    "text": "Primary motor cortex\n\nThe primary motor cortex (M1) is the main cortical output of the motor system. It is located in the frontal lobe, anterior to somatosensory cortex. Neurons in M1 send commands toward the spinal cord.\n\nPrimary motor cortex is organized somatotopically. Different body parts are represented in different cortical regions. Fine motor control occupies more cortical space.\n\n\n\nEncode patterns of movement such as:\n\nDirection\n\nForce\n\nCoordination\n\nMovement emerges from population activity.\n\n\n\nSignals from motor cortex descend to the spinal cord. These pathways convey voluntary motor commands. Control is largely contralateral.\n\n\nThe spinal cord is the main site of motor execution. It integrates descending commands with sensory input."
   },
   {
-    "objectID": "1_intro.html#what-is-a-neuron",
-    "href": "1_intro.html#what-is-a-neuron",
+    "objectID": "6_motor.html#from-cortex-to-muscle",
+    "href": "6_motor.html#from-cortex-to-muscle",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. What Is a Neuron?",
-    "text": "1. What Is a Neuron?\n\n\nNeurons are the basic units of the brain.\nTheir main function is to send electrical signals over short and long distances.\nThey are electrically and chemically excitable. The function of a neuron depends on its structure."
+    "section": "From cortex to muscle",
+    "text": "From cortex to muscle\n\n\n\nLower motor neurons reside in the ventral horn of the spinal cord. They are the final common pathway for movement. Their axons exit the CNS to innervate muscles.\n\n\nMotor commands travel from:\n\nMotor cortex\n\nThrough descending pathways\n\nTo spinal motor neurons\n\nTo muscle fibers\n\nThis pathway transforms intention into force."
   },
   {
-    "objectID": "1_intro.html#major-parts-of-the-neuron",
-    "href": "1_intro.html#major-parts-of-the-neuron",
+    "objectID": "6_motor.html#m1-is-not-enough",
+    "href": "6_motor.html#m1-is-not-enough",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. Major Parts of the Neuron",
-    "text": "1. Major Parts of the Neuron\n\n\n\nDendrites\n\nCell body (soma)\nAxon hillock\nAxon\nPresynaptic terminal These components determine how signals are received, processed, and transmitted."
+    "section": "M1 is not enough",
+    "text": "M1 is not enough\n\n\nAlthough M1 and the spinal cord can generate movement, They do not decide what movement to make. That requires additional motor areas.\n\nVoluntary movement involves choices.\nThe nervous system must:\n\nSelect appropriate actions\n\nOrganize sequences\n\nSuppress unwanted movements\n\nPlanning occurs before execution.\n\n\n\nThe supplementary motor area (SMA) supports internally generated actions.\nIt is critical for:\n\nSelf-initiated movement\n\nSequencing\n\nBimanual coordination\n\nIt organizes actions over time.\n\nThe premotor cortex contributes to planning movements guided by external cues. It links sensory information to motor commands. It prepares movements before they are executed."
   },
   {
-    "objectID": "1_intro.html#diagram-typical-neuron",
-    "href": "1_intro.html#diagram-typical-neuron",
+    "objectID": "6_motor.html#m1-is-not-enough-1",
+    "href": "6_motor.html#m1-is-not-enough-1",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. Diagram: Typical Neuron",
-    "text": "1. Diagram: Typical Neuron\n\n\nA neuron has:\n- Branching dendrites\n- A soma with nucleus\n- A long axon\n- Terminal branches forming synapses"
+    "section": "M1 is not enough",
+    "text": "M1 is not enough"
   },
   {
-    "objectID": "1_intro.html#dendrites",
-    "href": "1_intro.html#dendrites",
+    "objectID": "6_motor.html#subcortical-structures",
+    "href": "6_motor.html#subcortical-structures",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. Dendrites",
-    "text": "1. Dendrites\n\n\n\nBranch out from the soma\n\nPrimary targets of incoming signals\n\nThe number of dendrites influences how many inputs the neuron can receive\n\nOften contain spines, which increase surface area for synaptic contact"
+    "section": "Subcortical structures",
+    "text": "Subcortical structures\n\n\n\nThe basal nuclei regulate whether an action is initiated.\nThey are involved in:\n\nSelecting appropriate actions\n\nSuppressing competing or unwanted actions\n\nThey do not generate movement or send commands to muscles.\nTheir role is to gate motor plans.\n\n\n\nThe cerebellum regulates how an action is executed.\nIt is involved in:\n\nCoordination and timing\n\nError correction\n\nMotor learning\n\nIt compares intended movement with actual outcome."
   },
   {
-    "objectID": "1_intro.html#soma",
-    "href": "1_intro.html#soma",
+    "objectID": "6_motor.html#cortical-damage",
+    "href": "6_motor.html#cortical-damage",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. Cell Body (Soma)",
-    "text": "1. Cell Body (Soma)\n\n\n\nContains nucleus and organelles\n\nIntegrates incoming signals from dendrites\n\nBiochemistry of the cell shapes its excitability and response properties"
+    "section": "Cortical damage",
+    "text": "Cortical damage\n\n\n\nDamage to primary motor cortex produces:\n\nWeakness or paralysis\n\nLoss of fine voluntary control\n\nDeficits on the contralateral side\n\nReflexes are generally preserved.\n\n\n\nDamage to premotor cortex or supplementary motor area leads to:\n\nDifficulty planning movements\n\nImpaired sequencing or initiation\n\nApraxia despite preserved strength\n\nThe problem is planning, not execution."
   },
   {
-    "objectID": "1_intro.html#hillock",
-    "href": "1_intro.html#hillock",
+    "objectID": "6_motor.html#basal-nuclei-damage",
+    "href": "6_motor.html#basal-nuclei-damage",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. Axon Hillock",
-    "text": "1. Axon Hillock\n\n\n\nJunction between soma and axon\n\nLocation where action potentials are initiated\n\nSensitive to the summed electrical inputs from dendrites and soma"
+    "section": "Basal nuclei damage",
+    "text": "Basal nuclei damage\n\n\n\nDamage to the basal nuclei disrupts action selection.\nThis can result in:\n\nDifficulty initiating movement\n\nExcessive or involuntary movements\n\nStrength is usually preserved.\n\n\n\nBasal nuclei dysfunction in Parkinsonian disorders leads to:\n\nBradykinesia\n\nRigidity\n\nResting tremor\n\nMovement is difficult to initiate, not to execute."
   },
   {
-    "objectID": "1_intro.html#the-axon",
-    "href": "1_intro.html#the-axon",
+    "objectID": "6_motor.html#cerebellar-damage",
+    "href": "6_motor.html#cerebellar-damage",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. The Axon",
-    "text": "1. The Axon\n\n\n\nConducts electrical signals over long distances\n\nMay be myelinated to increase conduction speed\n\nCan branch extensively"
+    "section": "Cerebellar damage",
+    "text": "Cerebellar damage\n\n\n\nDamage to the cerebellum causes:\n\nPoor coordination\n\nInaccurate movements\n\nTiming deficits\n\nStrength is preserved, but movement is imprecise.\n\n\n\nCerebellar ataxia:\n\nUnsteady gait\n\nDysmetria\n\nIntention tremor\n\nErrors increase during movement."
   },
   {
-    "objectID": "1_intro.html#presynaptic-terminal",
-    "href": "1_intro.html#presynaptic-terminal",
+    "objectID": "6_motor.html#motor-neuron-lesions",
+    "href": "6_motor.html#motor-neuron-lesions",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. Presynaptic Terminal",
-    "text": "1. Presynaptic Terminal\n\n\n\nEnd of the axon\n\nReleases neurotransmitter onto postsynaptic cells\n\nForms multiple terminals for communication with many neurons"
+    "section": "Motor neuron lesions",
+    "text": "Motor neuron lesions\n\n\n\nDamage to upper motor neurons leads to:\n\nWeakness\n\nIncreased muscle tone\n\nHyperreflexia\n\nThis reflects loss of inhibitory control.\n\n\nDamage to lower motor neurons causes:\n\nFlaccid paralysis\n\nMuscle atrophy\n\nLoss of reflexes\n\nThe final output pathway is disrupted."
   },
   {
-    "objectID": "1_intro.html#neurons-communicate-electrically-and-chemically",
-    "href": "1_intro.html#neurons-communicate-electrically-and-chemically",
+    "objectID": "6_motor.html#spinal-cord-and-peripheral-nerve-damage",
+    "href": "6_motor.html#spinal-cord-and-peripheral-nerve-damage",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. Neurons Communicate Electrically and Chemically",
-    "text": "1. Neurons Communicate Electrically and Chemically\n\nElectrical signals travel along the axon.\n\nChemical signals (neurotransmitters) are released at the synapse.\n\nThis dual mode of signaling enables fast and flexible communication."
-  },
-  {
-    "objectID": "1_intro.html#structure-influences-function",
-    "href": "1_intro.html#structure-influences-function",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. Structure Influences Function",
-    "text": "1. Structure Influences Function\n\n\nExamples: - More dendrites → more inputs\n- Axon myelination → faster conduction\n- Terminal branching → more downstream targets\nForm and function are tightly linked in neuronal physiology."
-  },
-  {
-    "objectID": "1_intro.html#neuron-diversity-overview",
-    "href": "1_intro.html#neuron-diversity-overview",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. Neuron Diversity (Overview)",
-    "text": "1. Neuron Diversity (Overview)\nNeurons vary in:\n\nSize\n\nShape\n\nDendritic complexity\n\nAxon length\n\nNeurotransmitter type\n\nThis diversity supports specialized functions across the nervous system."
-  },
-  {
-    "objectID": "1_intro.html#summary-of-key-concepts",
-    "href": "1_intro.html#summary-of-key-concepts",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. Summary of Key Concepts",
-    "text": "1. Summary of Key Concepts\n\nNeurons are the fundamental signaling units of the nervous system\n\nStructure determines function\n\nSignals are electrical within neurons and chemical between them\n\nDendrites receive, soma integrates, axon transmits, terminals communicate"
-  },
-  {
-    "objectID": "1_intro.html#self-check-questions",
-    "href": "1_intro.html#self-check-questions",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. Self-Check Questions",
-    "text": "1. Self-Check Questions\n\nWhich part of the neuron initiates the action potential?\n\nHow do dendritic spines enhance synaptic communication?\n\nWhy does neuron structure influence neuron function?\n\nWhich part releases neurotransmitter?"
-  },
-  {
-    "objectID": "0_content.html#course-overview",
-    "href": "0_content.html#course-overview",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "Course Overview",
-    "text": "Course Overview\nWelcome to the course.\nChapters\n\n\n\nIntroduction\nNeuron\nNeuronal Communication\n\n\n\nIntroduction\nNeuron\nNeuronal Communication"
-  },
-  {
-    "objectID": "2_neuron.html#ion-movement",
-    "href": "2_neuron.html#ion-movement",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Ion Movement",
-    "text": "2. Ion Movement\n\n\nNeurons communicate using electrical signals.\nThese signals exist because ions move across cell membranes.\nUnderstanding ion movement is the foundation for:\n\nElectrical signaling\nMembrane potential\nAction potentials\nSynaptic transmission"
-  },
-  {
-    "objectID": "2_neuron.html#ions",
-    "href": "2_neuron.html#ions",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. What Is an Ion?",
-    "text": "2. What Is an Ion?\n\n\nAn ion is an atom or molecule with an electrical charge.\n\nPositive charge → cation\n\nNegative charge → anion\n\nIn neuroscience, the most important ions are:\n\nSodium (Na⁺)\nPotassium (K⁺)\nChloride (Cl⁻)\nCalcium (Ca²⁺)"
-  },
-  {
-    "objectID": "2_neuron.html#why-charges-matter-in-the-brain",
-    "href": "2_neuron.html#why-charges-matter-in-the-brain",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Why Charges Matter in the Brain",
-    "text": "2. Why Charges Matter in the Brain\nElectrical signals arise because:\n\nIons carry charge\nNeurons separate charges across membranes\nDifferences in charge create electrical forces\n\n\nNo electricity → no neural signaling."
-  },
-  {
-    "objectID": "2_neuron.html#the-neuronal-membrane",
-    "href": "2_neuron.html#the-neuronal-membrane",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. The Neuronal Membrane",
-    "text": "2. The Neuronal Membrane\n\n\nThe neuron is surrounded by a lipid bilayer membrane.\nKey properties:\n\nElectrically insulating\nImpermeable to most ions\n\nThis separation is essential for signaling."
-  },
-  {
-    "objectID": "2_neuron.html#ion-channels",
-    "href": "2_neuron.html#ion-channels",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Ion Channels",
-    "text": "2. Ion Channels\n\n\nIon channels are proteins embedded in the membrane.\nThey:\n\nAllow specific ions to cross\nAre selective (not all ions can pass)\nCan open or close\n\n\nIon movement only occurs through these channels."
-  },
-  {
-    "objectID": "2_neuron.html#channel-selectivity",
-    "href": "2_neuron.html#channel-selectivity",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Channel Selectivity",
-    "text": "2. Channel Selectivity\n\n\nIon channels are selective because:\n\nIons differ in size\nIons differ in charge\nChannel pores are highly specific\n\nExample:\n\nSodium channels allow Na⁺ but not K⁺\nPotassium channels allow K⁺ but not Na⁺"
-  },
-  {
-    "objectID": "2_neuron.html#two-forces-acting-on-ions",
-    "href": "2_neuron.html#two-forces-acting-on-ions",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Two Forces Acting on Ions",
-    "text": "2. Two Forces Acting on Ions\nIon movement depends on two forces:\n\nDiffusion\n\nElectrical attraction or repulsion\n\n\nThe combined effect determines ion flow."
-  },
-  {
-    "objectID": "2_neuron.html#diffusion",
-    "href": "2_neuron.html#diffusion",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Diffusion",
-    "text": "2. Diffusion\n\n\nDiffusion is movement from:\n\n\n\n\n\nflowchart LR\n  A[High concentration]\n  B[Low concentration]\n\n  A --&gt;|Net flow| B\n  B -. No net flow .-&gt; A\n  style A fill:#2b2b2b,stroke:#67bdfb,color:#e6e6e6\n  style B fill:#2b2b2b,stroke:#67bdfb,color:#e6e6e6\n  linkStyle default stroke:#bbbbbb,stroke-width:2px\n\n\n\n\n\n\nIf more Na⁺ ions are outside the neuron than inside, Na⁺ tends to move inward.\n\nIt does not require energy."
-  },
-  {
-    "objectID": "2_neuron.html#electrical-forces",
-    "href": "2_neuron.html#electrical-forces",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Electrical Forces",
-    "text": "2. Electrical Forces\n\n\nCharged particles are influenced by:\n\nOpposite charges attract\nSame charges repel\n\nA negatively charged interior attracts positive ions."
-  },
-  {
-    "objectID": "2_neuron.html#electrochemical-gradient",
-    "href": "2_neuron.html#electrochemical-gradient",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Electrochemical Gradient",
-    "text": "2. Electrochemical Gradient\nThe electrochemical gradient combines:\n\nChemical gradient (diffusion)\nElectrical gradient (charge)\n\nIon movement depends on both at the same time.\nThis is the key principle of neural signaling."
-  },
-  {
-    "objectID": "2_neuron.html#example-sodium-ions-na",
-    "href": "2_neuron.html#example-sodium-ions-na",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Example: Sodium Ions (Na⁺)",
-    "text": "2. Example: Sodium Ions (Na⁺)\nTypically:\n\nHigh Na⁺ outside the neuron\nLow Na⁺ inside\nInside of neuron is negatively charged\n\n\nBoth diffusion and electrical forces push Na⁺ inward.\n\n\nThe inside of the neuron (and cells in general) is negative mainly because of large amount of anions inside the cell like proteins and other large organic anions (phosphates, metabolites)."
-  },
-  {
-    "objectID": "2_neuron.html#example-potassium-ions-k",
-    "href": "2_neuron.html#example-potassium-ions-k",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Example: Potassium Ions (K⁺)",
-    "text": "2. Example: Potassium Ions (K⁺)\n\nHigh K⁺ inside the neuron\nLow K⁺ outside\nElectrical force pulls K⁺ inward\nDiffusion pushes K⁺ outward\n\n\nHere the diffusion force in higher that the electical force an K⁺ flux tends to go outward"
-  },
-  {
-    "objectID": "2_neuron.html#equilibrium-potential",
-    "href": "2_neuron.html#equilibrium-potential",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Equilibrium Potential",
-    "text": "2. Equilibrium Potential\nThe equilibrium potential is the membrane voltage at which:\n\nElectrical force exactly balances diffusion\nNo net movement of an ion occurs\n\nEach ion has its own equilibrium potential."
-  },
-  {
-    "objectID": "2_neuron.html#important-concept",
-    "href": "2_neuron.html#important-concept",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Important Concept",
-    "text": "2. Important Concept\nDifferent ions want to move in different directions.\nNeural electrical signals emerge from:\n\nWhich channels are open\nWhich ions can move\nThe direction of ion flow"
-  },
-  {
-    "objectID": "2_neuron.html#calcium",
-    "href": "2_neuron.html#calcium",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Example: Calcium Ions (Ca²⁺)",
-    "text": "2. Example: Calcium Ions (Ca²⁺)\n\nVery low concentration inside neurons\nStrong positive electrical charge\nActs as both an ion and a signaling molecule\n\n\nOpening Ca²⁺ channels causes a inward flux of Ca²⁺ ions."
-  },
-  {
-    "objectID": "2_neuron.html#ion-movement-is-passive",
-    "href": "2_neuron.html#ion-movement-is-passive",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Ion Movement Is Passive",
-    "text": "2. Ion Movement Is Passive\nIon movement through channels:\n\nDoes not require energy\nIs driven by electrochemical gradients\n\n\nBut maintaining the gradients require energy! The gradients are maintained by specific proteins called pumps that can move ions against their gradients."
-  },
-  {
-    "objectID": "2_neuron.html#membrane-voltage",
-    "href": "2_neuron.html#membrane-voltage",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Membrane Voltage",
-    "text": "2. Membrane Voltage\n\n\nThe neuron’s membrane separates electrical charges.\nThis separation creates a quantity called membrane voltage.\n\nVoltage is a difference in electrical potential\nIt tells us how strong the electrical force is\nIt is measured across the membrane, not inside the cell\n\n\nVoltage is not a substance and not a force.\nIt is a measure of how much electrical energy is available to move ions."
-  },
-  {
-    "objectID": "2_neuron.html#equilibrium-potential-formal-definition",
-    "href": "2_neuron.html#equilibrium-potential-formal-definition",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Equilibrium Potential (Formal Definition)",
-    "text": "2. Equilibrium Potential (Formal Definition)\nThe equilibrium potential of an ion is:\n\nThe membrane voltage at which there is no net movement of that ion across the membrane.\n\nImportant points:\n\nIt depends on concentration differences\nIt depends on charge"
-  },
-  {
-    "objectID": "2_neuron.html#the-nernst-equation",
-    "href": "2_neuron.html#the-nernst-equation",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. The Nernst Equation",
-    "text": "2. The Nernst Equation\nTo describe equilibrium quantitatively, we use the Nernst equation.\nIt links:\n\nion concentration differences\nelectrical voltage across the membrane\n\n\\[\nE_{\\mathrm{ion}} = \\frac{RT}{zF}\\ln\\left(\\frac{[\\mathrm{ion}]_{\\mathrm{out}}}{[\\mathrm{ion}]_{\\mathrm{in}}}\\right)\n\\]\n\n\\(E_{\\mathrm{ion}}\\): equilibrium potential of the ion\n\n\\(R\\): gas constant\n\n\\(T\\): absolute temperature\n\n\\(z\\): ion charge (valence)\n\n\\(F\\): Faraday constant"
-  },
-  {
-    "objectID": "2_neuron.html#what-the-equation-means-not-how-to-use-it",
-    "href": "2_neuron.html#what-the-equation-means-not-how-to-use-it",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. What the Equation Means (Not How to Use It)",
-    "text": "2. What the Equation Means (Not How to Use It)\nYou do not need to memorize this formula.\nWhat matters is what it tells us:\n\nLarger concentration differences → larger equilibrium voltage\nHigher charge → stronger electrical effect\nEach ion has its own equilibrium potential\n\n\nThe term (z) is the ion’s charge:\n\n\n\n\n\n\n\n\n\n\nIon\nz\nInside Concentration\nOutside Concentation\nEquilibrium Potential\n\n\n\n\nK⁺\n+1\n15 mM\n145 mM\n+ 60 mV\n\n\nNa⁺\n+1\n125 mM\n5 mM\n-85 mV\n\n\nCa²⁺\n+2\n0.0002 mM\n2 mM\n125 mV\n\n\nCl⁻\n-1\n13 mM\n150 mM\n-65 mV"
-  },
-  {
-    "objectID": "2_neuron.html#from-equilibrium-potential-to-membrane-potential",
-    "href": "2_neuron.html#from-equilibrium-potential-to-membrane-potential",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. From Equilibrium Potential to Membrane Potential",
-    "text": "2. From Equilibrium Potential to Membrane Potential\nSo far we have described equilibrium for one ion at a time.\nReal neurons are a bit different:\n\nMultiple ion species are present\nMultiple channels are open simultaneously\n\nThe membrane voltage reflects the combined effect of all ions."
-  },
-  {
-    "objectID": "2_neuron.html#what-is-the-membrane-potential",
-    "href": "2_neuron.html#what-is-the-membrane-potential",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. What Is the Membrane Potential?",
-    "text": "2. What Is the Membrane Potential?\n\nThe membrane potential is: The electrical potential difference between the inside and the outside of the cell membrane. It is measured in millivolts (mV), 1 mV = 0.001 Volts (V).\n\nEach ion has:\n\nIts own equilibrium potential\nIts own concentration gradient\n\nBut the membrane potential is:\n\nNot equal to \\(E_{\\mathrm{Na}}\\)\nNot equal to \\(E_{\\mathrm{K}}\\)\nNot equal to \\(E_{\\mathrm{Cl}}\\)\nIt lies between them."
-  },
-  {
-    "objectID": "2_neuron.html#which-ion-dominates",
-    "href": "2_neuron.html#which-ion-dominates",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Which Ion Dominates?",
-    "text": "2. Which Ion Dominates?\nThe influence of an ion depends on:\n\nPermeability, a measure of how easily a given ion can cross the membrane through its channels and is given by the number of ions for that channel are open.\n\nAt rest, neuronal membranes are:\n\nHighly permeable to \\(K^+\\)\nWeakly permeable to \\(Na^+\\)\nModerately permeable to \\(Cl^-\\)\n\n\nIn most neurons resting membrane potential is \\(\\approx -65\\,\\mathrm{mV}\\). This reflects potassium dominance at rest."
-  },
-  {
-    "objectID": "2_neuron.html#voltage-change",
-    "href": "2_neuron.html#voltage-change",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Voltage Change",
-    "text": "2. Voltage Change\nIf channels open for an ion, the membrane potential changes. If a positive ion moves inside the cell, the membrane potential becomes less negative; if it moves outside, it becomes more negative. For negative ions, the effect is reversed.\n\n\n\nExample: Opening Sodium Channels\nIf \\(Na^+\\) channels open:\n\n\\(Na^+\\) enters the cell\nMembrane potential becomes less negative\n\nThis process is called depolarization.\n\n\n\nExample: Opening Potassium Channels\nIf \\(K^+\\) channels open:\n\n\\(K^+\\) leaves the cell\nMembrane potential becomes more negative\n\nThis process is called hyperpolarization."
-  },
-  {
-    "objectID": "2_neuron.html#the-goldmanhodgkinkatz-equation",
-    "href": "2_neuron.html#the-goldmanhodgkinkatz-equation",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. The Goldman–Hodgkin–Katz Equation",
-    "text": "2. The Goldman–Hodgkin–Katz Equation\nWhen multiple ions contribute to the membrane voltage, the membrane potential is given by the Goldman–Hodgkin–Katz (GHK) equation:\n\\[\nV_m =\n\\frac{RT}{F}\n\\ln\\!\\left(\n\\frac{\nP_{\\mathrm{K}}[K^+]_{\\mathrm{out}} +\nP_{\\mathrm{Na}}[Na^+]_{\\mathrm{out}} +\nP_{\\mathrm{Cl}}[Cl^-]_{\\mathrm{in}}\n}{\nP_{\\mathrm{K}}[K^+]_{\\mathrm{in}} +\nP_{\\mathrm{Na}}[Na^+]_{\\mathrm{in}} +\nP_{\\mathrm{Cl}}[Cl^-]_{\\mathrm{out}}\n}\n\\right)\n\\]\n\n\n\n\\(V_m\\) is the membrane potential\n\n\\(P_{\\mathrm{K}}, P_{\\mathrm{Na}}, P_{\\mathrm{Cl}}\\) are permeabilities\n\n\\([\\cdot]_{\\mathrm{in}}\\) and \\([\\cdot]_{\\mathrm{out}}\\) are ion concentrations\n\n\\(R\\), \\(T\\), and \\(F\\) have the same meaning as in the Nernst equation\n\n\n\nIf only one ion is permeable: Goldman reduces to Nernst\n\n\n\nYou may notice that:\n\n\\([Cl^-]_{\\mathrm{in}}\\) appears in the numerator\n\\([Cl^-]_{\\mathrm{out}}\\) appears in the denominator\n\nThis happens because:\n\nChloride carries a negative charge\nIts electrical force acts in the opposite direction"
-  },
-  {
-    "objectID": "2_neuron.html#from-steady-voltage-to-signals",
-    "href": "2_neuron.html#from-steady-voltage-to-signals",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. From Steady Voltage to Signals",
-    "text": "2. From Steady Voltage to Signals\nNeurons use changes in membrane potential as signals.\nThese changes can be:\n\nSmall or large (millivolts )\nSlow or fast (milliseconds)\nLocal or long-range (micrometers to meters)\n\n\nTwo main types exist:\n\nGraded potentials\nAction potentials\n\nThey differ in origin, size, and function."
-  },
-  {
-    "objectID": "2_neuron.html#graded-potentials",
-    "href": "2_neuron.html#graded-potentials",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Graded Potentials",
-    "text": "2. Graded Potentials\n\nGraded potential: local change in membrane potential whose magnitude depends on the strength of the stimulus.\n\n\n\nKey properties:\n\nAmplitude varies continuously\nCan be depolarizing or hyperpolarizing\nSpread passively\nBecome smaller with distance\n\n\n\nThis decay is due to:\n\nMembrane resistance\nCytoplasmic resistance\n\n\n\nThey are common in:\n\nDendrites\nSoma"
-  },
-  {
-    "objectID": "2_neuron.html#integration-of-graded-potentials",
-    "href": "2_neuron.html#integration-of-graded-potentials",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Integration of Graded Potentials",
-    "text": "2. Integration of Graded Potentials\n\n\nMultiple graded potentials can:\n\nAdd together in space (spatial summation)\nAdd together in time (temporal summation)\n\nIntegration mainly occurs at:\n\nThe cell body\nThe axon initial segment (axon hillock)\n\n\nNeurons continuously integrate incoming signals."
-  },
-  {
-    "objectID": "2_neuron.html#actionpotential",
-    "href": "2_neuron.html#actionpotential",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Action Potentials",
-    "text": "2. Action Potentials\n\n\nIf depolarization is strong enough:\n\nA critical voltage is reached\nA different electrical event is triggered\n\nThis voltage is called the threshold. Potentials beyond the threshold trigger Action Potentials.\n\nAction potential: A large, rapid, and stereotyped change in membrane potential, originated at the level of the axon hillock, that propagates along the axon."
-  },
-  {
-    "objectID": "2_neuron.html#why-action-potentials-are-needed",
-    "href": "2_neuron.html#why-action-potentials-are-needed",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Why Action Potentials Are Needed",
-    "text": "2. Why Action Potentials Are Needed\n\n\n\nGraded potentials decay with distance.\n\nTo communicate over long axons, neurons need:\n\nA signal that does not fade\nA reliable, all-or-none event"
-  },
-  {
-    "objectID": "2_neuron.html#membrane-proteins-and-transport",
-    "href": "2_neuron.html#membrane-proteins-and-transport",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Membrane Proteins and Transport",
-    "text": "2. Membrane Proteins and Transport\nThe lipid bilayer is electrically insulating. Ions can cross the membrane only through membrane proteins.\nMembrane transport proteins fall into two broad categories:\n\nChannels\nTransporters (carriers and pumps)\n\n\nIon channel: A protein that forms a continuous aqueous pathway across the membrane, allowing ions to move down their electrochemical gradient.\nProperties:\n\nDo not use metabolic energy (passive)\nDo not move ions against gradients (no energy)\nSelective to specific Ions"
-  },
-  {
-    "objectID": "2_neuron.html#channel-gating",
-    "href": "2_neuron.html#channel-gating",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Channel Gating",
-    "text": "2. Channel Gating\n\n\nIon channels are not static holes.\nThey fluctuate between:\n\nClosed states\nOpen states\n\n\nChannels can be gated by different physical signals:\n\nChemical binding (ligand-gated - e.g. Neurotransmitters)\nMechanical deformation (mechanosensitive)\nMembrane voltage (voltage-gated - activated when the membrane cross a specific voltage)\n\n\n\n\nGating: The process by which an ion channel switches between open and closed states."
-  },
-  {
-    "objectID": "2_neuron.html#graded-potentials-and-channels",
-    "href": "2_neuron.html#graded-potentials-and-channels",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Graded Potentials and Channels",
-    "text": "2. Graded Potentials and Channels\nDuring Graded Potentials:\n\nPassive channels remain unchanged\nVoltage-gated channels remain mostly closed\n\n\nVoltage changes are passive and proportional to input and decay over space-time.\n\nWhen depolarization is small:\n\nA few voltage-gated \\(Na^+\\) channels open\nResulting \\(Na^+\\) influx is weak\nPassive \\(K^+\\) currents counteract depolarization\n\nThe voltage relaxes back to rest."
-  },
-  {
-    "objectID": "2_neuron.html#threshold-crossing",
-    "href": "2_neuron.html#threshold-crossing",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Threshold Crossing",
-    "text": "2. Threshold Crossing\nAt threshold:\n\nVoltage-gated \\(Na^+\\) channel opening becomes significant\n\\(Na^+\\) influx exceeds opposing currents\nDepolarization accelerates\n\nThis marks the transition from passive to active behavior.\n\nOnce threshold is crossed:\n\nMany \\(Na^+\\) channels open rapidly\nMembrane permeability to \\(Na^+\\) increases sharply\nVoltage changes are no longer passive\n\nThe action potential is initiated."
-  },
-  {
-    "objectID": "2_neuron.html#during-the-action-potential",
-    "href": "2_neuron.html#during-the-action-potential",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. During the Action Potential",
-    "text": "2. During the Action Potential\n\n\nDuring the spike:\n\nVoltage-gated \\(Na^+\\) channels open, then inactivate\nVoltage-gated \\(K^+\\) channels open with delay\n\nVoltage is dominated by voltage-gated dynamics.\nAfter the action potential:\n\n\\(Na^+\\) channels recover from inactivation\n\\(K^+\\) channels close\nPassive channels dominate again\n\n\n\n\n\n\n\n\n\nInactivation: A state in which a voltage-gated channel is closed and temporarily unable to reopen, even though the membrane is still depolarized."
-  },
-  {
-    "objectID": "2_neuron.html#refractory-period",
-    "href": "2_neuron.html#refractory-period",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Refractory Period",
-    "text": "2. Refractory Period\n\n\nAfter an action potential, the neuron cannot immediately fire another spike.\n\nRefractory period: A time interval following an action potential during which the neuron’s ability to generate another action potential is reduced or absent.\n\nThis phase is caused purely by Na⁺ channel inactivation.\nRefractory periods ensure that:\n\nAction potentials propagate in one direction\nSpikes are separated in time (neural code)\nMaximum firing frequency is limited"
-  },
-  {
-    "objectID": "2_neuron.html#axon-diameter-and-conduction-speed",
-    "href": "2_neuron.html#axon-diameter-and-conduction-speed",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Axon Diameter and Conduction Speed",
-    "text": "2. Axon Diameter and Conduction Speed\nThe speed of action potential propagation depends on axon geometry.\nLarger axons:\n\nHave lower internal (axial) resistance\nAllow local currents to spread more easily\nDepolarize adjacent membrane faster\n\nAs a result, action potentials propagate faster in thicker axons."
-  },
-  {
-    "objectID": "2_neuron.html#myelination-and-electrical-insulation",
-    "href": "2_neuron.html#myelination-and-electrical-insulation",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Myelination and Electrical Insulation",
-    "text": "2. Myelination and Electrical Insulation\nMany axons are wrapped in myelin, a multilayered insulating sheath formed by glial cells.\nMyelination is not continuous along the axon.\nAxons contain regularly spaced gaps called nodes of Ranvier.\nAt nodes:\n\nThe membrane is unmyelinated\nVoltage-gated \\(Na^+\\) channels are highly concentrated\nAction potentials are regenerated"
-  },
-  {
-    "objectID": "2_neuron.html#saltatory-conduction",
-    "href": "2_neuron.html#saltatory-conduction",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Saltatory Conduction",
-    "text": "2. Saltatory Conduction\nIn myelinated axons:\n\nDepolarization spreads passively under the myelin\nAction potentials occur only at nodes\nThe signal appears to “jump” from node to node\n\nThis mode of propagation is called saltatory conduction. As a result, conduction speed increases dramatically. This is a physical optimization of signal transmission."
-  },
-  {
-    "objectID": "2_neuron.html#in-class-exercise-true-or-false",
-    "href": "2_neuron.html#in-class-exercise-true-or-false",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. In-Class Exercise — True or False",
-    "text": "2. In-Class Exercise — True or False\nFor each statement, decide whether it is True (T) or False (F).\n\nThe lipid bilayer by itself allows ions to cross the membrane easily.\n\nIon channels consume energy to move ions across the membrane.\n\nDiffusion and electrical forces always act in the same direction.\n\nEach ion has its own equilibrium potential.\n\nThe membrane potential is usually equal to one specific equilibrium potential.\n\nGraded potentials decrease in amplitude as they spread.\n\nAction potentials require voltage-gated ion channels.\n\nSodium channel inactivation is responsible for the refractory period.\n\nIncreasing axon diameter increases conduction speed.\n\nIn myelinated axons, action potentials occur at nodes of Ranvier only."
-  },
-  {
-    "objectID": "2_neuron.html#in-class-exercise---answers",
-    "href": "2_neuron.html#in-class-exercise---answers",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. In-Class Exercise - Answers",
-    "text": "2. In-Class Exercise - Answers\n\nFalse - the lipid bilayer is electrically insulating to ions.\n\nFalse - ion channels are passive; pumps consume energy.\n\nFalse - diffusion and electrical forces can oppose each other.\n\nTrue - equilibrium potential depends on ion charge and concentrations.\n\nFalse - membrane potential reflects multiple ions and permeabilities.\n\nTrue - graded potentials spread passively and decay with distance.\n\nTrue - voltage-gated channels are required for action potentials.\n\nTrue - Na⁺ channel inactivation causes refractoriness.\n\nTrue - larger diameter reduces axial resistance.\n\nTrue - spikes are regenerated only at nodes in myelinated axons."
-  },
-  {
-    "objectID": "3_synapse.html#why-synapses",
-    "href": "3_synapse.html#why-synapses",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "Why Synapses?",
-    "text": "Why Synapses?\n\nAction potentials propagate along a single neuron\n\nNeurons are not physically continuous\n\nInformation must cross a cell-to-cell gap\n\nSynapses allow:\n\nDirectional signaling\n\nSignal modulation\n\nIntegration of multiple inputs"
-  },
-  {
-    "objectID": "3_synapse.html#presynaptic-events",
-    "href": "3_synapse.html#presynaptic-events",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Presynaptic Events",
-    "text": "3. Presynaptic Events\n\n\n\nAction potential arrives at terminal\nMembrane depolarization\nOpening of voltage-gated Ca²⁺ channels\nCa²⁺ influx triggers vesicle fusion\nNeurotransmitter released into synaptic cleft"
-  },
-  {
-    "objectID": "3_synapse.html#synaptic-vesicles",
-    "href": "3_synapse.html#synaptic-vesicles",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Synaptic Vesicles",
-    "text": "3. Synaptic Vesicles\n\n\n\nSmall membrane-bound organelles in the presynaptic terminal\n\nStore neurotransmitters at high concentration\n\nCluster near active zones of the presynaptic membrane\n\n\nKey properties:\n\nRelease occurs in discrete, quantal events\nThe release is mediated by SNARE proteins\nVesicles are recycled locally\n\n\n\n\nProcess:\n\nSNAREs bring vesicle and presynaptic membranes close together\n\nCa²⁺ influx triggers final fusion step\n\nNeurotransmitter released by exocytosis"
-  },
-  {
-    "objectID": "1_intro.html#the-nucleus-and-dna",
-    "href": "1_intro.html#the-nucleus-and-dna",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. The Nucleus and DNA",
-    "text": "1. The Nucleus and DNA\n\n\n\nThe nucleus contains the cell’s DNA\nDNA is a long chain of nucleotides\nNucleotides form genes\n\n\nGenes are instructions for building cellular components"
-  },
-  {
-    "objectID": "1_intro.html#from-genes-to-proteins",
-    "href": "1_intro.html#from-genes-to-proteins",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. From Genes to Proteins",
-    "text": "1. From Genes to Proteins\n\n\n\nGenes encode proteins\nProteins are chains of amino acids\nThe sequence of nucleotides determines:\n\nThe sequence of amino acids\nThe structure and function of the protein\n\n\n\nProteins are the working molecules of the cell"
-  },
-  {
-    "objectID": "2_neuron.html#myelination",
-    "href": "2_neuron.html#myelination",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Myelination",
-    "text": "2. Myelination\n\n\nMany axons, especially long ones, are wrapped in myelin, a multilayered insulating sheath formed by glial cells. This ensures that the signal reaches its destination.\nMyelination is not continuous along the axon. Axons contain regularly spaced gaps called nodes of Ranvier.\n\nAt nodes:\n\nVoltage-gated \\(Na^+\\) and \\(K^+\\) channels are highly concentrated\nAction potentials are regenerated\nSaltatory conduction (the action potential jumps from one node to the other)"
-  },
-  {
-    "objectID": "3_synapse.html#postsynaptic-membrane",
-    "href": "3_synapse.html#postsynaptic-membrane",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Postsynaptic Membrane",
-    "text": "3. Postsynaptic Membrane\n\n\nContains neurotransmitter Receptors\n\nReceptors can be of two main classes:\n\nIonotropic receptors\n\nLigand-gated ion channels\nFast responses\n\nMetabotropic receptors\n\nG-protein coupled\nSlower but modulatory (long-lasting response)"
-  },
-  {
-    "objectID": "3_synapse.html#postsynaptic-potentials",
-    "href": "3_synapse.html#postsynaptic-potentials",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "Postsynaptic Potentials",
-    "text": "Postsynaptic Potentials\n\n\nNeurotransmitter binding produces grades signals of different types:\n\nEPSP: excitatory postsynaptic potential\nIPSP: inhibitory postsynaptic potential\n\n\nExcitatory synapses:\n\nDepolarize the membrane\nMediated by Ca²⁺ influx\n\nInhibitory synapses:\n\nHyperpolarize or stabilize membrane potential\nMediated by Cl⁻ influx"
-  },
-  {
-    "objectID": "3_synapse.html#postsynaptic-events",
-    "href": "3_synapse.html#postsynaptic-events",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Postsynaptic Events",
-    "text": "3. Postsynaptic Events\n\n\nNeurotransmitter binding produces graded signals of different types:\n\nEPSP: Excitatory PostSynaptic Potential\nIPSP: Inhibitory PostSynaptic Potential\n\n\nExcitatory synapses:\n\nDepolarize the membrane\nMediated by Na (or Ca²⁺ in special cases) influx\n\nInhibitory synapses:\n\nHyperpolarize or stabilize membrane potential\nMediated by Cl⁻ influx\n\n\n\n\n\n\n\n\n\nNeurotransmitter action ends by:\n\nReuptake into presynaptic terminal\nEnzymatic degradation"
-  },
-  {
-    "objectID": "3_synapse.html",
-    "href": "3_synapse.html",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "",
-    "text": "Neurons transmit information to other neurons and target cells using specialized compartments called Synapses. A synapse is a specialized junction where a neuron communicates with another neuron (or another cell).\n\nIMPORTANT: In synapses, neurons are not physically continous, but there is a gap called Synaptic Cleft\n\n\n\n\n\nSynapses allow:\n\nDirectional signaling\n\nSignal modulation\n\nIntegration of multiple inputs\n\n\n\n\n\nThree main components:\n\nPresynaptic compartment (or terminal)\nSynaptic cleft\n\nPostsynaptic compartment (or spine)"
-  },
-  {
-    "objectID": "0_content.html#index",
-    "href": "0_content.html#index",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "Index",
-    "text": "Index\n\nHello, Welcome to the course!\n\nChapters\n\n\n\nIntroduction\nNeuron\nNeuronal Communication\nOrganization of the Nervous System\nSensory Systems"
-  },
-  {
-    "objectID": "3_synapse.html#neurotransmitters",
-    "href": "3_synapse.html#neurotransmitters",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Neurotransmitters",
-    "text": "3. Neurotransmitters\nNeurotransmitters are chemical messengers released at synapses\nThey transmit signals from a presynaptic neuron to a postsynaptic cell\n\n\n\nEach neurotransmitter:\n\nIs synthesized in the neuron\nIs released in response to activity\nActs on specific receptors\n\n\n\n\nNeurotransmitters can be grouped by function:\n\nExcitatory\nInhibitory\nModulatory\n\n\n\n\nThe effect depends on the receptor, not only on the neurotransmitter"
-  },
-  {
-    "objectID": "3_synapse.html#glutamate",
-    "href": "3_synapse.html#glutamate",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Glutamate",
-    "text": "3. Glutamate\n\n\n\nMain excitatory neurotransmitter in the brain\n\nInvolved in:\n\nSensory processing\nLearning and memory\nSynaptic plasticity\n\n\nActs on:\n\nIonotropic receptors\nMetabotropic receptors"
-  },
-  {
-    "objectID": "3_synapse.html#glutamate-glu",
-    "href": "3_synapse.html#glutamate-glu",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Glutamate (Glu)",
-    "text": "3. Glutamate (Glu)\n\n\n\nMain excitatory neurotransmitter in the brain\n\nInvolved in:\n\nSensory processing\nLearning and memory\nSynaptic plasticity\n\n\nActs on:\n\nIonotropic receptors\nMetabotropic receptors"
-  },
-  {
-    "objectID": "3_synapse.html#glutamate---glu",
-    "href": "3_synapse.html#glutamate---glu",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Glutamate - Glu",
-    "text": "3. Glutamate - Glu\n\n\n\nMain excitatory neurotransmitter in the brain\n\n\nIncreases neuronal excitability (EPSP)\nReally abbundant in the brain\n\n\nActs on:\n\nIonotropic receptors\nMetabotropic receptors"
-  },
-  {
-    "objectID": "3_synapse.html#gaba",
-    "href": "3_synapse.html#gaba",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. GABA",
-    "text": "3. GABA\n\n\n\nMain inhibitory neurotransmitter in the brain\n\n\nReduces neuronal excitability (IPSP)\nEssential for network stability\n\n\nActs on:\n\nIonotropic receptors (fast inhibition)\nMetabotropic receptors (slow inhibition)"
-  },
-  {
-    "objectID": "3_synapse.html#acetylcholine",
-    "href": "3_synapse.html#acetylcholine",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Acetylcholine",
-    "text": "3. Acetylcholine\n\n\n\nActs in both central and peripheral nervous systems\n\nInvolved in:\n\nMuscle contraction\nAttention, Learning and Memory\n\n\nActs on:\n\nIonotropic receptors\nMetabotropic receptors"
-  },
-  {
-    "objectID": "3_synapse.html#acetylcholine---ach",
-    "href": "3_synapse.html#acetylcholine---ach",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Acetylcholine - ACh",
-    "text": "3. Acetylcholine - ACh\n\n\n\nActs as a Diffuse Projection System in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: Cholinergic system\n\nInvolved in:\n\nMuscle contraction\nVital and Cognitive functions\n\n\nActs on:\n\nIonotropic receptors\nMetabotropic receptors"
-  },
-  {
-    "objectID": "3_synapse.html#acetylcholine---ach-1",
-    "href": "3_synapse.html#acetylcholine---ach-1",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Acetylcholine - Ach",
-    "text": "3. Acetylcholine - Ach\n\n\n\nActs as a diffuse projection system in the brain. This means that is produced in specific nuclei and projected throughout the brain.\n\nInvolved in:\n\nMuscle contraction\nVital and Cognitive functions\n\n\nActs on:\n\nIonotropic receptors\nMetabotropic receptors"
-  },
-  {
-    "objectID": "3_synapse.html#dopamine---da",
-    "href": "3_synapse.html#dopamine---da",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Dopamine - DA",
-    "text": "3. Dopamine - DA\n\n\n\nActs as a diffuse projection system in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: Dopaminergic system\nInvolved in:\n\n\nMotivation, Learning and Reward\nMovement control\n\n\nActs on:\n\nIonotropic receptors\nMetabotropic receptors"
-  },
-  {
-    "objectID": "3_synapse.html#dopamine---da-1",
-    "href": "3_synapse.html#dopamine---da-1",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Dopamine - DA",
-    "text": "3. Dopamine - DA\n\n\n\nActs as a diffuse projection system in the brain. This means that is produced in specific nuclei and projected throughout the brain.\n\nInvolved in:\n\nMotivation, Learning and Reward\nMovement control\n\n\nActs on:\n\nIonotropic receptors\nMetabotropic receptors"
-  },
-  {
-    "objectID": "3_synapse.html#serotonin---5-ht",
-    "href": "3_synapse.html#serotonin---5-ht",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Serotonin - 5-Ht",
-    "text": "3. Serotonin - 5-Ht\n\n\n\nActs as a diffuse projection system in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: Serotoninergic system\nInvolved in:\n\n\nMood and emotional processing\nVital functions including Sleep and Appetite\n\n\nActs on:\n\nIonotropic receptors\nMetabotropic receptors"
-  },
-  {
-    "objectID": "3_synapse.html#serotonin---5-ht-1",
-    "href": "3_synapse.html#serotonin---5-ht-1",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Serotonin - 5-Ht",
-    "text": "3. Serotonin - 5-Ht\n\n\n\nActs as a diffuse projection system in the brain. This means that is produced in specific nuclei and projected throughout the brain.\n\nInvolved in:\n\nMood and emotional processing\nVital functions including Sleep and Appetite\n\n\nActs on:\n\nIonotropic receptors\nMetabotropic receptors"
-  },
-  {
-    "objectID": "3_synapse.html#noradrenaline---na",
-    "href": "3_synapse.html#noradrenaline---na",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Noradrenaline - NA",
-    "text": "3. Noradrenaline - NA\n\n\n\nOr Norepinephrine. Acts as a Diffuse Projection System in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: Noradrenergic System.\n\nInvolved in:\n\nArousal and Attention\nStress response\n\n\nActs on:\n\nMetabotropic receptors"
-  },
-  {
-    "objectID": "3_synapse.html#adrenaline---na",
-    "href": "3_synapse.html#adrenaline---na",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Adrenaline - NA",
-    "text": "3. Adrenaline - NA\n\n\n\nLess abundant in the brain than other neurotransmitters in the brain\n\nInvolved in:\n\nArousal and Autonomic regulation\nStress response\n\n\nActs on:\n\nIonotropic receptors\nMetabotropic receptors"
-  },
-  {
-    "objectID": "3_synapse.html#adrenaline",
-    "href": "3_synapse.html#adrenaline",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Adrenaline",
-    "text": "3. Adrenaline\n\n\n\nOr Epinephrine. Less abundant in the Central Nervous System than other neurotransmitters. More Peripheral.\n\nInvolved in:\n\nArousal and Autonomic regulation\nStress response\n\n\nActs on:\n\nMetabotropic receptors"
-  },
-  {
-    "objectID": "3_synapse.html#other-signaling-molecules",
-    "href": "3_synapse.html#other-signaling-molecules",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Other Signaling Molecules",
-    "text": "3. Other Signaling Molecules\nIn addition to classical neurotransmitters, neurons use other chemical signals.\nThese molecules often act as modulators rather than fast transmitters\n\n\n\nNeuropeptides\n\nEndorphins\n\nPain, Reward, Stress regulation …\n\nOxytocin\n\nSocial, Maternal behavior …\n\nSubstance P\n\nPain, Inflammatory responses …\n\n\n\n\n\nOther Signaling Systems\n\nEndocannabinoids\n\nAppetite, mood, and memory, Retrograde signaling ….\n\nNitric Oxide (NO)\n\nRetrograde and Short-range signaling, Blood flow regulation …"
-  },
-  {
-    "objectID": "3_synapse.html#other-signaling-systems",
-    "href": "3_synapse.html#other-signaling-systems",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "Other Signaling Systems",
-    "text": "Other Signaling Systems\n\nEndocannabinoids\n\nAppetite, mood, and memory, Retrograde signaling ….\n\nNitric Oxide (NO)\n\nRetrograde and Short-range signaling, Blood flow regulation …"
-  },
-  {
-    "objectID": "3_synapse.html#receptors",
-    "href": "3_synapse.html#receptors",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Receptors",
-    "text": "3. Receptors\nNeurotransmitters act by binding to receptors on the postsynaptic membrane\nReceptors determine the speed and effect of synaptic transmission\n\n\n\nIonotropic Receptors\n\nLigand-gated ion channels\nNeurotransmitter binding directly opens the channel\nProduce fast responses (milliseconds)\n\n\n\n\nMetabotropic Receptors\n\nDo not form ion channels\nCoupled to intracellular signaling pathways\nNeurotransmitter binding activates G-proteins\nEffects are slower but longer-lasting"
-  },
-  {
-    "objectID": "3_synapse.html#ionotropic-receptors",
-    "href": "3_synapse.html#ionotropic-receptors",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "Ionotropic Receptors",
-    "text": "Ionotropic Receptors\n\nLigand-gated ion channels\nNeurotransmitter binding directly opens the channel\nProduce fast responses (milliseconds)\n\nIon flow across the membrane changes the membrane potential"
-  },
-  {
-    "objectID": "3_synapse.html#glutamate-ionotropic-receptors",
-    "href": "3_synapse.html#glutamate-ionotropic-receptors",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Glutamate Ionotropic Receptors",
-    "text": "3. Glutamate Ionotropic Receptors\n\n\nGlutamate activates multiple ionotropic receptors, including:\n\nAMPA receptors\n\nFast excitatory transmission\nAllow Na⁺ influx\nMain mediator of rapid excitation\n\nNMDA receptors\n\nSlower and Long-lasting kinetics\nPermeable to Ca²⁺\nInvolved in synaptic plasticity"
-  },
-  {
-    "objectID": "3_synapse.html#gaba-ionotropic-receptors",
-    "href": "3_synapse.html#gaba-ionotropic-receptors",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. GABA Ionotropic Receptors",
-    "text": "3. GABA Ionotropic Receptors\n\n\nGABA-A receptors\n\nIonotropic inhibitory receptors\nAllow Cl⁻ influx\nReduce neuronal excitability\n\nProvide fast inhibition in neural circuits"
-  },
-  {
-    "objectID": "3_synapse.html#metabotropic-receptors",
-    "href": "3_synapse.html#metabotropic-receptors",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Metabotropic Receptors",
-    "text": "3. Metabotropic Receptors\n\nDo not form ion channels\nCoupled to intracellular singaling pathways\nNeurotransmitter binding activates G-proteins\nEffects are slower but longer-lasting\n\n\nSignaling Pathway: chain of intracellular events where molecules relay messages from outside the cell to trigger specific internal responses like growth, division, or death"
-  },
-  {
-    "objectID": "3_synapse.html#metabotropic-glutamate-receptors-mglurs",
-    "href": "3_synapse.html#metabotropic-glutamate-receptors-mglurs",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Metabotropic glutamate receptors (mGluRs)",
-    "text": "3. Metabotropic glutamate receptors (mGluRs)\n\n\n\nModulate synaptic transmission\nRegulate ion channel activity indirectly\nInfluence plasticity and excitability\n\n\nSimilar mechanisms apply to many modulatory systems systems, such as dopamine and serotonin\n\n\nNeuromodulation is the process by which a neurotransmitter does not directly trigger a fast electrical signal, but instead changes how a neuron or a network responds to external inputs."
-  },
-  {
-    "objectID": "3_synapse.html#serotonin",
-    "href": "3_synapse.html#serotonin",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Serotonin - 5-Ht",
-    "text": "3. Serotonin - 5-Ht\n\n\n\nActs as a Diffuse Projection System in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: Serotoninergic system\n\nInvolved in:\n\nMood and Emotional processing\nVital functions including Sleep and Appetite\n\n\nActs on:\n\nIonotropic receptors\nMetabotropic receptors"
-  },
-  {
-    "objectID": "3_synapse.html#dopamine",
-    "href": "3_synapse.html#dopamine",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Dopamine - DA",
-    "text": "3. Dopamine - DA\n\n\n\nActs as a Diffuse Projection System in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: Dopaminergic system\nInvolved in:\n\n\nMotivation, Learning and Reward\nMovement control\n\n\nActs on:\n\nMetabotropic receptors"
-  },
-  {
-    "objectID": "3_synapse.html#position-of-the-synapse",
-    "href": "3_synapse.html#position-of-the-synapse",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Position of the Synapse",
-    "text": "3. Position of the Synapse\nAlso the position of a synapse along a neuron matters, because neurons are not electrically uniform cables. Where a signal arrives strongly shapes what it can do.\n\n\n\n\nAxo-dendritic\n\nAxon contacts a dendrite (Most common type)\nOften excitatory\n\n\n\n\n\nAxo-somatic\n\nAxon contacts the cell body\nStrong influence on spike generation\n\n\n\n\n\n\nAxo-axonic\n\nAxon contacts another axon\nModulates neurotransmitter release"
-  },
-  {
-    "objectID": "3_synapse.html#position-of-the-synapse2",
-    "href": "3_synapse.html#position-of-the-synapse2",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Position of the Synapse2",
-    "text": "3. Position of the Synapse2\n\n\n\n\nAxo-dendritic\n\nAxon contacts a dendrite (Most common type)\nOften excitatory\n\n\n\n\n\nAxo-somatic\n\nAxon contacts the cell body\nStrong influence on spike generation\n\n\n\n\n\n\nAxo-axonic\n\nAxon contacts another axon\nModulates neurotransmitter release"
-  },
-  {
-    "objectID": "2_neuron.html#voltage_change",
-    "href": "2_neuron.html#voltage_change",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Voltage Change",
-    "text": "2. Voltage Change\nIf channels open for an ion, the membrane potential changes. If a positive ion moves inside the cell, the membrane potential becomes less negative; if it moves outside, it becomes more negative. For negative ions, the effect is reversed.\n\n\n\nExample: Opening Sodium Channels\nIf \\(Na^+\\) channels open:\n\n\\(Na^+\\) enters the cell\nMembrane potential becomes less negative\n\nThis process is called depolarization.\n\n\n\nExample: Opening Potassium Channels\nIf \\(K^+\\) channels open:\n\n\\(K^+\\) leaves the cell\nMembrane potential becomes more negative\n\nThis process is called hyperpolarization."
-  },
-  {
-    "objectID": "2_neuron.html#graded_potential",
-    "href": "2_neuron.html#graded_potential",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Graded Potentials",
-    "text": "2. Graded Potentials\n\nGraded potential: local change in membrane potential whose magnitude depends on the strength of the stimulus.\n\n\n\nKey properties:\n\nAmplitude varies continuously\nCan be depolarizing or hyperpolarizing\nSpread passively\nBecome smaller with distance\n\n\n\nThis decay is due to:\n\nMembrane resistance\nCytoplasmic resistance\n\n\n\nThey are common in:\n\nDendrites\nSoma"
-  },
-  {
-    "objectID": "3_synapse.html#neurotransmitter-clearance",
-    "href": "3_synapse.html#neurotransmitter-clearance",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Neurotransmitter Clearance",
-    "text": "3. Neurotransmitter Clearance\nAfter release, neurotransmitters must be removed from the synaptic cleft\nThis ensures that synaptic signals are brief and precisely controlled\n\nReuptake\n\nNeurotransmitter is transported back into the presynaptic terminal\nMediated by specific membrane transporters\nAllows recycling of neurotransmitter molecules\n\nEnzymatic Degradation\n\nNeurotransmitter is broken down by enzymes in the synaptic cleft\nPrevents prolonged receptor activation"
-  },
-  {
-    "objectID": "3_synapse.html#drugs-and-neurotransmitter-clearance",
-    "href": "3_synapse.html#drugs-and-neurotransmitter-clearance",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Drugs and Neurotransmitter Clearance",
-    "text": "3. Drugs and Neurotransmitter Clearance\nMany drugs act by altering how neurotransmitters are removed from the synaptic cleft\nBy changing clearance, drugs modify the strength and duration of synaptic signaling.\n\n\n\nSelective Serotonin Reuptake Inhibitors (SSRIs)\n\nBlock serotonin reuptake transporters\nIncrease serotonin availability at synapses\n\nUsed to treat:\n\nDepression\nAnxiety disorders\n\nEffects develop slowly due to circuit-level adaptations\n\n\n\nCocaine\n\nBlocks reuptake of:\n\nDopamine\nNorepinephrine\nSerotonin\n\n\nResults in:\n\nStrong increase in synaptic signaling\nEnhanced reward and arousal\nHigh addictive potential"
-  },
-  {
-    "objectID": "3_synapse.html#synaptic-communication-true-or-false",
-    "href": "3_synapse.html#synaptic-communication-true-or-false",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "Synaptic Communication – True or False?",
-    "text": "Synaptic Communication – True or False?\n\nSynapses are points where neurons are physically continuous\n\nNeurotransmitter effects depend only on the neurotransmitter released\n\nIonotropic receptors mediate fast synaptic responses\n\nNMDA receptors are permeable to calcium ions\n\nGABA-A receptors are excitatory ion channels\n\nMonoamines mainly act as neuromodulators\n\nEndocannabinoids are released from presynaptic terminals\n\nNeurotransmitter clearance helps limit synaptic signal duration\n\nSSRIs reduce serotonin levels in the synaptic cleft\n\nAxo-axonic synapses can modulate neurotransmitter release"
-  },
-  {
-    "objectID": "3_synapse.html#answers-and-explanations",
-    "href": "3_synapse.html#answers-and-explanations",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "Answers and Explanations",
-    "text": "Answers and Explanations\n\nFalse - Neurons are not physically continuous at synapses; they are separated by the synaptic cleft.\nFalse - The effect depends on the receptor type activated, not only on the neurotransmitter.\nTrue - Ionotropic receptors directly open ion channels and produce fast responses.\nTrue - NMDA receptors are permeable to Ca²⁺ and play a key role in synaptic plasticity.\nFalse - GABA-A receptors are inhibitory and typically allow Cl⁻ influx.\nTrue - Monoamines mainly modulate neural circuits rather than driving fast synaptic transmission.\nFalse - Endocannabinoids are released from postsynaptic neurons and act retrogradely.\nTrue - Clearance mechanisms terminate signaling and preserve temporal precision.\nFalse - SSRIs block serotonin reuptake, increasing its concentration in the synaptic cleft.\nTrue - Axo-axonic synapses regulate neurotransmitter release rather than postsynaptic voltage."
-  },
-  {
-    "objectID": "2_neuron.html#in-class-exercise---true-or-false",
-    "href": "2_neuron.html#in-class-exercise---true-or-false",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. In-Class Exercise - True or False",
-    "text": "2. In-Class Exercise - True or False\nFor each statement, decide whether it is True (T) or False (F).\n\nThe lipid bilayer by itself allows ions to cross the membrane easily.\n\nIon channels consume energy to move ions across the membrane.\n\nDiffusion and electrical forces always act in the same direction.\n\nEach ion has its own equilibrium potential.\n\nThe membrane potential is usually equal to one specific equilibrium potential.\n\nGraded potentials decrease in amplitude as they spread.\n\nAction potentials require voltage-gated ion channels.\n\nSodium channel inactivation is responsible for the refractory period.\n\nIncreasing axon diameter increases conduction speed.\n\nIn myelinated axons, action potentials occur at nodes of Ranvier only."
-  },
-  {
-    "objectID": "3_synapse.html#in-class-exercise---items",
-    "href": "3_synapse.html#in-class-exercise---items",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "In-Class Exercise - Items",
-    "text": "In-Class Exercise - Items\n\nSynapses are points where neurons are physically continuous\n\nNeurotransmitter effects depend only on the neurotransmitter released\n\nIonotropic receptors mediate fast synaptic responses\n\nNMDA receptors are permeable to calcium ions\n\nGABA-A receptors are excitatory ion channels\n\nMonoamines mainly act as neuromodulators\n\nEndocannabinoids are released from presynaptic terminals\n\nNeurotransmitter clearance helps limit synaptic signal duration\n\nSSRIs reduce serotonin levels in the synaptic cleft\n\nAxo-axonic synapses can modulate neurotransmitter release"
+    "section": "Spinal cord and peripheral nerve damage",
+    "text": "Spinal cord and peripheral nerve damage\n\n\n\nSpinal cord lesions produce:\n\nWeakness below the lesion\n\nLoss of voluntary control\n\nPatterned sensory and motor deficits\n\nThe level of the lesion matters.\n\n\n\nDamage to peripheral nerves results in:\n\nWeakness in specific muscles\n\nLoss of reflexes\n\nSensory deficits in nerve territory\n\nDeficits follow peripheral anatomy."
   },
   {
     "objectID": "4_NS_organization.html#organization-of-the-nervous-system",
@@ -740,20 +96,6 @@
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Anatomical Planes",
     "text": "Anatomical Planes\n\n\nThe Body can be sectioned along three main planes:\n\nSagittal: Divides left and right halves\nCoronal: Divides rostral and caudal parts\nHorizontal (or Axial or Transverse): Divides dorsal and ventral parts"
-  },
-  {
-    "objectID": "4_NS_organization.html#brain-atlas",
-    "href": "4_NS_organization.html#brain-atlas",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "Brain Atlas",
-    "text": "Brain Atlas"
-  },
-  {
-    "objectID": "4_NS_organization.html#brain-atlases",
-    "href": "4_NS_organization.html#brain-atlases",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "Brain Atlases",
-    "text": "Brain Atlases\n\n\n\nAllen Brain Atlas\nAn interactive collection of brain maps linking anatomy, genes, and function, developed by the Allen Institute.\n\n\nNeurotorium\nAn interactive 3D brain atlas for exploring cortical and subcortical structures, designed for education and intuitive navigation.\n\n\neBrains\nA collection of digital brain atlases integrated with neuroscience data and tools for exploration and analysis."
   },
   {
     "objectID": "4_NS_organization.html#online-brain-atlases",
@@ -868,11 +210,11 @@
     "text": "Subcortical structures\nBelow the Cerebral Cortex we can find also another layer of (Subcortical) structures.\n\nMajor subcortical structures include:\n\nBasal nuclei\n\nHippocampus\n\nAmygdala\n\n\n\nThey are not visible from the surface but are critical for information processing.\n\nThey interact extensively with the cortex."
   },
   {
-    "objectID": "4_NS_organization.html#basal-ganglia",
-    "href": "4_NS_organization.html#basal-ganglia",
+    "objectID": "4_NS_organization.html#basal-nuclei",
+    "href": "4_NS_organization.html#basal-nuclei",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "Basal ganglia",
-    "text": "Basal ganglia\nThe basal ganglia are a group of interconnected nuclei.\nThey are best known for their role in:\n\nMovement regulation\n\nAction selection\n\nHabit formation\n\nDamage to these structures disrupts movement without causing paralysis."
+    "section": "Basal nuclei",
+    "text": "Basal nuclei\n\n\nThe basal nuclei are a group of interconnected nuclei. Including the dorsal striatum (caudate nucleus and putamen) and the ventral striatum (nucleus accumbens), the globus pallidus, the ventral pallidum, the substantia nigra, and the subthalamic nucleus.\n\nThey are best known for their role in:\n\nMovement regulation\n\nAction selection\n\nHabit formation\n\n\n\n\nDamage to these structures disrupts movement without causing paralysis."
   },
   {
     "objectID": "4_NS_organization.html#hippocampus",
@@ -931,20 +273,6 @@
     "text": "Cerebellum\n\n\nThe cerebellum lies posterior to the brainstem.\n\nIt is involved in:\n\nCoordination of movement\n\nTiming\n\nMotor learning\n\n\n\n\nDamage does not prevent movement, but makes it inaccurate and unstable."
   },
   {
-    "objectID": "4_NS_organization.html#basal-nuclei",
-    "href": "4_NS_organization.html#basal-nuclei",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "Basal nuclei",
-    "text": "Basal nuclei\n\n\nThe basal nuclei are a group of interconnected nuclei. Including the dorsal striatum (caudate nucleus and putamen) and the ventral striatum (nucleus accumbens), the globus pallidus, the ventral pallidum, the substantia nigra, and the subthalamic nucleus.\n\nThey are best known for their role in:\n\nMovement regulation\n\nAction selection\n\nHabit formation\n\n\n\n\nDamage to these structures disrupts movement without causing paralysis."
-  },
-  {
-    "objectID": "4_NS_organization.html#the-spinal-cord",
-    "href": "4_NS_organization.html#the-spinal-cord",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "The spinal cord",
-    "text": "The spinal cord\nThe spinal cord is part of the central nervous system. It serves as the main communication pathway between the brain and the body, through the spinal nerves. It also performs important processing independently of the brain.\n\n\n\nGrouped into regions: Cervical, Thoracic, Lumbar, Sacral\n\n\nSpinal nerves connect to the cord via two roots:\n\nDorsal root Carries sensory information into the spinal cord\nVentral root Carries motor commands out of the spinal cord"
-  },
-  {
     "objectID": "4_NS_organization.html#cranial-nerves",
     "href": "4_NS_organization.html#cranial-nerves",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
@@ -959,11 +287,536 @@
     "text": "Cranial nerves\n\n\n\n\n\nSensory\nMotor\nMixed\n\n\n\n\nOlfactory I\nOculomotor III\nTrigeminal V\n\n\nOptic II\nTrochlear IV\nFacial VII\n\n\nVestibulocochlear VII\nAbducens VI\nGlossopharyngeal IX\n\n\n\nAccessory XI\nVagus X\n\n\n\nHypoglossal XII\n\n\n\n\n\nThe Vagus nerve X is unique. It provides extensive parasympathetic innervation to thoracic and abdominal organs. It is a major pathway for autonomic communication between brain and body."
   },
   {
-    "objectID": "4_NS_organization.html#ciao",
-    "href": "4_NS_organization.html#ciao",
+    "objectID": "4_NS_organization.html#the-spinal-cord",
+    "href": "4_NS_organization.html#the-spinal-cord",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "ciao",
-    "text": "ciao"
+    "section": "The spinal cord",
+    "text": "The spinal cord\nThe spinal cord is part of the central nervous system. It serves as the main communication pathway between the brain and the body, through the spinal nerves. It also performs important processing independently of the brain.\n\n\n\nGrouped into regions: Cervical, Thoracic, Lumbar, Sacral\n\n\nSpinal nerves connect to the cord via two roots:\n\nDorsal root Carries sensory information into the spinal cord\nVentral root Carries motor commands out of the spinal cord"
+  },
+  {
+    "objectID": "4_NS_organization.html#self-check",
+    "href": "4_NS_organization.html#self-check",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Self-check",
+    "text": "Self-check"
+  },
+  {
+    "objectID": "2_neuron.html#ion-movement",
+    "href": "2_neuron.html#ion-movement",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Ion Movement",
+    "text": "2. Ion Movement\n\n\nNeurons communicate using electrical signals.\nThese signals exist because ions move across cell membranes.\nUnderstanding ion movement is the foundation for:\n\nElectrical signaling\nMembrane potential\nAction potentials\nSynaptic transmission"
+  },
+  {
+    "objectID": "2_neuron.html#ions",
+    "href": "2_neuron.html#ions",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. What Is an Ion?",
+    "text": "2. What Is an Ion?\n\n\nAn ion is an atom or molecule with an electrical charge.\n\nPositive charge → cation\n\nNegative charge → anion\n\nIn neuroscience, the most important ions are:\n\nSodium (Na⁺)\nPotassium (K⁺)\nChloride (Cl⁻)\nCalcium (Ca²⁺)"
+  },
+  {
+    "objectID": "2_neuron.html#why-charges-matter-in-the-brain",
+    "href": "2_neuron.html#why-charges-matter-in-the-brain",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Why Charges Matter in the Brain",
+    "text": "2. Why Charges Matter in the Brain\nElectrical signals arise because:\n\nIons carry charge\nNeurons separate charges across membranes\nDifferences in charge create electrical forces\n\n\nNo electricity → no neural signaling."
+  },
+  {
+    "objectID": "2_neuron.html#the-neuronal-membrane",
+    "href": "2_neuron.html#the-neuronal-membrane",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. The Neuronal Membrane",
+    "text": "2. The Neuronal Membrane\n\n\nThe neuron is surrounded by a lipid bilayer membrane.\nKey properties:\n\nElectrically insulating\nImpermeable to most ions\n\nThis separation is essential for signaling."
+  },
+  {
+    "objectID": "2_neuron.html#ion-channels",
+    "href": "2_neuron.html#ion-channels",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Ion Channels",
+    "text": "2. Ion Channels\n\n\nIon channels are proteins embedded in the membrane.\nThey:\n\nAllow specific ions to cross\nAre selective (not all ions can pass)\nCan open or close\n\n\nIon movement only occurs through these channels."
+  },
+  {
+    "objectID": "2_neuron.html#channel-selectivity",
+    "href": "2_neuron.html#channel-selectivity",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Channel Selectivity",
+    "text": "2. Channel Selectivity\n\n\nIon channels are selective because:\n\nIons differ in size\nIons differ in charge\nChannel pores are highly specific\n\nExample:\n\nSodium channels allow Na⁺ but not K⁺\nPotassium channels allow K⁺ but not Na⁺"
+  },
+  {
+    "objectID": "2_neuron.html#two-forces-acting-on-ions",
+    "href": "2_neuron.html#two-forces-acting-on-ions",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Two Forces Acting on Ions",
+    "text": "2. Two Forces Acting on Ions\nIon movement depends on two forces:\n\nDiffusion\n\nElectrical attraction or repulsion\n\n\nThe combined effect determines ion flow."
+  },
+  {
+    "objectID": "2_neuron.html#diffusion",
+    "href": "2_neuron.html#diffusion",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Diffusion",
+    "text": "2. Diffusion\n\n\nDiffusion is movement from:\n\n\n\n\n\nflowchart LR\n  A[High concentration]\n  B[Low concentration]\n\n  A --&gt;|Net flow| B\n  B -. No net flow .-&gt; A\n  style A fill:#2b2b2b,stroke:#67bdfb,color:#e6e6e6\n  style B fill:#2b2b2b,stroke:#67bdfb,color:#e6e6e6\n  linkStyle default stroke:#bbbbbb,stroke-width:2px\n\n\n\n\n\n\nIf more Na⁺ ions are outside the neuron than inside, Na⁺ tends to move inward.\n\nIt does not require energy."
+  },
+  {
+    "objectID": "2_neuron.html#electrical-forces",
+    "href": "2_neuron.html#electrical-forces",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Electrical Forces",
+    "text": "2. Electrical Forces\n\n\nCharged particles are influenced by:\n\nOpposite charges attract\nSame charges repel\n\nA negatively charged interior attracts positive ions."
+  },
+  {
+    "objectID": "2_neuron.html#electrochemical-gradient",
+    "href": "2_neuron.html#electrochemical-gradient",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Electrochemical Gradient",
+    "text": "2. Electrochemical Gradient\nThe electrochemical gradient combines:\n\nChemical gradient (diffusion)\nElectrical gradient (charge)\n\nIon movement depends on both at the same time.\nThis is the key principle of neural signaling."
+  },
+  {
+    "objectID": "2_neuron.html#example-sodium-ions-na",
+    "href": "2_neuron.html#example-sodium-ions-na",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Example: Sodium Ions (Na⁺)",
+    "text": "2. Example: Sodium Ions (Na⁺)\nTypically:\n\nHigh Na⁺ outside the neuron\nLow Na⁺ inside\nInside of neuron is negatively charged\n\n\nBoth diffusion and electrical forces push Na⁺ inward.\n\n\nThe inside of the neuron (and cells in general) is negative mainly because of large amount of anions inside the cell like proteins and other large organic anions (phosphates, metabolites)."
+  },
+  {
+    "objectID": "2_neuron.html#example-potassium-ions-k",
+    "href": "2_neuron.html#example-potassium-ions-k",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Example: Potassium Ions (K⁺)",
+    "text": "2. Example: Potassium Ions (K⁺)\n\nHigh K⁺ inside the neuron\nLow K⁺ outside\nElectrical force pulls K⁺ inward\nDiffusion pushes K⁺ outward\n\n\nHere the diffusion force in higher that the electical force an K⁺ flux tends to go outward"
+  },
+  {
+    "objectID": "2_neuron.html#calcium",
+    "href": "2_neuron.html#calcium",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Example: Calcium Ions (Ca²⁺)",
+    "text": "2. Example: Calcium Ions (Ca²⁺)\n\nVery low concentration inside neurons\nStrong positive electrical charge\nActs as both an ion and a signaling molecule\n\n\nOpening Ca²⁺ channels causes a inward flux of Ca²⁺ ions."
+  },
+  {
+    "objectID": "2_neuron.html#ion-movement-is-passive",
+    "href": "2_neuron.html#ion-movement-is-passive",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Ion Movement Is Passive",
+    "text": "2. Ion Movement Is Passive\nIon movement through channels:\n\nDoes not require energy\nIs driven by electrochemical gradients\n\n\nBut maintaining the gradients require energy! The gradients are maintained by specific proteins called pumps that can move ions against their gradients."
+  },
+  {
+    "objectID": "2_neuron.html#membrane-voltage",
+    "href": "2_neuron.html#membrane-voltage",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Membrane Voltage",
+    "text": "2. Membrane Voltage\n\n\nThe neuron’s membrane separates electrical charges.\nThis separation creates a quantity called membrane voltage.\n\nVoltage is a difference in electrical potential\nIt tells us how strong the electrical force is\nIt is measured across the membrane, not inside the cell\n\n\nVoltage is not a substance and not a force.\nIt is a measure of how much electrical energy is available to move ions."
+  },
+  {
+    "objectID": "2_neuron.html#which-ion-dominates",
+    "href": "2_neuron.html#which-ion-dominates",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Which Ion Dominates?",
+    "text": "2. Which Ion Dominates?\nThe influence of an ion depends on:\n\nPermeability, a measure of how easily a given ion can cross the membrane through its channels and is given by the number of ions for that channel are open.\n\nAt rest, neuronal membranes are:\n\nHighly permeable to \\(K^+\\)\nWeakly permeable to \\(Na^+\\)\nModerately permeable to \\(Cl^-\\)\n\n\nIn most neurons resting membrane potential is \\(\\approx -65\\,\\mathrm{mV}\\). This reflects potassium dominance at rest."
+  },
+  {
+    "objectID": "2_neuron.html#voltage_change",
+    "href": "2_neuron.html#voltage_change",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Voltage Change",
+    "text": "2. Voltage Change\nIf channels open for an ion, the membrane potential changes. If a positive ion moves inside the cell, the membrane potential becomes less negative; if it moves outside, it becomes more negative. For negative ions, the effect is reversed.\n\n\n\nExample: Opening Sodium Channels\nIf \\(Na^+\\) channels open:\n\n\\(Na^+\\) enters the cell\nMembrane potential becomes less negative\n\nThis process is called depolarization.\n\n\n\nExample: Opening Potassium Channels\nIf \\(K^+\\) channels open:\n\n\\(K^+\\) leaves the cell\nMembrane potential becomes more negative\n\nThis process is called hyperpolarization."
+  },
+  {
+    "objectID": "2_neuron.html#from-steady-voltage-to-signals",
+    "href": "2_neuron.html#from-steady-voltage-to-signals",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. From Steady Voltage to Signals",
+    "text": "2. From Steady Voltage to Signals\nNeurons use changes in membrane potential as signals.\nThese changes can be:\n\nSmall or large (millivolts )\nSlow or fast (milliseconds)\nLocal or long-range (micrometers to meters)\n\n\nTwo main types exist:\n\nGraded potentials\nAction potentials\n\nThey differ in origin, size, and function."
+  },
+  {
+    "objectID": "2_neuron.html#graded_potential",
+    "href": "2_neuron.html#graded_potential",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Graded Potentials",
+    "text": "2. Graded Potentials\n\nGraded potential: local change in membrane potential whose magnitude depends on the strength of the stimulus.\n\n\n\nKey properties:\n\nAmplitude varies continuously\nCan be depolarizing or hyperpolarizing\nSpread passively\nBecome smaller with distance\n\n\n\nThis decay is due to:\n\nMembrane resistance\nCytoplasmic resistance\n\n\n\nThey are common in:\n\nDendrites\nSoma"
+  },
+  {
+    "objectID": "2_neuron.html#integration-of-graded-potentials",
+    "href": "2_neuron.html#integration-of-graded-potentials",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Integration of Graded Potentials",
+    "text": "2. Integration of Graded Potentials\n\n\nMultiple graded potentials can:\n\nAdd together in space (spatial summation)\nAdd together in time (temporal summation)\n\nIntegration mainly occurs at:\n\nThe cell body\nThe axon initial segment (axon hillock)\n\n\nNeurons continuously integrate incoming signals."
+  },
+  {
+    "objectID": "2_neuron.html#actionpotential",
+    "href": "2_neuron.html#actionpotential",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Action Potentials",
+    "text": "2. Action Potentials\n\n\nIf depolarization is strong enough:\n\nA critical voltage is reached\nA different electrical event is triggered\n\nThis voltage is called the threshold. Potentials beyond the threshold trigger Action Potentials.\n\nAction potential: A large, rapid, and stereotyped change in membrane potential, originated at the level of the axon hillock, that propagates along the axon."
+  },
+  {
+    "objectID": "2_neuron.html#why-action-potentials-are-needed",
+    "href": "2_neuron.html#why-action-potentials-are-needed",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Why Action Potentials Are Needed",
+    "text": "2. Why Action Potentials Are Needed\n\n\n\nGraded potentials decay with distance.\n\nTo communicate over long axons, neurons need:\n\nA signal that does not fade\nA reliable, all-or-none event"
+  },
+  {
+    "objectID": "2_neuron.html#membrane-proteins-and-transport",
+    "href": "2_neuron.html#membrane-proteins-and-transport",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Membrane Proteins and Transport",
+    "text": "2. Membrane Proteins and Transport\nThe lipid bilayer is electrically insulating. Ions can cross the membrane only through membrane proteins.\nMembrane transport proteins fall into two broad categories:\n\nChannels\nTransporters (carriers and pumps)\n\n\nIon channel: A protein that forms a continuous aqueous pathway across the membrane, allowing ions to move down their electrochemical gradient.\nProperties:\n\nDo not use metabolic energy (passive)\nDo not move ions against gradients (no energy)\nSelective to specific Ions"
+  },
+  {
+    "objectID": "2_neuron.html#channel-gating",
+    "href": "2_neuron.html#channel-gating",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Channel Gating",
+    "text": "2. Channel Gating\n\n\nIon channels are not static holes.\nThey fluctuate between:\n\nClosed states\nOpen states\n\n\nChannels can be gated by different physical signals:\n\nChemical binding (ligand-gated - e.g. Neurotransmitters)\nMechanical deformation (mechanosensitive)\nMembrane voltage (voltage-gated - activated when the membrane cross a specific voltage)\n\n\n\n\nGating: The process by which an ion channel switches between open and closed states."
+  },
+  {
+    "objectID": "2_neuron.html#graded-potentials-and-channels",
+    "href": "2_neuron.html#graded-potentials-and-channels",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Graded Potentials and Channels",
+    "text": "2. Graded Potentials and Channels\nDuring Graded Potentials:\n\nPassive channels remain unchanged\nVoltage-gated channels remain mostly closed\n\n\nVoltage changes are passive and proportional to input and decay over space-time.\n\nWhen depolarization is small:\n\nA few voltage-gated \\(Na^+\\) channels open\nResulting \\(Na^+\\) influx is weak\nPassive \\(K^+\\) currents counteract depolarization\n\nThe voltage relaxes back to rest."
+  },
+  {
+    "objectID": "2_neuron.html#threshold-crossing",
+    "href": "2_neuron.html#threshold-crossing",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Threshold Crossing",
+    "text": "2. Threshold Crossing\nAt threshold:\n\nVoltage-gated \\(Na^+\\) channel opening becomes significant\n\\(Na^+\\) influx exceeds opposing currents\nDepolarization accelerates\n\nThis marks the transition from passive to active behavior.\n\nOnce threshold is crossed:\n\nMany \\(Na^+\\) channels open rapidly\nMembrane permeability to \\(Na^+\\) increases sharply\nVoltage changes are no longer passive\n\nThe action potential is initiated."
+  },
+  {
+    "objectID": "2_neuron.html#during-the-action-potential",
+    "href": "2_neuron.html#during-the-action-potential",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. During the Action Potential",
+    "text": "2. During the Action Potential\n\n\nDuring the spike:\n\nVoltage-gated \\(Na^+\\) channels open, then inactivate\nVoltage-gated \\(K^+\\) channels open with delay\n\nVoltage is dominated by voltage-gated dynamics.\nAfter the action potential:\n\n\\(Na^+\\) channels recover from inactivation\n\\(K^+\\) channels close\nPassive channels dominate again\n\n\n\n\n\n\n\n\n\nInactivation: A state in which a voltage-gated channel is closed and temporarily unable to reopen, even though the membrane is still depolarized."
+  },
+  {
+    "objectID": "2_neuron.html#refractory-period",
+    "href": "2_neuron.html#refractory-period",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Refractory Period",
+    "text": "2. Refractory Period\n\n\nAfter an action potential, the neuron cannot immediately fire another spike.\n\nRefractory period: A time interval following an action potential during which the neuron’s ability to generate another action potential is reduced or absent.\n\nThis phase is caused purely by Na⁺ channel inactivation.\nRefractory periods ensure that:\n\nAction potentials propagate in one direction\nSpikes are separated in time (neural code)\nMaximum firing frequency is limited"
+  },
+  {
+    "objectID": "2_neuron.html#axon-diameter-and-conduction-speed",
+    "href": "2_neuron.html#axon-diameter-and-conduction-speed",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Axon Diameter and Conduction Speed",
+    "text": "2. Axon Diameter and Conduction Speed\nThe speed of action potential propagation depends on axon geometry.\nLarger axons:\n\nHave lower internal (axial) resistance\nAllow local currents to spread more easily\nDepolarize adjacent membrane faster\n\nAs a result, action potentials propagate faster in thicker axons."
+  },
+  {
+    "objectID": "2_neuron.html#myelination",
+    "href": "2_neuron.html#myelination",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Myelination",
+    "text": "2. Myelination\n\n\nMany axons, especially long ones, are wrapped in myelin, a multilayered insulating sheath formed by glial cells. This ensures that the signal reaches its destination.\nMyelination is not continuous along the axon. Axons contain regularly spaced gaps called nodes of Ranvier.\n\nAt nodes:\n\nVoltage-gated \\(Na^+\\) and \\(K^+\\) channels are highly concentrated\nAction potentials are regenerated\nSaltatory conduction (the action potential jumps from one node to the other)"
+  },
+  {
+    "objectID": "2_neuron.html#self-check",
+    "href": "2_neuron.html#self-check",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "2. Self-check",
+    "text": "2. Self-check"
+  },
+  {
+    "objectID": "0_content.html#index",
+    "href": "0_content.html#index",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Index",
+    "text": "Index\n\nWelcome to the course! This part of the course introduces the foundations of neuroscience. We will cover basic principles of neurobiology,\nan introduction to neurophysiology, and the core concepts needed to understand how the nervous system works, from neurons to systems.\n\nChapters\n\n\n\n\nIntroduction\nNeuron\nNeuronal Communication\nOrganization of the Nervous System\nSensory Systems\n\n\n\n\n\nMotor System"
+  },
+  {
+    "objectID": "1_intro.html#neuron",
+    "href": "1_intro.html#neuron",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. What Is Neuroscience?",
+    "text": "1. What Is Neuroscience?\n\n\nNeuroscience asks a simple question:\nHow does the brain produce behavior?\n\nStudies the Central (brain and spinal cord) and Peripheral (somatic, autonomic and enteric) nervous systems\n\nConnects biology, psychology, physics, engineering, and philosophy\n\nGoal of this course: build intuition about how the nervous system works, without assuming prior biology knowledge."
+  },
+  {
+    "objectID": "1_intro.html#what-is-a-neuron",
+    "href": "1_intro.html#what-is-a-neuron",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. What Is a Neuron?",
+    "text": "1. What Is a Neuron?\n\n\nNeurons are the basic units of the brain.\nTheir main function is to send electrical signals over short and long distances.\nThey are electrically and chemically excitable. The function of a neuron depends on its structure."
+  },
+  {
+    "objectID": "1_intro.html#major-parts-of-the-neuron",
+    "href": "1_intro.html#major-parts-of-the-neuron",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. Major Parts of the Neuron",
+    "text": "1. Major Parts of the Neuron\n\n\n\nDendrites\n\nCell body (soma)\nAxon hillock\nAxon\nPresynaptic terminal These components determine how signals are received, processed, and transmitted."
+  },
+  {
+    "objectID": "1_intro.html#diagram-typical-neuron",
+    "href": "1_intro.html#diagram-typical-neuron",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. Diagram: Typical Neuron",
+    "text": "1. Diagram: Typical Neuron\n\n\nA neuron has:\n- Branching dendrites\n- A soma with nucleus\n- A long axon\n- Terminal branches forming synapses"
+  },
+  {
+    "objectID": "1_intro.html#dendrites",
+    "href": "1_intro.html#dendrites",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. Dendrites",
+    "text": "1. Dendrites\n\n\n\nBranch out from the soma\n\nPrimary targets of incoming signals\n\nThe number of dendrites influences how many inputs the neuron can receive\n\nOften contain spines, which increase surface area for synaptic contact"
+  },
+  {
+    "objectID": "1_intro.html#soma",
+    "href": "1_intro.html#soma",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. Cell Body (Soma)",
+    "text": "1. Cell Body (Soma)\n\n\n\nContains nucleus and organelles\n\nIntegrates incoming signals from dendrites\n\nBiochemistry of the cell shapes its excitability and response properties"
+  },
+  {
+    "objectID": "1_intro.html#the-nucleus-and-dna",
+    "href": "1_intro.html#the-nucleus-and-dna",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. The Nucleus and DNA",
+    "text": "1. The Nucleus and DNA\n\n\n\nThe nucleus contains the cell’s DNA\nDNA is a long chain of nucleotides\nNucleotides form genes\n\n\nGenes are instructions for building cellular components"
+  },
+  {
+    "objectID": "1_intro.html#from-genes-to-proteins",
+    "href": "1_intro.html#from-genes-to-proteins",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. From Genes to Proteins",
+    "text": "1. From Genes to Proteins\n\n\n\nGenes encode proteins\nProteins are chains of amino acids\nThe sequence of nucleotides determines:\n\nThe sequence of amino acids\nThe structure and function of the protein\n\n\n\nProteins are the working molecules of the cell"
+  },
+  {
+    "objectID": "1_intro.html#hillock",
+    "href": "1_intro.html#hillock",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. Axon Hillock",
+    "text": "1. Axon Hillock\n\n\n\nJunction between soma and axon\n\nLocation where action potentials are initiated\n\nSensitive to the summed electrical inputs from dendrites and soma"
+  },
+  {
+    "objectID": "1_intro.html#the-axon",
+    "href": "1_intro.html#the-axon",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. The Axon",
+    "text": "1. The Axon\n\n\n\nConducts electrical signals over long distances\n\nMay be myelinated to increase conduction speed\n\nCan branch extensively"
+  },
+  {
+    "objectID": "1_intro.html#presynaptic-terminal",
+    "href": "1_intro.html#presynaptic-terminal",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. Presynaptic Terminal",
+    "text": "1. Presynaptic Terminal\n\n\n\nEnd of the axon\n\nReleases neurotransmitter onto postsynaptic cells\n\nForms multiple terminals for communication with many neurons"
+  },
+  {
+    "objectID": "1_intro.html#neurons-communicate-electrically-and-chemically",
+    "href": "1_intro.html#neurons-communicate-electrically-and-chemically",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. Neurons Communicate Electrically and Chemically",
+    "text": "1. Neurons Communicate Electrically and Chemically\n\nElectrical signals travel along the axon.\n\nChemical signals (neurotransmitters) are released at the synapse.\n\nThis dual mode of signaling enables fast and flexible communication."
+  },
+  {
+    "objectID": "1_intro.html#structure-influences-function",
+    "href": "1_intro.html#structure-influences-function",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. Structure Influences Function",
+    "text": "1. Structure Influences Function\n\n\nExamples: - More dendrites → more inputs\n- Axon myelination → faster conduction\n- Terminal branching → more downstream targets\nForm and function are tightly linked in neuronal physiology."
+  },
+  {
+    "objectID": "1_intro.html#neuron-diversity-overview",
+    "href": "1_intro.html#neuron-diversity-overview",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. Neuron Diversity (Overview)",
+    "text": "1. Neuron Diversity (Overview)\nNeurons vary in:\n\nSize\n\nShape\n\nDendritic complexity\n\nAxon length\n\nNeurotransmitter type\n\nThis diversity supports specialized functions across the nervous system."
+  },
+  {
+    "objectID": "1_intro.html#summary-of-key-concepts",
+    "href": "1_intro.html#summary-of-key-concepts",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. Summary of Key Concepts",
+    "text": "1. Summary of Key Concepts\n\nNeurons are the fundamental signaling units of the nervous system\n\nStructure determines function\n\nSignals are electrical within neurons and chemical between them\n\nDendrites receive, soma integrates, axon transmits, terminals communicate"
+  },
+  {
+    "objectID": "1_intro.html#self-check-questions",
+    "href": "1_intro.html#self-check-questions",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "1. Self-Check Questions",
+    "text": "1. Self-Check Questions\n\nWhich part of the neuron initiates the action potential?\n\nHow do dendritic spines enhance synaptic communication?\n\nWhy does neuron structure influence neuron function?\n\nWhich part releases neurotransmitter?"
+  },
+  {
+    "objectID": "3_synapse.html#synaptic-communication",
+    "href": "3_synapse.html#synaptic-communication",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "3. Synaptic Communication",
+    "text": "3. Synaptic Communication\nNeurons transmit information to other neurons and target cells using specialized compartments called Synapses. A Synapse is a specialized junction where a neuron communicates with another neuron (or another cell).\n\nIMPORTANT: In synapses, neurons are not physically continous, but there is a gap called Synaptic Cleft\n\n\n\n\nThree main components:\n\nPresynaptic compartment (or terminal)\nSynaptic cleft\n\nPostsynaptic compartment (or spine)\n\n\n\n\nSynapses allow:\n\nDirectional signaling\n\nSignal modulation\n\nIntegration of multiple inputs"
+  },
+  {
+    "objectID": "3_synapse.html#presynaptic-events",
+    "href": "3_synapse.html#presynaptic-events",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "3. Presynaptic Events",
+    "text": "3. Presynaptic Events\n\n\n\nAction potential arrives at terminal\nMembrane depolarization\nOpening of voltage-gated Ca²⁺ channels\nCa²⁺ influx triggers vesicle fusion\nNeurotransmitter released into synaptic cleft"
+  },
+  {
+    "objectID": "3_synapse.html#synaptic-vesicles",
+    "href": "3_synapse.html#synaptic-vesicles",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "3. Synaptic Vesicles",
+    "text": "3. Synaptic Vesicles\n\n\n\nSmall membrane-bound organelles in the presynaptic terminal\n\nStore neurotransmitters at high concentration\n\nCluster near active zones of the presynaptic membrane\n\n\nKey properties:\n\nRelease occurs in discrete, quantal events\nThe release is mediated by SNARE proteins\nVesicles are recycled locally\n\n\n\n\nProcess:\n\nSNAREs bring vesicle and presynaptic membranes close together\n\nCa²⁺ influx triggers final fusion step\n\nNeurotransmitter released by exocytosis"
+  },
+  {
+    "objectID": "3_synapse.html#postsynaptic-membrane",
+    "href": "3_synapse.html#postsynaptic-membrane",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "3. Postsynaptic Membrane",
+    "text": "3. Postsynaptic Membrane\n\n\nContains neurotransmitter Receptors\n\nReceptors can be of two main classes:\n\nIonotropic receptors\n\nLigand-gated ion channels\nFast responses\n\nMetabotropic receptors\n\nG-protein coupled\nSlower but modulatory (long-lasting response)"
+  },
+  {
+    "objectID": "3_synapse.html#postsynaptic-events",
+    "href": "3_synapse.html#postsynaptic-events",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "3. Postsynaptic Events",
+    "text": "3. Postsynaptic Events\n\n\nNeurotransmitter binding produces graded signals of different types:\n\nEPSP: Excitatory PostSynaptic Potential\nIPSP: Inhibitory PostSynaptic Potential\n\n\nExcitatory synapses:\n\nDepolarize the membrane\nMediated by Na (or Ca²⁺ in special cases) influx\n\nInhibitory synapses:\n\nHyperpolarize or stabilize membrane potential\nMediated by Cl⁻ influx\n\n\n\n\n\n\n\n\n\nNeurotransmitter action ends by:\n\nReuptake into presynaptic terminal\nEnzymatic degradation"
+  },
+  {
+    "objectID": "3_synapse.html#neurotransmitters",
+    "href": "3_synapse.html#neurotransmitters",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "3. Neurotransmitters",
+    "text": "3. Neurotransmitters\nNeurotransmitters are chemical messengers released at synapses\nThey transmit signals from a presynaptic neuron to a postsynaptic cell\n\n\n\nEach neurotransmitter:\n\nIs synthesized in the neuron\nIs released in response to activity\nActs on specific receptors\n\n\n\n\nNeurotransmitters can be grouped by function:\n\nExcitatory\nInhibitory\nModulatory\n\n\n\n\nThe effect depends on the receptor, not only on the neurotransmitter"
+  },
+  {
+    "objectID": "3_synapse.html#glutamate---glu",
+    "href": "3_synapse.html#glutamate---glu",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "3. Glutamate - Glu",
+    "text": "3. Glutamate - Glu\n\n\n\nMain excitatory neurotransmitter in the brain\n\n\nIncreases neuronal excitability (EPSP)\nReally abbundant in the brain\n\n\nActs on:\n\nIonotropic receptors\nMetabotropic receptors"
+  },
+  {
+    "objectID": "3_synapse.html#gaba",
+    "href": "3_synapse.html#gaba",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "3. GABA",
+    "text": "3. GABA\n\n\n\nMain inhibitory neurotransmitter in the brain\n\n\nReduces neuronal excitability (IPSP)\nEssential for network stability\n\n\nActs on:\n\nIonotropic receptors (fast inhibition)\nMetabotropic receptors (slow inhibition)"
+  },
+  {
+    "objectID": "3_synapse.html#acetylcholine---ach",
+    "href": "3_synapse.html#acetylcholine---ach",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "3. Acetylcholine - ACh",
+    "text": "3. Acetylcholine - ACh\n\n\n\nActs as a Diffuse Projection System in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: Cholinergic system\n\nInvolved in:\n\nMuscle contraction\nVital and Cognitive functions\n\n\nActs on:\n\nIonotropic receptors\nMetabotropic receptors"
+  },
+  {
+    "objectID": "3_synapse.html#serotonin",
+    "href": "3_synapse.html#serotonin",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "3. Serotonin - 5-Ht",
+    "text": "3. Serotonin - 5-Ht\n\n\n\nActs as a Diffuse Projection System in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: Serotoninergic system\n\nInvolved in:\n\nMood and Emotional processing\nVital functions including Sleep and Appetite\n\n\nActs on:\n\nIonotropic receptors\nMetabotropic receptors"
+  },
+  {
+    "objectID": "3_synapse.html#dopamine",
+    "href": "3_synapse.html#dopamine",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "3. Dopamine - DA",
+    "text": "3. Dopamine - DA\n\n\n\nActs as a Diffuse Projection System in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: Dopaminergic system\nInvolved in:\n\n\nMotivation, Learning and Reward\nMovement control\n\n\nActs on:\n\nMetabotropic receptors"
+  },
+  {
+    "objectID": "3_synapse.html#noradrenaline---na",
+    "href": "3_synapse.html#noradrenaline---na",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "3. Noradrenaline - NA",
+    "text": "3. Noradrenaline - NA\n\n\n\nOr Norepinephrine. Acts as a Diffuse Projection System in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: Noradrenergic System.\n\nInvolved in:\n\nArousal and Attention\nStress response\n\n\nActs on:\n\nMetabotropic receptors"
+  },
+  {
+    "objectID": "3_synapse.html#adrenaline",
+    "href": "3_synapse.html#adrenaline",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "3. Adrenaline",
+    "text": "3. Adrenaline\n\n\n\nOr Epinephrine. Less abundant in the Central Nervous System than other neurotransmitters. More Peripheral.\n\nInvolved in:\n\nArousal and Autonomic regulation\nStress response\n\n\nActs on:\n\nMetabotropic receptors"
+  },
+  {
+    "objectID": "3_synapse.html#other-signaling-molecules",
+    "href": "3_synapse.html#other-signaling-molecules",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "3. Other Signaling Molecules",
+    "text": "3. Other Signaling Molecules\nIn addition to classical neurotransmitters, neurons use other chemical signals.\nThese molecules often act as modulators rather than fast transmitters\n\n\n\nNeuropeptides\n\nEndorphins\n\nPain, Reward, Stress regulation …\n\nOxytocin\n\nSocial, Maternal behavior …\n\nSubstance P\n\nPain, Inflammatory responses …\n\n\n\n\n\nOther Signaling Systems\n\nEndocannabinoids\n\nAppetite, mood, and memory, Retrograde signaling ….\n\nNitric Oxide (NO)\n\nRetrograde and Short-range signaling, Blood flow regulation …"
+  },
+  {
+    "objectID": "3_synapse.html#receptors",
+    "href": "3_synapse.html#receptors",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "3. Receptors",
+    "text": "3. Receptors\nNeurotransmitters act by binding to receptors on the postsynaptic membrane\nReceptors determine the speed and effect of synaptic transmission\n\n\n\nIonotropic Receptors\n\nLigand-gated ion channels\nNeurotransmitter binding directly opens the channel\nProduce fast responses (milliseconds)\n\n\n\n\nMetabotropic Receptors\n\nDo not form ion channels\nCoupled to intracellular signaling pathways\nNeurotransmitter binding activates G-proteins\nEffects are slower but longer-lasting"
+  },
+  {
+    "objectID": "3_synapse.html#glutamate-ionotropic-receptors",
+    "href": "3_synapse.html#glutamate-ionotropic-receptors",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "3. Glutamate Ionotropic Receptors",
+    "text": "3. Glutamate Ionotropic Receptors\n\n\nGlutamate activates multiple ionotropic receptors, including:\n\nAMPA receptors\n\nFast excitatory transmission\nAllow Na⁺ influx\nMain mediator of rapid excitation\n\nNMDA receptors\n\nSlower and Long-lasting kinetics\nPermeable to Ca²⁺\nInvolved in synaptic plasticity"
+  },
+  {
+    "objectID": "3_synapse.html#gaba-ionotropic-receptors",
+    "href": "3_synapse.html#gaba-ionotropic-receptors",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "3. GABA Ionotropic Receptors",
+    "text": "3. GABA Ionotropic Receptors\n\n\nGABA-A receptors\n\nIonotropic inhibitory receptors\nAllow Cl⁻ influx\nReduce neuronal excitability\n\nProvide fast inhibition in neural circuits"
+  },
+  {
+    "objectID": "3_synapse.html#metabotropic-receptors",
+    "href": "3_synapse.html#metabotropic-receptors",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "3. Metabotropic Receptors",
+    "text": "3. Metabotropic Receptors\n\nDo not form ion channels\nCoupled to intracellular singaling pathways\nNeurotransmitter binding activates G-proteins\nEffects are slower but longer-lasting\n\n\nSignaling Pathway: chain of intracellular events where molecules relay messages from outside the cell to trigger specific internal responses like growth, division, or death"
+  },
+  {
+    "objectID": "3_synapse.html#metabotropic-glutamate-receptors-mglurs",
+    "href": "3_synapse.html#metabotropic-glutamate-receptors-mglurs",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "3. Metabotropic glutamate receptors (mGluRs)",
+    "text": "3. Metabotropic glutamate receptors (mGluRs)\n\n\n\nModulate synaptic transmission\nRegulate ion channel activity indirectly\nInfluence plasticity and excitability\n\n\nSimilar mechanisms apply to many modulatory systems systems, such as dopamine and serotonin\n\n\nNeuromodulation is the process by which a neurotransmitter does not directly trigger a fast electrical signal, but instead changes how a neuron or a network responds to external inputs."
+  },
+  {
+    "objectID": "3_synapse.html#position-of-the-synapse",
+    "href": "3_synapse.html#position-of-the-synapse",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "3. Position of the Synapse",
+    "text": "3. Position of the Synapse\nAlso the position of a synapse along a neuron matters, because neurons are not electrically uniform cables. Where a signal arrives strongly shapes what it can do.\n\n\n\n\nAxo-dendritic\n\nAxon contacts a dendrite (Most common type)\nOften excitatory\n\n\n\n\n\nAxo-somatic\n\nAxon contacts the cell body\nStrong influence on spike generation\n\n\n\n\n\n\nAxo-axonic\n\nAxon contacts another axon\nModulates neurotransmitter release"
+  },
+  {
+    "objectID": "3_synapse.html#neurotransmitter-clearance",
+    "href": "3_synapse.html#neurotransmitter-clearance",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "3. Neurotransmitter Clearance",
+    "text": "3. Neurotransmitter Clearance\nAfter release, neurotransmitters must be removed from the synaptic cleft\nThis ensures that synaptic signals are brief and precisely controlled\n\nReuptake\n\nNeurotransmitter is transported back into the presynaptic terminal\nMediated by specific membrane transporters\nAllows recycling of neurotransmitter molecules\n\nEnzymatic Degradation\n\nNeurotransmitter is broken down by enzymes in the synaptic cleft\nPrevents prolonged receptor activation"
+  },
+  {
+    "objectID": "3_synapse.html#drugs-and-neurotransmitter-clearance",
+    "href": "3_synapse.html#drugs-and-neurotransmitter-clearance",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "3. Drugs and Neurotransmitter Clearance",
+    "text": "3. Drugs and Neurotransmitter Clearance\nMany drugs act by altering how neurotransmitters are removed from the synaptic cleft\nBy changing clearance, drugs modify the strength and duration of synaptic signaling.\n\n\n\nSelective Serotonin Reuptake Inhibitors (SSRIs)\n\nBlock serotonin reuptake transporters\nIncrease serotonin availability at synapses\n\nUsed to treat:\n\nDepression\nAnxiety disorders\n\nEffects develop slowly due to circuit-level adaptations\n\n\n\nCocaine\n\nBlocks reuptake of:\n\nDopamine\nNorepinephrine\nSerotonin\n\n\nResults in:\n\nStrong increase in synaptic signaling\nEnhanced reward and arousal\nHigh addictive potential"
+  },
+  {
+    "objectID": "3_synapse.html#in-class-exercise---items",
+    "href": "3_synapse.html#in-class-exercise---items",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "In-Class Exercise - Items",
+    "text": "In-Class Exercise - Items\n\nSynapses are points where neurons are physically continuous\n\nNeurotransmitter effects depend only on the neurotransmitter released\n\nIonotropic receptors mediate fast synaptic responses\n\nNMDA receptors are permeable to calcium ions\n\nGABA-A receptors are excitatory ion channels\n\nMonoamines mainly act as neuromodulators\n\nEndocannabinoids are released from presynaptic terminals\n\nNeurotransmitter clearance helps limit synaptic signal duration\n\nSSRIs reduce serotonin levels in the synaptic cleft\n\nAxo-axonic synapses can modulate neurotransmitter release"
+  },
+  {
+    "objectID": "3_synapse.html#answers-and-explanations",
+    "href": "3_synapse.html#answers-and-explanations",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Answers and Explanations",
+    "text": "Answers and Explanations\n\nFalse - Neurons are not physically continuous at synapses; they are separated by the synaptic cleft.\nFalse - The effect depends on the receptor type activated, not only on the neurotransmitter.\nTrue - Ionotropic receptors directly open ion channels and produce fast responses.\nTrue - NMDA receptors are permeable to Ca²⁺ and play a key role in synaptic plasticity.\nFalse - GABA-A receptors are inhibitory and typically allow Cl⁻ influx.\nTrue - Monoamines mainly modulate neural circuits rather than driving fast synaptic transmission.\nFalse - Endocannabinoids are released from postsynaptic neurons and act retrogradely.\nTrue - Clearance mechanisms terminate signaling and preserve temporal precision.\nFalse - SSRIs block serotonin reuptake, increasing its concentration in the synaptic cleft.\nTrue - Axo-axonic synapses regulate neurotransmitter release rather than postsynaptic voltage."
+  },
+  {
+    "objectID": "5_sensory.html#beyond-the-five-senses",
+    "href": "5_sensory.html#beyond-the-five-senses",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Beyond the “Five Senses”",
+    "text": "Beyond the “Five Senses”\nThe idea that humans have only five senses is a historical simplification.\n\nWhat we call a sense is any system that:\n\ndetects a specific form of energy or chemical signal\nconverts it into neural activity\nprovides information about the body or the environment\n\n\nBy this definition, the nervous system supports many parallel sensory channels, often operating outside awareness.\n\nThe brain does not experience “the world” directly.\nIt constructs reality from multiple specialized input streams, some obvious, some silent."
+  },
+  {
+    "objectID": "5_sensory.html#additional-sensory-systems",
+    "href": "5_sensory.html#additional-sensory-systems",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Additional Sensory Systems",
+    "text": "Additional Sensory Systems\nBeyond vision, audition, smell, taste, and touch, the nervous system includes:\n\n\n\nEquilibrioception (vestibular sense)\nSignals head position and movement, supporting balance, posture, and stable vision.\nProprioception\nProvides continuous information about limb position, muscle stretch, and joint angle, even with eyes closed.\nInteroception\nMonitors the internal state of the body, including heart rate, respiration, hunger, visceral pain, and arousal.\n\n\n\nNociception\nDetection of harmful stimuli. It is not pain, which is a perceptual and emotional construct.\nThermoception\nSensing temperature changes.\nPruriception (Itch)\nA distinct sensory modality, not just weak pain.\nChemoception (internal)\nDetection of blood chemistry such as CO₂."
   },
   {
     "objectID": "5_sensory.html#what-is-a-sensory-system",
@@ -987,13 +840,6 @@
     "text": "Sensory pathways\n\n\nMost sensory systems follow a common pathway:\n\nPeripheral receptor\n\nEntry into CNS\n\nRelay through the thalamus\n\nProjection to primary sensory cortex\n\n\nThe thalamus plays a central role in sensory processing. It does more than relay information. It actively modulates and organizes sensory signals before they reach cortex.\n\n\n\nThere is one exception the olfaction: The olfactory system does not relay through the thalamus, but the signal reaches cortex directly."
   },
   {
-    "objectID": "5_sensory.html#an-exception-olfaction",
-    "href": "5_sensory.html#an-exception-olfaction",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "An exception: olfaction",
-    "text": "An exception: olfaction\nThe olfactory system does not relay through the thalamus first.\nOlfactory information reaches cortex directly.\nThis reflects its strong evolutionary and emotional significance."
-  },
-  {
     "objectID": "5_sensory.html#primary-sensory-cortex",
     "href": "5_sensory.html#primary-sensory-cortex",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
@@ -1006,27 +852,6 @@
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Distributed processing",
     "text": "Distributed processing\n\n\nPerception does not arise in a single area.\n\nSensory information is processed across:\n\nPrimary cortex\n\nSecondary areas\n\nAssociation cortices\n\n\n\n\nPerception is an emergent property of distributed networks."
-  },
-  {
-    "objectID": "5_sensory.html#beyond-the-five-senses",
-    "href": "5_sensory.html#beyond-the-five-senses",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "Beyond the “Five Senses”",
-    "text": "Beyond the “Five Senses”\nThe idea that humans have only five senses is a historical simplification.\n\nWhat we call a sense is any system that:\n\ndetects a specific form of energy or chemical signal\nconverts it into neural activity\nprovides information about the body or the environment\n\n\nBy this definition, the nervous system supports many parallel sensory channels, often operating outside awareness.\n\nThe brain does not experience “the world” directly.\nIt constructs reality from multiple specialized input streams, some obvious, some silent."
-  },
-  {
-    "objectID": "5_sensory.html#additional-sensory-systems",
-    "href": "5_sensory.html#additional-sensory-systems",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "Additional Sensory Systems",
-    "text": "Additional Sensory Systems\nBeyond vision, audition, smell, taste, and touch, the nervous system includes:\n\n\n\nEquilibrioception (vestibular sense)\nSignals head position and movement, supporting balance, posture, and stable vision.\nProprioception\nProvides continuous information about limb position, muscle stretch, and joint angle, even with eyes closed.\nInteroception\nMonitors the internal state of the body, including heart rate, respiration, hunger, visceral pain, and arousal.\n\n\n\nNociception\nDetection of harmful stimuli. It is not pain, which is a perceptual and emotional construct.\nThermoception\nSensing temperature changes.\nPruriception (Itch)\nA distinct sensory modality, not just weak pain.\nChemoception (internal)\nDetection of blood chemistry such as CO₂."
-  },
-  {
-    "objectID": "5_sensory.html#vision-as-a-sensory-system",
-    "href": "5_sensory.html#vision-as-a-sensory-system",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "Vision as a sensory system",
-    "text": "Vision as a sensory system\n\nVision allows the nervous system to detect and interpret light. Light itself has no meaning.\n\n\nThe visual system responds to electromagnetic radiation in the visible spectrum.\nKey properties of light include:\n\nWavelength\n\nIntensity\n\nThese properties are transformed into neural signals by the retina."
   },
   {
     "objectID": "5_sensory.html#vision",
@@ -1064,11 +889,11 @@
     "text": "Retinal ganglion cells (RGC)\n\n\n\nRetinal ganglion cells are the output neurons of the retina. They receive input indirectly from photoreceptors through bipolar and amacrine cells. Their axons form the optic nerve.\n\n\nRetinal ganglion cell receptive fields are circular and organized into [2 regions]:\n\nA central region\n\nA surrounding region\n\nLight affects these regions in opposite ways."
   },
   {
-    "objectID": "5_sensory.html#section",
-    "href": "5_sensory.html#section",
+    "objectID": "5_sensory.html#rgc-receptive-field",
+    "href": "5_sensory.html#rgc-receptive-field",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "",
-    "text": "Center–surround organization emphasizes:\n\nContrast\n\nEdges\n\nChanges in light intensity\n\nUniform illumination produces weak responses."
+    "section": "RGC Receptive Field",
+    "text": "RGC Receptive Field\n\n\n\nIn ON-center ganglion cells:\n\nLight in the center increases firing\n\nLight in the surround decreases firing\n\n\nThey respond best to a bright spot on a darker background.\n\n\n\n\n\n\n\n\n\nIn OFF-center ganglion cells:\n\nLight in the center decreases firing\n\nLight in the surround increases firing\n\n\nThey respond best to a dark spot on a brighter background."
   },
   {
     "objectID": "5_sensory.html#rgc-receptive-field-1",
@@ -1078,18 +903,11 @@
     "text": "RGC Receptive Field\n\nUniform illumination produces weak responses. his makes the RGC sensitive to changes in relative illumination across space-time.\n\n\n\n\nCenter–surround organization emphasizes:\n\nContrast\nChanges in light intensity\n\nNo relation with the absolute light levels\n\n\n\n\nCenter-surround receptive fields arise from retinal circuitry.\nKey contributors include:\n\nBipolar cells\n\nHorizontal cells\n\nAmacrine cells\n\nLateral interactions are essential."
   },
   {
-    "objectID": "5_sensory.html#rgc-receptive-field-2",
-    "href": "5_sensory.html#rgc-receptive-field-2",
+    "objectID": "5_sensory.html#visual-acuity",
+    "href": "5_sensory.html#visual-acuity",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "RGC Receptive Field 2",
-    "text": "RGC Receptive Field 2\n\nUniform illumination produces weak responses. Ganglion cells do not signal absolute light levels. They signal differences across space. This makes the visual system sensitive to structure rather than illumination.\n\nCenter–surround organization emphasizes:\n\nContrast\n\nEdges\n\nChanges in light intensity\n\nCenter–surround receptive fields arise from retinal circuitry.\nKey contributors include:\n\nBipolar cells\n\nHorizontal cells\n\nAmacrine cells\n\nLateral interactions are essential."
-  },
-  {
-    "objectID": "5_sensory.html#rgc-receptive-field",
-    "href": "5_sensory.html#rgc-receptive-field",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "RGC Receptive Field",
-    "text": "RGC Receptive Field\n\n\n\nIn ON-center ganglion cells:\n\nLight in the center increases firing\n\nLight in the surround decreases firing\n\n\nThey respond best to a bright spot on a darker background.\n\n\n\n\n\n\n\n\n\nIn OFF-center ganglion cells:\n\nLight in the center decreases firing\n\nLight in the surround increases firing\n\n\nThey respond best to a dark spot on a brighter background."
+    "section": "Visual acuity",
+    "text": "Visual acuity\n\n\n\nVisual acuity refers to the ability to resolve fine spatial detail.\n\n\nVisual acuity is constrained by multiple factors:\n\nDensity of photoreceptors in the retina\n\nSize of receptive fields\n\nCortical magnification in visual cortex\n\nAcuity is highest in the fovea and decreases toward the periphery.\n\n\n\nEye movements continuously place objects of interest onto high-acuity regions (Fovea)."
   },
   {
     "objectID": "5_sensory.html#from-retina-to-the-brain",
@@ -1127,13 +945,6 @@
     "text": "V1 Receptive Fields\n\n\n\nNeurons in primary visual cortex have receptive fields that differ from those in the retina. They are not circular! They are elongated and selective for specific visual features.\n\n\nEach V1 neuron prefers a specific orientation. Rotation of the stimulus away from the preferred orientation reduces the response.\n\n\n\n\n\n\n\n\nEven-symmetric receptive fields have:\n\nSymmetric ON and OFF regions\n\nStrong responses to bars\n\nThey respond best to a bright or dark line at the preferred orientation.\n\n\nOdd-symmetric receptive fields have:\n\nAsymmetric ON and OFF regions\n\nStrong responses to edges\n\nThey are particularly sensitive to luminance transitions."
   },
   {
-    "objectID": "5_sensory.html#v1-receptive-fields-1",
-    "href": "5_sensory.html#v1-receptive-fields-1",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "V1 Receptive Fields",
-    "text": "V1 Receptive Fields\n\n\n\nSimple cells have:\n\nClearly defined ON and OFF subregions\n\nStrong orientation selectivity\n\nSensitivity to exact stimulus position\n\nThey respond best to precisely placed bars or edges.\n\n\nComplex cells also show orientation selectivity.\nHowever, they:\n\nLack clearly separated ON and OFF regions\n\nAre less sensitive to exact position\n\nRespond across larger receptive fields\n\nThey integrate input over space."
-  },
-  {
     "objectID": "5_sensory.html#v1-receptive-fields-2",
     "href": "5_sensory.html#v1-receptive-fields-2",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
@@ -1153,20 +964,6 @@
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Higher-order visual cortex",
     "text": "Higher-order visual cortex\n\nBeyond V1, visual information diverges. Multiple cortical areas specialize in different aspects of vision. These areas form distributed processing streams.\n\n\nVisual processing splits into two dominant pathways:\n\nVentral stream\n\nDorsal stream\n\nThey differ in anatomy, function, and behavioral relevance."
-  },
-  {
-    "objectID": "5_sensory.html#ventral-stream-the-what-pathway",
-    "href": "5_sensory.html#ventral-stream-the-what-pathway",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "Ventral stream: the “what” pathway",
-    "text": "Ventral stream: the “what” pathway\nThe ventral stream runs from occipital to temporal cortex.\nIt is primarily involved in:\n\nObject recognition\n\nShape and color processing\n\nFace perception\n\nIt answers the question: What is it?"
-  },
-  {
-    "objectID": "5_sensory.html#ventral-stream-the-what-and-where-pathways",
-    "href": "5_sensory.html#ventral-stream-the-what-and-where-pathways",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "Ventral stream: the “what” and “where” pathways",
-    "text": "Ventral stream: the “what” and “where” pathways\nThe ventral stream runs from occipital to temporal cortex.\nIt is primarily involved in:\n\nObject recognition\n\nShape and color processing\n\nFace perception\n\nIt answers the question: What is it?"
   },
   {
     "objectID": "5_sensory.html#the-what-and-where-pathways",
@@ -1195,13 +992,6 @@
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Damage to the what pathway",
     "text": "Damage to the what pathway\n\n\n\nDamage to ventral visual cortex can spare basic vision. Patients may see objects clearly but fail to identify or discriminate objects.\n\n\nProsopagnosia is a selective impairment in face recognition.\nAffected individuals:\n\nCan (or cannot, in severe cases) see faces\n\nCannot recognize faces\n\nOther visual abilities are often preserved.\n\n\n\nIndividuals with prosopagnosia often rely on:\n\nVoice\n\nClothing\n\nContextual cues"
-  },
-  {
-    "objectID": "5_sensory.html#prosopagnosia",
-    "href": "5_sensory.html#prosopagnosia",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "Prosopagnosia",
-    "text": "Prosopagnosia\nProsopagnosia is a selective impairment in face recognition.\nAffected individuals:\n\nCan see faces\n\nCannot recognize familiar people by face alone\n\nOther visual abilities are often preserved."
   },
   {
     "objectID": "5_sensory.html#what-prosopagnosia-reveals",
@@ -1260,13 +1050,6 @@
     "text": "Spinothalamic pathway\n\n\n\nThe spinothalamic pathway carries:\n\nPain\n\nTemperature\n\nIt is specialized for detecting potentially harmful stimuli.\n\n\n\nIn the spinothalamic pathway:\n\nPrimary afferents enter the spinal cord\n\nSynapse almost immediately\n\nCross to the contralateral side near entry\n\nAscend to the thalamus\n\n\n\n\nThe two pathways differ in function:\n\nDorsal column\nPrecise, fast, spatially accurate\nSpinothalamic\nCoarser, slower, protective"
   },
   {
-    "objectID": "5_sensory.html#primary-somatosensory-cortex",
-    "href": "5_sensory.html#primary-somatosensory-cortex",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "Primary somatosensory cortex",
-    "text": "Primary somatosensory cortex\n\n\n\nSomatosensory information reaches primary somatosensory cortex (S1). S1 is located in the postcentral gyrus. It contains an ordered map of the body (Somatotopy).\n\n\nSomatotopy means that:\n\nBody position is mapped systematically\n\nNeighboring body regions map to neighboring neural regions\n\n\n\n\n\nThe sensory homunculus is a distorted body map. Body parts with high sensory acuity occupy more cortical space. Hands, lips, and face are overrepresented."
-  },
-  {
     "objectID": "5_sensory.html#somatosensory-pathways",
     "href": "5_sensory.html#somatosensory-pathways",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
@@ -1274,11 +1057,11 @@
     "text": "Somatosensory Pathways"
   },
   {
-    "objectID": "5_sensory.html#cortical-magnification",
-    "href": "5_sensory.html#cortical-magnification",
+    "objectID": "5_sensory.html#primary-somatosensory-cortex",
+    "href": "5_sensory.html#primary-somatosensory-cortex",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "Cortical magnification",
-    "text": "Cortical magnification\nCortical representation does not reflect body size.\nIt reflects:\n\nReceptor density\n\nBehavioral relevance\n\nThis parallels foveal magnification in vision."
+    "section": "Primary somatosensory cortex",
+    "text": "Primary somatosensory cortex\n\n\n\nSomatosensory information reaches primary somatosensory cortex (S1). S1 is located in the postcentral gyrus. It contains an ordered map of the body (Somatotopy).\n\n\nSomatotopy means that:\n\nBody position is mapped systematically\n\nNeighboring body regions map to neighboring neural regions\n\n\n\n\n\nThe sensory homunculus is a distorted body map. Body parts with high sensory acuity occupy more cortical space. Hands, lips, and face are overrepresented."
   },
   {
     "objectID": "5_sensory.html#cortical-magnification-and-lesions",
@@ -1293,13 +1076,6 @@
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Pain as a distinct system",
     "text": "Pain as a distinct system\n\nPain is not simply strong touch. It is a distinct sensory system specialized for detecting potential or actual tissue damage. Its primary function is protection, not perception.\n\n\n\n\nPain begins at specialized receptors called nociceptors.\nThese receptors respond to:\n\nMechanical damage\n\nExtreme temperatures\n\nChemical irritants\n\nThey are activated only when stimuli exceed safe limits and activate the Spinothalamic pathway.\n\n\n\nNociception is detected by Free Nerve Endings and there are two main fiber types:\n\nAδ fibers\nFast, sharp, well-localized pain\nC fibers\nSlow, dull, poorly localized pain\n\nThese produce different pain sensations."
-  },
-  {
-    "objectID": "5_sensory.html#types-of-pain-fibers",
-    "href": "5_sensory.html#types-of-pain-fibers",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "Types of pain fibers",
-    "text": "Types of pain fibers\nNociception is detected by Free Nerve Endings and there are two main fiber types:\n\nAδ fibers\nFast, sharp, well-localized pain\nC fibers\nSlow, dull, poorly localized pain\n\nThese produce different pain sensations."
   },
   {
     "objectID": "5_sensory.html#central-processing-of-pain",
@@ -1321,13 +1097,6 @@
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "The auditory system",
     "text": "The auditory system\n\nHearing allows the nervous system to detect and interpret sound. Sound is a pattern of pressure waves in airfrom 20 Hz to 20 kHz. Perception arises from how these waves are transformed into neural signals.\n\n\n\n\n\n\n\n\n\nSound waves are characterized by:\n\nFrequency related to perceived pitch\n\nAmplitude related to perceived loudness."
-  },
-  {
-    "objectID": "5_sensory.html#from-air-to-neural-signals",
-    "href": "5_sensory.html#from-air-to-neural-signals",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "From air to neural signals",
-    "text": "From air to neural signals\nThe auditory system converts:\n\nAir pressure changes\n\nInto mechanical vibrations\n\nInto electrical signals\n\nThis transformation occurs in specialized structures of the ear."
   },
   {
     "objectID": "5_sensory.html#anatomy-of-the-ear",
@@ -1358,18 +1127,18 @@
     "text": "From ear to brain\n\nBrainstem\n\nThe first synapse occurs in the cochlear nuclei of the brainstem. Information is split into parallel pathways. Different aspects of sound are processed simultaneously.\n\n\nThe superior olivary complex is a key site for sound localization. It integrates input from both ears. Different nuclei specialize in timing and intensity comparisons.\n\n\n\nFrom the brainstem, signals ascend through:\n\nInferior colliculus\n\nMedial Geniculate Nucleus (Thalamus)"
   },
   {
-    "objectID": "5_sensory.html#primary-auditory-cortex",
-    "href": "5_sensory.html#primary-auditory-cortex",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "Primary auditory cortex",
-    "text": "Primary auditory cortex\nThe primary auditory cortex is the first cortical stage of hearing. It is located in the temporal lobe. It receives organized input from the thalamus.\n\n\n\nPrimary auditory cortex is organized tonotopically: Neighboring neurons respond to neighboring sound frequencies.\n\n\nCortical magnification: Frequencies important for communication occupy more cortical space. Representation reflects behavioral relevance, not physical frequency spacing.\n\n\n\nDamage to primary auditory cortex rarely causes deafness.\nInstead, it impairs:\n\nSound discrimination\n\nComplex auditory perception\n\nBasic hearing often remains intact."
-  },
-  {
     "objectID": "5_sensory.html#interaural-level-differences",
     "href": "5_sensory.html#interaural-level-differences",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Interaural level differences",
     "text": "Interaural level differences\n\n\n\nInteraural level differences arise from sound shadowing by the head. They are most informative for high-frequency sounds. These differences are computed in brainstem circuits.\n\n\nThe auditory system uses two main interaural cues:\n\nInteraural time differences (due to speed of sound)\nInteraural amplitude differences (due to the acoustic shadow)\n\nEach cue is informative under different conditions."
+  },
+  {
+    "objectID": "5_sensory.html#primary-auditory-cortex",
+    "href": "5_sensory.html#primary-auditory-cortex",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Primary auditory cortex",
+    "text": "Primary auditory cortex\nThe primary auditory cortex is the first cortical stage of hearing. It is located in the temporal lobe. It receives organized input from the thalamus.\n\n\n\nPrimary auditory cortex is organized tonotopically: Neighboring neurons respond to neighboring sound frequencies.\n\n\nCortical magnification: Frequencies important for communication occupy more cortical space. Representation reflects behavioral relevance, not physical frequency spacing.\n\n\n\nDamage to primary auditory cortex rarely causes deafness.\nInstead, it impairs:\n\nSound discrimination\n\nComplex auditory perception\n\nBasic hearing often remains intact."
   },
   {
     "objectID": "5_sensory.html#beyond-primary-auditory-cortex",
@@ -1379,10 +1148,38 @@
     "text": "Beyond primary auditory cortex\n\nPrimary auditory cortex encodes basic acoustic features. However, hearing does not end in A1. Surrounding A1 are secondary auditory areas. These regions receive input from A1 and from the thalamus. They integrate information over longer time windows.\n\n\n\n\nHigher-order areas respond to:\n\nFrequency combinations\n\nTemporal patterns\n\nSound sequences\n\nThese features are essential for speech and music.\n\n\n\nHigher-order auditory cortex supports auditory objects. An auditory object is a coherent sound source over time. Like:\n\nA voice\n\nA melody\n\nA moving sound\n\nThe brain groups sound features into perceptual units."
   },
   {
-    "objectID": "5_sensory.html#visual-acuity",
-    "href": "5_sensory.html#visual-acuity",
+    "objectID": "3_synapse.html#self-check",
+    "href": "3_synapse.html#self-check",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "Visual acuity",
-    "text": "Visual acuity\n\n\n\nVisual acuity refers to the ability to resolve fine spatial detail.\n\n\nVisual acuity is constrained by multiple factors:\n\nDensity of photoreceptors in the retina\n\nSize of receptive fields\n\nCortical magnification in visual cortex\n\nAcuity is highest in the fovea and decreases toward the periphery.\n\n\n\nEye movements continuously place objects of interest onto high-acuity regions (Fovea)."
+    "section": "3. Self-check",
+    "text": "3. Self-check"
+  },
+  {
+    "objectID": "5_sensory.html#self-check",
+    "href": "5_sensory.html#self-check",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Self-check",
+    "text": "Self-check"
+  },
+  {
+    "objectID": "6_motor.html#self-check",
+    "href": "6_motor.html#self-check",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Self-check",
+    "text": "Self-check"
+  },
+  {
+    "objectID": "1_intro.html#self-check",
+    "href": "1_intro.html#self-check",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Self-check",
+    "text": "Self-check"
+  },
+  {
+    "objectID": "5_sensory.html#S1",
+    "href": "5_sensory.html#S1",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Primary somatosensory cortex",
+    "text": "Primary somatosensory cortex\n\n\n\nSomatosensory information reaches primary somatosensory cortex (S1). S1 is located in the postcentral gyrus. It contains an ordered map of the body (Somatotopy).\n\n\nSomatotopy means that:\n\nBody position is mapped systematically\n\nNeighboring body regions map to neighboring neural regions\n\n\n\n\n\nThe sensory homunculus is a distorted body map. Body parts with high sensory acuity occupy more cortical space. Hands, lips, and face are overrepresented."
   }
 ]

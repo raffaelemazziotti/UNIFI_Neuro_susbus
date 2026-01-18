@@ -318,6 +318,24 @@
   border-bottom: 1px dotted rgba(154, 209, 255, 0.6);
 }
 
+.list-box {
+  margin: 18px 0;
+  padding: 14px 18px;
+  background-color: rgba(255, 255, 255, 0.06);
+  border-left: 5px solid rgba(103, 189, 251, 0.6);
+  border-radius: 8px;
+}
+
+.list-box ul,
+.list-box ol {
+  margin-left: 1.2em;
+}
+
+.list-box li {
+  margin-bottom: 0.35em;
+}
+
+
 /*************************************************
   PDF EXPORT (reveal.js print-pdf mode)
 *************************************************/

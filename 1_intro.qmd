@@ -3,6 +3,9 @@ title: "Neuroscience of social-cognitive enhancement for well-being and Neural b
 subtitle: "Module 1 - Introduction"
 author: "Raffaele M Mazziotti, PhD"
 institute: "University of Florence"
+resources:
+  - quiz/
+  - images/
 format:
   revealjs:
     controls: true
@@ -267,18 +270,18 @@ This diversity supports specialized functions across the nervous system.
 
 ---
 
-## 1. Summary of Key Concepts
+## Self-check
 
-- Neurons are the fundamental signaling units of the nervous system  
-- Structure determines function  
-- Signals are electrical within neurons and chemical between them  
-- Dendrites receive, soma integrates, axon transmits, terminals communicate  
-
----
-
-## 1. Self-Check Questions
-
-1. Which part of the neuron initiates the action potential?  
-2. How do dendritic spines enhance synaptic communication?  
-3. Why does neuron structure influence neuron function?  
-4. Which part releases neurotransmitter?
+```{=html}
+<div style="display: flex; justify-content: center;">
+  <iframe src="quiz/quiz_1_intro.html"
+          style="
+            width: 90vw;
+            max-width: 900px;
+            height: 80vh;
+            border: none;
+            border-radius: 16px;
+          ">
+  </iframe>
+</div>
+```

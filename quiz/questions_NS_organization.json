@@ -1,0 +1,335 @@
+{
+  "topic": "Organization of the Nervous System",
+  "questions": [
+    {
+      "question": "Which division of the nervous system is based on physical structures and location?",
+      "options": [
+        "Functional division",
+        "Anatomical division",
+        "Physiological division",
+        "Behavioral division"
+      ],
+      "correct": 1,
+      "feedback": "The anatomical division classifies the nervous system by physical structures and location."
+    },
+    {
+      "question": "Which term refers to a direction toward the front of the body?",
+      "options": [
+        "Caudal",
+        "Ventral",
+        "Rostral",
+        "Dorsal"
+      ],
+      "correct": 2,
+      "feedback": "Rostral (or anterior) means toward the front of the body."
+    },
+    {
+      "question": "Which anatomical plane divides the body into left and right halves?",
+      "options": [
+        "Coronal",
+        "Horizontal",
+        "Sagittal",
+        "Transverse"
+      ],
+      "correct": 2,
+      "feedback": "The sagittal plane divides the body into left and right halves."
+    },
+    {
+      "question": "Which structure is part of the central nervous system?",
+      "options": [
+        "Spinal nerve",
+        "Dorsal root ganglion",
+        "Spinal cord",
+        "Autonomic ganglion"
+      ],
+      "correct": 2,
+      "feedback": "The central nervous system includes the brain and spinal cord."
+    },
+    {
+      "question": "Which component belongs to the peripheral nervous system?",
+      "options": [
+        "Cerebellum",
+        "Spinal cord",
+        "Cranial nerves",
+        "Thalamus"
+      ],
+      "correct": 2,
+      "feedback": "Cranial nerves are part of the peripheral nervous system."
+    },
+    {
+      "question": "Afferent signals carry information:",
+      "options": [
+        "From CNS to muscles",
+        "From CNS to glands",
+        "From body to CNS",
+        "Only within the brain"
+      ],
+      "correct": 2,
+      "feedback": "Afferent pathways carry sensory information from the body to the CNS."
+    },
+    {
+      "question": "Efferent signals are mainly responsible for:",
+      "options": [
+        "Sensory input",
+        "Motor output",
+        "Hormone synthesis",
+        "Memory formation"
+      ],
+      "correct": 1,
+      "feedback": "Efferent pathways carry motor commands from the CNS to the body."
+    },
+    {
+      "question": "Which system controls voluntary skeletal muscle movement?",
+      "options": [
+        "Autonomic nervous system",
+        "Enteric nervous system",
+        "Somatic nervous system",
+        "Sympathetic nervous system"
+      ],
+      "correct": 2,
+      "feedback": "The somatic nervous system controls voluntary skeletal muscle activity."
+    },
+    {
+      "question": "Most autonomic nervous system activity occurs:",
+      "options": [
+        "Under voluntary control",
+        "Only during sleep",
+        "Without conscious awareness",
+        "Only during stress"
+      ],
+      "correct": 2,
+      "feedback": "Autonomic regulation usually occurs without conscious awareness."
+    },
+    {
+      "question": "Which branch of the autonomic nervous system supports fight-or-flight responses?",
+      "options": [
+        "Parasympathetic",
+        "Somatic",
+        "Enteric",
+        "Sympathetic"
+      ],
+      "correct": 3,
+      "feedback": "The sympathetic nervous system prepares the body for action."
+    },
+    {
+      "question": "Which effect is typical of sympathetic activation?",
+      "options": [
+        "Decreased heart rate",
+        "Increased digestion",
+        "Bronchodilation",
+        "Energy storage"
+      ],
+      "correct": 2,
+      "feedback": "Sympathetic activation increases heart rate and causes bronchodilation."
+    },
+    {
+      "question": "Which branch of the autonomic nervous system promotes rest and digestion?",
+      "options": [
+        "Sympathetic",
+        "Somatic",
+        "Parasympathetic",
+        "Enteric"
+      ],
+      "correct": 2,
+      "feedback": "The parasympathetic nervous system supports recovery and homeostasis."
+    },
+    {
+      "question": "Which brain division includes the cerebrum?",
+      "options": [
+        "Hindbrain",
+        "Midbrain",
+        "Forebrain",
+        "Brainstem"
+      ],
+      "correct": 2,
+      "feedback": "The cerebrum is part of the forebrain."
+    },
+    {
+      "question": "The two cerebral hemispheres are connected by:",
+      "options": [
+        "Thalamus",
+        "Corpus callosum",
+        "Brainstem",
+        "Cerebellum"
+      ],
+      "correct": 1,
+      "feedback": "The corpus callosum connects the left and right hemispheres."
+    },
+    {
+      "question": "Gyri are best described as:",
+      "options": [
+        "Grooves separating cortical folds",
+        "White matter tracts",
+        "Raised ridges of cortex",
+        "Subcortical nuclei"
+      ],
+      "correct": 2,
+      "feedback": "Gyri are the raised ridges of the cerebral cortex."
+    },
+    {
+      "question": "Which lobe is primarily involved in voluntary movement and executive control?",
+      "options": [
+        "Parietal",
+        "Temporal",
+        "Occipital",
+        "Frontal"
+      ],
+      "correct": 3,
+      "feedback": "The frontal lobe is involved in motor control and executive functions."
+    },
+    {
+      "question": "Damage to the parietal lobe may result in:",
+      "options": [
+        "Visual blindness",
+        "Spatial neglect",
+        "Language production deficits",
+        "Motor paralysis"
+      ],
+      "correct": 1,
+      "feedback": "Parietal lobe damage can cause spatial neglect, especially after right hemisphere lesions."
+    },
+    {
+      "question": "Which lobe is primarily dedicated to visual processing?",
+      "options": [
+        "Temporal",
+        "Frontal",
+        "Occipital",
+        "Parietal"
+      ],
+      "correct": 2,
+      "feedback": "The occipital lobe is dedicated to visual processing."
+    },
+    {
+      "question": "Which subcortical structure is essential for forming new long-term memories?",
+      "options": [
+        "Amygdala",
+        "Basal nuclei",
+        "Hippocampus",
+        "Thalamus"
+      ],
+      "correct": 2,
+      "feedback": "The hippocampus is critical for forming new long-term memories."
+    },
+    {
+      "question": "Which structure assigns emotional value to stimuli?",
+      "options": [
+        "Hippocampus",
+        "Amygdala",
+        "Basal nuclei",
+        "Cerebellum"
+      ],
+      "correct": 1,
+      "feedback": "The amygdala plays a key role in emotional processing and threat detection."
+    },
+    {
+      "question": "Damage to the basal nuclei primarily disrupts:",
+      "options": [
+        "Sensory perception",
+        "Consciousness",
+        "Movement regulation",
+        "Vision"
+      ],
+      "correct": 2,
+      "feedback": "Basal nuclei damage disrupts movement regulation without causing paralysis."
+    },
+    {
+      "question": "Which diencephalic structure relays sensory information to cortex?",
+      "options": [
+        "Hypothalamus",
+        "Epithalamus",
+        "Thalamus",
+        "Amygdala"
+      ],
+      "correct": 2,
+      "feedback": "The thalamus relays and modulates sensory information to cortex."
+    },
+    {
+      "question": "Which structure links the nervous and endocrine systems?",
+      "options": [
+        "Thalamus",
+        "Hypothalamus",
+        "Cerebellum",
+        "Brainstem"
+      ],
+      "correct": 1,
+      "feedback": "The hypothalamus connects neural activity to hormonal regulation."
+    },
+    {
+      "question": "Which structure is essential for breathing and heart rate control?",
+      "options": [
+        "Cerebellum",
+        "Basal nuclei",
+        "Brainstem",
+        "Hippocampus"
+      ],
+      "correct": 2,
+      "feedback": "The brainstem controls vital functions such as breathing and heart rate."
+    },
+    {
+      "question": "Which are the three subdivisions of the brainstem?",
+      "options": [
+        "Midbrain, pons, medulla",
+        "Thalamus, hypothalamus, epithalamus",
+        "Cerebrum, cerebellum, brainstem",
+        "Frontal, parietal, temporal"
+      ],
+      "correct": 0,
+      "feedback": "The brainstem consists of the midbrain, pons, and medulla."
+    },
+    {
+      "question": "Damage to the cerebellum primarily affects:",
+      "options": [
+        "Memory formation",
+        "Language comprehension",
+        "Movement accuracy and coordination",
+        "Autonomic regulation"
+      ],
+      "correct": 2,
+      "feedback": "Cerebellar damage causes inaccurate and uncoordinated movements."
+    },
+    {
+      "question": "Cranial nerves are part of the:",
+      "options": [
+        "Central nervous system",
+        "Peripheral nervous system",
+        "Autonomic nervous system only",
+        "Somatic nervous system only"
+      ],
+      "correct": 1,
+      "feedback": "Cranial nerves belong to the peripheral nervous system."
+    },
+    {
+      "question": "How many pairs of cranial nerves are there?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "14"
+      ],
+      "correct": 2,
+      "feedback": "There are 12 pairs of cranial nerves, numbered I to XII."
+    },
+    {
+      "question": "Which cranial nerve provides extensive parasympathetic innervation?",
+      "options": [
+        "Optic nerve",
+        "Trigeminal nerve",
+        "Facial nerve",
+        "Vagus nerve"
+      ],
+      "correct": 3,
+      "feedback": "The vagus nerve provides major parasympathetic innervation to thoracic and abdominal organs."
+    },
+    {
+      "question": "Which spinal root carries sensory information into the spinal cord?",
+      "options": [
+        "Ventral root",
+        "Dorsal root",
+        "Anterior horn",
+        "Lateral column"
+      ],
+      "correct": 1,
+      "feedback": "The dorsal root carries sensory information into the spinal cord."
+    }
+  ]
+}

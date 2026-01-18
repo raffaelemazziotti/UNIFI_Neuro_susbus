@@ -1,0 +1,485 @@
+{
+  "topic": "Sensory Systems",
+  "questions": [
+    {
+      "question": "Why is the idea of only five senses considered a simplification?",
+      "options": [
+        "Because senses overlap anatomically",
+        "Because many sensory systems operate outside awareness",
+        "Because only vision and hearing are real senses",
+        "Because taste and smell are the same sense"
+      ],
+      "correct": 1,
+      "feedback": "The nervous system supports many parallel sensory channels beyond the classic five."
+    },
+    {
+      "question": "A sensory system is defined as one that:",
+      "options": [
+        "Produces conscious perception only",
+        "Detects, converts, and transmits specific stimuli",
+        "Operates only in the cortex",
+        "Uses action potentials exclusively"
+      ],
+      "correct": 1,
+      "feedback": "Sensory systems detect stimuli, transduce them, and provide information to the brain."
+    },
+    {
+      "question": "What is sensory transduction?",
+      "options": [
+        "The propagation of action potentials",
+        "The conversion of physical stimuli into neural signals",
+        "The integration of sensory inputs in cortex",
+        "The modulation of perception by attention"
+      ],
+      "correct": 1,
+      "feedback": "Transduction converts physical energy into neural activity."
+    },
+    {
+      "question": "Which sense provides information about limb position without vision?",
+      "options": [
+        "Interoception",
+        "Nociception",
+        "Proprioception",
+        "Thermoception"
+      ],
+      "correct": 2,
+      "feedback": "Proprioception signals limb position, muscle stretch, and joint angle."
+    },
+    {
+      "question": "Which sensory system monitors the internal state of the body?",
+      "options": [
+        "Exteroception",
+        "Interoception",
+        "Vestibular sense",
+        "Pruriception"
+      ],
+      "correct": 1,
+      "feedback": "Interoception monitors internal variables like heart rate and hunger."
+    },
+    {
+      "question": "Nociception is best described as:",
+      "options": [
+        "The emotional experience of pain",
+        "Detection of harmful stimuli",
+        "Weak activation of touch receptors",
+        "A form of proprioception"
+      ],
+      "correct": 1,
+      "feedback": "Nociception detects potentially damaging stimuli; pain is a perceptual construct."
+    },
+    {
+      "question": "What is a receptive field?",
+      "options": [
+        "A type of sensory receptor",
+        "A cortical area for perception",
+        "The region of sensory space influencing a neuron",
+        "A synaptic integration zone"
+      ],
+      "correct": 2,
+      "feedback": "A receptive field is the region of sensory space that affects a neuron’s activity."
+    },
+    {
+      "question": "Stimulus intensity is primarily encoded by:",
+      "options": [
+        "Receptor type only",
+        "Action potential shape",
+        "Firing rate and number of active receptors",
+        "Cortical magnification"
+      ],
+      "correct": 2,
+      "feedback": "Intensity is encoded by firing rate and population recruitment."
+    },
+    {
+      "question": "Which sensory system bypasses the thalamus?",
+      "options": [
+        "Vision",
+        "Audition",
+        "Somatosensation",
+        "Olfaction"
+      ],
+      "correct": 3,
+      "feedback": "Olfactory signals reach cortex without a thalamic relay."
+    },
+    {
+      "question": "What is the primary role of the thalamus in sensory processing?",
+      "options": [
+        "Generating action potentials",
+        "Passive signal relay only",
+        "Active modulation and organization of sensory signals",
+        "Creating perception"
+      ],
+      "correct": 2,
+      "feedback": "The thalamus actively modulates sensory information."
+    },
+
+    {
+      "question": "What property of light determines perceived color?",
+      "options": [
+        "Intensity",
+        "Wavelength",
+        "Amplitude",
+        "Phase"
+      ],
+      "correct": 1,
+      "feedback": "Wavelength corresponds to perceived color."
+    },
+    {
+      "question": "Human vision is sensitive to wavelengths approximately between:",
+      "options": [
+        "100–300 nm",
+        "300–400 nm",
+        "400–700 nm",
+        "700–1000 nm"
+      ],
+      "correct": 2,
+      "feedback": "Human vision spans roughly 400 to 700 nm."
+    },
+    {
+      "question": "Which structure contains photoreceptors?",
+      "options": [
+        "Cornea",
+        "Lens",
+        "Retina",
+        "Optic nerve"
+      ],
+      "correct": 2,
+      "feedback": "Photoreceptors are located in the retina."
+    },
+    {
+      "question": "Rods are specialized for:",
+      "options": [
+        "Color vision",
+        "High spatial acuity",
+        "Low-light vision",
+        "Motion detection"
+      ],
+      "correct": 2,
+      "feedback": "Rods are highly sensitive and support scotopic vision."
+    },
+    {
+      "question": "Cones are primarily responsible for:",
+      "options": [
+        "Night vision",
+        "Color perception",
+        "Peripheral vision",
+        "Blind spot formation"
+      ],
+      "correct": 1,
+      "feedback": "Cones mediate color vision and high acuity."
+    },
+    {
+      "question": "Where is visual acuity highest?",
+      "options": [
+        "Peripheral retina",
+        "Optic disc",
+        "Fovea",
+        "Optic chiasm"
+      ],
+      "correct": 2,
+      "feedback": "The fovea contains a high density of cones."
+    },
+    {
+      "question": "What causes the blind spot?",
+      "options": [
+        "Lack of cones",
+        "High rod density",
+        "Exit of optic nerve fibers",
+        "Lens opacity"
+      ],
+      "correct": 2,
+      "feedback": "The optic nerve exits where no photoreceptors are present."
+    },
+    {
+      "question": "Retinal ganglion cells are:",
+      "options": [
+        "Photoreceptors",
+        "Interneurons",
+        "Output neurons of the retina",
+        "Thalamic neurons"
+      ],
+      "correct": 2,
+      "feedback": "Ganglion cells form the optic nerve."
+    },
+    {
+      "question": "ON-center ganglion cells respond best to:",
+      "options": [
+        "Uniform illumination",
+        "Bright center and dark surround",
+        "Dark center and bright surround",
+        "No contrast"
+      ],
+      "correct": 1,
+      "feedback": "ON-center cells increase firing to light in the center."
+    },
+    {
+      "question": "Center–surround organization emphasizes:",
+      "options": [
+        "Absolute light intensity",
+        "Color",
+        "Contrast",
+        "Eye dominance"
+      ],
+      "correct": 2,
+      "feedback": "Center–surround fields emphasize changes and contrast."
+    },
+
+    {
+      "question": "Which retinal axons cross at the optic chiasm?",
+      "options": [
+        "Temporal retina",
+        "Foveal retina",
+        "Nasal retina",
+        "All retinal axons"
+      ],
+      "correct": 2,
+      "feedback": "Nasal retinal axons cross to the contralateral side."
+    },
+    {
+      "question": "Each hemisphere processes information from:",
+      "options": [
+        "The ipsilateral visual field",
+        "The contralateral visual field",
+        "Both visual fields equally",
+        "One eye only"
+      ],
+      "correct": 1,
+      "feedback": "Each hemisphere processes the contralateral visual field."
+    },
+    {
+      "question": "The lateral geniculate nucleus is located in the:",
+      "options": [
+        "Midbrain",
+        "Thalamus",
+        "Cerebellum",
+        "Brainstem"
+      ],
+      "correct": 1,
+      "feedback": "The LGN is a thalamic nucleus."
+    },
+    {
+      "question": "V1 neurons are selective for:",
+      "options": [
+        "Color only",
+        "Edges and orientation",
+        "Faces",
+        "Motion only"
+      ],
+      "correct": 1,
+      "feedback": "V1 neurons encode edges, orientation, and location."
+    },
+    {
+      "question": "What does cortical magnification reflect?",
+      "options": [
+        "Physical size of stimuli",
+        "Behavioral relevance",
+        "Uniform retinal sampling",
+        "Eye dominance"
+      ],
+      "correct": 1,
+      "feedback": "Important regions like the fovea occupy more cortical space."
+    },
+
+    {
+      "question": "The ventral visual stream is primarily involved in:",
+      "options": [
+        "Motion processing",
+        "Spatial localization",
+        "Object recognition",
+        "Eye movements"
+      ],
+      "correct": 2,
+      "feedback": "The ventral stream answers “what is it?”"
+    },
+    {
+      "question": "The dorsal visual stream is mainly involved in:",
+      "options": [
+        "Object identity",
+        "Color perception",
+        "Spatial localization and action",
+        "Face recognition"
+      ],
+      "correct": 2,
+      "feedback": "The dorsal stream supports spatial processing and action."
+    },
+    {
+      "question": "Prosopagnosia results from damage to:",
+      "options": [
+        "Primary visual cortex",
+        "Dorsal stream",
+        "Ventral temporal cortex",
+        "LGN"
+      ],
+      "correct": 2,
+      "feedback": "Prosopagnosia reflects ventral stream damage."
+    },
+    {
+      "question": "Akinetopsia is characterized by:",
+      "options": [
+        "Color blindness",
+        "Motion blindness",
+        "Loss of visual acuity",
+        "Face blindness"
+      ],
+      "correct": 1,
+      "feedback": "Akinetopsia is the inability to perceive motion."
+    },
+
+    {
+      "question": "Which mechanoreceptor detects vibration?",
+      "options": [
+        "Merkel cells",
+        "Meissner corpuscles",
+        "Pacinian corpuscles",
+        "Ruffini endings"
+      ],
+      "correct": 2,
+      "feedback": "Pacinian corpuscles are sensitive to vibration."
+    },
+    {
+      "question": "Smaller receptive fields allow:",
+      "options": [
+        "Higher sensitivity",
+        "Better temporal resolution",
+        "Finer spatial acuity",
+        "Lower firing rates"
+      ],
+      "correct": 2,
+      "feedback": "Smaller receptive fields support fine spatial discrimination."
+    },
+    {
+      "question": "The dorsal column pathway carries:",
+      "options": [
+        "Pain and temperature",
+        "Crude touch",
+        "Fine touch and proprioception",
+        "Motor commands"
+      ],
+      "correct": 2,
+      "feedback": "The dorsal column pathway carries precise touch information."
+    },
+    {
+      "question": "The spinothalamic pathway primarily conveys:",
+      "options": [
+        "Fine touch",
+        "Proprioception",
+        "Pain and temperature",
+        "Vibration"
+      ],
+      "correct": 2,
+      "feedback": "The spinothalamic pathway carries pain and temperature."
+    },
+
+    {
+      "question": "Primary somatosensory cortex is located in the:",
+      "options": [
+        "Precentral gyrus",
+        "Postcentral gyrus",
+        "Temporal lobe",
+        "Occipital lobe"
+      ],
+      "correct": 1,
+      "feedback": "S1 is located in the postcentral gyrus."
+    },
+    {
+      "question": "The sensory homunculus reflects:",
+      "options": [
+        "Body size",
+        "Receptor density and importance",
+        "Muscle strength",
+        "Skin thickness"
+      ],
+      "correct": 1,
+      "feedback": "Cortical representation reflects functional importance."
+    },
+
+    {
+      "question": "Nociceptors are activated by:",
+      "options": [
+        "Weak touch",
+        "Safe temperature changes",
+        "Potentially damaging stimuli",
+        "Muscle stretch"
+      ],
+      "correct": 2,
+      "feedback": "Nociceptors respond to harmful stimuli."
+    },
+    {
+      "question": "Aδ fibers convey:",
+      "options": [
+        "Slow, dull pain",
+        "Fast, sharp pain",
+        "Itch",
+        "Temperature only"
+      ],
+      "correct": 1,
+      "feedback": "Aδ fibers transmit fast, sharp pain."
+    },
+    {
+      "question": "Pain processing involves:",
+      "options": [
+        "Only somatosensory cortex",
+        "Only the thalamus",
+        "Distributed cortical and subcortical regions",
+        "Only peripheral receptors"
+      ],
+      "correct": 2,
+      "feedback": "Pain has sensory, emotional, and cognitive components."
+    },
+
+    {
+      "question": "Sound frequency is perceived as:",
+      "options": [
+        "Loudness",
+        "Pitch",
+        "Intensity",
+        "Timbre"
+      ],
+      "correct": 1,
+      "feedback": "Frequency corresponds to perceived pitch."
+    },
+    {
+      "question": "Sound amplitude is perceived as:",
+      "options": [
+        "Pitch",
+        "Loudness",
+        "Frequency",
+        "Duration"
+      ],
+      "correct": 1,
+      "feedback": "Amplitude corresponds to perceived loudness."
+    },
+    {
+      "question": "Hair cells transduce sound by:",
+      "options": [
+        "Voltage-gated sodium channels",
+        "Mechanically gated ion channels",
+        "Chemical synapses",
+        "Phototransduction"
+      ],
+      "correct": 1,
+      "feedback": "Hair cell deflection opens mechanically gated channels."
+    },
+    {
+      "question": "Tonotopy refers to:",
+      "options": [
+        "Spatial mapping of sound intensity",
+        "Mapping of frequency across auditory structures",
+        "Temporal coding of sound",
+        "Binaural integration"
+      ],
+      "correct": 1,
+      "feedback": "Tonotopy maps sound frequency spatially."
+    },
+    {
+      "question": "Primary auditory cortex is located in the:",
+      "options": [
+        "Frontal lobe",
+        "Temporal lobe",
+        "Parietal lobe",
+        "Occipital lobe"
+      ],
+      "correct": 1,
+      "feedback": "Primary auditory cortex lies in the temporal lobe."
+    }
+  ]
+}

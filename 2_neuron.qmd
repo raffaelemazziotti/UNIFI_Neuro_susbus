@@ -3,6 +3,9 @@ title: "Neuroscience of social-cognitive enhancement for well-being and Neural b
 subtitle: "Module 1 - Neuron Biophysics"
 author: "Raffaele M Mazziotti, PhD"
 institute: "University of Florence"
+resources:
+  - quiz/
+  - images/
 format:
   revealjs:
     controls: true
@@ -702,36 +705,18 @@ At nodes:
 
 ---
 
-## 2. In-Class Exercise - Items
+## 2. Self-check
 
-For each statement, decide whether it is **True (T)** or **False (F)**.
-
-::: {.nonincremental}
-1. The lipid bilayer by itself allows ions to cross the membrane easily.  
-2. Ion channels consume energy to move ions across the membrane.  
-3. Diffusion and electrical forces always act in the same direction.  
-4. Each ion has its own equilibrium potential.  
-5. The membrane potential is usually equal to one specific equilibrium potential.  
-6. Graded potentials decrease in amplitude as they spread.  
-7. Action potentials require voltage-gated ion channels.  
-8. Sodium channel inactivation is responsible for the refractory period.  
-9. Increasing axon diameter increases conduction speed.  
-10. In myelinated axons, action potentials occur at nodes of Ranvier only.  
-:::
-
----
-
-## 2. In-Class Exercise - Answers
-
-::: {.nonincremental}
-1. **False** - the lipid bilayer is electrically insulating to ions.  
-2. **False** - ion channels are passive; pumps consume energy.  
-3. **False** - diffusion and electrical forces can oppose each other.  
-4. **True** - equilibrium potential depends on ion charge and concentrations.  
-5. **False** - membrane potential reflects multiple ions and permeabilities.  
-6. **True** - graded potentials spread passively and decay with distance.  
-7. **True** - voltage-gated channels are required for action potentials.  
-8. **True** - Na⁺ channel inactivation causes refractoriness.  
-9. **True** - larger diameter reduces axial resistance.  
-10. **True** - spikes are regenerated only at nodes in myelinated axons.  
-:::
+```{=html}
+<div style="display: flex; justify-content: center;">
+  <iframe src="quiz/quiz_2_neuron.html"
+          style="
+            width: 90vw;
+            max-width: 900px;
+            height: 80vh;
+            border: none;
+            border-radius: 16px;
+          ">
+  </iframe>
+</div>
+```

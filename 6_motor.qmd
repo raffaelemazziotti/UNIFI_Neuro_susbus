@@ -1,8 +1,11 @@
 ---
 title: "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes"
-subtitle: "Module 1 - Motor Systems"
+subtitle: "Module 1 - Motor System"
 author: "Raffaele M Mazziotti, PhD"
 institute: "University of Florence"
+resources:
+  - quiz/
+  - images/
 format:
   revealjs:
     controls: true
@@ -25,5 +28,380 @@ format:
       
     mermaid:
       theme: neutral
-    
 ---
+
+## What is the motor system
+
+>The motor system allows the nervous system to generate movement.
+It transforms goals and intentions into `coordinated muscle activity`.
+
+:::columns
+:::column
+
+:::info-box
+Producing movement requires:
+
+- `Selecting` an action  
+- `Planning` its structure  
+- `Executing` motor commands  
+- `Monitoring` outcomes  
+
+These processes are `distributed` across multiple brain regions.
+:::
+
+:::
+:::column
+
+:::info-box
+Key components of the motor system include:
+
+- [Motor cortex]{.highlight} 
+- [Basal ganglia]{.highlight}  
+- [Cerebellum]{.highlight} 
+- [Brainstem]{.highlight}  
+- [Spinal cord]{.highlight}  
+
+They `interact` continuously during movement.
+:::
+
+:::
+:::
+
+## Primary motor cortex
+
+>The [primary motor cortex (M1)]{.highlight} is the main `cortical output` of the motor system.
+It is located in the `frontal lobe`, anterior to somatosensory cortex.
+Neurons in M1 send commands toward the spinal cord.
+
+
+Primary motor cortex is organized [somatotopically]().
+Different body parts are represented in different cortical regions.
+Fine motor control occupies more cortical space.
+
+
+:::columns
+:::column
+:::info-box
+Encode patterns of movement such as:
+
+- Direction  
+- Force  
+- Coordination  
+
+Movement emerges from `population activity`.
+:::
+
+:::
+:::column
+
+:::card
+Signals from motor cortex descend to the spinal cord.
+These pathways convey `voluntary` motor commands.
+Control is largely `contralateral`.
+:::
+
+:::card
+The spinal cord is the main site of motor execution.
+It integrates descending commands with sensory input.
+:::
+
+:::
+:::
+
+## From cortex to muscle
+
+:::columns
+:::column
+
+>**Lower motor neurons** reside in the ventral horn of the spinal cord. 
+They are the final common pathway for movement.
+Their axons exit the CNS to innervate muscles.
+
+:::info-box
+Motor commands travel from:
+
+- Motor cortex  
+- Through descending pathways  
+- To spinal motor neurons  
+- To muscle fibers  
+
+This pathway transforms intention into force.
+:::
+
+:::
+:::column
+
+![](images/motor_spinal_path.png){width="400" fig-align="center"}
+
+:::
+:::
+
+## M1 is not enough
+
+:::columns
+:::column
+
+Although M1 and the spinal cord can generate movement,
+They do not decide `what` movement to make.
+That requires additional motor areas.
+
+:::info-box
+Voluntary movement involves `choices`.
+
+The nervous system must:
+
+- Select appropriate actions  
+- Organize sequences  
+- Suppress unwanted movements  
+
+Planning occurs before execution.
+
+:::
+
+:::
+:::column
+
+:::info-box
+
+The [supplementary motor area (SMA)]{.highlight} supports internally generated actions.
+
+It is critical for:
+
+- `Self-initiated` movement  
+- Sequencing  
+- `Bimanual coordination`  
+
+It organizes actions over time.
+
+:::
+
+
+The [premotor cortex]{.highlight} contributes to planning movements guided by `external cues`.
+It links sensory information to motor commands.
+It prepares movements before they are executed.
+
+
+:::
+:::
+
+## M1 is not enough
+
+![](images/motor_cortical_areas.png){width="400" fig-align="center"}
+
+## Subcortical structures
+
+:::columns
+:::column
+
+:::info-box
+The **basal nuclei** regulate whether an action is initiated.
+
+They are involved in:
+
+- `Selecting` appropriate actions  
+- `Suppressing` competing or unwanted actions  
+
+They do not generate movement or send commands to muscles.
+
+Their role is to `gate` motor plans.
+:::
+
+:::
+:::column
+
+:::info-box
+The **cerebellum** regulates how an action is executed.
+
+It is involved in:
+
+- `Coordination` and timing  
+- `Error correction`  
+- Motor `learning`  
+
+It `compares` intended movement with actual outcome.
+
+:::
+
+:::
+:::
+
+## Cortical damage
+
+:::columns
+:::column
+
+:::info-box
+Damage to **primary motor cortex** produces:
+
+- Weakness or paralysis  
+- Loss of fine voluntary control  
+- Deficits on the contralateral side  
+
+`Reflexes` are generally preserved.
+
+:::
+
+:::
+:::column
+
+
+:::info-box
+Damage to **premotor cortex** or **supplementary motor area** leads to:
+
+- Difficulty planning movements  
+- Impaired sequencing or initiation  
+- [Apraxia](https://it.wikipedia.org/wiki/Aprassia) despite preserved strength  
+
+The problem is planning, not execution.
+:::
+
+:::
+:::
+
+## Basal nuclei damage
+
+:::columns
+:::column
+
+:::info-box
+Damage to the **basal nuclei** disrupts action selection.
+
+This can result in:
+
+- Difficulty initiating movement  
+- Excessive or involuntary movements  
+
+Strength is usually preserved.
+:::
+
+:::
+:::column
+
+:::info-box
+Basal nuclei dysfunction in [Parkinsonian](https://en.wikipedia.org/wiki/Parkinson%27s_disease) disorders leads to:
+
+- [Bradykinesia](https://en.wikipedia.org/wiki/Hypokinesia)  
+- Rigidity  
+- Resting tremor  
+
+Movement is difficult to `initiate`, not to execute.
+:::
+
+:::
+:::
+
+## Cerebellar damage
+
+:::columns
+:::column
+
+:::info-box
+
+Damage to the **cerebellum** causes:
+
+- Poor coordination  
+- Inaccurate movements  
+- Timing deficits  
+
+Strength is preserved, but movement is imprecise.
+
+:::
+
+:::
+:::column
+
+:::info-box
+[Cerebellar ataxia](https://en.wikipedia.org/wiki/Cerebellar_ataxia): 
+
+- Unsteady gait  
+- [Dysmetria](https://en.wikipedia.org/wiki/Dysmetria)  
+- Intention tremor  
+
+`Errors increase` during movement.
+
+:::
+
+:::
+:::
+
+## Motor neuron lesions
+
+:::columns
+:::column
+
+:::info-box
+Damage to **upper motor neurons** leads to:
+
+- Weakness  
+- Increased muscle tone  
+- Hyperreflexia  
+
+This reflects loss of inhibitory control.
+:::
+
+:::info-box
+Damage to **lower motor neurons** causes:
+
+- Flaccid paralysis  
+- Muscle atrophy  
+- Loss of reflexes  
+
+The final output pathway is disrupted.
+:::
+
+:::
+:::column
+
+![](images/motor_motneu_up_low.png){width="400" fig-align="center"}
+
+:::
+:::
+
+## Spinal cord and peripheral nerve damage
+
+:::columns
+:::column
+
+:::info-box
+Spinal cord lesions produce:
+
+- Weakness below the lesion  
+- Loss of voluntary control  
+- Patterned sensory and motor deficits  
+
+The level of the lesion matters.
+
+:::
+
+:::
+:::column
+
+:::info-box
+Damage to peripheral nerves results in:
+
+- Weakness in specific muscles  
+- Loss of reflexes  
+- Sensory deficits in nerve territory 
+
+Deficits follow peripheral anatomy.
+:::
+
+:::
+:::
+
+
+## Self-check
+
+```{=html}
+<div style="display: flex; justify-content: center;">
+  <iframe src="quiz/quiz_6_motor.html"
+          style="
+            width: 90vw;
+            max-width: 900px;
+            height: 80vh;
+            border: none;
+            border-radius: 16px;
+          ">
+  </iframe>
+</div>
+```

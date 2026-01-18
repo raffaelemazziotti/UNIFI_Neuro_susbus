@@ -3,6 +3,9 @@ title: "Neuroscience of social-cognitive enhancement for well-being and Neural b
 subtitle: "Module 1 - Neuronal Communication"
 author: "Raffaele M Mazziotti, PhD"
 institute: "University of Florence"
+resources:
+  - quiz/
+  - images/
 format:
   revealjs:
     controls: true
@@ -607,38 +610,20 @@ Results in:
 :::
 :::
 
-## In-Class Exercise - Items
+## 3. Self-check
 
-1. Synapses are points where neurons are physically continuous  
-2. Neurotransmitter effects depend only on the neurotransmitter released  
-3. Ionotropic receptors mediate fast synaptic responses  
-4. NMDA receptors are permeable to calcium ions  
-5. GABA-A receptors are excitatory ion channels  
-6. Monoamines mainly act as neuromodulators  
-7. Endocannabinoids are released from presynaptic terminals  
-8. Neurotransmitter clearance helps limit synaptic signal duration  
-9. SSRIs reduce serotonin levels in the synaptic cleft  
-10. Axo-axonic synapses can modulate neurotransmitter release
+```{=html}
+<div style="display: flex; justify-content: center;">
+  <iframe src="quiz/quiz_3_synapse.html"
+          style="
+            width: 90vw;
+            max-width: 900px;
+            height: 80vh;
+            border: none;
+            border-radius: 16px;
+          ">
+  </iframe>
+</div>
+```
 
 
-## Answers and Explanations
-
-1. **False** - Neurons are not physically continuous at synapses; they are separated by the synaptic cleft.
-
-2. **False** - The effect depends on the receptor type activated, not only on the neurotransmitter.
-
-3. **True** - Ionotropic receptors directly open ion channels and produce fast responses.
-
-4. **True** - NMDA receptors are permeable to Ca²⁺ and play a key role in synaptic plasticity.
-
-5. **False** - GABA-A receptors are inhibitory and typically allow Cl⁻ influx.
-
-6. **True** - Monoamines mainly modulate neural circuits rather than driving fast synaptic transmission.
-
-7. **False** - Endocannabinoids are released from postsynaptic neurons and act retrogradely.
-
-8. **True** - Clearance mechanisms terminate signaling and preserve temporal precision.
-
-9. **False** - SSRIs block serotonin reuptake, increasing its concentration in the synaptic cleft.
-
-10. **True** - Axo-axonic synapses regulate neurotransmitter release rather than postsynaptic voltage.

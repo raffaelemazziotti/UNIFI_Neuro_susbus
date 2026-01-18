@@ -402,29 +402,18 @@ They are electrically and chemically excitable. The function of a neuron depends
 </ul>
 <p>This diversity supports specialized functions across the nervous system.</p>
 </section>
-<section id="summary-of-key-concepts" class="slide level2 center">
-<h2>1. Summary of Key Concepts</h2>
-<ul>
-<li>Neurons are the fundamental signaling units of the nervous system<br>
-</li>
-<li>Structure determines function<br>
-</li>
-<li>Signals are electrical within neurons and chemical between them<br>
-</li>
-<li>Dendrites receive, soma integrates, axon transmits, terminals communicate</li>
-</ul>
-</section>
-<section id="self-check-questions" class="slide level2 center">
-<h2>1. Self-Check Questions</h2>
-<ol type="1">
-<li>Which part of the neuron initiates the action potential?<br>
-</li>
-<li>How do dendritic spines enhance synaptic communication?<br>
-</li>
-<li>Why does neuron structure influence neuron function?<br>
-</li>
-<li>Which part releases neurotransmitter?</li>
-</ol>
+<section id="self-check" class="slide level2 center">
+<h2>Self-check</h2>
+<div style="display: flex; justify-content: center;">
+  <iframe src="quiz/quiz_1_intro.html" style="
+            width: 90vw;
+            max-width: 900px;
+            height: 80vh;
+            border: none;
+            border-radius: 16px;
+          ">
+  </iframe>
+</div>
 
 
 
@@ -652,8 +641,8 @@ They are electrically and chemically excitable. The function of a neuron depends
       function injectHomeLink() {
         const link = document.createElement("a");
         link.href = "index.html";
-        link.setAttribute("aria-label", "Course overview");
-        link.title = "Course overview";
+        link.setAttribute("aria-label", "Back to Index");
+        link.title = "Back to Index";
 
         // Positioning
         link.style.position = "absolute";
@@ -669,7 +658,7 @@ They are electrically and chemically excitable. The function of a neuron depends
 
         // Home icon image
         const img = document.createElement("img");
-        img.src = "images/home.svg";   // <-- your existing file
+        img.src = "images/home.svg";
         img.alt = "Home";
         img.width = 28;
         img.height = 28;
@@ -681,7 +670,7 @@ They are electrically and chemically excitable. The function of a neuron depends
         // Hover feedback
         link.addEventListener("mouseenter", () => {
           link.style.opacity = "1";
-          link.style.transform = "translateX(-50%) scale(1.1)";
+          link.style.transform = "translateX(-50%) scale(2)";
         });
 
         link.addEventListener("mouseleave", () => {

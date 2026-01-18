@@ -3,6 +3,9 @@ title: "Neuroscience of social-cognitive enhancement for well-being and Neural b
 subtitle: "Module 1 - Organization of the Nervous System"
 author: "Raffaele M Mazziotti, PhD"
 institute: "University of Florence"
+resources:
+  - quiz/
+  - images/
 format:
   revealjs:
     controls: true
@@ -25,7 +28,6 @@ format:
       
     mermaid:
       theme: neutral
-    
 ---
 
 ## Organization of the Nervous System
@@ -875,5 +877,20 @@ Spinal nerves connect to the cord via two roots:
 
 ---
 
-## ciao
+## Self-check
+
+```{=html}
+<div style="display: flex; justify-content: center;">
+  <iframe src="quiz/quiz_4_NS_org.html"
+          style="
+            width: 90vw;
+            max-width: 900px;
+            height: 80vh;
+            border: none;
+            border-radius: 16px;
+          ">
+  </iframe>
+</div>
+```
+
 

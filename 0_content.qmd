@@ -4,6 +4,9 @@ author: "Raffaele M Mazziotti, PhD"
 institute: "University of Florence"
 title-block: false
 page-layout: full
+resources:
+  - quiz/
+  - images/
 format:
   revealjs:
     controls: true
@@ -26,18 +29,31 @@ format:
 ---
 ## Index
 
-> Hello, Welcome to the course!
+>[Welcome to the course!]{.highlight}
+This part of the course introduces the foundations of neuroscience. We will cover basic principles of **neurobiology**,  
+an introduction to `neurophysiology`, and the core concepts needed to understand how the nervous system works,
+from neurons to systems.
+
 
 ### Chapters
 ::: columns
 ::: column
+
+:::{.list-box}
 - [Introduction](1_intro.html)
 - [Neuron](2_neuron.html)
 - [Neuronal Communication](3_synapse.html)
 - [Organization of the Nervous System](4_NS_organization.html)
 - [Sensory Systems](5_sensory.html)
+:::
+
 ::: 
 ::: column
 
+:::card
+- [Motor System](6_motor.html)
+:::
+
 :::
 :::
+
