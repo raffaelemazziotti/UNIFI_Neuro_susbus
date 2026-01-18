@@ -11,21 +11,21 @@
     "href": "6_motor.html#primary-motor-cortex",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Primary motor cortex",
-    "text": "Primary motor cortex\n\nThe primary motor cortex (M1) is the main cortical output of the motor system. It is located in the frontal lobe, anterior to somatosensory cortex. Neurons in M1 send commands toward the spinal cord.\n\nPrimary motor cortex is organized somatotopically. Different body parts are represented in different cortical regions. Fine motor control occupies more cortical space.\n\n\n\nEncode patterns of movement such as:\n\nDirection\n\nForce\n\nCoordination\n\nMovement emerges from population activity.\n\n\n\nSignals from motor cortex descend to the spinal cord. These pathways convey voluntary motor commands. Control is largely contralateral.\n\n\nThe spinal cord is the main site of motor execution. It integrates descending commands with sensory input."
+    "text": "Primary motor cortex\n\nThe primary motor cortex (M1) is the main cortical output of the motor system. It is located in the frontal lobe, anterior to somatosensory cortex. Neurons in M1 are the upper motor neurons and send commands toward the spinal cord.\n\nPrimary motor cortex is organized somatotopically. Different body parts are represented in different cortical regions. Fine motor control occupies more cortical space.\n\n\n\nEncode patterns of movement such as:\n\nDirection\n\nForce\n\nCoordination\n\nMovement emerges from population activity.\n\n\n\nSignals from motor cortex descend to the spinal cord. These pathways convey voluntary motor commands. Control is largely contralateral.\n\n\nThe spinal cord is the main site of motor execution. It integrates descending commands with sensory input."
   },
   {
     "objectID": "6_motor.html#from-cortex-to-muscle",
     "href": "6_motor.html#from-cortex-to-muscle",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "From cortex to muscle",
-    "text": "From cortex to muscle\n\n\n\nLower motor neurons reside in the ventral horn of the spinal cord. They are the final common pathway for movement. Their axons exit the CNS to innervate muscles.\n\n\nMotor commands travel from:\n\nMotor cortex\n\nThrough descending pathways\n\nTo spinal motor neurons\n\nTo muscle fibers\n\nThis pathway transforms intention into force."
+    "text": "From cortex to muscle\n\n\n\nLower motor neurons reside in the ventral horn of the spinal cord. They are the final common pathway for movement. Their axons exit the CNS to innervate muscles.\n\n\nMotor commands travel from:\n\nMotor cortex (Upper MN)\nThrough descending pathways\n\nTo spinal motor neurons (Lower MS)\n\nTo muscle fibers\n\nThis pathway transforms intention into force."
   },
   {
     "objectID": "6_motor.html#m1-is-not-enough",
     "href": "6_motor.html#m1-is-not-enough",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "M1 is not enough",
-    "text": "M1 is not enough\n\n\nAlthough M1 and the spinal cord can generate movement, They do not decide what movement to make. That requires additional motor areas.\n\nVoluntary movement involves choices.\nThe nervous system must:\n\nSelect appropriate actions\n\nOrganize sequences\n\nSuppress unwanted movements\n\nPlanning occurs before execution.\n\n\n\nThe supplementary motor area (SMA) supports internally generated actions.\nIt is critical for:\n\nSelf-initiated movement\n\nSequencing\n\nBimanual coordination\n\nIt organizes actions over time.\n\nThe premotor cortex contributes to planning movements guided by external cues. It links sensory information to motor commands. It prepares movements before they are executed."
+    "text": "M1 is not enough\n\n\nAlthough M1 and the spinal cord can generate movement, they do not decide what movement to make. That requires additional motor areas.\n\nVoluntary movement involves choices.\nThe nervous system must:\n\nSelect appropriate actions\n\nOrganize sequences\n\nSuppress unwanted movements\n\nPlanning occurs before execution.\n\n\n\nThe supplementary motor area (SMA) supports internally generated actions.\nIt is critical for:\n\nSelf-initiated movement\n\nSequencing\n\nBimanual coordination\n\nIt organizes actions over time.\n\nThe premotor cortex contributes to planning movements guided by external cues. It links sensory information to motor commands. It prepares movements before they are executed."
   },
   {
     "objectID": "6_motor.html#m1-is-not-enough-1",
@@ -39,14 +39,14 @@
     "href": "6_motor.html#subcortical-structures",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Subcortical structures",
-    "text": "Subcortical structures\n\n\n\nThe basal nuclei regulate whether an action is initiated.\nThey are involved in:\n\nSelecting appropriate actions\n\nSuppressing competing or unwanted actions\n\nThey do not generate movement or send commands to muscles.\nTheir role is to gate motor plans.\n\n\n\nThe cerebellum regulates how an action is executed.\nIt is involved in:\n\nCoordination and timing\n\nError correction\n\nMotor learning\n\nIt compares intended movement with actual outcome."
+    "text": "Subcortical structures\n\n\n\nThe basal nuclei regulate whether an action is initiated.\nThey are involved in:\n\nSelecting appropriate actions\n\nSuppressing competing or unwanted actions\n\n\nThey do not generate movement or send commands to muscles. Their role is to gate motor plans.\n\n\n\n\nThe cerebellum regulates how an action is executed.\nIt is involved in:\n\nCoordination and timing\n\nError correction\n\nMotor learning\n\n\nIt compares intended movement with actual outcome."
   },
   {
     "objectID": "6_motor.html#cortical-damage",
     "href": "6_motor.html#cortical-damage",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Cortical damage",
-    "text": "Cortical damage\n\n\n\nDamage to primary motor cortex produces:\n\nWeakness or paralysis\n\nLoss of fine voluntary control\n\nDeficits on the contralateral side\n\nReflexes are generally preserved.\n\n\n\nDamage to premotor cortex or supplementary motor area leads to:\n\nDifficulty planning movements\n\nImpaired sequencing or initiation\n\nApraxia despite preserved strength\n\nThe problem is planning, not execution."
+    "text": "Cortical damage\n\n\n\nDamage to primary motor cortex produces:\n\nWeakness or paralysis\n\nLoss of fine voluntary control\n\nDeficits on the contralateral side\n\n\nReflexes are generally preserved.\n\n\n\n\nDamage to premotor cortex or supplementary motor area leads to:\n\nDifficulty planning movements\n\nImpaired sequencing or initiation\n\nApraxia despite preserved strength\n\n\nThe problem is planning, not execution."
   },
   {
     "objectID": "6_motor.html#basal-nuclei-damage",
@@ -60,7 +60,7 @@
     "href": "6_motor.html#cerebellar-damage",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Cerebellar damage",
-    "text": "Cerebellar damage\n\n\n\nDamage to the cerebellum causes:\n\nPoor coordination\n\nInaccurate movements\n\nTiming deficits\n\nStrength is preserved, but movement is imprecise.\n\n\n\nCerebellar ataxia:\n\nUnsteady gait\n\nDysmetria\n\nIntention tremor\n\nErrors increase during movement."
+    "text": "Cerebellar damage\n\n\n\nDamage to the cerebellum causes:\n\nPoor coordination\n\nInaccurate movements\n\nTiming deficits\n\n\nStrength is preserved, but movement is imprecise.\n\n\n\n\nCerebellar ataxia:\n\nUnsteady gait\n\nDysmetria\n\nIntention tremor\n\n\nErrors increase during movement."
   },
   {
     "objectID": "6_motor.html#motor-neuron-lesions",
@@ -74,7 +74,7 @@
     "href": "6_motor.html#spinal-cord-and-peripheral-nerve-damage",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Spinal cord and peripheral nerve damage",
-    "text": "Spinal cord and peripheral nerve damage\n\n\n\nSpinal cord lesions produce:\n\nWeakness below the lesion\n\nLoss of voluntary control\n\nPatterned sensory and motor deficits\n\nThe level of the lesion matters.\n\n\n\nDamage to peripheral nerves results in:\n\nWeakness in specific muscles\n\nLoss of reflexes\n\nSensory deficits in nerve territory\n\nDeficits follow peripheral anatomy."
+    "text": "Spinal cord and peripheral nerve damage\n\n\n\nSpinal cord lesions produce:\n\nWeakness below the lesion\nPatterned sensory and motor deficits\nPreserved reflexes below the lesion\n\n\nThe level of the lesion matters.\n\n\n\n\nDamage to peripheral nerves results in:\n\nWeakness in specific muscles\n\nLoss of reflexes\n\n\nDeficits follow peripheral anatomy."
   },
   {
     "objectID": "4_NS_organization.html#organization-of-the-nervous-system",
@@ -1181,5 +1181,12 @@
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Primary somatosensory cortex",
     "text": "Primary somatosensory cortex\n\n\n\nSomatosensory information reaches primary somatosensory cortex (S1). S1 is located in the postcentral gyrus. It contains an ordered map of the body (Somatotopy).\n\n\nSomatotopy means that:\n\nBody position is mapped systematically\n\nNeighboring body regions map to neighboring neural regions\n\n\n\n\n\nThe sensory homunculus is a distorted body map. Body parts with high sensory acuity occupy more cortical space. Hands, lips, and face are overrepresented."
+  },
+  {
+    "objectID": "6_motor.html#basal-nuclei-lesions",
+    "href": "6_motor.html#basal-nuclei-lesions",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Basal nuclei lesions",
+    "text": "Basal nuclei lesions\n\n\n\nDamage to the basal nuclei disrupts action selection.\nThis can result in:\n\nDifficulty initiating movement\n\nExcessive or involuntary movements\n\n\nStrength is usually preserved.\n\n\n\n\nBasal nuclei dysfunction in Parkinsonian disorders leads to:\n\nBradykinesia\n\nRigidity\n\nResting tremor\n\n\nMovement is difficult to initiate, not to execute."
   }
 ]

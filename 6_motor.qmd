@@ -71,10 +71,10 @@ They `interact` continuously during movement.
 
 >The [primary motor cortex (M1)]{.highlight} is the main `cortical output` of the motor system.
 It is located in the `frontal lobe`, anterior to somatosensory cortex.
-Neurons in M1 send commands toward the spinal cord.
+Neurons in M1 are the `upper motor neurons` and send commands toward the spinal cord.
 
 
-Primary motor cortex is organized [somatotopically]().
+Primary motor cortex is organized [somatotopically](5_sensory.html\#S1).
 Different body parts are represented in different cortical regions.
 Fine motor control occupies more cortical space.
 
@@ -82,11 +82,11 @@ Fine motor control occupies more cortical space.
 :::columns
 :::column
 :::info-box
-Encode patterns of movement such as:
+`Encode` patterns of movement such as:
 
-- Direction  
-- Force  
-- Coordination  
+- `Direction`  
+- `Force`  
+- `Coordination`  
 
 Movement emerges from `population activity`.
 :::
@@ -113,16 +113,16 @@ It integrates descending commands with sensory input.
 :::columns
 :::column
 
->**Lower motor neurons** reside in the ventral horn of the spinal cord. 
+>[Lower motor neurons]{.highlight} reside in the `ventral horn` of the spinal cord. 
 They are the final common pathway for movement.
-Their axons exit the CNS to innervate muscles.
+Their axons `exit the CNS` to innervate muscles.
 
 :::info-box
 Motor commands travel from:
 
-- Motor cortex  
+- Motor cortex (Upper MN) 
 - Through descending pathways  
-- To spinal motor neurons  
+- To spinal motor neurons (Lower MS)  
 - To muscle fibers  
 
 This pathway transforms intention into force.
@@ -142,17 +142,17 @@ This pathway transforms intention into force.
 :::column
 
 Although M1 and the spinal cord can generate movement,
-They do not decide `what` movement to make.
-That requires additional motor areas.
+they do not decide `what` movement to make.
+That requires `additional motor areas`.
 
 :::info-box
 Voluntary movement involves `choices`.
 
 The nervous system must:
 
-- Select appropriate actions  
-- Organize sequences  
-- Suppress unwanted movements  
+- `Select` appropriate actions  
+- `Organize` sequences  
+- `Suppress` unwanted movements  
 
 Planning occurs before execution.
 
@@ -163,21 +163,21 @@ Planning occurs before execution.
 
 :::info-box
 
-The [supplementary motor area (SMA)]{.highlight} supports internally generated actions.
+The [supplementary motor area (SMA)]{.highlight} supports `internally` generated actions.
 
 It is critical for:
 
 - `Self-initiated` movement  
-- Sequencing  
+- `Sequencing`  
 - `Bimanual coordination`  
 
-It organizes actions over time.
+It `organizes` actions over time.
 
 :::
 
 
 The [premotor cortex]{.highlight} contributes to planning movements guided by `external cues`.
-It links sensory information to motor commands.
+It `links sensory information to motor commands`.
 It prepares movements before they are executed.
 
 
@@ -194,23 +194,23 @@ It prepares movements before they are executed.
 :::column
 
 :::info-box
-The **basal nuclei** regulate whether an action is initiated.
+The [basal nuclei]{.highlight} regulate whether an action is initiated.
 
 They are involved in:
 
 - `Selecting` appropriate actions  
 - `Suppressing` competing or unwanted actions  
 
-They do not generate movement or send commands to muscles.
-
+>They do not generate movement or send commands to muscles.
 Their role is to `gate` motor plans.
+
 :::
 
 :::
 :::column
 
 :::info-box
-The **cerebellum** regulates how an action is executed.
+The [cerebellum]{.highlight} regulates how an action is executed.
 
 It is involved in:
 
@@ -218,7 +218,7 @@ It is involved in:
 - `Error correction`  
 - Motor `learning`  
 
-It `compares` intended movement with actual outcome.
+>It `compares` intended movement with actual outcome.
 
 :::
 
@@ -231,13 +231,13 @@ It `compares` intended movement with actual outcome.
 :::column
 
 :::info-box
-Damage to **primary motor cortex** produces:
+Damage to [primary motor cortex]{.highlight} produces:
 
-- Weakness or paralysis  
+- `Weakness or paralysis`  
 - Loss of fine voluntary control  
-- Deficits on the contralateral side  
+- Deficits on the `contralateral` side  
 
-`Reflexes` are generally preserved.
+>`Reflexes` are generally preserved.
 
 :::
 
@@ -246,32 +246,34 @@ Damage to **primary motor cortex** produces:
 
 
 :::info-box
-Damage to **premotor cortex** or **supplementary motor area** leads to:
+Damage to [premotor cortex]{.highlight} or [supplementary motor area]{.highlight} leads to:
 
 - Difficulty planning movements  
 - Impaired sequencing or initiation  
 - [Apraxia](https://it.wikipedia.org/wiki/Aprassia) despite preserved strength  
 
-The problem is planning, not execution.
+>The problem is `planning`, not execution.
+
 :::
 
 :::
 :::
 
-## Basal nuclei damage
+## Basal nuclei lesions
 
 :::columns
 :::column
 
 :::info-box
-Damage to the **basal nuclei** disrupts action selection.
+Damage to the [basal nuclei]{.highlight} disrupts action selection.
 
 This can result in:
 
-- Difficulty initiating movement  
-- Excessive or involuntary movements  
+- Difficulty `initiating` movement  
+- Excessive or `involuntary movements`  
 
-Strength is usually preserved.
+>Strength is usually preserved.
+
 :::
 
 :::
@@ -284,7 +286,8 @@ Basal nuclei dysfunction in [Parkinsonian](https://en.wikipedia.org/wiki/Parkins
 - Rigidity  
 - Resting tremor  
 
-Movement is difficult to `initiate`, not to execute.
+>Movement is difficult to `initiate`, not to execute.
+
 :::
 
 :::
@@ -297,13 +300,13 @@ Movement is difficult to `initiate`, not to execute.
 
 :::info-box
 
-Damage to the **cerebellum** causes:
+Damage to the [cerebellum]{.highlight} causes:
 
 - Poor coordination  
-- Inaccurate movements  
+- `Inaccurate` movements  
 - Timing deficits  
 
-Strength is preserved, but movement is imprecise.
+>Strength is preserved, but movement is imprecise.
 
 :::
 
@@ -317,7 +320,7 @@ Strength is preserved, but movement is imprecise.
 - [Dysmetria](https://en.wikipedia.org/wiki/Dysmetria)  
 - Intention tremor  
 
-`Errors increase` during movement.
+>`Errors increase` during movement.
 
 :::
 
@@ -330,23 +333,25 @@ Strength is preserved, but movement is imprecise.
 :::column
 
 :::info-box
-Damage to **upper motor neurons** leads to:
+Damage to [upper motor neurons]{.highlight} leads to:
 
-- Weakness  
-- Increased muscle tone  
-- Hyperreflexia  
+- `Weakness`  
+- `Increased muscle tone`  
+- `Hyperreflexia`  
 
-This reflects loss of inhibitory control.
+This reflects `loss of inhibitory control`.
+
 :::
 
 :::info-box
-Damage to **lower motor neurons** causes:
+Damage to [lower motor neurons]{.highlight} causes:
 
-- Flaccid paralysis  
-- Muscle atrophy  
-- Loss of reflexes  
+- `Flaccid paralysis`  
+- Muscle `atrophy`  
+- `Loss of reflexes`  
 
 The final output pathway is disrupted.
+
 :::
 
 :::
@@ -363,13 +368,13 @@ The final output pathway is disrupted.
 :::column
 
 :::info-box
-Spinal cord lesions produce:
+[Spinal cord]{.highlight} lesions produce:
 
-- Weakness below the lesion  
-- Loss of voluntary control  
-- Patterned sensory and motor deficits  
+- `Weakness below the lesion`
+- `Patterned` sensory and motor deficits
+- `Preserved reflexes` below the lesion
 
-The level of the lesion matters.
+>The level of the lesion matters.
 
 :::
 
@@ -377,18 +382,17 @@ The level of the lesion matters.
 :::column
 
 :::info-box
-Damage to peripheral nerves results in:
+Damage to `peripheral nerves` results in:
 
-- Weakness in specific muscles  
-- Loss of reflexes  
-- Sensory deficits in nerve territory 
+- Weakness in `specific muscles`  
+- `Loss of reflexes`
 
-Deficits follow peripheral anatomy.
-:::
+>Deficits follow peripheral anatomy.
 
 :::
-:::
 
+:::
+:::
 
 ## Self-check
 
