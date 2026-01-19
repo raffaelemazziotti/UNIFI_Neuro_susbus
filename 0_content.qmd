@@ -52,6 +52,7 @@ from neurons to systems.
 
 :::card
 - [Motor System](6_motor.html)
+- [Emotion and Motivation](7_emotion_motivation.html)
 :::
 
 :::

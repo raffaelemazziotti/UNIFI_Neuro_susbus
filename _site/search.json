@@ -522,7 +522,7 @@
     "href": "0_content.html#index",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Index",
-    "text": "Index\n\nWelcome to the course! This part of the course introduces the foundations of neuroscience. We will cover basic principles of neurobiology,\nan introduction to neurophysiology, and the core concepts needed to understand how the nervous system works, from neurons to systems.\n\nChapters\n\n\n\n\nIntroduction\nNeuron\nNeuronal Communication\nOrganization of the Nervous System\nSensory Systems\n\n\n\n\n\nMotor System"
+    "text": "Index\n\nWelcome to the course! This part of the course introduces the foundations of neuroscience. We will cover basic principles of neurobiology,\nan introduction to neurophysiology, and the core concepts needed to understand how the nervous system works, from neurons to systems.\n\nChapters\n\n\n\n\nIntroduction\nNeuron\nNeuronal Communication\nOrganization of the Nervous System\nSensory Systems\n\n\n\n\n\nMotor System\nEmotion and Motivation"
   },
   {
     "objectID": "1_intro.html#neuron",
@@ -1188,5 +1188,89 @@
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Basal nuclei lesions",
     "text": "Basal nuclei lesions\n\n\n\nDamage to the basal nuclei disrupts action selection.\nThis can result in:\n\nDifficulty initiating movement\n\nExcessive or involuntary movements\n\n\nStrength is usually preserved.\n\n\n\n\nBasal nuclei dysfunction in Parkinsonian disorders leads to:\n\nBradykinesia\n\nRigidity\n\nResting tremor\n\n\nMovement is difficult to initiate, not to execute."
+  },
+  {
+    "objectID": "7_emotion_motivation.html#a-core-problem",
+    "href": "7_emotion_motivation.html#a-core-problem",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "A core problem",
+    "text": "A core problem\n\n\nAt any moment, the brain faces multiple possibilities. It must decide:\n\nWhat is important\n\nWhat can be ignored\n\nWhat requires action\n\n\nEmotion and motivation solve this problem.\n\n\n\n\n\n\n\n\nEmotion and motivation are tightly linked. Both contribute to:\n\nPrioritizing information\n\nBiasing decisions\n\nDriving behavior"
+  },
+  {
+    "objectID": "7_emotion_motivation.html#a-functional-definition-of-emotion",
+    "href": "7_emotion_motivation.html#a-functional-definition-of-emotion",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "A functional definition of emotion",
+    "text": "A functional definition of emotion\nEmotion can be defined as:\nA coordinated brain-body state that assigns value to a situation and prepares action. The terms emotion and feeling are often used interchangeably. In neuroscience, they refer to related but distinct processes.\n\n\n\nEmotions are objective physiological and neural states.\n\nBrain circuits\n\nBodily responses\n\nAction tendencies\n\nOccur without conscious awareness\n\n\n\n\nFeelings are the subjective experience of emotional states. They reflect:\n\nAwareness of bodily changes\n\nCognitive interpretation\n\nContext and memory\n\nRequire consciousness"
+  },
+  {
+    "objectID": "7_emotion_motivation.html#a-functional-definition-of-emotion-1",
+    "href": "7_emotion_motivation.html#a-functional-definition-of-emotion-1",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "A functional definition of emotion",
+    "text": "A functional definition of emotion\n\n\nEmotional responses are generated subcortically.\nFeelings depend more strongly on cortical processing.\nEmotions typically occur first. Feelings emerge later, if at all.\n\n\nYou can have:\n\nEmotions without feelings\n\nBut not feelings without emotions\n\n\n\n\n\nThis distinction explains why:\n\nWe can react before we know why\n\nEmotional behavior can precede awareness\n\nRegulation can target feelings but not initial emotional responses\n\nThe brain acts before the mind explains."
+  },
+  {
+    "objectID": "7_emotion_motivation.html#a-functional-definition-of-motivation",
+    "href": "7_emotion_motivation.html#a-functional-definition-of-motivation",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "A functional definition of motivation",
+    "text": "A functional definition of motivation\n\n\nMotivation is the inner drive that initiates, guides, and sustains goal-directed behavior Motivation refers to processes that:\n\nDirect action toward goals\n\nSustain effort over time\n\nMotivation answers the question:\nWhy act at all?\n\n\nEmotion and motivation interact\nTogether, they determine:\n\nWhat is pursued\n\nWhat is avoided\n\nHow strongly we act\n\n\nEmotional value influences motivation. Motivational state shapes emotional responses."
+  },
+  {
+    "objectID": "7_emotion_motivation.html#brain-networks-for-emotion-and-feeling",
+    "href": "7_emotion_motivation.html#brain-networks-for-emotion-and-feeling",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Brain networks for emotion and feeling",
+    "text": "Brain networks for emotion and feeling\n\n\nThere is no single “emotion center”.\n\nSeveral brain regions are consistently involved in emotion-related processes:\n\nAmygdala\n\nHypothalamus\n\nBrainstem nuclei\n\nInsular cortex\nPrefrontal cortex\n\nEach contributes a specific computation."
+  },
+  {
+    "objectID": "7_emotion_motivation.html#brain-networks-for-emotion-and-feeling-1",
+    "href": "7_emotion_motivation.html#brain-networks-for-emotion-and-feeling-1",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Brain networks for emotion and feeling",
+    "text": "Brain networks for emotion and feeling\n\n\n\nSubcortical regions contribute to rapid and automatic responses.\nThey are involved in:\n\nDetecting relevance\n\nGenerating physiological changes\n\nInitiating action tendencies\n\nThese processes can occur without awareness.\n\n\n\nCortical regions contribute to:\n\nInterpretation of emotional states\n\nContextual modulation\n\nRegulation and control\n\nSubjective experience\n\nThey shape how emotions are experienced as feelings."
+  },
+  {
+    "objectID": "7_emotion_motivation.html#a-closer-look-the-amygdala",
+    "href": "7_emotion_motivation.html#a-closer-look-the-amygdala",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "A closer look: the amygdala",
+    "text": "A closer look: the amygdala\n\n\nThe amygdala is a key structure in emotional processing (generally fear). It is located in the medial temporal lobe. It is involved in detecting biologically relevant stimuli.\n\nThe amygdala contributes to:\n\nRapid evaluation of relevance\n\nDetection of potential threat\n\nAssigning emotional significance\n\nIt responds to both positive and negative stimuli. Amygdala responses are fast. They can occur before detailed cortical analysis.\n\n\n\nThrough its connections, the amygdala can:\n\nInfluence autonomic responses\n\nBias attention toward relevant stimuli\n\nModulate memory formation"
+  },
+  {
+    "objectID": "7_emotion_motivation.html#a-closer-look-the-amygdala-1",
+    "href": "7_emotion_motivation.html#a-closer-look-the-amygdala-1",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "A closer look: the amygdala",
+    "text": "A closer look: the amygdala"
+  },
+  {
+    "objectID": "7_emotion_motivation.html#a-closer-look-the-prefrontal-cortex",
+    "href": "7_emotion_motivation.html#a-closer-look-the-prefrontal-cortex",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "A closer look: the Prefrontal Cortex",
+    "text": "A closer look: the Prefrontal Cortex\n\n\nEmotional responses are not fixed. They can be shaped, modulated, and regulated. A key role in this process is played by the prefrontal cortex.\n\nEmotion regulation refers to processes that:\n\nModify emotional responses\n\nAdjust their intensity or duration\n\nAlign emotions with goals and context\n\nRegulation does not mean suppression."
+  },
+  {
+    "objectID": "7_emotion_motivation.html#prefrontal-subregions",
+    "href": "7_emotion_motivation.html#prefrontal-subregions",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Prefrontal subregions",
+    "text": "Prefrontal subregions\nDifferent prefrontal areas contribute differently:\n\nVentromedial prefrontal cortex\nValue, emotional meaning, safety\nDorsolateral prefrontal cortex\nCognitive control and reappraisal\nOrbitofrontal cortex\nOutcome evaluation and updating"
+  },
+  {
+    "objectID": "7_emotion_motivation.html#a-closer-look-the-prefrontal-cortex-1",
+    "href": "7_emotion_motivation.html#a-closer-look-the-prefrontal-cortex-1",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "A closer look: the Prefrontal Cortex",
+    "text": "A closer look: the Prefrontal Cortex\n\n\nDifferent prefrontal subregions contribute differently:\n\nVentrolateral prefrontal cortex\nValue, emotional meaning, safety\nDorsolateral prefrontal cortex\nCognitive control and reappraisal\nOrbitofrontal cortex\nOutcome evaluation and updating\n\n\nOne key regulatory strategy is reappraisal. Reappraisal involves:\n\nChanging how a situation is interpreted\n\nAltering emotional impact\n\nThis strategy strongly recruits prefrontal regions.\n\n\n\n\n\n\n\n\nPrefrontal cortex regulates emotion through top-down control.\nIt can influence:\n\nAmygdala activity\n\nAutonomic responses\n\nBehavioral expression"
+  },
+  {
+    "objectID": "7_emotion_motivation.html#development-matters",
+    "href": "7_emotion_motivation.html#development-matters",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Development matters",
+    "text": "Development matters\nThe prefrontal cortex matures slowly. Its structural and functional development continues beyond 20 years of age. This maturation timeline has important behavioral consequences.\n\n\n\nDuring adolescence:\n\nSubcortical emotion-related systems are largely matured\n\nEmotional reactivity is strong\n\nPrefrontal regulatory systems are still developing\n\nEmotion generation is functional, regulation is not yet fully mature.\n\n\n\n\n\n\n\n\nThis creates a temporary imbalance:\n\nStrong emotional and motivational signals\n\nWeaker top-down regulatory control\n\nThis imbalance contributes to increased emotional intensity and risk-taking."
   }
 ]

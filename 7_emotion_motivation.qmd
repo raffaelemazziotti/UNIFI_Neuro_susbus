@@ -1,0 +1,381 @@
+---
+title: "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes"
+subtitle: "Module 1 - Emotion & Motivation"
+author: "Raffaele M Mazziotti, PhD"
+institute: "University of Florence"
+resources:
+  - quiz/
+  - images/
+format:
+  revealjs:
+    controls: true
+    theme: default
+    slide-number: true
+    logo: images/logo/NEUROFARBA_logo.svg
+    css: slide_style.css
+    transition: fade
+    center: true
+    math: mathjax
+    chalkboard: 
+      buttons: false
+    progress: true
+    title-slide-attributes:
+      data-background-image: images/logo/NEUROFARBA.svg
+      data-background-size: 500px
+      data-background-position: "center 10%"
+      data-state: title-slide
+    include-after-body: afterbody.html
+      
+    mermaid:
+      theme: neutral
+---
+
+## A core problem
+
+:::columns
+:::column
+At any moment, the brain faces multiple possibilities.
+It must decide:
+
+- What is important  
+- What can be ignored  
+- What requires action  
+
+>Emotion and motivation solve this problem.
+
+:::
+:::column
+
+![](images/emot_priorities.jpg){width="400" fig-align="center"}
+
+:::info-box
+Emotion and motivation are tightly linked.
+Both contribute to:
+
+- `Prioritizing` information  
+- `Biasing` decisions  
+- `Driving` behavior  
+
+:::
+
+
+:::
+:::
+
+## A functional definition of emotion
+
+Emotion can be defined as:
+
+A `coordinated` brain-body `state` that `assigns value` to a situation and prepares action.
+The terms `emotion` and `feeling` are often used interchangeably.
+In neuroscience, they refer to related but distinct processes.
+
+:::columns
+:::column
+
+:::info-box
+
+[Emotions]{.highlight} are objective physiological and neural states.
+
+- Brain `circuits`  
+- Bodily `responses`  
+- Action tendencies  
+- Occur without conscious awareness
+:::
+
+:::
+:::column
+
+:::info-box
+[Feelings]{.highlight} are the subjective experience of emotional states.
+They reflect:
+
+- Awareness of bodily changes  
+- Cognitive `interpretation`  
+- Context and memory  
+- Require `consciousness`
+
+:::
+
+
+:::
+:::
+
+## A functional definition of emotion
+
+:::columns
+:::column
+
+`Emotional` responses are generated `subcortically`.
+
+`Feelings` depend more strongly on `cortical processing`.
+
+`Emotions typically occur first`.
+Feelings emerge later, if at all.
+
+:::
+:::column
+
+:::info-box
+
+You can have:
+
+- Emotions without feelings  
+- But not feelings without emotions  
+:::
+
+:::
+:::
+
+:::info-box
+This distinction explains why:
+
+- We can react before we know why  
+- Emotional behavior can precede awareness  
+- Regulation can target feelings but not initial emotional responses  
+
+The brain acts before the mind explains.
+:::
+
+## A functional definition of motivation
+
+::: columns
+::: column
+
+Motivation is the `inner drive` that initiates, guides, and sustains goal-directed behavior
+Motivation refers to processes that:
+
+- Direct action toward goals  
+- Sustain effort over time  
+
+Motivation answers the question:
+
+*Why act at all?*
+
+:::
+:::column
+
+:::info-box
+Emotion and motivation `interact`
+
+Together, they determine:
+
+- What is pursued  
+- What is avoided  
+- How strongly we act  
+
+>Emotional value influences motivation.
+Motivational state shapes emotional responses.
+
+:::
+
+:::
+:::
+
+## Brain networks for emotion and feeling
+
+::: columns
+::: column
+
+There is no single “emotion center”.
+
+:::info-box
+Several brain regions are consistently involved in emotion-related processes:
+
+- `Amygdala`  
+- `Hypothalamus`  
+- `Brainstem nuclei`  
+- `Insular cortex`
+- `Prefrontal cortex`  
+
+Each contributes a specific computation.
+:::
+
+::: 
+::: column
+
+![](images/emot_motiv_emotional_brain.png){width="500" fig-align="center"}
+
+::: 
+::: 
+
+## Brain networks for emotion and feeling
+
+::: columns
+::: column
+
+:::info-box
+[Subcortical regions]{.highlight} contribute to `rapid` and `automatic` responses.
+
+They are involved in:
+
+- `Detecting` relevance  
+- Generating `physiological changes`  
+- Initiating `action` tendencies  
+
+These processes can occur `without awareness`.
+:::
+
+::: 
+::: column
+
+:::info-box
+[Cortical regions]{.highlight} contribute to:
+
+- `Interpretation` of emotional states  
+- `Contextual` modulation  
+- Regulation and `control`  
+- `Subjective` experience  
+
+They shape how emotions are experienced as feelings.
+:::
+
+::: 
+::: 
+
+## A closer look: the amygdala
+
+::: columns
+::: column
+
+The [amygdala](4_NS_organization.html#amygdala) is a key structure in emotional processing (generally `fear`).
+It is located in the `medial temporal lobe`.
+It is involved in detecting biologically relevant stimuli.
+
+:::info-box
+The amygdala contributes to:
+
+- Rapid `evaluation` of relevance  
+- `Detection` of potential threat  
+- `Assigning` emotional significance  
+
+It responds to both positive and negative stimuli.
+Amygdala responses are fast.
+They can occur before detailed cortical analysis.
+:::
+
+::: 
+::: column
+
+:::info-box
+Through its connections, the amygdala can:
+
+- Influence `autonomic` responses  
+- Bias `attention` toward relevant stimuli  
+- Modulate `memory` formation
+:::
+
+![](images/emot_amygdala.jpeg){width="500" fig-align="center"}
+
+::: 
+::: 
+
+## A closer look: the Prefrontal Cortex
+
+::: columns
+::: column
+
+Emotional responses are not fixed.
+They can be shaped, modulated, and regulated.
+A key role in this process is played by the [prefrontal cortex]{.highlight}.
+
+:::info-box
+Emotion regulation refers to processes that:
+
+- `Modify` emotional responses  
+- `Adjust` their intensity or duration  
+- `Align` emotions with goals and context  
+
+Regulation does not mean suppression.
+:::
+
+::: 
+::: column
+
+![](images/emot_prefrontal.png){width="500" fig-align="center"}
+
+::: 
+::: 
+
+## A closer look: the Prefrontal Cortex
+
+
+::: columns
+::: column
+Different prefrontal subregions contribute differently:
+
+- `Ventrolateral` prefrontal cortex  
+  Value, emotional meaning, safety  
+
+- `Dorsolateral` prefrontal cortex  
+  Cognitive control and reappraisal  
+
+- `Orbitofrontal` cortex  
+  Outcome evaluation and updating  
+
+:::info-box
+One key regulatory strategy is [reappraisal](https://pmc.ncbi.nlm.nih.gov/articles/PMC6188704/).
+Reappraisal involves:
+
+- Changing how a situation is interpreted  
+- Altering emotional impact  
+
+This strategy strongly recruits prefrontal regions.
+
+:::
+
+::: 
+::: column
+
+![](images/emot_prefrontal_subregions.png){width="400" fig-align="center"}
+
+:::info-box
+
+Prefrontal cortex regulates emotion through `top-down control`.
+
+It can influence:
+
+- Amygdala activity  
+- Autonomic responses  
+- Behavioral expression  
+
+:::
+
+
+::: 
+::: 
+
+## Development matters
+The prefrontal cortex `matures` slowly.
+Its structural and functional development continues [beyond 20 years of age]{.highlight}.
+This maturation timeline has important behavioral consequences.
+
+::: columns
+::: column
+
+:::info-box
+During `adolescence`:
+
+- Subcortical emotion-related systems are largely matured  
+- Emotional reactivity is strong  
+- Prefrontal regulatory systems are still developing  
+
+Emotion generation is functional, regulation is not yet fully mature.
+:::
+
+::: 
+::: column
+
+![](images/emot_rebel.png){width="300" fig-align="center"}
+
+:::info-box
+This creates a `temporary imbalance`:
+
+- `Strong` emotional and motivational signals  
+- `Weaker` top-down regulatory control  
+
+This imbalance contributes to increased emotional intensity and `risk-taking`.
+:::
+
+::: 
+::: 

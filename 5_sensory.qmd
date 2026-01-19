@@ -186,7 +186,7 @@ It actively `modulates` and organizes sensory signals before they reach cortex.
 
 > There is one **exception** the `olfaction`: The olfactory system does not relay through the thalamus, but the signal reaches cortex directly.
 
-![](images/sen_sensory_pathways.jpg){width="300" fig-align="center"}
+![](images/sen_sensory_pathways.png){width="300" fig-align="center"}
 
 :::
 :::

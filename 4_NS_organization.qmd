@@ -638,7 +638,7 @@ It is essential for:
 ::: 
 :::
 
-## Amygdala
+## Amygdala {#amygdala}
 
 ::: columns
 ::: column
