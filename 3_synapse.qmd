@@ -145,7 +145,7 @@ Receptors can be of two main `classes`:
 :::
 :::
 
-## 3. Postsynaptic Events
+##  Postsynaptic Events
 
 ::: columns
 
@@ -182,7 +182,7 @@ Neurotransmitter action ends by:
 :::
 :::
 
-## 3. Neurotransmitters
+##  Neurotransmitters
 
 Neurotransmitters are `chemical messengers` released at synapses  
 They transmit signals from a presynaptic neuron to a postsynaptic cell
@@ -210,7 +210,7 @@ Neurotransmitters can be grouped by function:
 :::
 > The effect depends on the `receptor`, not only on the neurotransmitter
 
-## 3. Glutamate - Glu
+##  Glutamate - Glu
 
 ::: columns
 ::: column
@@ -233,7 +233,7 @@ Acts on:
 :::
 :::
 
-## 3. GABA
+##  GABA
 
 ::: columns
 ::: column
@@ -256,7 +256,7 @@ Acts on:
 :::
 :::
 
-## 3. Acetylcholine - ACh 
+##  Acetylcholine - ACh 
 
 ::: columns
 ::: column
@@ -282,7 +282,7 @@ Acts on:
 :::
 :::
 
-## 3. Serotonin - 5-Ht {#serotonin}
+##  Serotonin - 5-Ht {#serotonin}
 
 ::: columns
 ::: column
@@ -308,7 +308,7 @@ Acts on:
 :::
 :::
 
-## 3. Dopamine - DA {#dopamine}
+##  Dopamine - DA {#dopamine}
 
 ::: columns
 ::: column
@@ -333,7 +333,7 @@ Acts on:
 :::
 ::: 
 
-## 3. Noradrenaline - NA
+##  Noradrenaline - NA
 
 ::: columns
 ::: column
@@ -358,7 +358,7 @@ Acts on:
 :::
 :::
 
-## 3. Adrenaline
+##  Adrenaline
 
 ::: columns
 ::: column
@@ -381,7 +381,7 @@ Acts on:
 :::
 :::
 
-## 3. Other Signaling Molecules
+##  Other Signaling Molecules
 
 In addition to classical neurotransmitters, neurons use other chemical signals.  
 These molecules often act as modulators rather than fast transmitters
@@ -417,7 +417,7 @@ Other Signaling Systems
 :::
 :::
 
-## 3. Receptors
+##  Receptors
 
 Neurotransmitters act by binding to `receptors` on the postsynaptic membrane  
 Receptors determine the `speed and effect` of synaptic transmission
@@ -448,7 +448,7 @@ Receptors determine the `speed and effect` of synaptic transmission
 :::
 :::
 
-## 3. Glutamate Ionotropic Receptors
+##  Glutamate Ionotropic Receptors
 
 ::: columns
 ::: column
@@ -470,7 +470,7 @@ Glutamate activates multiple ionotropic receptors, including:
 :::
 :::
 
-## 3. GABA Ionotropic Receptors
+##  GABA Ionotropic Receptors
 
 ::: columns
 ::: column
@@ -492,7 +492,7 @@ Provide [fast inhibition]{.highlight} in neural circuits
 
 :::
 
-## 3. Metabotropic Receptors
+##  Metabotropic Receptors
 
 - Do not form ion channels
 - Coupled to intracellular [singaling pathways](https://en.wikipedia.org/wiki/Signal_transduction)
@@ -501,7 +501,7 @@ Provide [fast inhibition]{.highlight} in neural circuits
 
 > `Signaling Pathway`: chain of intracellular events where molecules relay messages from outside the cell to trigger specific internal responses like growth, division, or death
 
-## 3. **Metabotropic glutamate receptors (mGluRs)**
+##  **Metabotropic glutamate receptors (mGluRs)**
 
 ::: columns
 ::: column
@@ -523,7 +523,7 @@ Provide [fast inhibition]{.highlight} in neural circuits
 :::
 :::
 
-## 3. Position of the Synapse
+##  Position of the Synapse
 
 Also the position of a synapse along a neuron matters, because neurons are not electrically uniform cables. Where a signal arrives strongly shapes what it can do.
 
@@ -554,7 +554,7 @@ Also the position of a synapse along a neuron matters, because neurons are not e
 :::
 :::
 
-## 3. Neurotransmitter Clearance
+##  Neurotransmitter Clearance
 
 After release, neurotransmitters must be removed from the synaptic cleft  
 This ensures that synaptic signals are brief and precisely controlled
@@ -568,7 +568,7 @@ This ensures that synaptic signals are brief and precisely controlled
   - Neurotransmitter is broken down by `enzymes` in the synaptic cleft
   - Prevents prolonged receptor activation
 
-## 3. Drugs and Neurotransmitter Clearance
+##  Drugs and Neurotransmitter Clearance
 
 Many drugs act by altering how neurotransmitters are removed from the synaptic cleft  
 By changing clearance, drugs modify the strength and duration of synaptic signaling.
@@ -610,7 +610,7 @@ Results in:
 :::
 :::
 
-## 3. Self-check
+##  Self-check
 
 ```{=html}
 <div style="display: flex; justify-content: center;">

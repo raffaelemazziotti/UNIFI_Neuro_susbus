@@ -30,7 +30,7 @@ format:
     
 ---
 
-## 1. What Is Neuroscience? {#neuron}
+## What Is Neuroscience? {#neuron}
 
 ::: columns
 ::: column
@@ -49,7 +49,7 @@ Neuroscience asks a simple question:
 
 ---
 
-## 1. What Is a Neuron?
+## What Is a Neuron?
 
 ::: columns
 ::: column
@@ -71,7 +71,7 @@ The function of a neuron depends on its structure.
 
 ---
 
-## 1. Major Parts of the Neuron
+## Major Parts of the Neuron
 
 ::: columns
 
@@ -90,7 +90,7 @@ These components determine how signals are received, processed, and transmitted.
 :::
 ---
 
-## 1. Diagram: Typical Neuron
+## Diagram: Typical Neuron
 
 ::: columns
 ::: column
@@ -108,7 +108,7 @@ A neuron has:
 
 ---
 
-## 1. Dendrites {#dendrites}
+## Dendrites {#dendrites}
 
 ::: columns
 ::: column
@@ -123,7 +123,7 @@ A neuron has:
 ::: 
 ---
 
-## 1. Cell Body (Soma) {#soma}
+## Cell Body (Soma) {#soma}
 
 ::: columns
 ::: column
@@ -139,7 +139,7 @@ A neuron has:
 
 ---
 
-## 1. The Nucleus and DNA
+## The Nucleus and DNA
 
 ::: columns
 ::: column
@@ -162,7 +162,7 @@ Genes are instructions for building cellular components
 
 ---
 
-## 1. From Genes to Proteins
+## From Genes to Proteins
 
 ::: columns
 ::: column
@@ -184,7 +184,7 @@ Genes are instructions for building cellular components
 :::
 :::
 
-## 1. Axon Hillock {#hillock}
+## Axon Hillock {#hillock}
 ::: columns
 ::: column
 
@@ -202,7 +202,7 @@ Genes are instructions for building cellular components
 
 ---
 
-## 1. The Axon
+## The Axon
 ::: columns
 ::: column
 - Conducts electrical signals over long distances  
@@ -216,7 +216,7 @@ Genes are instructions for building cellular components
 :::
 ---
 
-## 1. Presynaptic Terminal
+## Presynaptic Terminal
 ::: columns
 ::: column
 - End of the axon  
@@ -230,7 +230,7 @@ Genes are instructions for building cellular components
 :::
 ---
 
-## 1. Neurons Communicate Electrically and Chemically
+## Neurons Communicate Electrically and Chemically
 
 1. **Electrical signals** travel along the axon.  
 2. **Chemical signals** (neurotransmitters) are released at the synapse.  
@@ -239,10 +239,12 @@ This dual mode of signaling enables fast and flexible communication.
 
 ---
 
-## 1. Structure Influences Function
+## Structure Influences Function
 ::: columns
 ::: column
+
 Examples:
+
 - More dendrites → more inputs  
 - Axon myelination → faster conduction  
 - Terminal branching → more downstream targets  
@@ -256,7 +258,7 @@ Form and function are tightly linked in neuronal physiology.
 :::
 ---
 
-## 1. Neuron Diversity (Overview)
+## Neuron Diversity (Overview)
 
 Neurons vary in:
 

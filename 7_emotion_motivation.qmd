@@ -127,6 +127,9 @@ You can have:
 :::
 :::
 
+:::columns
+:::column
+
 :::info-box
 This distinction explains why:
 
@@ -137,37 +140,10 @@ This distinction explains why:
 The brain acts before the mind explains.
 :::
 
-## A functional definition of motivation
-
-::: columns
-::: column
-
-Motivation is the `inner drive` that initiates, guides, and sustains goal-directed behavior
-Motivation refers to processes that:
-
-- Direct action toward goals  
-- Sustain effort over time  
-
-Motivation answers the question:
-
-*Why act at all?*
-
 :::
 :::column
 
-:::info-box
-Emotion and motivation `interact`
-
-Together, they determine:
-
-- What is pursued  
-- What is avoided  
-- How strongly we act  
-
->Emotional value influences motivation.
-Motivational state shapes emotional responses.
-
-:::
+![](images/emot_emoti_feelings.png){width="500" fig-align="center"}
 
 :::
 :::
@@ -270,6 +246,94 @@ Through its connections, the amygdala can:
 ::: 
 ::: 
 
+## A closer look: the amygdala
+
+::: columns
+::: column
+The amygdala is required for `acquiring fear memories`  a process called `fear conditioning`.
+
+>Fear conditioning is a form of `associative learning`: It allows the organism to learn that a neutral stimulus predicts danger.
+
+:::info-box
+In a typical fear conditioning experiment:
+
+- A `neutral` stimulus is presented  
+- An `aversive` stimulus follows  
+
+After `repeated pairings`, the neutral stimulus alone elicits a fear response.
+
+:::
+
+::: 
+::: column
+
+:::info-box
+The amygdala integrates:
+
+- `Sensory` information about the neutral stimulus  
+- Information about the `aversive` outcome
+:::
+
+:::info-box
+A key distinction:
+
+- The amygdala is required for `acquiring` fear memories  
+- It is also required for `expressing` conditioned fear  
+
+Damage to the amygdala disrupts both.
+:::
+
+::: 
+::: 
+
+## A closer look: the amygdala
+
+::: columns
+::: column
+:::info-box
+Fear conditioning can occur in two main forms:
+
+- `Cued fear conditioning`  
+- `Contextual fear conditioning`  
+:::
+
+:::info-box
+Fear conditioning relies on the [association]{.highlight} between:
+
+- `Conditioned Stimulus (CS)`  
+  A previously neutral stimulus, such as a tone, a light or the context  
+
+- `Unconditioned Stimulus (US)`  
+  An inherently aversive stimulus, such as a mild foot shock  
+:::
+
+::: 
+::: column
+
+:::info-box
+Cued fear conditioning `procedure`:
+
+Training phase
+
+1. The animal is placed in a familiar chamber  
+2. A CS (e.g. tone) is presented  
+3. The CS is paired with a US
+
+During the test phase
+
+- The tone is presented alone  
+- Often in a 'different context'
+
+>If learning occurred, the CS alone elicits fear responses.
+
+:::
+
+::: 
+::: 
+
+## A closer look: the amygdala
+![](images/emot_fear_conditioning.jpg){width="500" fig-align="center"}
+
 ## A closer look: the Prefrontal Cortex
 
 ::: columns
@@ -345,7 +409,7 @@ It can influence:
 ::: 
 ::: 
 
-## Development matters
+## A closer look: the Prefrontal Cortex
 The prefrontal cortex `matures` slowly.
 Its structural and functional development continues [beyond 20 years of age]{.highlight}.
 This maturation timeline has important behavioral consequences.
@@ -379,3 +443,101 @@ This imbalance contributes to increased emotional intensity and `risk-taking`.
 
 ::: 
 ::: 
+
+## A closer look: the Prefrontal Cortex
+
+::: columns
+::: column
+
+>Fear learning is not permanent and inflexible.
+Fear responses can be reduced when the threat is no longer present.
+This process is called `fear extinction`.
+
+:::info-box
+During extinction:
+
+- The conditioned stimulus (CS) is presented repeatedly  
+- The unconditioned stimulus (US) is omitted
+
+Over time, fear responses decrease.
+Extinction is a `new form of learning`.
+:::
+
+::: 
+::: column
+
+:::info-box
+
+Extinction does **not** erase the original fear memory.
+The CS-US association remains stored.
+Fear expression is `modulated`, not deleted.
+
+Fear responses can `reappear`:
+
+- After time has passed  
+- In a different context  
+- After stress  
+
+This shows that the original memory persists.
+
+:::
+
+
+::: 
+::: 
+
+## A closer look: the Prefrontal Cortex
+
+::: columns
+::: column
+During extinction:
+
+- Prefrontal cortex activity increases  
+- Amygdala-driven fear responses decrease  
+
+This reflects `top-down` inhibitory control.
+In rodents, extinction depends strongly on the `infralimbic cortex`.
+The infralimbic cortex is considered homologous to ventromedial prefrontal regions in humans.
+
+::: 
+::: column
+
+![](images/emot_fear_prefrontal.png){width="500" fig-align="center"}
+
+::: 
+::: 
+
+## A functional definition of motivation
+
+::: columns
+::: column
+
+Motivation is the `inner drive` that initiates, guides, and sustains goal-directed behavior
+Motivation refers to processes that:
+
+- Direct action toward goals  
+- Sustain effort over time  
+
+Motivation answers the question:
+
+*Why act at all?*
+
+:::
+:::column
+
+:::info-box
+Emotion and motivation `interact`
+
+Together, they determine:
+
+- What is pursued  
+- What is avoided  
+- How strongly we act  
+
+>Emotional value influences motivation.
+Motivational state shapes emotional responses.
+
+:::
+
+:::
+:::

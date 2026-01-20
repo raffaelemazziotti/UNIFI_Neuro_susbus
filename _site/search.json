@@ -613,7 +613,7 @@
     "href": "1_intro.html#structure-influences-function",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "1. Structure Influences Function",
-    "text": "1. Structure Influences Function\n\n\nExamples: - More dendrites → more inputs\n- Axon myelination → faster conduction\n- Terminal branching → more downstream targets\nForm and function are tightly linked in neuronal physiology."
+    "text": "1. Structure Influences Function\n\n\nExamples:\n\nMore dendrites → more inputs\n\nAxon myelination → faster conduction\n\nTerminal branching → more downstream targets\n\nForm and function are tightly linked in neuronal physiology."
   },
   {
     "objectID": "1_intro.html#neuron-diversity-overview",
@@ -1208,7 +1208,7 @@
     "href": "7_emotion_motivation.html#a-functional-definition-of-emotion-1",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "A functional definition of emotion",
-    "text": "A functional definition of emotion\n\n\nEmotional responses are generated subcortically.\nFeelings depend more strongly on cortical processing.\nEmotions typically occur first. Feelings emerge later, if at all.\n\n\nYou can have:\n\nEmotions without feelings\n\nBut not feelings without emotions\n\n\n\n\n\nThis distinction explains why:\n\nWe can react before we know why\n\nEmotional behavior can precede awareness\n\nRegulation can target feelings but not initial emotional responses\n\nThe brain acts before the mind explains."
+    "text": "A functional definition of emotion\n\n\nEmotional responses are generated subcortically.\nFeelings depend more strongly on cortical processing.\nEmotions typically occur first. Feelings emerge later, if at all.\n\n\nYou can have:\n\nEmotions without feelings\n\nBut not feelings without emotions\n\n\n\n\n\n\n\nThis distinction explains why:\n\nWe can react before we know why\n\nEmotional behavior can precede awareness\n\nRegulation can target feelings but not initial emotional responses\n\nThe brain acts before the mind explains."
   },
   {
     "objectID": "7_emotion_motivation.html#a-functional-definition-of-motivation",
@@ -1243,7 +1243,7 @@
     "href": "7_emotion_motivation.html#a-closer-look-the-amygdala-1",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "A closer look: the amygdala",
-    "text": "A closer look: the amygdala"
+    "text": "A closer look: the amygdala\n\n\nThe amygdala is required for acquiring fear memories a process called fear conditioning.\n\nFear conditioning is a form of associative learning: It allows the organism to learn that a neutral stimulus predicts danger.\n\n\nIn a typical fear conditioning experiment:\n\nA neutral stimulus is presented\n\nAn aversive stimulus follows\n\nAfter repeated pairings, the neutral stimulus alone elicits a fear response.\n\n\n\nThe amygdala integrates:\n\nSensory information about the neutral stimulus\n\nInformation about the aversive outcome\n\n\n\nA key distinction:\n\nThe amygdala is required for acquiring fear memories\n\nIt is also required for expressing conditioned fear\n\nDamage to the amygdala disrupts both."
   },
   {
     "objectID": "7_emotion_motivation.html#a-closer-look-the-prefrontal-cortex",
@@ -1272,5 +1272,40 @@
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Development matters",
     "text": "Development matters\nThe prefrontal cortex matures slowly. Its structural and functional development continues beyond 20 years of age. This maturation timeline has important behavioral consequences.\n\n\n\nDuring adolescence:\n\nSubcortical emotion-related systems are largely matured\n\nEmotional reactivity is strong\n\nPrefrontal regulatory systems are still developing\n\nEmotion generation is functional, regulation is not yet fully mature.\n\n\n\n\n\n\n\n\nThis creates a temporary imbalance:\n\nStrong emotional and motivational signals\n\nWeaker top-down regulatory control\n\nThis imbalance contributes to increased emotional intensity and risk-taking."
+  },
+  {
+    "objectID": "7_emotion_motivation.html#a-closer-look-the-amygdala-2",
+    "href": "7_emotion_motivation.html#a-closer-look-the-amygdala-2",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "A closer look: the amygdala",
+    "text": "A closer look: the amygdala\n\n\n\nFear conditioning can occur in two main forms:\n\nCued fear conditioning\n\nContextual fear conditioning\n\n\n\n\nFear conditioning relies on the association between:\n\nConditioned Stimulus (CS)\nA previously neutral stimulus, such as a tone, a light or the context\nUnconditioned Stimulus (US)\nAn inherently aversive stimulus, such as a mild foot shock\n\n\n\n\n\nCued fear conditioning procedure:\nTraining phase\n\nThe animal is placed in a familiar chamber\n\nA CS (e.g. tone) is presented\n\nThe CS is paired with a US\n\nDuring the test phase\n\nThe tone is presented alone\n\nOften in a ‘different context’\n\n\nIf learning occurred, the CS alone elicits fear responses."
+  },
+  {
+    "objectID": "7_emotion_motivation.html#a-closer-look-the-amygdala-3",
+    "href": "7_emotion_motivation.html#a-closer-look-the-amygdala-3",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "A closer look: the amygdala",
+    "text": "A closer look: the amygdala"
+  },
+  {
+    "objectID": "7_emotion_motivation.html#a-closer-look-the-prefrontal-cortex-2",
+    "href": "7_emotion_motivation.html#a-closer-look-the-prefrontal-cortex-2",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "A closer look: the Prefrontal Cortex",
+    "text": "A closer look: the Prefrontal Cortex\nThe prefrontal cortex matures slowly. Its structural and functional development continues beyond 20 years of age. This maturation timeline has important behavioral consequences.\n\n\n\nDuring adolescence:\n\nSubcortical emotion-related systems are largely matured\n\nEmotional reactivity is strong\n\nPrefrontal regulatory systems are still developing\n\nEmotion generation is functional, regulation is not yet fully mature.\n\n\n\n\n\n\n\n\nThis creates a temporary imbalance:\n\nStrong emotional and motivational signals\n\nWeaker top-down regulatory control\n\nThis imbalance contributes to increased emotional intensity and risk-taking."
+  },
+  {
+    "objectID": "7_emotion_motivation.html#a-closer-look-the-prefrontal-cortex-3",
+    "href": "7_emotion_motivation.html#a-closer-look-the-prefrontal-cortex-3",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "A closer look: the Prefrontal Cortex",
+    "text": "A closer look: the Prefrontal Cortex\n\n\n\nFear learning is not permanent and inflexible. Fear responses can be reduced when the threat is no longer present. This process is called fear extinction.\n\n\nDuring extinction:\n\nThe conditioned stimulus (CS) is presented repeatedly\n\nThe unconditioned stimulus (US) is omitted\n\nOver time, fear responses decrease. Extinction is a new form of learning.\n\n\n\nExtinction does not erase the original fear memory. The CS-US association remains stored. Fear expression is modulated, not deleted.\nFear responses can reappear:\n\nAfter time has passed\n\nIn a different context\n\nAfter stress\n\nThis shows that the original memory persists."
+  },
+  {
+    "objectID": "7_emotion_motivation.html#a-closer-look-the-prefrontal-cortex-4",
+    "href": "7_emotion_motivation.html#a-closer-look-the-prefrontal-cortex-4",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "A closer look: the Prefrontal Cortex",
+    "text": "A closer look: the Prefrontal Cortex\n\n\nDuring extinction:\n\nPrefrontal cortex activity increases\n\nAmygdala-driven fear responses decrease\n\nThis reflects top-down inhibitory control. In rodents, extinction depends strongly on the infralimbic cortex. The infralimbic cortex is considered homologous to ventromedial prefrontal regions in humans."
   }
 ]

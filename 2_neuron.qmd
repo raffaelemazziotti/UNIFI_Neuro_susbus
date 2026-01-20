@@ -30,7 +30,7 @@ format:
     
 ---
 
-## 2. Ion Movement{#ion-movement}
+## Ion Movement{#ion-movement}
 ::: columns
 ::: column
 Neurons communicate using electrical signals.  
@@ -50,7 +50,7 @@ Understanding ion movement is the foundation for:
 
 ---
 
-## 2. What Is an Ion?{#ions}
+## What Is an Ion?{#ions}
 ::: columns
 ::: column
 An **ion** is an atom or molecule with an [electrical charge]{.highlight}.
@@ -71,7 +71,7 @@ In neuroscience, the most important ions are:
 :::
 ---
 
-## 2. Why Charges Matter in the Brain
+## Why Charges Matter in the Brain
 
 Electrical signals arise because:
 
@@ -83,7 +83,7 @@ Electrical signals arise because:
 
 ---
 
-## 2. The Neuronal Membrane
+## The Neuronal Membrane
 
 ::: columns
 ::: column
@@ -102,7 +102,7 @@ This separation is essential for signaling.
 :::
 ---
 
-## 2. Ion Channels
+## Ion Channels
 ::: columns
 ::: column
 Ion channels are [proteins embedded in the membrane]{.highlight}.
@@ -122,7 +122,7 @@ They:
 :::
 ---
 
-## 2. Channel Selectivity
+## Channel Selectivity
 
 ::: columns
 ::: column
@@ -143,7 +143,7 @@ Example:
 :::
 ---
 
-## 2. Two Forces Acting on Ions
+## Two Forces Acting on Ions
 
 Ion movement depends on **two forces**:
 
@@ -154,7 +154,7 @@ Ion movement depends on **two forces**:
 
 ---
 
-## 2. Diffusion
+## Diffusion
 
 ::: columns
 ::: column
@@ -187,7 +187,7 @@ It does `not` require energy.
 
 ---
 
-## 2. Electrical Forces
+## Electrical Forces
 
 ::: columns
 ::: column
@@ -205,7 +205,7 @@ A negatively charged interior attracts positive ions.
 :::
 ---
 
-## 2. Electrochemical Gradient
+## Electrochemical Gradient
 
 The **electrochemical gradient** combines:
 
@@ -219,7 +219,7 @@ This is the key principle of neural signaling.
 
 ---
 
-## 2. Example: Sodium Ions (Na⁺)
+## Example: Sodium Ions (Na⁺)
 
 Typically:
 
@@ -237,7 +237,7 @@ The inside of the neuron (and cells in general) is negative mainly because of la
 
 ---
 
-## 2. Example: Potassium Ions (K⁺)
+## Example: Potassium Ions (K⁺)
 
 
 ::: {.nonincremental}
@@ -251,7 +251,7 @@ The inside of the neuron (and cells in general) is negative mainly because of la
 
 ---
 
-## 2. Example: Calcium Ions (Ca²⁺){#calcium}
+## Example: Calcium Ions (Ca²⁺){#calcium}
 
 ::: {.nonincremental}
 - Very low concentration inside neurons
@@ -263,7 +263,7 @@ The inside of the neuron (and cells in general) is negative mainly because of la
 
 ---
 
-## 2. Ion Movement Is Passive
+## Ion Movement Is Passive
 
 Ion movement through channels:
 
@@ -276,7 +276,7 @@ Ion movement through channels:
 
 ---
 
-## 2. Membrane Voltage
+## Membrane Voltage
 
 ::: columns
 ::: column
@@ -301,7 +301,7 @@ It is a measure of how much electrical energy is available to move ions.
 
 ---
 
-## 2. Which Ion Dominates?
+## Which Ion Dominates?
 
 The influence of an ion depends on: 
 
@@ -322,7 +322,7 @@ This reflects potassium dominance at rest.
 
 ---
 
-## 2. Voltage Change {#voltage_change}
+## Voltage Change {#voltage_change}
 
 If channels open for an ion, the membrane potential changes. If a positive ion moves inside the cell, the membrane potential becomes less negative; if it moves outside, it becomes more negative. For negative ions, the effect is reversed.
 
@@ -356,7 +356,7 @@ This process is called `hyperpolarization`.
 
 ---
 
-## 2. From Steady Voltage to Signals
+## From Steady Voltage to Signals
 
 Neurons use changes in membrane potential as `signals`.
 
@@ -382,7 +382,7 @@ They differ in origin, size, and function.
 
 ---
 
-## 2. Graded Potentials {#graded_potential}
+## Graded Potentials {#graded_potential}
 
 
 > [Graded potential]{.highlight}: **local change** in membrane potential whose magnitude depends on the strength of the stimulus.
@@ -418,7 +418,7 @@ They are common in:
 
 ---
 
-## 2. Integration of Graded Potentials
+## Integration of Graded Potentials
 
 ::: columns
 
@@ -452,7 +452,7 @@ Integration mainly occurs at:
 
 ---
 
-## 2. Action Potentials {#actionpotential}
+## Action Potentials {#actionpotential}
 ::: columns
 ::: column
 If depolarization is strong enough:
@@ -474,7 +474,7 @@ This voltage is called the [threshold]{.highlight}. Potentials beyond the thresh
 
 ---
 
-## 2. Why Action Potentials Are Needed
+## Why Action Potentials Are Needed
 ::: columns
 ::: column
 > Graded potentials decay with distance.
@@ -497,7 +497,7 @@ To communicate over long axons, neurons need:
 
 ---
 
-## 2. Membrane Proteins and Transport
+## Membrane Proteins and Transport
 
 The lipid bilayer is electrically insulating. Ions can cross the membrane only through **membrane proteins**.
 
@@ -521,7 +521,7 @@ Properties:
 
 ---
 
-## 2. Channel Gating
+## Channel Gating
 
 ::: columns
 ::: column
@@ -531,17 +531,17 @@ Ion channels are not static holes.
 They fluctuate between:
 
 ::: {.nonincremental}
-- Closed states
-- Open states
+- `Closed` states
+- `Open` states
 :::
 
 ::: info-box
 Channels can be `gated` by different physical signals:
 
 ::: {.nonincremental}
-- Chemical binding (ligand-gated - e.g. Neurotransmitters)
-- Mechanical deformation (mechanosensitive)
-- Membrane voltage (voltage-gated - activated when the membrane cross a specific voltage)
+- `Chemical` binding (ligand-gated - e.g. Neurotransmitters)
+- `Mechanical` deformation (mechanosensitive)
+- Membrane `voltage` (voltage-gated - activated when the membrane cross a specific voltage)
 :::
 
 :::
@@ -557,7 +557,7 @@ Channels can be `gated` by different physical signals:
 
 ---
 
-## 2. Graded Potentials and Channels
+## Graded Potentials and Channels
 
 During Graded Potentials:
 
@@ -580,7 +580,7 @@ The voltage relaxes back to rest.
 
 ---
 
-## 2. Threshold Crossing
+## Threshold Crossing
 
 At threshold:
 
@@ -606,7 +606,7 @@ The action potential is initiated.
 
 ---
 
-## 2. During the Action Potential
+## During the Action Potential
 
 ::: columns
 ::: column
@@ -636,7 +636,7 @@ After the action potential:
 
 ---
 
-## 2. Refractory Period
+## Refractory Period
 
 ::: columns
 ::: column
@@ -662,7 +662,7 @@ Refractory periods ensure that:
 
 ---
 
-## 2. Axon Diameter and Conduction Speed
+## Axon Diameter and Conduction Speed
 
 The speed of action potential propagation depends on axon geometry.
 
@@ -678,7 +678,7 @@ As a result, action potentials propagate **faster** in thicker axons.
 
 ---
 
-## 2. Myelination
+##  Myelination
 
 ::: columns
 ::: column
@@ -705,7 +705,7 @@ At nodes:
 
 ---
 
-## 2. Self-check
+##  Self-check
 
 ```{=html}
 <div style="display: flex; justify-content: center;">
