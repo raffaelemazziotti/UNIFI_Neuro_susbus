@@ -522,7 +522,7 @@
     "href": "0_content.html#index",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Index",
-    "text": "Index\n\nWelcome to the course! This part of the course introduces the foundations of neuroscience. We will cover basic principles of neurobiology,\nan introduction to neurophysiology, and the core concepts needed to understand how the nervous system works, from neurons to systems.\n\nChapters\n\n\n\n\nIntroduction\nNeuron\nNeuronal Communication\nOrganization of the Nervous System\nSensory Systems\n\n\n\n\n\nMotor System\nEmotion and Motivation"
+    "text": "Index\n\nWelcome to the course! This part of the course introduces the foundations of neuroscience. We will cover basic principles of neurobiology,\nan introduction to neurophysiology, and the core concepts needed to understand how the nervous system works, from neurons to systems.\n\nChapters\n\n\n\n\nIntroduction\nNeuron\nNeuronal Communication\nOrganization of the Nervous System\nSensory Systems\n\n\n\n\n\nMotor System\nEmotion, Motivation & Stress\nNeuroplasticity"
   },
   {
     "objectID": "1_intro.html#neuron",
@@ -1307,5 +1307,201 @@
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "A closer look: the Prefrontal Cortex",
     "text": "A closer look: the Prefrontal Cortex\n\n\nDuring extinction:\n\nPrefrontal cortex activity increases\n\nAmygdala-driven fear responses decrease\n\nThis reflects top-down inhibitory control. In rodents, extinction depends strongly on the infralimbic cortex. The infralimbic cortex is considered homologous to ventromedial prefrontal regions in humans."
+  },
+  {
+    "objectID": "7_emotion_motivation.html#wanting-vs-liking",
+    "href": "7_emotion_motivation.html#wanting-vs-liking",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Wanting vs liking",
+    "text": "Wanting vs liking\nMotivation is not identical to pleasure.\nA key distinction:\n\n[Wanting]\nDrive to obtain an outcome\n[Liking]\nPleasure experienced from the outcome\n\nThese processes can dissociate."
+  },
+  {
+    "objectID": "7_emotion_motivation.html#neural-systems-for-motivation",
+    "href": "7_emotion_motivation.html#neural-systems-for-motivation",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Neural systems for motivation",
+    "text": "Neural systems for motivation\n\n\n\nA key distinction:\n\nWanting: Drive to obtain an outcome\nLiking: Pleasure experienced from the outcome\n\nThese processes can be dissociated.\n\n\nMotivation depends on interactions between:\n\nCortical decision and control regions (Wanting)\nSubcortical reward-related systems (Liking)\n\nThese systems bias action selection.\n\n\n\nDopamine plays a central role in motivation.\nIt is involved in:\n\nLearning from outcomes\n\nPredicting future rewards\n\n\nDopamine signals are not simple pleasure signals.\n\nTwo major dopaminergic pathways:\n\nMesolimbic pathway: Involved in reward prediction and reinforcement\nMesocortical pathway: Involved in decision-making, cognitive control, and goal maintenance"
+  },
+  {
+    "objectID": "7_emotion_motivation.html#neural-systems-for-motivation-1",
+    "href": "7_emotion_motivation.html#neural-systems-for-motivation-1",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Neural systems for motivation",
+    "text": "Neural systems for motivation"
+  },
+  {
+    "objectID": "7_emotion_motivation.html#reward-prediction",
+    "href": "7_emotion_motivation.html#reward-prediction",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Reward prediction",
+    "text": "Reward prediction\n\n\n\nMotivational signals influence:\n\nBasal nuclei and motor planning areas\n\nDecision-making circuits\n\nThey bias which actions are selected and executed.\n\n\nDopamine neurons respond to:\n\nUnexpected rewards\n\nCues that predict rewards\n\nOver learning, activity shifts from outcome to predictor.\nThis supports adaptive behavior."
+  },
+  {
+    "objectID": "7_emotion_motivation.html#reward-prediction-error",
+    "href": "7_emotion_motivation.html#reward-prediction-error",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Reward prediction error",
+    "text": "Reward prediction error\n\n\n\nDopamine neurons do not simply respond to rewards. They signal whether outcomes are better or worse than expected. This signal is called a reward prediction error.\n\n\nA reward prediction error reflects the difference between:\n\nExpected outcome\n\nActual outcome\n\nThis signal is used to update future behavior. Prediction error signals:\n\nUpdate value representations\nBias future choices\n\n\n\n\nDopamine activity reflects prediction error:\n\nReward is better than expected: dopamine activity increases\nReward is as expected: little or no change\nReward is worse than expected or omitted: dopamine activity decreases\n\nLearning occurs when expectations are violated. Over learning:\n\nDopamine responses shift from reward to predictive cues\n\nThe brain learns what predicts valuable outcomes\n\nThis supports adaptive, flexible behavior."
+  },
+  {
+    "objectID": "7_emotion_motivation.html#from-motivation-to-habit",
+    "href": "7_emotion_motivation.html#from-motivation-to-habit",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "From motivation to habit",
+    "text": "From motivation to habit"
+  },
+  {
+    "objectID": "7_emotion_motivation.html#reward-prediction-error-1",
+    "href": "7_emotion_motivation.html#reward-prediction-error-1",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Reward prediction error",
+    "text": "Reward prediction error"
+  },
+  {
+    "objectID": "7_emotion_motivation.html#what-is-stress",
+    "href": "7_emotion_motivation.html#what-is-stress",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "What is stress",
+    "text": "What is stress\n\n\n\nStress is not an emotion. Stress is a physiological response to challenge or threat. It prepares the organism to cope with demands.\n\n\nStress refers to coordinated brain and body responses that:\n\nMobilize energy\n\nIncrease vigilance\n\nPromote adaptive action\n\nStress is adaptive by design.\n\n\n\nThe body responds to stress through 2 major systems:\n\nThe autonomic nervous system\n\nThe hypothalamic–pituitary–adrenal (HPA) axis\n\nThese systems operate on different time scales.\n\nAutonomic responses Fast, neural, seconds\nHPA axis responses Slower, hormonal, minutes to hours\n\nBoth are coordinated but serve different functions."
+  },
+  {
+    "objectID": "7_emotion_motivation.html#the-hpa-axis",
+    "href": "7_emotion_motivation.html#the-hpa-axis",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "The HPA axis",
+    "text": "The HPA axis\n\n\n\nThe HPA axis is a hormonal stress response system. It links the brain to peripheral organs through endocrine signaling. It produces slower but longer-lasting effects than autonomic responses.\n\nDuring stress:\n\nThe hypothalamus is activated (CRF)\nThe pituitary gland releases signaling hormones (ACTH)\n\nThe adrenal glands release glucocorticoids\n\nThis cascade is a loop."
+  },
+  {
+    "objectID": "7_emotion_motivation.html#cortisol-and-energy-mobilization",
+    "href": "7_emotion_motivation.html#cortisol-and-energy-mobilization",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Cortisol and energy mobilization",
+    "text": "Cortisol and energy mobilization\n\n\nGlucocorticoids, such as cortisol:\n\nIncrease glucose availability\n\nDecrease sensitivity to pain\nModify immune and metabolic activity\n\nThey prepare the body for prolonged challenge."
+  },
+  {
+    "objectID": "7_emotion_motivation.html#brain-control-of-the-hpa-axis",
+    "href": "7_emotion_motivation.html#brain-control-of-the-hpa-axis",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Brain control of the HPA axis",
+    "text": "Brain control of the HPA axis\n\n\n\nStress responses differ in duration.\n\nAcute stress: Short-term, adaptive, protective\nChronic stress: Prolonged, costly, potentially damaging\n\nThe difference lies in regulation, not intensity.\n\n\nThe HPA axis is regulated by the brain. Key contributors include:\n\nAmygdala\n\nPrefrontal cortex\n\nHippocampus\n\nStress is not just peripheral.\n\n\n\nGlucocorticoids act back on the brain. They signal when stress responses should be reduced. This negative feedback limits stress exposure.\n\n\nIf stress responses are not properly terminated:\n\nHormone levels remain elevated\n\nBrain and body systems are altered\n\nChronic stress reflects dysregulation, not overreaction."
+  },
+  {
+    "objectID": "7_emotion_motivation.html#autonomic-responses-in-stress",
+    "href": "7_emotion_motivation.html#autonomic-responses-in-stress",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Autonomic responses in stress",
+    "text": "Autonomic responses in stress\nDuring stress, the autonomic system (the sympathetic division) produces rapid effects:\n\nIncreased heart rate\n\nIncreased blood pressure\n\nFaster breathing\n\nReduced digestion\n\nThese changes prepare the body for immediate action."
+  },
+  {
+    "objectID": "7_emotion_motivation.html#brain-control-of-the-hpa-axis-1",
+    "href": "7_emotion_motivation.html#brain-control-of-the-hpa-axis-1",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Brain control of the HPA axis",
+    "text": "Brain control of the HPA axis"
+  },
+  {
+    "objectID": "7_emotion_motivation.html#self-check",
+    "href": "7_emotion_motivation.html#self-check",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Self-check",
+    "text": "Self-check"
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#what-is-neuroplasticity",
+    "href": "8_Neuroplasticity.html#what-is-neuroplasticity",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "What is Neuroplasticity",
+    "text": "What is Neuroplasticity\n\n\nThe ability of the brain, of nervous circuits, to change in response to experience is called neuroplasticity.\n\n\nThe effectiveness of synaptic connections is changed by experience.\n\nExperience changes the circuit’s electrical activity and this modifies the synaptic effectiveness."
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#the-complexity-of-the-brain",
+    "href": "8_Neuroplasticity.html#the-complexity-of-the-brain",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "The complexity of the brain",
+    "text": "The complexity of the brain\n\n\n\n100 billion neurons\n\n\nUp to 1000 synaptic inputs on a single neuron\n\n\n600 million connections/mm3\n\n\nOur behavior, thoughts, actions, perception, ability to imagine or remember, depend on the coordinated activation of multiple nervous circuits, which may also include neurons located in different brain areas.\n\n\n\nGenetics and individual experience:\n\nInteract and together guide the development of behavior and of neural circuits supporting it\ncontinue to interact throughout life, by guiding the plastic changes induced by experience in the brain and therefore in behavior, by shaping the way we “see” what surrounds us and the way we react to it.\n\n\nDifferent experiences, different brains, different behaviors"
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#neurodevelopment-and-neuroplasticity",
+    "href": "8_Neuroplasticity.html#neurodevelopment-and-neuroplasticity",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Neurodevelopment and neuroplasticity",
+    "text": "Neurodevelopment and neuroplasticity\n\nHow long does neurodevelopment take?\n\nIt doesn’t take 9 months. At birth, the human brain is still very immature.\n\n\n\n29 days: there is a tube (neural tube)\n59 days: has acquired a different morphology in the most anterior part (where the brain will appear)\n\n70 days: the brain can be already recognized\n6 months: there are no convolutions yet, there is not yet enough surface to fold it, it is smooth\n9 months: it is still very immature."
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#neurodevelopment-and-neuroplasticity-1",
+    "href": "8_Neuroplasticity.html#neurodevelopment-and-neuroplasticity-1",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Neurodevelopment and neuroplasticity",
+    "text": "Neurodevelopment and neuroplasticity\n\n\n\n\n\nNeurulation - Neural tube induction of the NS\nNeurogenesis - generation of neurons\nSynaptogenesis - formation of Synapses\n\n\n\nApoptosis – programmed cell death\nGliogenesis - generation of glia\nMyelination - the axons are covered by myelin"
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#neurodevelopment-and-neuroplasticity-2",
+    "href": "8_Neuroplasticity.html#neurodevelopment-and-neuroplasticity-2",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Neurodevelopment and neuroplasticity",
+    "text": "Neurodevelopment and neuroplasticity\n\nGene specification has the role of guiding the initial processes of brain development and formation of neural connections.\n\n\nThe specific experience of the individual and his interactions with the environment have the role of guiding the final phases of the development of the brain circuits, leading them to the mature state and therefore guiding the development of the different expressions of behavior in an individual-specific way.\n\n\nDifferent experiences, different brains, different behaviors"
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#neurodevelopment",
+    "href": "8_Neuroplasticity.html#neurodevelopment",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Neurodevelopment",
+    "text": "Neurodevelopment\n\nHow long does neurodevelopment take?\n\nIt doesn’t take 9 months. At birth, the human brain is still very immature.\n\n\n\n29 days: there is a tube (neural tube)\n59 days: has acquired a different morphology in the most anterior part (where the brain will appear)\n\n70 days: the brain can be already recognized\n6 months: there are no convolutions yet, there is not yet enough surface to fold it, it is smooth\n9 months: it is still very immature."
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#neurodevelopment-1",
+    "href": "8_Neuroplasticity.html#neurodevelopment-1",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Neurodevelopment",
+    "text": "Neurodevelopment\n\n\n\n\n\nNeurulation - Neural tube induction of the NS\nNeurogenesis - generation of neurons\nSynaptogenesis - formation of Synapses\n\n\n\nApoptosis – programmed cell death\nGliogenesis - generation of glia\nMyelination - the axons are covered by myelin"
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#neurodevelopment-2",
+    "href": "8_Neuroplasticity.html#neurodevelopment-2",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Neurodevelopment",
+    "text": "Neurodevelopment\n\nGene specification has the role of guiding the initial processes of brain development and formation of neural connections.\n\n\nThe specific experience of the individual and his interactions with the environment have the role of guiding the final phases of the development of the brain circuits, leading them to the mature state and therefore guiding the development of the different expressions of behavior in an individual-specific way.\n\n\nDifferent experiences, different brains, different behaviors"
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#neuroplasticity",
+    "href": "8_Neuroplasticity.html#neuroplasticity",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Neuroplasticity",
+    "text": "Neuroplasticity\n\n\n\nSynaptic Plasticity\nSynaptic plasticity refers to changes in the effectiveness of communication\nbetween a presynaptic neuron and one or more postsynaptic neurons. It can involve:\n\nFunctional\n\nChanges in the efficacy of existing synaptic contacts\n\nStructural\n\nFormation of new synaptic contacts\n(structural plasticity)\nElimination of existing synaptic contacts\n(structural plasticity)\n\n\n\n\n\nAdult Neurogenesis\nAdult neurogenesis refers to the generation of new neurons\nthat integrate into pre-existing neural circuits.\nIt occurs only in specific brain structures:\n\nHippocampus\nOlfactory bulb\nNot in the cerebral cortex"
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#the-rules-of-synaptic-plasticity",
+    "href": "8_Neuroplasticity.html#the-rules-of-synaptic-plasticity",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "The rules of Synaptic Plasticity",
+    "text": "The rules of Synaptic Plasticity\n\nNot all changes in electrical activity induce plasticity phenomena in a neural circuit.\n\n\nHebb’s Principle\nHebb’s principle states that if a presynaptic neuron A repeatedly activates\na postsynaptic neuron B, the synaptic connection between A and B is strengthened\n(1949).\nA corollary of Hebb’s principle\nIf neuron A repeatedly fails to activate neuron B,\nthe synaptic connection between A and B is weakened.\n\nNeurons that fire together, wire together."
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#detecting-correlated-activity",
+    "href": "8_Neuroplasticity.html#detecting-correlated-activity",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Detecting correlated activity",
+    "text": "Detecting correlated activity\n\nA key molecular mechanism is the NMDA receptor. It is a glutamate receptor with special properties. It acts as a coincidence detector.\n\n\nNMDA receptors require two conditions to be met:\n\nGlutamate release from the presynaptic neuron\n\nDepolarization of the postsynaptic membrane\n\n\nAt resting membrane potential the NMDA receptor channel is blocked by a magnesium ion. Glutamate alone is not sufficient to activate it."
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#detecting-correlated-activity-1",
+    "href": "8_Neuroplasticity.html#detecting-correlated-activity-1",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Detecting correlated activity",
+    "text": "Detecting correlated activity"
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#baseline-synaptic-transmission",
+    "href": "8_Neuroplasticity.html#baseline-synaptic-transmission",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Baseline synaptic transmission",
+    "text": "Baseline synaptic transmission\n\n\n\nDuring normal synaptic activity:\n\nAMPA receptors open\n\nSodium enters the postsynaptic neuron\n\nThis produces fast excitatory synaptic transmission.\n\n\nDuring correlated activity:\n\nPresynaptic glutamate release occurs\n\nPostsynaptic depolarization is sufficient\n\nThe magnesium block is removed and NMDA receptors now open.\n\n\n\n\n\n\n\n\nOpening of NMDA receptors allows:\n\nCalcium ions to enter the postsynaptic neuron\n\nThe most important effect is:\n\nInsertion of additional AMPA receptors into the postsynaptic membrane"
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#long-term-potentiation-ltp",
+    "href": "8_Neuroplasticity.html#long-term-potentiation-ltp",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Long-term potentiation (LTP)",
+    "text": "Long-term potentiation (LTP)\nLong-term potentiation (LTP) is a persistent increase\nin synaptic efficacy following correlated activity.\n\nLTP is considered a cellular mechanism of learning and memory."
   }
 ]

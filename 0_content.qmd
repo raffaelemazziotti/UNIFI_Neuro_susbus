@@ -52,7 +52,8 @@ from neurons to systems.
 
 :::card
 - [Motor System](6_motor.html)
-- [Emotion and Motivation](7_emotion_motivation.html)
+- [Emotion, Motivation & Stress](7_emotion_motivation.html)
+- [Neuroplasticity](8_Neuroplasticity.html)
 :::
 
 :::

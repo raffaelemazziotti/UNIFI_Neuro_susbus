@@ -1,0 +1,305 @@
+---
+title: "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes"
+subtitle: "Module 1 - Neuroplasticity"
+author: "Raffaele M Mazziotti, PhD"
+institute: "University of Florence"
+resources:
+  - quiz/
+  - images/
+format:
+  revealjs:
+    controls: true
+    theme: default
+    slide-number: true
+    logo: images/logo/NEUROFARBA_logo.svg
+    css: slide_style.css
+    transition: fade
+    center: true
+    math: mathjax
+    chalkboard: 
+      buttons: false
+    progress: true
+    title-slide-attributes:
+      data-background-image: images/logo/NEUROFARBA.svg
+      data-background-size: 500px
+      data-background-position: "center 10%"
+      data-state: title-slide
+    include-after-body: afterbody.html
+      
+    mermaid:
+      theme: neutral
+---
+
+## What is Neuroplasticity
+
+::: columns
+::: column
+
+The ability of the brain, of nervous circuits, to change in response to
+experience is called `neuroplasticity`.
+
+:::info-box
+>The [effectiveness]{.highlight} of synaptic connections is changed by `experience`.
+
+Experience changes the circuit’s electrical activity and this modifies the synaptic
+effectiveness.
+
+:::
+
+::: 
+::: column
+
+![](images/plast_brain_study.png){width="400" fig-align="center"}
+
+::: 
+::: 
+
+## The complexity of the brain
+
+::: columns
+::: column
+
+>100 billion neurons
+
+>Up to 1000 synaptic inputs on a single neuron
+
+>600 million connections/mm3
+
+:::card
+Our behavior, thoughts, actions, perception, ability to imagine or remember,
+depend on the coordinated activation of multiple nervous circuits, which may
+also include neurons located in different brain areas.
+:::
+
+::: 
+::: column
+
+:::info-box
+`Genetics` and individual `experience`:
+
+1) `Interact` and together guide the `development` of behavior and
+of neural circuits supporting it
+2) continue to interact `throughout life`, by guiding the plastic
+changes induced by experience in the brain and therefore in
+behavior, by shaping the way we "see" what surrounds us and the
+way we react to it.
+
+> Different experiences, different brains, different behaviors
+
+:::
+
+::: 
+::: 
+
+## Neurodevelopment
+
+![](images/plast_brain_prebirth.png){width="200" fig-align="center"}
+
+How long does neurodevelopment take?
+
+>It doesn’t take 9 months.
+At birth, the human brain is still
+very immature.
+
+::: columns
+::: column
+
+`29 days`: there is a tube (neural
+tube)
+
+`59 days`: has acquired a different
+morphology in the most anterior
+part (where the brain will appear)
+
+::: 
+::: column
+
+`70 days`: the brain can be already
+recognized
+
+`6 months`: there are no
+convolutions yet, there is not yet
+enough surface to fold it, it is
+smooth
+
+`9 months`: it is still very immature.
+
+::: 
+::: 
+
+## Neurodevelopment
+
+![](images/plast_brain_dev.png){width="200" fig-align="center"}
+
+:::info-box
+::: columns
+::: column
+
+- `Neurulation` - Neural tube induction of the NS
+- `Neurogenesis` - generation of neurons
+- `Synaptogenesis` - formation of Synapses
+
+::: 
+::: column
+
+- `Apoptosis` – programmed cell death
+- `Gliogenesis` - generation of glia
+- `Myelination` - the axons are covered by myelin
+
+::: 
+::: 
+
+:::
+
+## Neurodevelopment
+
+:::info-box
+`Gene specification` has the role of guiding the `initial` processes of brain
+development and formation of neural connections.
+:::
+
+:::info-box
+The `specific experience` of the individual and his interactions with the
+environment have the role of guiding the `final phases` of the development of
+the brain circuits, leading them to the mature state and therefore guiding the
+development of the different expressions of behavior in an individual-specific
+way.
+
+:::
+
+>Different experiences, different brains, different behaviors
+
+## Neuroplasticity
+
+::: columns
+::: column
+
+:::info-box
+[Synaptic Plasticity]{.higlight}
+
+Synaptic plasticity refers to changes in the effectiveness of communication  
+between a presynaptic neuron and one or more postsynaptic neurons.
+It can involve:
+
+- [Functional]{.highlight}
+  - Changes in the `efficacy` of existing synaptic contacts
+- [Structural]{.highlight}
+  - `Formation` of new synaptic contacts  
+    (structural plasticity)
+  - `Elimination` of existing synaptic contacts  
+    (structural plasticity)
+:::
+
+::: 
+::: column
+
+:::info-box
+Adult Neurogenesis
+
+Adult neurogenesis refers to the `generation of new neurons`  
+that integrate into pre-existing neural circuits.
+
+It occurs `only` in specific brain structures:
+
+- `Hippocampus`  
+
+- Olfactory bulb  
+
+- `Not` in the cerebral cortex
+:::
+
+::: 
+::: 
+
+## The rules of Synaptic Plasticity
+
+>Not all changes in electrical activity induce plasticity phenomena in a
+neural circuit.
+
+:::info-box
+Hebb’s Principle
+
+Hebb’s principle states that if a presynaptic neuron **A** repeatedly activates  
+a postsynaptic neuron **B**, the synaptic connection between **A** and **B** is strengthened  
+(1949).
+
+A corollary of Hebb’s principle
+
+If neuron **A** repeatedly fails to activate neuron **B**,  
+the synaptic connection between **A** and **B** is weakened.
+
+>Neurons that fire together, wire together.
+
+:::
+
+## Detecting correlated activity
+
+:::card
+A key molecular mechanism is the `NMDA receptor`.
+It is a glutamate receptor with special properties.
+It acts as a `coincidence detector`.
+:::
+
+:::info-box
+[NMDA]{.highlight} receptors require `two conditions` to be met:
+
+- Glutamate release from the `presynaptic` neuron  
+- Depolarization of the `postsynaptic` membrane  
+
+>At resting membrane potential the NMDA receptor channel is blocked by a magnesium ion.
+Glutamate alone is not sufficient to activate it.
+
+:::
+
+## Baseline synaptic transmission
+
+::: columns
+::: column
+
+:::info-box
+During normal synaptic activity:
+
+- **AMPA receptors** open  
+- Sodium enters the postsynaptic neuron  
+
+This produces fast excitatory synaptic transmission.
+:::
+
+:::info-box
+During correlated activity:
+
+- Presynaptic glutamate release occurs  
+- Postsynaptic depolarization is sufficient  
+
+The magnesium block is removed and NMDA receptors now open.
+:::
+
+::: 
+::: column
+
+![](images/plast_nmda.png){width="500" fig-align="center"}
+
+:::info-box
+Opening of NMDA receptors allows:
+
+- **Calcium ions** to enter the postsynaptic neuron 
+
+The most important `effect` is:
+
+- Insertion of additional `AMPA receptors` into the postsynaptic membrane  
+
+:::
+
+::: 
+::: 
+
+## Long-term potentiation (LTP)
+
+[Long-term potentiation (LTP)]{.highlight} is a persistent increase  
+in synaptic efficacy following correlated activity.
+
+>LTP is considered a cellular mechanism of learning and memory.
+
+
+![](images/plast_LTP.png){width="400" fig-align="center"}
+

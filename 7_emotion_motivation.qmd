@@ -1,6 +1,6 @@
 ---
 title: "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes"
-subtitle: "Module 1 - Emotion & Motivation"
+subtitle: "Module 1 - Emotion, Motivation & Stress"
 author: "Raffaele M Mazziotti, PhD"
 institute: "University of Florence"
 resources:
@@ -541,3 +541,316 @@ Motivational state shapes emotional responses.
 
 :::
 :::
+
+## Neural systems for motivation
+
+::: columns
+::: column
+
+:::info-box
+A key distinction:
+
+- `Wanting`: Drive to obtain an outcome  
+
+- `Liking`: Pleasure experienced from the outcome  
+
+These processes can be dissociated.
+:::
+
+:::info-box
+Motivation depends on `interactions` between:
+
+- `Cortical` decision and control regions (Wanting)
+- `Subcortical` reward-related systems (Liking)
+
+These systems bias action selection.
+
+:::
+
+::: 
+::: column
+
+:::info-box
+`Dopamine` plays a central role in motivation.
+
+It is involved in:
+
+- Learning from outcomes  
+- Predicting future rewards  
+
+>Dopamine signals are not simple pleasure signals.
+
+Two major dopaminergic pathways:
+
+- `Mesolimbic` pathway: Involved in reward prediction and reinforcement  
+
+- `Mesocortical` pathway: Involved in decision-making, cognitive control, and goal maintenance  
+
+
+:::
+
+::: 
+::: 
+
+## Neural systems for motivation
+
+![](images/emot_motiv_circuits.png){width="500" fig-align="center"}
+
+## Reward prediction
+
+::: columns
+::: column
+
+:::info-box
+Motivational signals influence:
+
+- Basal nuclei and motor planning areas  
+- Decision-making circuits  
+
+They `bias` which actions are selected and executed.
+:::
+
+:::info-box
+Dopamine neurons respond to:
+
+- Unexpected rewards  
+- Cues that predict rewards  
+
+Over learning, activity `shifts` from outcome to predictor.
+
+This supports adaptive behavior.
+:::
+
+::: 
+::: column
+
+![](images/emot_motiv_dopamine.jpg){width="450" fig-align="center"}
+
+::: 
+::: 
+
+## Reward prediction error
+
+::: columns
+::: column
+
+:::tip
+
+Dopamine neurons do not simply respond to rewards.
+They signal whether outcomes are `better or worse than expected`.
+This signal is called a [reward prediction error]{.highlight}.
+:::
+
+:::info-box
+A reward prediction error reflects the difference between:
+
+- Expected outcome  
+- Actual outcome  
+
+This signal is used to update future behavior.
+Prediction error signals:
+
+- `Update` value representations
+- `Bias` future choices  
+
+:::
+
+::: 
+::: column
+
+:::info-box
+Dopamine activity reflects prediction error:
+
+- Reward is `better` than expected: dopamine activity [increases]{.highlight}  
+
+- Reward is `as` expected: little or [no change]{.highlight}   
+
+- Reward is `worse` than expected or omitted: dopamine activity [decreases]{.highlight}   
+
+Learning occurs when expectations are `violated`.
+Over learning:
+
+- Dopamine responses shift from reward to predictive cues  
+- The brain learns what predicts valuable outcomes  
+
+This supports adaptive, `flexible` behavior.
+
+:::
+
+::: 
+::: 
+
+## Reward prediction error
+
+![](images/emot_motiv_RPE.jpg){width="450" fig-align="center"}
+
+## What is stress
+
+::: columns
+::: column
+
+:::tip
+Stress is not an emotion.
+Stress is a `physiological response` to challenge or threat.
+It prepares the organism to cope with demands.
+:::
+
+:::info-box
+Stress refers to `coordinated brain and body responses` that:
+
+- Mobilize energy  
+- Increase vigilance  
+- Promote adaptive action  
+
+Stress is `adaptive` by design.
+:::
+
+::: 
+::: column
+
+:::info-box
+The body responds to stress through 2 major systems:
+
+- The `autonomic` nervous system  
+- The hypothalamic–pituitary–adrenal (`HPA`) axis  
+
+These systems operate on `different time scales`.
+
+- `Autonomic responses` 
+  Fast, neural, seconds  
+
+- `HPA axis responses`
+  Slower, hormonal, minutes to hours  
+
+Both are coordinated but serve different functions.
+
+:::
+
+::: 
+::: 
+
+## Autonomic responses in stress
+
+During stress, the autonomic system (the sympathetic division) produces rapid effects:
+
+- Increased heart rate  
+- Increased blood pressure  
+- Faster breathing  
+- Reduced digestion  
+
+These changes prepare the body for immediate action.
+
+## The HPA axis
+
+::: columns
+::: column
+
+>The **HPA axis** is a hormonal stress response system.
+It `links` the `brain to peripheral` organs through endocrine signaling.
+It produces slower but longer-lasting effects than autonomic responses.
+
+During stress:
+
+- The `hypothalamus` is activated ([CRF](https://en.wikipedia.org/wiki/Corticotropin-releasing_hormone))
+- The `pituitary` gland releases signaling hormones ([ACTH](https://en.wikipedia.org/wiki/Adrenocorticotropic_hormone))  
+- The `adrenal` glands release [glucocorticoids]{.highlight}  
+
+This cascade is a loop.
+
+::: 
+::: column
+
+![](images/emot_hpa.jpg){width="400" fig-align="center"}
+
+
+::: 
+::: 
+
+## Cortisol and energy mobilization
+
+::: columns
+::: column
+
+Glucocorticoids, such as cortisol:
+
+- Increase `glucose` availability  
+- Decrease sensitivity to pain
+- Modify immune and metabolic activity  
+
+They `prepare the body` for prolonged challenge.
+
+::: 
+::: column
+
+![](images/emot_cortisol.jpg){width="400" fig-align="center"}
+
+::: 
+::: 
+
+## Brain control of the HPA axis
+
+::: columns
+::: column
+
+:::info-box
+Stress responses differ in duration.
+
+- `Acute` stress: Short-term, adaptive, protective  
+
+- `Chronic` stress: Prolonged, costly, potentially damaging  
+
+The difference lies in regulation, not intensity.
+:::
+
+::: info-box
+The HPA axis is regulated by the brain.
+Key contributors include:
+
+- Amygdala  
+- Prefrontal cortex  
+- Hippocampus  
+
+Stress is not just peripheral.
+:::
+
+::: 
+::: column
+:::tip
+
+Glucocorticoids act back on the brain.
+They signal when stress responses should be reduced.
+This `negative feedback` limits stress exposure.
+:::
+
+:::info-box
+If stress responses are not properly terminated:
+
+- Hormone levels remain elevated  
+- Brain and body systems are altered  
+
+Chronic stress reflects `dysregulation`, not overreaction.
+
+:::
+
+::: 
+::: 
+
+## Brain control of the HPA axis
+
+![](images/emot_hpa_brain.png){width="400" fig-align="center"}
+
+## Self-check
+
+```{=html}
+<div style="display: flex; justify-content: center;">
+  <iframe src="quiz/quiz_7_emot.html"
+          style="
+            width: 90vw;
+            max-width: 900px;
+            height: 80vh;
+            border: none;
+            border-radius: 16px;
+          ">
+  </iframe>
+</div>
+```
