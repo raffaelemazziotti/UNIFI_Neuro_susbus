@@ -1,0 +1,412 @@
+{
+  "topic": "Neuroplasticity",
+  "questions": [
+    {
+      "question": "What is neuroplasticity?",
+      "options": [
+        "The irreversible maturation of neural circuits",
+        "The ability of neural circuits to change in response to experience",
+        "The genetic determination of brain structure",
+        "The degeneration of synapses with age"
+      ],
+      "correct": 1,
+      "feedback": "Neuroplasticity refers to the brain’s ability to change in response to experience."
+    },
+    {
+      "question": "Experience modifies neural circuits primarily by changing:",
+      "options": [
+        "Neuron number",
+        "Axon length",
+        "Synaptic effectiveness",
+        "Brain size"
+      ],
+      "correct": 2,
+      "feedback": "Experience alters the effectiveness of synaptic connections."
+    },
+    {
+      "question": "Which statement best captures the interaction between genes and experience?",
+      "options": [
+        "Genes act only before birth",
+        "Experience replaces genetic influence",
+        "Genes and experience interact throughout life",
+        "Experience has no effect on development"
+      ],
+      "correct": 2,
+      "feedback": "Genes and experience interact continuously across the lifespan."
+    },
+    {
+      "question": "At birth, the human brain is:",
+      "options": [
+        "Fully mature",
+        "Largely immature",
+        "Functionally inactive",
+        "Structurally complete"
+      ],
+      "correct": 1,
+      "feedback": "Human brain development continues well beyond birth."
+    },
+    {
+      "question": "Which process refers to the generation of neurons during development?",
+      "options": [
+        "Synaptogenesis",
+        "Gliogenesis",
+        "Neurogenesis",
+        "Myelination"
+      ],
+      "correct": 2,
+      "feedback": "Neurogenesis is the generation of neurons."
+    },
+    {
+      "question": "Which developmental process involves programmed cell death?",
+      "options": [
+        "Neurulation",
+        "Synaptogenesis",
+        "Apoptosis",
+        "Myelination"
+      ],
+      "correct": 2,
+      "feedback": "Apoptosis eliminates excess or improperly connected cells."
+    },
+    {
+      "question": "Which developmental process improves conduction speed along axons?",
+      "options": [
+        "Gliogenesis",
+        "Myelination",
+        "Neurogenesis",
+        "Synaptogenesis"
+      ],
+      "correct": 1,
+      "feedback": "Myelination increases conduction velocity."
+    },
+    {
+      "question": "Gene specification primarily guides:",
+      "options": [
+        "Final behavioral outcomes",
+        "Initial stages of neural development",
+        "Adult learning",
+        "Synaptic pruning in adulthood"
+      ],
+      "correct": 1,
+      "feedback": "Genes guide early developmental processes."
+    },
+    {
+      "question": "Individual experience primarily influences:",
+      "options": [
+        "Initial brain patterning",
+        "Final circuit refinement",
+        "Neural tube formation",
+        "Cell fate determination only"
+      ],
+      "correct": 1,
+      "feedback": "Experience guides final phases of circuit maturation."
+    },
+    {
+      "question": "Synaptic plasticity refers to:",
+      "options": [
+        "Generation of new neurons",
+        "Changes in synaptic communication efficacy",
+        "Axonal regeneration",
+        "Neuron migration"
+      ],
+      "correct": 1,
+      "feedback": "Synaptic plasticity modifies communication between neurons."
+    },
+    {
+      "question": "Functional synaptic plasticity involves:",
+      "options": [
+        "Creation of new neurons",
+        "Changes in efficacy of existing synapses",
+        "Axonal growth",
+        "Neuron death"
+      ],
+      "correct": 1,
+      "feedback": "Functional plasticity changes synaptic strength."
+    },
+    {
+      "question": "Structural synaptic plasticity includes:",
+      "options": [
+        "Changes in ion channel kinetics only",
+        "Formation or elimination of synaptic contacts",
+        "Only short-term effects",
+        "Neurotransmitter synthesis"
+      ],
+      "correct": 1,
+      "feedback": "Structural plasticity modifies synaptic architecture."
+    },
+    {
+      "question": "Adult neurogenesis occurs primarily in:",
+      "options": [
+        "Cerebral cortex",
+        "Basal ganglia",
+        "Hippocampus",
+        "Cerebellum"
+      ],
+      "correct": 2,
+      "feedback": "Adult neurogenesis is restricted mainly to the hippocampus."
+    },
+    {
+      "question": "Hebb’s principle states that synapses strengthen when:",
+      "options": [
+        "Neurons fire independently",
+        "Presynaptic activity predicts postsynaptic firing",
+        "Postsynaptic neurons are silent",
+        "Activity is random"
+      ],
+      "correct": 1,
+      "feedback": "Correlated activity strengthens synaptic connections."
+    },
+    {
+      "question": "The phrase “neurons that fire together, wire together” summarizes:",
+      "options": [
+        "Homeostatic plasticity",
+        "Hebbian plasticity",
+        "Neurogenesis",
+        "Apoptosis"
+      ],
+      "correct": 1,
+      "feedback": "This is the core idea of Hebbian plasticity."
+    },
+    {
+      "question": "Which receptor acts as a coincidence detector?",
+      "options": [
+        "AMPA receptor",
+        "GABA-A receptor",
+        "NMDA receptor",
+        "Metabotropic glutamate receptor"
+      ],
+      "correct": 2,
+      "feedback": "NMDA receptors require presynaptic and postsynaptic activity."
+    },
+    {
+      "question": "Why is the NMDA receptor blocked at resting potential?",
+      "options": [
+        "Chloride ions",
+        "Calcium ions",
+        "Magnesium ions",
+        "Sodium ions"
+      ],
+      "correct": 2,
+      "feedback": "Magnesium blocks the NMDA channel at rest."
+    },
+    {
+      "question": "NMDA receptor activation allows entry of:",
+      "options": [
+        "Sodium",
+        "Chloride",
+        "Calcium",
+        "Potassium"
+      ],
+      "correct": 2,
+      "feedback": "Calcium influx triggers plasticity mechanisms."
+    },
+    {
+      "question": "Long-term potentiation (LTP) is defined as:",
+      "options": [
+        "Temporary synaptic fatigue",
+        "Persistent increase in synaptic efficacy",
+        "Neuron proliferation",
+        "Global network scaling"
+      ],
+      "correct": 1,
+      "feedback": "LTP produces long-lasting synaptic strengthening."
+    },
+    {
+      "question": "One immediate effect of LTP is:",
+      "options": [
+        "Neuron death",
+        "Removal of AMPA receptors",
+        "Insertion of AMPA receptors",
+        "Axonal pruning"
+      ],
+      "correct": 2,
+      "feedback": "LTP increases AMPA receptor insertion."
+    },
+    {
+      "question": "Morphological changes in LTP typically occur:",
+      "options": [
+        "Within milliseconds",
+        "Within seconds",
+        "Hours to days later",
+        "Only during development"
+      ],
+      "correct": 2,
+      "feedback": "Structural plasticity stabilizes long-term changes."
+    },
+    {
+      "question": "Long-term depression (LTD) involves:",
+      "options": [
+        "Increased AMPA receptor insertion",
+        "Reduced synaptic efficacy",
+        "Neuron migration",
+        "Increased firing rates"
+      ],
+      "correct": 1,
+      "feedback": "LTD weakens synaptic transmission."
+    },
+    {
+      "question": "Functional LTD typically involves:",
+      "options": [
+        "Insertion of NMDA receptors",
+        "Removal of AMPA receptors",
+        "Axon elongation",
+        "Increased calcium influx"
+      ],
+      "correct": 1,
+      "feedback": "AMPA receptor removal reduces synaptic strength."
+    },
+    {
+      "question": "LTP and LTD together allow circuits to:",
+      "options": [
+        "Grow indefinitely",
+        "Remain static",
+        "Strengthen relevant and weaken irrelevant connections",
+        "Eliminate all weak synapses"
+      ],
+      "correct": 2,
+      "feedback": "Plasticity is about balance, not just strengthening."
+    },
+    {
+      "question": "Why is Hebbian plasticity alone unstable?",
+      "options": [
+        "It eliminates learning",
+        "It leads to runaway excitation or silence",
+        "It prevents memory formation",
+        "It blocks neurogenesis"
+      ],
+      "correct": 1,
+      "feedback": "Unregulated Hebbian plasticity destabilizes networks."
+    },
+    {
+      "question": "Homeostatic plasticity primarily functions to:",
+      "options": [
+        "Encode memories",
+        "Stabilize overall neural activity",
+        "Generate new synapses",
+        "Eliminate variability"
+      ],
+      "correct": 1,
+      "feedback": "Homeostatic mechanisms keep activity within functional ranges."
+    },
+    {
+      "question": "When neural activity is chronically high, homeostatic plasticity:",
+      "options": [
+        "Strengthens all synapses",
+        "Weakens all synapses proportionally",
+        "Eliminates synapses",
+        "Blocks firing completely"
+      ],
+      "correct": 1,
+      "feedback": "Global downscaling prevents runaway excitation."
+    },
+    {
+      "question": "Homeostatic plasticity preserves:",
+      "options": [
+        "Absolute synaptic strengths",
+        "Relative differences between synapses",
+        "Only inhibitory synapses",
+        "Only excitatory synapses"
+      ],
+      "correct": 1,
+      "feedback": "Relative synaptic weights are maintained."
+    },
+    {
+      "question": "Who demonstrated adult neurogenesis in birds?",
+      "options": [
+        "Donald Hebb",
+        "Eric Kandel",
+        "Fernando Nottebohm",
+        "Santiago Ramón y Cajal"
+      ],
+      "correct": 2,
+      "feedback": "Nottebohm overturned the dogma of no adult neurogenesis."
+    },
+    {
+      "question": "In adult mammals, neurogenesis occurs mainly in:",
+      "options": [
+        "Neocortex",
+        "Cerebellum",
+        "Dentate gyrus",
+        "Amygdala"
+      ],
+      "correct": 2,
+      "feedback": "Adult neurogenesis is restricted to the dentate gyrus."
+    },
+    {
+      "question": "Approximately how many new hippocampal neurons are generated per day in humans?",
+      "options": [
+        "70",
+        "700",
+        "7,000",
+        "70,000"
+      ],
+      "correct": 1,
+      "feedback": "About 700 new neurons are generated daily."
+    },
+    {
+      "question": "Pattern separation refers to:",
+      "options": [
+        "Strengthening similar memories",
+        "Separating similar experiences into distinct representations",
+        "Deleting overlapping memories",
+        "Reducing memory precision"
+      ],
+      "correct": 1,
+      "feedback": "Pattern separation reduces interference."
+    },
+    {
+      "question": "The dentate gyrus is thought to support:",
+      "options": [
+        "Motor planning",
+        "Emotion regulation",
+        "Pattern separation",
+        "Visual perception"
+      ],
+      "correct": 2,
+      "feedback": "Dentate gyrus helps separate similar contexts."
+    },
+    {
+      "question": "Systems consolidation involves:",
+      "options": [
+        "Permanent hippocampal storage",
+        "Transfer of memories from hippocampus to cortex",
+        "Immediate cortical encoding",
+        "Elimination of hippocampal memories"
+      ],
+      "correct": 1,
+      "feedback": "Memories gradually become cortex-dependent."
+    },
+    {
+      "question": "Increasing adult neurogenesis tends to:",
+      "options": [
+        "Slow consolidation",
+        "Accelerate consolidation",
+        "Erase memories",
+        "Reduce learning"
+      ],
+      "correct": 1,
+      "feedback": "More neurogenesis accelerates consolidation."
+    },
+    {
+      "question": "Environmental enrichment tends to:",
+      "options": [
+        "Reduce plasticity",
+        "Increase synaptic plasticity and neurogenesis",
+        "Block hippocampal function",
+        "Decrease blood flow"
+      ],
+      "correct": 1,
+      "feedback": "Enrichment enhances plasticity."
+    },
+    {
+      "question": "Physical exercise in humans is associated with:",
+      "options": [
+        "Reduced hippocampal blood flow",
+        "Increased dentate gyrus activity",
+        "Cortical neurogenesis",
+        "Loss of synapses"
+      ],
+      "correct": 1,
+      "feedback": "Exercise enhances hippocampal function."
+    }
+  ]
+}

@@ -124,13 +124,18 @@
       margin-right: 0; 
     }
   </style>
+  <meta name="mermaid-theme" content="neutral">
+  <script src="site_libs/quarto-diagram/mermaid.min.js"></script>
+  <script src="site_libs/quarto-diagram/mermaid-init.js"></script>
+  <link href="site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 </head>
 <body class="quarto-light">
   <div class="reveal">
     <div class="slides">
 
-<section id="title-slide" data-background-image="images/logo/NEUROFARBA.svg" data-background-position="center 10%" data-background-size="500px" class="quarto-title-block center">
+<section id="title-slide" data-background-image="images/logo/NEUROFARBA.svg" data-background-position="center 10%" data-background-size="500px" data-state="title-slide" class="quarto-title-block center">
   <h1 class="title">Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes</h1>
+  <p class="subtitle">Module 1 - Neuroplasticity</p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -144,32 +149,383 @@ Raffaele M Mazziotti, PhD
 </div>
 
 </section>
-<section id="index" class="slide level2 center">
-<h2>Index</h2>
-<blockquote>
-<p><span class="highlight">Welcome to the course!</span> This part of the course introduces the foundations of neuroscience. We will cover basic principles of <strong>neurobiology</strong>,<br>
-an introduction to <code>neurophysiology</code>, and the core concepts needed to understand how the nervous system works, from neurons to systems.</p>
-</blockquote>
-<h3 id="chapters">Chapters</h3>
+<section id="what-is-resilience" class="slide level2 center">
+<h2>What is Resilience</h2>
 <div class="columns">
 <div class="column">
-<div class="list-box">
+<p>The term <code>resilience</code> originally comes from metallurgy.</p>
+<blockquote>
+<p>It refers to the ability of a material<br>
+to resist forces applied to it without breaking.</p>
+</blockquote>
+<p>In this sense, resilience is the opposite of <code>fragility</code>.</p>
+</div><div class="column">
+<div class="info-box">
+<p>In psychology, resilience does not mean simply resisting damage.</p>
+<p>Resilience is the ability to:</p>
 <ul>
-<li><a href="1_intro.html">Introduction</a></li>
-<li><a href="2_neuron.html">Neuron</a></li>
-<li><a href="3_synapse.html">Neuronal Communication</a></li>
-<li><a href="4_NS_organization.html">Organization of the Nervous System</a></li>
-<li><a href="5_sensory.html">Sensory Systems</a></li>
+<li>React <code>actively</code> to adverse or traumatic events<br>
+</li>
+<li>Reorganize one’s life in a positive way<br>
+</li>
+<li>Continue developing despite difficulties</li>
+</ul>
+<p>Resilience involves <code>adaptation</code>, not endurance alone.</p>
+</div>
+</div></div>
+</section>
+<section id="the-kauai-longitudinal-study" class="slide level2 center">
+<h2>The Kauai longitudinal study</h2>
+<div class="columns">
+<div class="column">
+<p>The concept of resilience entered psychology through<br>
+a landmark <a href="https://en.wikipedia.org/wiki/Longitudinal_study">longitudinal study</a>.</p>
+<p><code>Werner (1993)</code> followed the entire cohort of children<br>
+born in 1955 on the island of Kauai (about 700 individuals for more than 40 years).</p>
+<div class="info-box">
+<p>About 1/3 of these children were exposed to:</p>
+<ul>
+<li>Social disadvantage<br>
+</li>
+<li>Family instability<br>
+</li>
+<li>Environmental stress</li>
+</ul>
+<p>As a group, this population showed a higher <code>incidence</code><br>
+of psychological distress.</p>
+</div>
+</div><div class="column">
+<div class="info-box">
+<p>Despite high risk exposure:</p>
+<ul>
+<li>One third of these children developed <code>normally</code><br>
+</li>
+<li>They formed stable relationships<br>
+</li>
+<li>Showed good work performance<br>
+</li>
+<li>Demonstrated sociability and altruism</li>
+</ul>
+<p>These individuals were defined as <code>resilient</code>.</p>
+</div>
+<div class="card">
+<p>What differentiated resilient individuals<br>
+from those who succumbed to early adversity?</p>
+</div>
+</div></div>
+</section>
+<section id="from-risk-to-protection" class="slide level2 center">
+<h2>From risk to protection</h2>
+<div class="columns">
+<div class="column">
+<p>Possible factors included:</p>
+<ul>
+<li>Genetics<br>
+</li>
+<li>Life experiences<br>
+</li>
+<li>Protective environmental factors</li>
+</ul>
+<div class="info-box">
+<p>These findings shifted research focus:</p>
+<p>From identifying <code>risk factors</code><br>
+to identifying <code>protective factors</code>.</p>
+<p>The question became:</p>
+<p>How does the brain adapt successfully to adversity?</p>
+</div>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/gxe_factors.png" class="quarto-figure quarto-figure-center" width="290"></p>
+</figure>
+</div>
+<div class="card">
+<p>To study mechanisms of resilience,<br>
+animal models are essential.</p>
+<p>One widely used model is <code>social defeat stress</code>.</p>
+</div>
+</div></div>
+</section>
+<section id="resilience-as-an-active-process" class="slide level2 center">
+<h2>Resilience as an active process</h2>
+<div class="columns">
+<div class="column">
+<blockquote>
+<p>Resilience is not simply the absence of pathology. It involves <code>active and adaptive processes</code>. These include specific molecular and circuit-level changes.</p>
+</blockquote>
+<div class="info-box">
+<p>Resilience involves both:</p>
+<ul>
+<li><p><code>Passive resilience</code><br>
+Absence of maladaptive molecular responses<br>
+seen in vulnerable individuals</p></li>
+<li><p><code>Active resilience</code><br>
+Presence of adaptive plastic changes<br>
+seen <code>only</code> in resilient individuals<br>
+</p></li>
 </ul>
 </div>
 </div><div class="column">
-<div class="card">
+<div class="info-box">
+<p>Both forms of resilience depend on <code>neuroplasticity</code>.</p>
+<p>Plastic changes allow the brain to:</p>
 <ul>
-<li><a href="6_motor.html">Motor System</a></li>
-<li><a href="7_emotion_motivation.html">Emotion, Motivation &amp; Stress</a></li>
-<li><a href="8_Neuroplasticity.html">Neuroplasticity</a></li>
-<li><a href="./9_resilience_gxe.html">Resilience GxE</a></li>
+<li>Adjust stress responses<br>
+</li>
+<li>Reorganize circuits<br>
+</li>
+<li>Maintain functional behavior</li>
 </ul>
+<p>Resilience is biologically implemented.</p>
+</div>
+</div></div>
+</section>
+<section id="genetic-factors-and-behavior" class="slide level2 center">
+<h2>Genetic factors and behavior</h2>
+<div class="columns">
+<div class="column">
+<p>Understanding how genetic factors contribute<br>
+to behavior and its disorders is a central problem in neuroscience.</p>
+<div class="info-box">
+<p><a href="https://www.nature.com/articles/nrn1925">Caspi et al.&nbsp;(2006)</a> described three main approaches<br>
+to study this relationship:</p>
+<ul>
+<li>Gene-to-disorder approach<br>
+</li>
+<li>Endophenotype-to-disorder approach<br>
+</li>
+<li>Gene–environment interaction approach<br>
+</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/gxe_approaches.webp" class="quarto-figure quarto-figure-center" width="500"></p>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="gene-to-disorder" class="slide level2 center">
+<h2>Gene-to-disorder</h2>
+<div class="columns">
+<div class="column">
+<p>The <code>gene-to-disorder</code> approach assumes:</p>
+<ul>
+<li>A direct, <code>linear relationship</code> between genes and disorders<br>
+</li>
+<li>Genes are the primary cause of disorders</li>
+</ul>
+<div class="info-box">
+<p>This approach used:</p>
+<ul>
+<li>Linkage analysis<br>
+</li>
+<li><code>Association studies</code></li>
+</ul>
+<p>It searched for correlations between:</p>
+<ul>
+<li>Psychiatric diagnoses<br>
+</li>
+<li>Individual differences in DNA sequence<br>
+</li>
+</ul>
+</div>
+</div><div class="column">
+<div class="cell" data-reveal="true" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class=""><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+    Genes["Genes"]
+    Disorder["Disorder"]
+
+    Genes --&gt; Disorder
+
+    classDef simple fill:#a4d5c2,color:#000,stroke:#9f8ca0,stroke-width:3px,font-size:18px
+    class Genes,Disorder simple
+    linkStyle 0 stroke:#9f8ca0,stroke-width:3px,fill:#9f8ca0
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+<div class="info-box">
+<p>Although a few genes showed replicated associations:</p>
+<ul>
+<li><code>Replication failures</code> were common<br>
+</li>
+<li>Progress was slow and inconsistent</li>
+</ul>
+<p>Many researchers abandoned the search<br>
+for direct <code>main effects</code> of genotype on diagnosis.</p>
+</div>
+</div></div>
+</section>
+<section id="endophenotype-to-disorder" class="slide level2 center">
+<h2>Endophenotype-to-disorder</h2>
+<div class="columns">
+<div class="column">
+<p>The <code>endophenotype-to-disorder</code> approach introduced<br>
+intermediate <a href="https://en.wikipedia.org/wiki/Phenotype">phenotypes</a>.</p>
+<blockquote>
+<p><span class="highlight">Endophenotypes</span> are heritable biological traits associated with disorders.</p>
+</blockquote>
+<div class="info-box">
+<p>They can be:</p>
+<ul>
+<li>Physiological<br>
+</li>
+<li>Biochemical<br>
+</li>
+<li>Anatomical</li>
+</ul>
+<p>Example: macrocephaly or immune alterations in <code>ASD</code>.</p>
+</div>
+</div><div class="column">
+<div class="info-box">
+<p>This approach assumes that:</p>
+<ul>
+<li>Endophenotypes have clearer genetic bases<br>
+</li>
+<li>Genes exert stronger effects on intermediate traits<br>
+than on complex diagnoses<br>
+</li>
+</ul>
+</div>
+<div class="cell" data-reveal="true" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class=""><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+    Genes["Genes"]
+    Endo["Endophenotype"]
+    Disorder["Disorder"]
+
+    Genes --&gt; Endo
+    Endo --&gt; Disorder
+
+    %% Node style
+    classDef simple fill:#a4d5c2,color:#000,stroke:#9f8ca0,stroke-width:3px,font-size:18px
+    class Genes,Endo,Disorder simple
+
+    %% Arrow style (line + arrowhead)
+    linkStyle 0 stroke:#9f8ca0,stroke-width:3px,fill:#9f8ca0
+    linkStyle 1 stroke:#9f8ca0,stroke-width:3px,fill:#9f8ca0
+
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+</div></div>
+</section>
+<section id="geneenvironment-interaction-g-e" class="slide level2 center">
+<h2>Gene–environment interaction (G × E)</h2>
+<div class="columns">
+<div class="column">
+<p>The <code>gene–environment interaction (G × E)</code> approach<br>
+explicitly includes environmental factors.</p>
+<div class="info-box">
+<p>The G × E approach assumes that:</p>
+<ul>
+<li>Environmental risk factors can contribute to disorders<br>
+</li>
+<li>Genotype <code>modulates susceptibility</code> to these factors</li>
+</ul>
+<p>Genes influence sensitivity to the environment.</p>
+</div>
+</div><div class="column">
+<div class="info-box">
+<p>According to the G × E framework:</p>
+<ul>
+<li><p>There may be no gene-behavior association<br>
+in the absence of environmental stressors</p></li>
+<li><p>There may be no environmental effect<br>
+without genetic susceptibility</p></li>
+</ul>
+<p>Risk emerges from their interaction.</p>
+</div>
+<div class="cell" data-reveal="true" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class=""><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+    Genes["Genes"]
+    Env["Environment"]
+    J(( ))
+    Disorder["Disorder"]
+
+    Genes --&gt; J
+    Env --&gt; J
+    J --&gt; Disorder
+
+    %% Node styles
+    classDef simple fill:#a4d5c2,color:#000,stroke:#9f8ca0,stroke-width:3px,font-size:18px
+    classDef junction fill:#ffffff,stroke:#9f8ca0,stroke-width:3px
+
+
+    class Genes,Env,Disorder box
+    class J junction
+
+    %% Arrow style
+    linkStyle 0 stroke:#9f8ca0,stroke-width:4px
+    linkStyle 1 stroke:#9f8ca0,stroke-width:4px
+    linkStyle 2 stroke:#9f8ca0,stroke-width:4px
+    
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+</div></div>
+</section>
+<section id="genes-as-risk-factors" class="slide level2 center">
+<h2>Genes as risk factors</h2>
+<div class="columns">
+<div class="column">
+<p>In this view:</p>
+<ul>
+<li>Genes are not causative<br>
+</li>
+<li>They increase the <code>probability</code> of developing a disorder</li>
+</ul>
+<p>Only under specific environmental conditions.</p>
+<div class="info-box">
+<p>Genetic and environmental factors:</p>
+<ul>
+<li>Are both risk factors<br>
+</li>
+<li>Act together<br>
+</li>
+<li>Increase vulnerability when combined</li>
+</ul>
+<p>Exposure does not guarantee pathology.</p>
+</div>
+</div><div class="column">
+<div class="info-box">
+<p>Genes:</p>
+<ul>
+<li>Define neural circuit potential<br>
+</li>
+<li>Also define limits of environmental influence</li>
+</ul>
+<p>The environment:</p>
+<ul>
+<li>Acts on genetic circuits<br>
+</li>
+<li>Shapes them toward maturity<br>
+</li>
+</ul>
+</div>
+<div class="card">
+<p>Donald <code>Hebb</code> summarized this relationship clearly. Asked whether genes or environment matter more, he replied: Is the <code>height</code> or the <code>width</code> more important to calculate the area of a rectangle?</p>
 </div>
 </div></div>
 
@@ -235,7 +591,7 @@ an introduction to <code>neurophysiology</code>, and the core concepts needed to
         progress: true,
 
         // Display the page number of the current slide
-        slideNumber: false,
+        slideNumber: 'c/t',
 
         // 'all', 'print', or 'speaker'
         showSlideNumber: 'all',
@@ -393,6 +749,71 @@ an introduction to <code>neurophysiology</code>, and the core concepts needed to
           RevealZoom
         ]
       });
+    </script>
+    <script>
+    (function () {
+      function injectHomeLink() {
+        const link = document.createElement("a");
+        link.href = "index.html";
+        link.setAttribute("aria-label", "Back to Index");
+        link.title = "Back to Index";
+
+        // Positioning
+        link.style.position = "absolute";
+        link.style.bottom = "20px";
+        link.style.left = "50%";
+        link.style.transform = "translateX(-50%)";
+        link.style.width = "28px";
+        link.style.height = "28px";
+        link.style.zIndex = "1000";
+        link.style.display = "none";
+        link.style.opacity = "0.75";
+        link.style.cursor = "pointer";
+
+        // Home icon image
+        const img = document.createElement("img");
+        img.src = "images/home.svg";
+        img.alt = "Home";
+        img.width = 28;
+        img.height = 28;
+        img.style.display = "block";
+
+        link.appendChild(img);
+        document.body.appendChild(link);
+
+        // Hover feedback
+        link.addEventListener("mouseenter", () => {
+          link.style.opacity = "1";
+          link.style.transform = "translateX(-50%) scale(2)";
+        });
+
+        link.addEventListener("mouseleave", () => {
+          link.style.opacity = "0.75";
+          link.style.transform = "translateX(-50%) scale(1)";
+        });
+
+        // Show only on title slide
+        function updateVisibility() {
+          if (document.body.classList.contains("title-slide")) {
+            link.style.display = "block";
+          } else {
+            link.style.display = "none";
+          }
+        }
+
+        updateVisibility();
+        Reveal.on("slidechanged", updateVisibility);
+        Reveal.on("ready", updateVisibility);
+      }
+
+      if (window.Reveal && Reveal.isReady()) {
+        injectHomeLink();
+      } else {
+        document.addEventListener("DOMContentLoaded", function () {
+          Reveal.on("ready", injectHomeLink);
+        });
+      }
+    })();
     </script>
     <script id="quarto-html-after-body" type="application/javascript">
       window.document.addEventListener("DOMContentLoaded", function (event) {

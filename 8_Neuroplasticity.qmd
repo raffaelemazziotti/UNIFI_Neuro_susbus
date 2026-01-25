@@ -251,7 +251,7 @@ Glutamate alone is not sufficient to activate it.
 
 :::
 
-## Baseline synaptic transmission
+## Detecting correlated activity
 
 ::: columns
 ::: column
@@ -303,3 +303,458 @@ in synaptic efficacy following correlated activity.
 
 ![](images/plast_LTP.png){width="400" fig-align="center"}
 
+## Effects of synaptic plasticity
+
+::: columns
+::: column
+
+:::info-box
+One form of LTP is the [functional]{.highlight} modification of the synapse.
+
+This involves:
+
+- Increased synaptic efficacy  
+- Insertion of additional AMPA receptors  
+- Enhanced postsynaptic responsiveness  
+
+This effect take place after few seconds after the triggering event.
+:::
+
+::: 
+::: column
+
+:::info-box
+LTP can also involve [morphological]{.highlight} modification of the synapse.
+
+This includes:
+
+- Growth of dendritic spines  
+- Enlargement of existing synapses  
+- Formation of new synaptic contacts  
+
+Structural changes `stabilize` long-term modifications and take place after hours or days respect to the triggering event.
+
+:::
+
+::: 
+::: 
+
+## Effects of synaptic plasticity
+
+![](images/plast_functional.png){width="400" fig-align="center"}
+
+![](images/plast_morphological.png){width="500" fig-align="center"}
+
+## Synaptic weakening
+
+::: columns
+::: column
+
+:::card
+Hebbian plasticity has an important corollary.
+If presynaptic activity repeatedly fails to activate  
+the postsynaptic neuron, synapses can weaken.
+:::
+
+:::info-box
+`Long-term depression (LTD)` is a persistent decrease in synaptic efficacy.
+
+Functional LTD involves:
+
+- Removal of AMPA receptors from the synapse  
+- Reduced postsynaptic responsiveness  
+
+Transmission becomes less effective.
+:::
+
+::: 
+::: column
+
+:::info-box
+LTD can also produce morphological changes:
+
+- Shrinkage of dendritic spines  
+- Elimination of synaptic contacts  
+
+This supports pruning and circuit refinement.
+:::
+
+:::info-box
+
+LTP and LTD operate together. They allow neural circuits to:
+
+- Strengthen relevant connections  
+- Weaken irrelevant ones  
+
+Plasticity is about balance, not only growth.
+
+:::
+
+::: 
+::: 
+
+## Synaptic weakening
+
+![](images/plast_LTP_LTD.png){width="500" fig-align="center"}
+
+## The instability problem
+
+::: columns
+::: column
+
+:::info-box
+If Hebbian plasticity acted alone:
+
+- Highly active neurons would increase their firing indefinitely  
+- Weakly active neurons would fall silent  
+
+Neural activity would become unbalanced.
+
+:::
+
+:::info-box
+This is incompatible with stable brain function.
+Unregulated Hebbian plasticity would lead to:
+
+- Runaway excitation in some circuits  
+- Loss of activity in others  
+
+Learning would destroy, rather than preserve, network function.
+:::
+
+::: 
+::: column
+
+:::info-box
+The nervous system requires mechanisms that:
+
+- Stabilize overall activity  
+- Prevent excessive excitation or depression  
+
+This principle is called **homeostatic plasticity**.
+:::
+
+:::card
+**Homeostatic plasticity** refers to mechanisms that maintain neural activity within a functional range.
+
+It preserves the **overall level of discharge** of neurons and networks.
+
+:::
+
+
+::: 
+::: 
+
+## Homestatic plasticity
+
+::: columns
+::: column
+
+:::info-box
+
+Homeostatic plasticity acts to stabilize:
+
+- Average firing rate  
+- Synaptic input strength  
+- Network excitability  
+
+
+:::
+
+:::info-box
+When activity is chronically high:
+
+- Synaptic strengths are globally scaled down  
+
+When activity is chronically low:
+
+- Synaptic strengths are globally scaled up  
+
+`Relative differences` between synapses are preserved.
+:::
+
+
+::: 
+::: column
+
+:::info-box
+A key contrast:
+
+- **Hebbian plasticity**  
+  Strengthens or weakens specific synapses  
+
+- **Homeostatic plasticity**  
+  Regulates overall activity levels  
+
+Both operate simultaneously.
+
+:::
+
+![](images/plast_homeos_diagr.png){width="450" fig-align="center"}
+
+::: 
+::: 
+
+## Homestatic plasticity
+
+![](images/plast_homeos_exvivo.png){width="450" fig-align="center"}
+
+## Adult neurogenesis
+
+::: columns
+::: column
+
+The richness of the environment affects neural plasticity  
+not only at synapses, but also at the level of `cell generation`.
+
+>This process is called `adult neurogenesis`.
+
+:::info-box
+Adult neurogenesis refers to the generation of `new neurons`  
+that integrate into `pre-existing neural circuits`.
+
+For a long time, this was believed to occur only during development.
+
+Adult neurons were considered a `non-renewable population`.
+
+:::
+
+::: 
+::: column
+
+:::info-box
+The presence of adult neurogenesis was demonstrated  
+by [Fernando Nottebohm](https://en.wikipedia.org/wiki/Fernando_Nottebohm) in the late 1980s.
+
+This discovery challenged a long-standing dogma in neuroscience.
+
+:::
+
+![](images/plast_canary.jpg){width="250" fig-align="center"}
+
+::: 
+:::
+
+## Neurogenesis in adult birds and mammals
+
+::: columns
+::: column
+
+In adult birds, neurogenesis occurs in:
+
+- `Song nuclei`  
+- `Hippocampus`  
+
+These neurons were proposed to support:
+
+- Seasonal `song learning`  
+- `Memory for food` cache locations  
+
+Adult neurogenesis is linked to `learning and memory`.
+
+:::card
+In the late 1990s, adult neurogenesis was also demonstrated  
+in adult mammals, including `humans`.
+
+However, it occurs only in `specific brain regions`.
+:::
+
+::: 
+::: column
+
+In adult mammals, neurogenesis occurs mainly in:
+
+- The `dentate gyrus` of the hippocampus  
+
+There is `no clear evidence` for neurogenesis in:
+
+- Neocortical areas  
+
+Adult neurogenesis is spatially restricted.
+
+
+![](images/plast_dentage_gyrus.png){width="200" fig-align="center"}
+
+::: 
+::: 
+
+## Estimating neuron birth in humans
+
+![](images/plast_neurogenesis_humans.png){width="200" fig-align="center"}
+
+By measuring radioactivity in post-mortem hippocampal tissue:
+
+- About `700 new neurons per day` are generated  
+- Most die by `apoptosis`  
+- `Some integrate` into hippocampal circuits  
+
+Approximately `1.75%` of dentate gyrus granule cells  
+are renewed each year.
+
+## What is hippocampal neurogenesis for?
+
+::: columns
+::: column
+
+After decades of research:
+
+- Evidence is abundant  
+- Results are sometimes conflicting  
+- `No` definitive `consensus` exists  
+
+Several functional hypotheses have been proposed.
+
+:::info-box
+Hypothesis 1: `pattern separation`
+
+Pattern separation allows similar experiences  
+to be stored as `distinct memories`.
+
+Pattern separation enables:
+
+- Precise encoding of `spatial context`  
+- Precise encoding of `temporal context`  
+:::
+- 
+::: 
+::: column
+
+:::info-box
+Hypothesis 2: memory consolidation
+
+Proposes that neurogenesis supports  
+`systems-level memory consolidation`.
+
+Early after learning:
+
+- The `hippocampus` is active  
+- The `cortex` is relatively silent  
+
+Weeks later:
+
+- Cortical regions support memory retrieval  
+- Hippocampal involvement decreases  
+
+Memories are transferred.
+:::
+
+::: 
+::: 
+
+## Neurogenesis and pattern separation
+
+::: columns
+::: column
+
+Two events may partially overlap:
+
+- Event 1: at my cousin’s house, during summer (A) 
+- Event 2: at my aunt’s house, during fall (B)  
+
+Good pattern separation allows these events  
+to be stored as `separate memory traces`.
+
+:::info-box
+The `dentate gyrus` is thought to:
+
+- Separate overlapping contextual representations  
+- Encode temporal context  
+
+Adult-born neurons may provide a `timestamp` for memories.
+
+:::
+
+::: 
+::: column
+
+![](images/plast_pattern_separation.png){width="400" fig-align="center"}
+
+:::card
+In Animals with increased hippocampal neurogenesis:
+Show improved discrimination between similar contexts
+:::
+
+::: 
+::: 
+
+## Systems consolidation
+
+::: columns
+::: column
+:::info-box
+`Early` after learning:
+
+- The `hippocampus` is active  
+- The `cortex` is relatively silent  
+
+Weeks `later`:
+
+- Cortical regions support memory retrieval  
+- Hippocampal involvement decreases  
+
+Memories are `transferred`.
+:::
+
+::: 
+::: column
+
+![](images/plast_mem_migration.png){width="400" fig-align="center"}
+
+:::info-box
+In animals manipulating neurogenesis shows that:
+
+- Increasing neurogenesis accelerates consolidation
+- Reducing neurogenesis delays consolidation  
+
+:::
+
+::: 
+:::
+
+## Ways to increase neurogenesis
+
+::: columns
+::: column
+
+[Environmental enrichment](https://en.wikipedia.org/wiki/Environmental_enrichment) and `physical exercise`:
+
+- Enhance hippocampal synaptic plasticity  
+- Increase hippocampal neurogenesis  
+
+These effects occur even in `older animals`.
+
+:::info-box
+In humans, aerobic exercise:
+
+- Increases blood flow in the hippocampus  
+- Especially in the `dentate gyrus`  
+
+This increase correlates with `memory performance`.
+:::
+
+
+::: 
+::: column
+
+![](images/plast_exercise.png){width="290" fig-align="center"}
+
+
+::: 
+::: 
+
+
+## Self-check
+
+```{=html}
+<div style="display: flex; justify-content: center;">
+  <iframe src="quiz/quiz_8_neuroplasticity.html"
+          style="
+            width: 90vw;
+            max-width: 900px;
+            height: 80vh;
+            border: none;
+            border-radius: 16px;
+          ">
+  </iframe>
+</div>
+```

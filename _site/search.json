@@ -522,7 +522,7 @@
     "href": "0_content.html#index",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Index",
-    "text": "Index\n\nWelcome to the course! This part of the course introduces the foundations of neuroscience. We will cover basic principles of neurobiology,\nan introduction to neurophysiology, and the core concepts needed to understand how the nervous system works, from neurons to systems.\n\nChapters\n\n\n\n\nIntroduction\nNeuron\nNeuronal Communication\nOrganization of the Nervous System\nSensory Systems\n\n\n\n\n\nMotor System\nEmotion, Motivation & Stress\nNeuroplasticity"
+    "text": "Index\n\nWelcome to the course! This part of the course introduces the foundations of neuroscience. We will cover basic principles of neurobiology,\nan introduction to neurophysiology, and the core concepts needed to understand how the nervous system works, from neurons to systems.\n\nChapters\n\n\n\n\nIntroduction\nNeuron\nNeuronal Communication\nOrganization of the Nervous System\nSensory Systems\n\n\n\n\n\nMotor System\nEmotion, Motivation & Stress\nNeuroplasticity\nResilience GxE"
   },
   {
     "objectID": "1_intro.html#neuron",
@@ -1488,7 +1488,7 @@
     "href": "8_Neuroplasticity.html#detecting-correlated-activity-1",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Detecting correlated activity",
-    "text": "Detecting correlated activity"
+    "text": "Detecting correlated activity\n\n\n\nDuring normal synaptic activity:\n\nAMPA receptors open\n\nSodium enters the postsynaptic neuron\n\nThis produces fast excitatory synaptic transmission.\n\n\nDuring correlated activity:\n\nPresynaptic glutamate release occurs\n\nPostsynaptic depolarization is sufficient\n\nThe magnesium block is removed and NMDA receptors now open.\n\n\n\n\n\n\n\n\nOpening of NMDA receptors allows:\n\nCalcium ions to enter the postsynaptic neuron\n\nThe most important effect is:\n\nInsertion of additional AMPA receptors into the postsynaptic membrane"
   },
   {
     "objectID": "8_Neuroplasticity.html#baseline-synaptic-transmission",
@@ -1503,5 +1503,194 @@
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Long-term potentiation (LTP)",
     "text": "Long-term potentiation (LTP)\nLong-term potentiation (LTP) is a persistent increase\nin synaptic efficacy following correlated activity.\n\nLTP is considered a cellular mechanism of learning and memory."
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#effects-of-synaptic-plasticity",
+    "href": "8_Neuroplasticity.html#effects-of-synaptic-plasticity",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Effects of synaptic plasticity",
+    "text": "Effects of synaptic plasticity\n\n\n\nOne form of LTP is the functional modification of the synapse.\nThis involves:\n\nIncreased synaptic efficacy\n\nInsertion of additional AMPA receptors\n\nEnhanced postsynaptic responsiveness\n\nThis effect take place after few seconds after the triggering event.\n\n\n\nLTP can also involve morphological modification of the synapse.\nThis includes:\n\nGrowth of dendritic spines\n\nEnlargement of existing synapses\n\nFormation of new synaptic contacts\n\nStructural changes stabilize long-term modifications and take place after hours or days respect to the triggering event."
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#effects-of-synaptic-plasticity-1",
+    "href": "8_Neuroplasticity.html#effects-of-synaptic-plasticity-1",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Effects of synaptic plasticity",
+    "text": "Effects of synaptic plasticity"
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#synaptic-weakening",
+    "href": "8_Neuroplasticity.html#synaptic-weakening",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Synaptic weakening",
+    "text": "Synaptic weakening\n\n\n\nHebbian plasticity has an important corollary. If presynaptic activity repeatedly fails to activate\nthe postsynaptic neuron, synapses can weaken.\n\n\nLong-term depression (LTD) is a persistent decrease in synaptic efficacy.\nFunctional LTD involves:\n\nRemoval of AMPA receptors from the synapse\n\nReduced postsynaptic responsiveness\n\nTransmission becomes less effective.\n\n\n\nLTD can also produce morphological changes:\n\nShrinkage of dendritic spines\n\nElimination of synaptic contacts\n\nThis supports pruning and circuit refinement.\n\n\nLTP and LTD operate together. They allow neural circuits to:\n\nStrengthen relevant connections\n\nWeaken irrelevant ones\n\nPlasticity is about balance, not only growth."
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#synaptic-weakening-1",
+    "href": "8_Neuroplasticity.html#synaptic-weakening-1",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Synaptic weakening",
+    "text": "Synaptic weakening"
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#the-instability-problem",
+    "href": "8_Neuroplasticity.html#the-instability-problem",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "The instability problem",
+    "text": "The instability problem\n\n\n\nIf Hebbian plasticity acted alone:\n\nHighly active neurons would increase their firing indefinitely\n\nWeakly active neurons would fall silent\n\nNeural activity would become unbalanced.\n\n\nThis is incompatible with stable brain function. Unregulated Hebbian plasticity would lead to:\n\nRunaway excitation in some circuits\n\nLoss of activity in others\n\nLearning would destroy, rather than preserve, network function.\n\n\n\nThe nervous system requires mechanisms that:\n\nStabilize overall activity\n\nPrevent excessive excitation or depression\n\nThis principle is called homeostatic plasticity.\n\n\nHomeostatic plasticity refers to mechanisms that maintain neural activity within a functional range.\nIt preserves the overall level of discharge of neurons and networks."
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#homestatic-plasticity",
+    "href": "8_Neuroplasticity.html#homestatic-plasticity",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Homestatic plasticity",
+    "text": "Homestatic plasticity\n\n\n\nHomeostatic plasticity acts to stabilize:\n\nAverage firing rate\n\nSynaptic input strength\n\nNetwork excitability\n\n\n\nWhen activity is chronically high:\n\nSynaptic strengths are globally scaled down\n\nWhen activity is chronically low:\n\nSynaptic strengths are globally scaled up\n\nRelative differences between synapses are preserved.\n\n\n\nA key contrast:\n\nHebbian plasticity\nStrengthens or weakens specific synapses\nHomeostatic plasticity\nRegulates overall activity levels\n\nBoth operate simultaneously."
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#homestatic-plasticity-1",
+    "href": "8_Neuroplasticity.html#homestatic-plasticity-1",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Homestatic plasticity",
+    "text": "Homestatic plasticity"
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#hippocampal-neurogenesis",
+    "href": "8_Neuroplasticity.html#hippocampal-neurogenesis",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Hippocampal neurogenesis",
+    "text": "Hippocampal neurogenesis\n\n\nThe richness of the environment affects neural plasticity\nnot only at synapses, but also at the level of cell generation.\n\nThis process is called adult neurogenesis.\n\n\nAdult neurogenesis refers to the generation of new neurons\nthat integrate into pre-existing neural circuits.\nFor a long time, this was believed to occur only during development.\nAdult neurons were considered a non-renewable population.\n\n\n\nThe presence of adult neurogenesis was demonstrated\nby Fernando Nottebohm in the late 1980s.\nThis discovery challenged a long-standing dogma in neuroscience."
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#adult-neurogenesis",
+    "href": "8_Neuroplasticity.html#adult-neurogenesis",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Adult neurogenesis",
+    "text": "Adult neurogenesis\n\n\nThe richness of the environment affects neural plasticity\nnot only at synapses, but also at the level of cell generation.\n\nThis process is called adult neurogenesis.\n\n\nAdult neurogenesis refers to the generation of new neurons\nthat integrate into pre-existing neural circuits.\nFor a long time, this was believed to occur only during development.\nAdult neurons were considered a non-renewable population.\n\n\n\nThe presence of adult neurogenesis was demonstrated\nby Fernando Nottebohm in the late 1980s.\nThis discovery challenged a long-standing dogma in neuroscience."
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#neurogenesis-in-adult-birds",
+    "href": "8_Neuroplasticity.html#neurogenesis-in-adult-birds",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Neurogenesis in adult birds",
+    "text": "Neurogenesis in adult birds\nIn adult birds, neurogenesis occurs in:\n\nSong nuclei\n\nHippocampus\n\nThese neurons were proposed to support:\n\nSeasonal song learning\n\nMemory for food cache locations\n\nAdult neurogenesis is linked to learning and memory."
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#neurogenesis-in-adult-birds-and-mammals",
+    "href": "8_Neuroplasticity.html#neurogenesis-in-adult-birds-and-mammals",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Neurogenesis in adult birds and mammals",
+    "text": "Neurogenesis in adult birds and mammals\n\n\nIn adult birds, neurogenesis occurs in:\n\nSong nuclei\n\nHippocampus\n\nThese neurons were proposed to support:\n\nSeasonal song learning\n\nMemory for food cache locations\n\nAdult neurogenesis is linked to learning and memory.\n\nIn the late 1990s, adult neurogenesis was also demonstrated\nin adult mammals, including humans.\nHowever, it occurs only in specific brain regions.\n\n\nIn adult mammals, neurogenesis occurs mainly in:\n\nThe dentate gyrus of the hippocampus\n\nThere is no clear evidence for neurogenesis in:\n\nNeocortical areas\n\nAdult neurogenesis is spatially restricted."
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#estimating-neuron-birth-in-humans",
+    "href": "8_Neuroplasticity.html#estimating-neuron-birth-in-humans",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Estimating neuron birth in humans",
+    "text": "Estimating neuron birth in humans\n\nBy measuring radioactivity in post-mortem hippocampal tissue:\n\nAbout 700 new neurons per day are generated\n\nMost die by apoptosis\n\nSome integrate into hippocampal circuits\n\nApproximately 1.75% of dentate gyrus granule cells\nare renewed each year."
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#what-is-hippocampal-neurogenesis-for",
+    "href": "8_Neuroplasticity.html#what-is-hippocampal-neurogenesis-for",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "What is hippocampal neurogenesis for?",
+    "text": "What is hippocampal neurogenesis for?\n\n\nAfter decades of research:\n\nEvidence is abundant\n\nResults are sometimes conflicting\n\nNo definitive consensus exists\n\nSeveral functional hypotheses have been proposed.\n\nHypothesis 1: pattern separation\nPattern separation allows similar experiences\nto be stored as distinct memories.\nPattern separation enables:\n\nPrecise encoding of spatial context\n\nPrecise encoding of temporal context\n\n\n\n\n\n\n\n\nHypothesis 2: memory consolidation\nProposes that neurogenesis supports\nsystems-level memory consolidation.\nEarly after learning:\n\nThe hippocampus is active\n\nThe cortex is relatively silent\n\nWeeks later:\n\nCortical regions support memory retrieval\n\nHippocampal involvement decreases\n\nMemories are transferred."
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#neurogenesis-and-pattern-separation",
+    "href": "8_Neuroplasticity.html#neurogenesis-and-pattern-separation",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Neurogenesis and pattern separation",
+    "text": "Neurogenesis and pattern separation\n\n\nTwo events may partially overlap:\n\nEvent 1: at my cousin’s house, during summer (A)\nEvent 2: at my aunt’s house, during fall (B)\n\nGood pattern separation allows these events\nto be stored as separate memory traces.\n\nThe dentate gyrus is thought to:\n\nSeparate overlapping contextual representations\n\nEncode temporal context\n\nAdult-born neurons may provide a timestamp for memories.\n\n\n\n\n\n\n\n\nIn Animals with increased hippocampal neurogenesis: Show improved discrimination between similar contexts"
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#systems-consolidation",
+    "href": "8_Neuroplasticity.html#systems-consolidation",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Systems consolidation",
+    "text": "Systems consolidation\n\n\n\nEarly after learning:\n\nThe hippocampus is active\n\nThe cortex is relatively silent\n\nWeeks later:\n\nCortical regions support memory retrieval\n\nHippocampal involvement decreases\n\nMemories are transferred.\n\n\n\n\n\n\n\n\nIn animals manipulating neurogenesis shows that:\n\nIncreasing neurogenesis accelerates consolidation\nReducing neurogenesis delays consolidation"
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#ways-to-increase-neurogenesis",
+    "href": "8_Neuroplasticity.html#ways-to-increase-neurogenesis",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Ways to increase neurogenesis",
+    "text": "Ways to increase neurogenesis\n\n\nEnvironmental enrichment and physical exercise:\n\nEnhance hippocampal synaptic plasticity\n\nIncrease hippocampal neurogenesis\n\nThese effects occur even in older animals.\n\nIn humans, aerobic exercise:\n\nIncreases blood flow in the hippocampus\n\nEspecially in the dentate gyrus\n\nThis increase correlates with memory performance."
+  },
+  {
+    "objectID": "9_resilience_gxe.html#what-is-resilience",
+    "href": "9_resilience_gxe.html#what-is-resilience",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "What is Resilience",
+    "text": "What is Resilience\n\n\nThe term resilience originally comes from metallurgy.\n\nIt refers to the ability of a material\nto resist forces applied to it without breaking.\n\nIn this sense, resilience is the opposite of fragility.\n\n\nIn psychology, resilience does not mean simply resisting damage.\nResilience is the ability to:\n\nReact actively to adverse or traumatic events\n\nReorganize one’s life in a positive way\n\nContinue developing despite difficulties\n\nResilience involves adaptation, not endurance alone."
+  },
+  {
+    "objectID": "9_resilience_gxe.html#the-kauai-longitudinal-study",
+    "href": "9_resilience_gxe.html#the-kauai-longitudinal-study",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "The Kauai longitudinal study",
+    "text": "The Kauai longitudinal study\n\n\nThe concept of resilience entered psychology through\na landmark longitudinal study.\nWerner (1993) followed the entire cohort of children\nborn in 1955 on the island of Kauai (about 700 individuals for more than 40 years).\n\nAbout 1/3 of these children were exposed to:\n\nSocial disadvantage\n\nFamily instability\n\nEnvironmental stress\n\nAs a group, this population showed a higher incidence\nof psychological distress.\n\n\n\nDespite high risk exposure:\n\nOne third of these children developed normally\n\nThey formed stable relationships\n\nShowed good work performance\n\nDemonstrated sociability and altruism\n\nThese individuals were defined as resilient.\n\n\nWhat differentiated resilient individuals\nfrom those who succumbed to early adversity?"
+  },
+  {
+    "objectID": "9_resilience_gxe.html#from-risk-to-protection",
+    "href": "9_resilience_gxe.html#from-risk-to-protection",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "From risk to protection",
+    "text": "From risk to protection\n\n\nPossible factors included:\n\nGenetics\n\nLife experiences\n\nProtective environmental factors\n\n\nThese findings shifted research focus:\nFrom identifying risk factors\nto identifying protective factors.\nThe question became:\nHow does the brain adapt successfully to adversity?\n\n\n\n\n\n\n\n\nTo study mechanisms of resilience,\nanimal models are essential.\nOne widely used model is social defeat stress."
+  },
+  {
+    "objectID": "8_Neuroplasticity.html#self-check",
+    "href": "8_Neuroplasticity.html#self-check",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Self-check",
+    "text": "Self-check"
+  },
+  {
+    "objectID": "9_resilience_gxe.html#resilience-as-an-active-process",
+    "href": "9_resilience_gxe.html#resilience-as-an-active-process",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Resilience as an active process",
+    "text": "Resilience as an active process\n\n\n\nResilience is not simply the absence of pathology. It involves active and adaptive processes. These include specific molecular and circuit-level changes.\n\n\nResilience involves both:\n\nPassive resilience\nAbsence of maladaptive molecular responses\nseen in vulnerable individuals\nActive resilience\nPresence of adaptive plastic changes\nseen only in resilient individuals\n\n\n\n\n\nBoth forms of resilience depend on neuroplasticity.\nPlastic changes allow the brain to:\n\nAdjust stress responses\n\nReorganize circuits\n\nMaintain functional behavior\n\nResilience is biologically implemented."
+  },
+  {
+    "objectID": "9_resilience_gxe.html#genetic-factors-and-behavior",
+    "href": "9_resilience_gxe.html#genetic-factors-and-behavior",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Genetic factors and behavior",
+    "text": "Genetic factors and behavior\n\n\nUnderstanding how genetic factors contribute\nto behavior and its disorders is a central problem in neuroscience.\n\nCaspi et al. (2006) described three main approaches\nto study this relationship:\n\nGene-to-disorder approach\n\nEndophenotype-to-disorder approach\n\nGene–environment interaction approach"
+  },
+  {
+    "objectID": "9_resilience_gxe.html#gene-to-disorder",
+    "href": "9_resilience_gxe.html#gene-to-disorder",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Gene-to-disorder",
+    "text": "Gene-to-disorder\n\n\nThe gene-to-disorder approach assumes:\n\nA direct, linear relationship between genes and disorders\n\nGenes are the primary cause of disorders\n\n\nThis approach used:\n\nLinkage analysis\n\nAssociation studies\n\nIt searched for correlations between:\n\nPsychiatric diagnoses\n\nIndividual differences in DNA sequence\n\n\n\n\n\n\n\n\n\nflowchart LR\n    Genes[\"Genes\"]\n    Disorder[\"Disorder\"]\n\n    Genes --&gt; Disorder\n\n    classDef simple fill:#a4d5c2,color:#000,stroke:#9f8ca0,stroke-width:3px,font-size:18px\n    class Genes,Disorder simple\n    linkStyle 0 stroke:#9f8ca0,stroke-width:3px,fill:#9f8ca0\n\n\n\n\n\n\n\nAlthough a few genes showed replicated associations:\n\nReplication failures were common\n\nProgress was slow and inconsistent\n\nMany researchers abandoned the search\nfor direct main effects of genotype on diagnosis."
+  },
+  {
+    "objectID": "9_resilience_gxe.html#endophenotype-to-disorder",
+    "href": "9_resilience_gxe.html#endophenotype-to-disorder",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Endophenotype-to-disorder",
+    "text": "Endophenotype-to-disorder\n\n\nThe endophenotype-to-disorder approach introduced\nintermediate phenotypes.\n\nEndophenotypes are heritable biological traits associated with disorders.\n\n\nThey can be:\n\nPhysiological\n\nBiochemical\n\nAnatomical\n\nExample: macrocephaly or immune alterations in ASD.\n\n\n\nThis approach assumes that:\n\nEndophenotypes have clearer genetic bases\n\nGenes exert stronger effects on intermediate traits\nthan on complex diagnoses\n\n\n\n\n\n\n\n\nflowchart LR\n    Genes[\"Genes\"]\n    Endo[\"Endophenotype\"]\n    Disorder[\"Disorder\"]\n\n    Genes --&gt; Endo\n    Endo --&gt; Disorder\n\n    %% Node style\n    classDef simple fill:#a4d5c2,color:#000,stroke:#9f8ca0,stroke-width:3px,font-size:18px\n    class Genes,Endo,Disorder simple\n\n    %% Arrow style (line + arrowhead)\n    linkStyle 0 stroke:#9f8ca0,stroke-width:3px,fill:#9f8ca0\n    linkStyle 1 stroke:#9f8ca0,stroke-width:3px,fill:#9f8ca0"
+  },
+  {
+    "objectID": "9_resilience_gxe.html#geneenvironment-interaction-g-e",
+    "href": "9_resilience_gxe.html#geneenvironment-interaction-g-e",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Gene–environment interaction (G × E)",
+    "text": "Gene–environment interaction (G × E)\n\n\nThe gene–environment interaction (G × E) approach\nexplicitly includes environmental factors.\n\nThe G × E approach assumes that:\n\nEnvironmental risk factors can contribute to disorders\n\nGenotype modulates susceptibility to these factors\n\nGenes influence sensitivity to the environment.\n\n\n\nAccording to the G × E framework:\n\nThere may be no gene-behavior association\nin the absence of environmental stressors\nThere may be no environmental effect\nwithout genetic susceptibility\n\nRisk emerges from their interaction.\n\n\n\n\n\n\nflowchart LR\n    Genes[\"Genes\"]\n    Env[\"Environment\"]\n    J(( ))\n    Disorder[\"Disorder\"]\n\n    Genes --&gt; J\n    Env --&gt; J\n    J --&gt; Disorder\n\n    %% Node styles\n    classDef simple fill:#a4d5c2,color:#000,stroke:#9f8ca0,stroke-width:3px,font-size:18px\n    classDef junction fill:#ffffff,stroke:#9f8ca0,stroke-width:3px\n\n\n    class Genes,Env,Disorder box\n    class J junction\n\n    %% Arrow style\n    linkStyle 0 stroke:#9f8ca0,stroke-width:4px\n    linkStyle 1 stroke:#9f8ca0,stroke-width:4px\n    linkStyle 2 stroke:#9f8ca0,stroke-width:4px"
+  },
+  {
+    "objectID": "9_resilience_gxe.html#geneenvironment-interaction-g-e-1",
+    "href": "9_resilience_gxe.html#geneenvironment-interaction-g-e-1",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Gene–environment interaction (G × E)",
+    "text": "Gene–environment interaction (G × E)"
+  },
+  {
+    "objectID": "9_resilience_gxe.html#genes-as-risk-factors",
+    "href": "9_resilience_gxe.html#genes-as-risk-factors",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Genes as risk factors",
+    "text": "Genes as risk factors\n\n\nIn this view:\n\nGenes are not causative\n\nThey increase the probability of developing a disorder\n\nOnly under specific environmental conditions.\n\nGenetic and environmental factors:\n\nAre both risk factors\n\nAct together\n\nIncrease vulnerability when combined\n\nExposure does not guarantee pathology.\n\n\n\nGenes:\n\nDefine neural circuit potential\n\nAlso define limits of environmental influence\n\nThe environment:\n\nActs on genetic circuits\n\nShapes them toward maturity\n\n\n\n\nDonald Hebb summarized this relationship clearly. Asked whether genes or environment matter more, he replied: Is the height or the width more important to calculate the area of a rectangle?"
   }
 ]

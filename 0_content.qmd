@@ -54,6 +54,7 @@ from neurons to systems.
 - [Motor System](6_motor.html)
 - [Emotion, Motivation & Stress](7_emotion_motivation.html)
 - [Neuroplasticity](8_Neuroplasticity.html)
+- [Resilience GxE](9_resilience_gxe.qmd)
 :::
 
 :::
