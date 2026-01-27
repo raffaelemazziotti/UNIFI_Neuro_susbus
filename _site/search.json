@@ -668,127 +668,127 @@
     "objectID": "3_synapse.html#postsynaptic-events",
     "href": "3_synapse.html#postsynaptic-events",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Postsynaptic Events",
-    "text": "3. Postsynaptic Events\n\n\nNeurotransmitter binding produces graded signals of different types:\n\nEPSP: Excitatory PostSynaptic Potential\nIPSP: Inhibitory PostSynaptic Potential\n\n\nExcitatory synapses:\n\nDepolarize the membrane\nMediated by Na (or Ca²⁺ in special cases) influx\n\nInhibitory synapses:\n\nHyperpolarize or stabilize membrane potential\nMediated by Cl⁻ influx\n\n\n\n\n\n\n\n\n\nNeurotransmitter action ends by:\n\nReuptake into presynaptic terminal\nEnzymatic degradation"
+    "section": "Postsynaptic Events",
+    "text": "Postsynaptic Events\n\n\nNeurotransmitter binding produces graded signals of different types:\n\nEPSP: Excitatory PostSynaptic Potential\nIPSP: Inhibitory PostSynaptic Potential\n\n\nExcitatory synapses:\n\nDepolarize the membrane\nMediated by Na (or Ca²⁺ in special cases) influx\n\nInhibitory synapses:\n\nHyperpolarize or stabilize membrane potential\nMediated by Cl⁻ influx\n\n\n\n\n\n\n\n\n\nNeurotransmitter action ends by:\n\nReuptake into presynaptic terminal\nEnzymatic degradation"
   },
   {
     "objectID": "3_synapse.html#neurotransmitters",
     "href": "3_synapse.html#neurotransmitters",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Neurotransmitters",
-    "text": "3. Neurotransmitters\nNeurotransmitters are chemical messengers released at synapses\nThey transmit signals from a presynaptic neuron to a postsynaptic cell\n\n\n\nEach neurotransmitter:\n\nIs synthesized in the neuron\nIs released in response to activity\nActs on specific receptors\n\n\n\n\nNeurotransmitters can be grouped by function:\n\nExcitatory\nInhibitory\nModulatory\n\n\n\n\nThe effect depends on the receptor, not only on the neurotransmitter"
+    "section": "Neurotransmitters",
+    "text": "Neurotransmitters\nNeurotransmitters are chemical messengers released at synapses\nThey transmit signals from a presynaptic neuron to a postsynaptic cell\n\n\n\nEach neurotransmitter:\n\nIs synthesized in the neuron\nIs released in response to activity\nActs on specific receptors\n\n\n\n\nNeurotransmitters can be grouped by function:\n\nExcitatory\nInhibitory\nModulatory\n\n\n\n\nThe effect depends on the receptor, not only on the neurotransmitter"
   },
   {
     "objectID": "3_synapse.html#glutamate---glu",
     "href": "3_synapse.html#glutamate---glu",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Glutamate - Glu",
-    "text": "3. Glutamate - Glu\n\n\n\nMain excitatory neurotransmitter in the brain\n\n\nIncreases neuronal excitability (EPSP)\nReally abbundant in the brain\n\n\nActs on:\n\nIonotropic receptors\nMetabotropic receptors"
+    "section": "Glutamate - Glu",
+    "text": "Glutamate - Glu\n\n\n\nMain excitatory neurotransmitter in the brain\n\n\nIncreases neuronal excitability (EPSP)\nReally abbundant in the brain\n\n\nActs on:\n\nIonotropic receptors\nMetabotropic receptors"
   },
   {
     "objectID": "3_synapse.html#gaba",
     "href": "3_synapse.html#gaba",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. GABA",
-    "text": "3. GABA\n\n\n\nMain inhibitory neurotransmitter in the brain\n\n\nReduces neuronal excitability (IPSP)\nEssential for network stability\n\n\nActs on:\n\nIonotropic receptors (fast inhibition)\nMetabotropic receptors (slow inhibition)"
+    "section": "GABA",
+    "text": "GABA\n\n\n\nMain inhibitory neurotransmitter in the brain\n\n\nReduces neuronal excitability (IPSP)\nEssential for network stability\n\n\nActs on:\n\nIonotropic receptors (fast inhibition)\nMetabotropic receptors (slow inhibition)"
   },
   {
     "objectID": "3_synapse.html#acetylcholine---ach",
     "href": "3_synapse.html#acetylcholine---ach",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Acetylcholine - ACh",
-    "text": "3. Acetylcholine - ACh\n\n\n\nActs as a Diffuse Projection System in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: Cholinergic system\n\nInvolved in:\n\nMuscle contraction\nVital and Cognitive functions\n\n\nActs on:\n\nIonotropic receptors\nMetabotropic receptors"
+    "section": "Acetylcholine - ACh",
+    "text": "Acetylcholine - ACh\n\n\n\nActs as a Diffuse Projection System in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: Cholinergic system\n\nInvolved in:\n\nMuscle contraction\nVital and Cognitive functions\n\n\nActs on:\n\nIonotropic receptors\nMetabotropic receptors"
   },
   {
     "objectID": "3_synapse.html#serotonin",
     "href": "3_synapse.html#serotonin",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Serotonin - 5-Ht",
-    "text": "3. Serotonin - 5-Ht\n\n\n\nActs as a Diffuse Projection System in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: Serotoninergic system\n\nInvolved in:\n\nMood and Emotional processing\nVital functions including Sleep and Appetite\n\n\nActs on:\n\nIonotropic receptors\nMetabotropic receptors"
+    "section": "Serotonin - 5-HT",
+    "text": "Serotonin - 5-HT\n\n\n\nActs as a Diffuse Projection System in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: Serotoninergic system\n\nInvolved in:\n\nMood and Emotional processing\nVital functions including Sleep and Appetite\n\n\nActs on:\n\nIonotropic receptors\nMetabotropic receptors"
   },
   {
     "objectID": "3_synapse.html#dopamine",
     "href": "3_synapse.html#dopamine",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Dopamine - DA",
-    "text": "3. Dopamine - DA\n\n\n\nActs as a Diffuse Projection System in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: Dopaminergic system\nInvolved in:\n\n\nMotivation, Learning and Reward\nMovement control\n\n\nActs on:\n\nMetabotropic receptors"
+    "section": "Dopamine - DA",
+    "text": "Dopamine - DA\n\n\n\nActs as a Diffuse Projection System in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: Dopaminergic system\nInvolved in:\n\n\nMotivation, Learning and Reward\nMovement control\n\n\nActs on:\n\nMetabotropic receptors"
   },
   {
     "objectID": "3_synapse.html#noradrenaline---na",
     "href": "3_synapse.html#noradrenaline---na",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Noradrenaline - NA",
-    "text": "3. Noradrenaline - NA\n\n\n\nOr Norepinephrine. Acts as a Diffuse Projection System in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: Noradrenergic System.\n\nInvolved in:\n\nArousal and Attention\nStress response\n\n\nActs on:\n\nMetabotropic receptors"
+    "section": "Noradrenaline - NA",
+    "text": "Noradrenaline - NA\n\n\n\nOr Norepinephrine. Acts as a Diffuse Projection System in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: Noradrenergic System.\n\nInvolved in:\n\nArousal and Attention\nStress response\n\n\nActs on:\n\nMetabotropic receptors"
   },
   {
     "objectID": "3_synapse.html#adrenaline",
     "href": "3_synapse.html#adrenaline",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Adrenaline",
-    "text": "3. Adrenaline\n\n\n\nOr Epinephrine. Less abundant in the Central Nervous System than other neurotransmitters. More Peripheral.\n\nInvolved in:\n\nArousal and Autonomic regulation\nStress response\n\n\nActs on:\n\nMetabotropic receptors"
+    "section": "Adrenaline",
+    "text": "Adrenaline\n\n\n\nOr Epinephrine. Less abundant in the Central Nervous System than other neurotransmitters. More Peripheral.\n\nInvolved in:\n\nArousal and Autonomic regulation\nStress response\n\n\nActs on:\n\nMetabotropic receptors"
   },
   {
     "objectID": "3_synapse.html#other-signaling-molecules",
     "href": "3_synapse.html#other-signaling-molecules",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Other Signaling Molecules",
-    "text": "3. Other Signaling Molecules\nIn addition to classical neurotransmitters, neurons use other chemical signals.\nThese molecules often act as modulators rather than fast transmitters\n\n\n\nNeuropeptides\n\nEndorphins\n\nPain, Reward, Stress regulation …\n\nOxytocin\n\nSocial, Maternal behavior …\n\nSubstance P\n\nPain, Inflammatory responses …\n\n\n\n\n\nOther Signaling Systems\n\nEndocannabinoids\n\nAppetite, mood, and memory, Retrograde signaling ….\n\nNitric Oxide (NO)\n\nRetrograde and Short-range signaling, Blood flow regulation …"
+    "section": "Other Signaling Molecules",
+    "text": "Other Signaling Molecules\nIn addition to classical neurotransmitters, neurons use other chemical signals.\nThese molecules often act as modulators rather than fast transmitters\n\n\n\nNeuropeptides\n\nEndorphins\n\nPain, Reward, Stress regulation …\n\nOxytocin\n\nSocial, Maternal behavior …\n\nSubstance P\n\nPain, Inflammatory responses …\n\n\n\n\n\nOther Signaling Systems\n\nEndocannabinoids\n\nAppetite, mood, and memory, Retrograde signaling ….\n\nNitric Oxide (NO)\n\nRetrograde and Short-range signaling, Blood flow regulation …"
   },
   {
     "objectID": "3_synapse.html#receptors",
     "href": "3_synapse.html#receptors",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Receptors",
-    "text": "3. Receptors\nNeurotransmitters act by binding to receptors on the postsynaptic membrane\nReceptors determine the speed and effect of synaptic transmission\n\n\n\nIonotropic Receptors\n\nLigand-gated ion channels\nNeurotransmitter binding directly opens the channel\nProduce fast responses (milliseconds)\n\n\n\n\nMetabotropic Receptors\n\nDo not form ion channels\nCoupled to intracellular signaling pathways\nNeurotransmitter binding activates G-proteins\nEffects are slower but longer-lasting"
+    "section": "Receptors",
+    "text": "Receptors\nNeurotransmitters act by binding to receptors on the postsynaptic membrane\nReceptors determine the speed and effect of synaptic transmission\n\n\n\nIonotropic Receptors\n\nLigand-gated ion channels\nNeurotransmitter binding directly opens the channel\nProduce fast responses (milliseconds)\n\n\n\n\nMetabotropic Receptors\n\nDo not form ion channels\nCoupled to intracellular signaling pathways\nNeurotransmitter binding activates G-proteins\nEffects are slower but longer-lasting"
   },
   {
     "objectID": "3_synapse.html#glutamate-ionotropic-receptors",
     "href": "3_synapse.html#glutamate-ionotropic-receptors",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Glutamate Ionotropic Receptors",
-    "text": "3. Glutamate Ionotropic Receptors\n\n\nGlutamate activates multiple ionotropic receptors, including:\n\nAMPA receptors\n\nFast excitatory transmission\nAllow Na⁺ influx\nMain mediator of rapid excitation\n\nNMDA receptors\n\nSlower and Long-lasting kinetics\nPermeable to Ca²⁺\nInvolved in synaptic plasticity"
+    "section": "Glutamate Ionotropic Receptors",
+    "text": "Glutamate Ionotropic Receptors\n\n\nGlutamate activates multiple ionotropic receptors, including:\n\nAMPA receptors\n\nFast excitatory transmission\nAllow Na⁺ influx\nMain mediator of rapid excitation\n\nNMDA receptors\n\nSlower and Long-lasting kinetics\nPermeable to Ca²⁺\nInvolved in synaptic plasticity"
   },
   {
     "objectID": "3_synapse.html#gaba-ionotropic-receptors",
     "href": "3_synapse.html#gaba-ionotropic-receptors",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. GABA Ionotropic Receptors",
-    "text": "3. GABA Ionotropic Receptors\n\n\nGABA-A receptors\n\nIonotropic inhibitory receptors\nAllow Cl⁻ influx\nReduce neuronal excitability\n\nProvide fast inhibition in neural circuits"
+    "section": "GABA Ionotropic Receptors",
+    "text": "GABA Ionotropic Receptors\n\n\nGABA-A receptors\n\nIonotropic inhibitory receptors\nAllow Cl⁻ influx\nReduce neuronal excitability\n\nProvide fast inhibition in neural circuits"
   },
   {
     "objectID": "3_synapse.html#metabotropic-receptors",
     "href": "3_synapse.html#metabotropic-receptors",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Metabotropic Receptors",
-    "text": "3. Metabotropic Receptors\n\nDo not form ion channels\nCoupled to intracellular singaling pathways\nNeurotransmitter binding activates G-proteins\nEffects are slower but longer-lasting\n\n\nSignaling Pathway: chain of intracellular events where molecules relay messages from outside the cell to trigger specific internal responses like growth, division, or death"
+    "section": "Metabotropic Receptors",
+    "text": "Metabotropic Receptors\n\nDo not form ion channels\nCoupled to intracellular singaling pathways\nNeurotransmitter binding activates G-proteins\nEffects are slower but longer-lasting\n\n\nSignaling Pathway: chain of intracellular events where molecules relay messages from outside the cell to trigger specific internal responses like growth, division, or death"
   },
   {
     "objectID": "3_synapse.html#metabotropic-glutamate-receptors-mglurs",
     "href": "3_synapse.html#metabotropic-glutamate-receptors-mglurs",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Metabotropic glutamate receptors (mGluRs)",
-    "text": "3. Metabotropic glutamate receptors (mGluRs)\n\n\n\nModulate synaptic transmission\nRegulate ion channel activity indirectly\nInfluence plasticity and excitability\n\n\nSimilar mechanisms apply to many modulatory systems systems, such as dopamine and serotonin\n\n\nNeuromodulation is the process by which a neurotransmitter does not directly trigger a fast electrical signal, but instead changes how a neuron or a network responds to external inputs."
+    "section": "Metabotropic glutamate receptors (mGluRs)",
+    "text": "Metabotropic glutamate receptors (mGluRs)\n\n\n\nModulate synaptic transmission\nRegulate ion channel activity indirectly\nInfluence plasticity and excitability\n\n\nSimilar mechanisms apply to many modulatory systems systems, such as dopamine and serotonin\n\n\nNeuromodulation is the process by which a neurotransmitter does not directly trigger a fast electrical signal, but instead changes how a neuron or a network responds to external inputs."
   },
   {
     "objectID": "3_synapse.html#position-of-the-synapse",
     "href": "3_synapse.html#position-of-the-synapse",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Position of the Synapse",
-    "text": "3. Position of the Synapse\nAlso the position of a synapse along a neuron matters, because neurons are not electrically uniform cables. Where a signal arrives strongly shapes what it can do.\n\n\n\n\nAxo-dendritic\n\nAxon contacts a dendrite (Most common type)\nOften excitatory\n\n\n\n\n\nAxo-somatic\n\nAxon contacts the cell body\nStrong influence on spike generation\n\n\n\n\n\n\nAxo-axonic\n\nAxon contacts another axon\nModulates neurotransmitter release"
+    "section": "Position of the Synapse",
+    "text": "Position of the Synapse\nAlso the position of a synapse along a neuron matters, because neurons are not electrically uniform cables. Where a signal arrives strongly shapes what it can do.\n\n\n\n\nAxo-dendritic\n\nAxon contacts a dendrite (Most common type)\nOften excitatory\n\n\n\n\n\nAxo-somatic\n\nAxon contacts the cell body\nStrong influence on spike generation\n\n\n\n\n\n\nAxo-axonic\n\nAxon contacts another axon\nModulates neurotransmitter release"
   },
   {
     "objectID": "3_synapse.html#neurotransmitter-clearance",
     "href": "3_synapse.html#neurotransmitter-clearance",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Neurotransmitter Clearance",
-    "text": "3. Neurotransmitter Clearance\nAfter release, neurotransmitters must be removed from the synaptic cleft\nThis ensures that synaptic signals are brief and precisely controlled\n\nReuptake\n\nNeurotransmitter is transported back into the presynaptic terminal\nMediated by specific membrane transporters\nAllows recycling of neurotransmitter molecules\n\nEnzymatic Degradation\n\nNeurotransmitter is broken down by enzymes in the synaptic cleft\nPrevents prolonged receptor activation"
+    "section": "Neurotransmitter Clearance",
+    "text": "Neurotransmitter Clearance\nAfter release, neurotransmitters must be removed from the synaptic cleft\nThis ensures that synaptic signals are brief and precisely controlled\n\nReuptake\n\nNeurotransmitter is transported back into the presynaptic terminal\nMediated by specific membrane transporters\nAllows recycling of neurotransmitter molecules\n\nEnzymatic Degradation\n\nNeurotransmitter is broken down by enzymes in the synaptic cleft\nPrevents prolonged receptor activation"
   },
   {
     "objectID": "3_synapse.html#drugs-and-neurotransmitter-clearance",
     "href": "3_synapse.html#drugs-and-neurotransmitter-clearance",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Drugs and Neurotransmitter Clearance",
-    "text": "3. Drugs and Neurotransmitter Clearance\nMany drugs act by altering how neurotransmitters are removed from the synaptic cleft\nBy changing clearance, drugs modify the strength and duration of synaptic signaling.\n\n\n\nSelective Serotonin Reuptake Inhibitors (SSRIs)\n\nBlock serotonin reuptake transporters\nIncrease serotonin availability at synapses\n\nUsed to treat:\n\nDepression\nAnxiety disorders\n\nEffects develop slowly due to circuit-level adaptations\n\n\n\nCocaine\n\nBlocks reuptake of:\n\nDopamine\nNorepinephrine\nSerotonin\n\n\nResults in:\n\nStrong increase in synaptic signaling\nEnhanced reward and arousal\nHigh addictive potential"
+    "section": "Drugs and Neurotransmitter Clearance",
+    "text": "Drugs and Neurotransmitter Clearance\nMany drugs act by altering how neurotransmitters are removed from the synaptic cleft\nBy changing clearance, drugs modify the strength and duration of synaptic signaling.\n\n\n\nSelective Serotonin Reuptake Inhibitors (SSRIs)\n\nBlock serotonin reuptake transporters\nIncrease serotonin availability at synapses\n\nUsed to treat:\n\nDepression\nAnxiety disorders\n\nEffects develop slowly due to circuit-level adaptations\n\n\n\nCocaine\n\nBlocks reuptake of:\n\nDopamine\nNorepinephrine\nSerotonin\n\n\nResults in:\n\nStrong increase in synaptic signaling\nEnhanced reward and arousal\nHigh addictive potential"
   },
   {
     "objectID": "3_synapse.html#in-class-exercise---items",
@@ -1151,8 +1151,8 @@
     "objectID": "3_synapse.html#self-check",
     "href": "3_synapse.html#self-check",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "3. Self-check",
-    "text": "3. Self-check"
+    "section": "Self-check",
+    "text": "Self-check"
   },
   {
     "objectID": "5_sensory.html#self-check",
@@ -1628,7 +1628,7 @@
     "href": "9_resilience_gxe.html#the-kauai-longitudinal-study",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "The Kauai longitudinal study",
-    "text": "The Kauai longitudinal study\n\n\nThe concept of resilience entered psychology through\na landmark longitudinal study.\nWerner (1993) followed the entire cohort of children\nborn in 1955 on the island of Kauai (about 700 individuals for more than 40 years).\n\nAbout 1/3 of these children were exposed to:\n\nSocial disadvantage\n\nFamily instability\n\nEnvironmental stress\n\nAs a group, this population showed a higher incidence\nof psychological distress.\n\n\n\nDespite high risk exposure:\n\nOne third of these children developed normally\n\nThey formed stable relationships\n\nShowed good work performance\n\nDemonstrated sociability and altruism\n\nThese individuals were defined as resilient.\n\n\nWhat differentiated resilient individuals\nfrom those who succumbed to early adversity?"
+    "text": "The Kauai longitudinal study\n\n\nThe concept of resilience entered psychology through a landmark longitudinal study.\nWerner (1993) followed the entire cohort of children born in 1955 on the island of Kauai (about 700 individuals, for more than 40 years).\n\nAbout 1/3 of these children were exposed to:\n\nSocial disadvantage\n\nFamily instability\n\nEnvironmental stress\n\nAs a group, this population showed a higher incidence of psychological distress.\n\n\n\nDespite high risk exposure:\n\nOne third of these children developed normally\n\nThey formed stable relationships\n\nShowed good work performance\n\nDemonstrated sociability and altruism\n\nThese individuals were defined as resilient.\n\n\nWhat differentiated resilient individuals\nfrom those who succumbed to early adversity?"
   },
   {
     "objectID": "9_resilience_gxe.html#from-risk-to-protection",
@@ -1656,7 +1656,7 @@
     "href": "9_resilience_gxe.html#genetic-factors-and-behavior",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Genetic factors and behavior",
-    "text": "Genetic factors and behavior\n\n\nUnderstanding how genetic factors contribute\nto behavior and its disorders is a central problem in neuroscience.\n\nCaspi et al. (2006) described three main approaches\nto study this relationship:\n\nGene-to-disorder approach\n\nEndophenotype-to-disorder approach\n\nGene–environment interaction approach"
+    "text": "Genetic factors and behavior\n\n\nUnderstanding how genetic factors contribute\nto behavior and its disorders is a central problem in neuroscience.\n\nCaspi et al. (2006) described three main approaches to study this relationship:\n\nGene-to-disorder approach\n\nEndophenotype-to-disorder approach\n\nGene–environment interaction approach"
   },
   {
     "objectID": "9_resilience_gxe.html#gene-to-disorder",
@@ -1692,5 +1692,194 @@
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Genes as risk factors",
     "text": "Genes as risk factors\n\n\nIn this view:\n\nGenes are not causative\n\nThey increase the probability of developing a disorder\n\nOnly under specific environmental conditions.\n\nGenetic and environmental factors:\n\nAre both risk factors\n\nAct together\n\nIncrease vulnerability when combined\n\nExposure does not guarantee pathology.\n\n\n\nGenes:\n\nDefine neural circuit potential\n\nAlso define limits of environmental influence\n\nThe environment:\n\nActs on genetic circuits\n\nShapes them toward maturity\n\n\n\n\nDonald Hebb summarized this relationship clearly. Asked whether genes or environment matter more, he replied: Is the height or the width more important to calculate the area of a rectangle?"
+  },
+  {
+    "objectID": "9_resilience_gxe.html#polymorphisms-as-risk-and-protective-factors",
+    "href": "9_resilience_gxe.html#polymorphisms-as-risk-and-protective-factors",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Polymorphisms as risk and protective factors",
+    "text": "Polymorphisms as risk and protective factors\n\n\n\nA polymorphism is a variation in DNA sequence present in more than 1% of the population.\n\nPolymorphisms can involve:\n\nSubstitution of DNA bases\n\nDeletion of DNA bases\n\nInsertion of DNA bases\n\nThey do not cause disease by themselves.\n\n\nPolymorphisms can act as:\n\nRisk factors\n\nProtective factors\n\nTheir effect depends on the environment.\nThis fits the gene–environment interaction framework."
+  },
+  {
+    "objectID": "9_resilience_gxe.html#childhood-maltreatment-and-antisocial-behavior",
+    "href": "9_resilience_gxe.html#childhood-maltreatment-and-antisocial-behavior",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Childhood maltreatment and antisocial behavior",
+    "text": "Childhood maltreatment and antisocial behavior\n\n\nChildhood maltreatment is a strong and universal risk factor for antisocial behavior. However:\n\nNot all maltreated children develop antisocial outcomes\n\nResponses to maltreatment vary widely\n\nThis variability suggests biological moderation.\n\nCaspi et al. (2002) focused on the MAOA gene.\nThe MAOA gene:\n\nIs located on the X chromosome\n\nCodes for the enzyme monoamine oxidase A\n\n\n\n\n\nThe MAOA enzyme is involved in the catabolism of:\n\nDopamine\n\nNorepinephrine\n\nSerotonin\n\nIt makes these neurotransmitters inactive."
+  },
+  {
+    "objectID": "9_resilience_gxe.html#maoa-polymorphism",
+    "href": "9_resilience_gxe.html#maoa-polymorphism",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "MAOA polymorphism",
+    "text": "MAOA polymorphism\n\n\nA functional polymorphism affects MAOA activity. Low-activity MAOA variants:\n\nDegrade monoamines less efficiently\n\nAllow neurotransmitters to persist longer\n\nIncrease synaptic signaling\n\n\nIn mice:\n\nSilencing the MAOA gene increases aggression\nRestoring MAOA expression normalizes aggression\n\nThis shows a causal link in regulating aggression.\n\n\n\nIn humans:\n\nA rare null mutation of MAOA was linked\nto antisocial behavior in a Dutch family\n\nBecause MAOA is X-linked:\n\nAffected males had no functional enzyme\n\nThis acted as a human knockout\n\nThis mutation is extremely rare.\n\n\nIn most individuals:\n\nMAOA is present\n\nBut its activity varies"
+  },
+  {
+    "objectID": "9_resilience_gxe.html#the-dunedin-longitudinal-study",
+    "href": "9_resilience_gxe.html#the-dunedin-longitudinal-study",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "The Dunedin longitudinal study",
+    "text": "The Dunedin longitudinal study\n\n\n\nCaspi et al. tested this hypothesis\nin the Dunedin Multidisciplinary Health and Development Study.\nThis cohort includes:\n\n1,037 individuals\n\nBorn in 1972–1973 in Dunedin, New Zealand\n\nParticipants were followed from childhood into adulthood.\n\n\nThe study had three major strengths:\n\nThe cohort represents the general population.\nWell-characterized adversity\nAntisocial behavior was assessed using multiple sources"
+  },
+  {
+    "objectID": "9_resilience_gxe.html#geneenvironment-interaction",
+    "href": "9_resilience_gxe.html#geneenvironment-interaction",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Gene–environment interaction",
+    "text": "Gene–environment interaction\n\n\nIn the absence of maltreatment:\n\nBoth MAOA genotypes showed low antisocial behavior\n\nThe polymorphism alone was not sufficient.\n\nWhen maltreatment occurred:\n\nAntisocial behavior increased in all individuals\n\nThe increase was much stronger\nin low-activity MAOA individuals\n\nThe curves diverged only under adversity.\n\n\n\nIf the environment is protective:\n\nThe genotype does not produce antisocial behavior\n\nMaltreatment is necessary for the genetic effect to emerge.\nAlthough only 12% of males had both:\n\nLow-activity MAOA\n\nChildhood maltreatment\n\nThey accounted for 44% of violent convictions."
+  },
+  {
+    "objectID": "9_resilience_gxe.html#gene-environment-interaction",
+    "href": "9_resilience_gxe.html#gene-environment-interaction",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Gene-environment interaction",
+    "text": "Gene-environment interaction\n\n\nIn the absence of maltreatment:\n\nBoth MAOA genotypes showed low antisocial behavior\n\nThe polymorphism alone was not sufficient.\n\nWhen maltreatment occurred:\n\nAntisocial behavior increased in all individuals\n\nThe increase was much stronger\nin low-activity MAOA individuals\n\nThe curves diverged only under adversity.\n\n\n\nIf the environment is protective:\n\nThe genotype does not produce antisocial behavior\n\nMaltreatment is necessary for the genetic effect to emerge.\nAlthough only 12% of males had both:\n\nLow-activity MAOA\n\nChildhood maltreatment\n\nThey accounted for 44% of violent convictions."
+  },
+  {
+    "objectID": "9_resilience_gxe.html#gene-environment-interaction-1",
+    "href": "9_resilience_gxe.html#gene-environment-interaction-1",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Gene-environment interaction",
+    "text": "Gene-environment interaction\n\n\n\n\n\n\n\n\n\nAmong severely maltreated males:\n\n85% with low-activity MAOA\ndeveloped antisocial behavior\n\nRisk increased, but outcomes were not inevitable.\n\n\nPathogenesis is multifactorial.\nIt is:\n\nNot purely genetic\n\nNot purely environmental\n\nRisk emerges from their interaction."
+  },
+  {
+    "objectID": "9_resilience_gxe.html#life-stress-and-depression",
+    "href": "9_resilience_gxe.html#life-stress-and-depression",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Life stress and depression",
+    "text": "Life stress and depression\n\n\nAcross the lifespan, stressful life events involving:\n\nThreat\n\nLoss\n\nHumiliation\n\nDefeat\n\nstrongly influence the onset and course of depression.\nHowever, not everyone exposed to stress becomes depressed.\n\n\nCaspi et al. proposed that:\n\nStressful life events act as an environmental risk factor\n\nGenetic variation moderates individual sensitivity to stress\n\nThis follows the gene–environment interaction framework."
+  },
+  {
+    "objectID": "9_resilience_gxe.html#major-depressive-disorder-mdd",
+    "href": "9_resilience_gxe.html#major-depressive-disorder-mdd",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Major Depressive Disorder (MDD)",
+    "text": "Major Depressive Disorder (MDD)\n\n\n\nMajor Depressive Disorder\n\n\nDSM-5 • Mood Disorders\n\n\n\nCore features\n- Depressed mood - Loss of interest or pleasure (anhedonia)\nDiagnostic criteria (≥ 5 for ≥ 2 weeks)\n- Depressed mood - Anhedonia - Sleep disturbance - Appetite or weight change - Psychomotor agitation or retardation - Fatigue - Feelings of worthlessness or guilt - Impaired concentration - Recurrent thoughts of death\nClinical notes\n- Symptoms cause significant distress or impairment\n- Not attributable to substances or medical conditions\n- No history of manic or hypomanic episodes"
+  },
+  {
+    "objectID": "9_resilience_gxe.html#the-candidate-gene-5-htt",
+    "href": "9_resilience_gxe.html#the-candidate-gene-5-htt",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "The candidate gene: 5-HTT",
+    "text": "The candidate gene: 5-HTT\n\n\n\nThe gene under study codes for the serotonin transporter (5-HTT). The transporter regulates serotonin reuptake at the synapse.\n\nThe serotonin system is relevant to depression because:\n\nIt is the target of SSRI antidepressant drugs\n\nIt modulates mood, stress reactivity, and emotion regulation\n\nThis makes 5-HTT a plausible candidate gene.\n\n\nThe 5-HTT gene contains a polymorphism in its promoter region\ncalled 5-HTTLPR. Two main variants exist: Long (l) and Short (s) allele.\n\nThe short allele is associated with:\n\nLower transcriptional efficiency\n\nReduced serotonin transporter expression\n\n\nGenotypes:\n\nl/l: high transporter expression\n\ns/l: intermediate expression\n\ns/s: low expression"
+  },
+  {
+    "objectID": "9_resilience_gxe.html#non-human-primates",
+    "href": "9_resilience_gxe.html#non-human-primates",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Non-human primates",
+    "text": "Non-human primates\n\n\nIn rhesus macaques:\n\nThe 5-HTTLPR polymorphism is analogous to humans\n\nThe short allele is associated with:\n\nReduced serotonergic function\n\nAbnormal HPA response\n\n\nOnly in monkeys reared in stressful conditions No effect is seen in normally reared monkeys."
+  },
+  {
+    "objectID": "7_emotion_motivation.html#hpa",
+    "href": "7_emotion_motivation.html#hpa",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "The HPA axis",
+    "text": "The HPA axis\n\n\n\nThe HPA axis is a hormonal stress response system. It links the brain to peripheral organs through endocrine signaling. It produces slower but longer-lasting effects than autonomic responses.\n\nDuring stress:\n\nThe hypothalamus is activated (CRF)\nThe pituitary gland releases signaling hormones (ACTH)\n\nThe adrenal glands release glucocorticoids\n\nThis cascade is a loop."
+  },
+  {
+    "objectID": "9_resilience_gxe.html#the-dunedin-study",
+    "href": "9_resilience_gxe.html#the-dunedin-study",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "The Dunedin study",
+    "text": "The Dunedin study\nDifferent types of stressful life events between ages 21 and 26 were assessed.\nAmong participants:\n\n30% experienced no stressful events\n\n20% experienced two events\n\n11% experienced three events\n\n15% experienced four or more events"
+  },
+  {
+    "objectID": "9_resilience_gxe.html#the-dunedin-study-on-mdd",
+    "href": "9_resilience_gxe.html#the-dunedin-study-on-mdd",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "The Dunedin study on MDD",
+    "text": "The Dunedin study on MDD\n\n\nDifferent types of stressful life events between ages 21 and 26 were assessed. Among participants:\n\n30% experienced no stressful events\n\n20% experienced two events\n\n11% experienced three events\n\n15% experienced four or more events\n\n\nThere was:\n\nNo significant main effect of genotype\n\nA significant gene–environment interaction\n\n\n\n\nAs the number of stressful life events increased:\n\nRisk of depression increased in all individuals\n\nThe increase was much steeper in s/s individuals\n\nl/l individuals were relatively protected\n\n\n\nIn the absence of stressful life events: All genotypes showed similar levels of depression\nThe gene alone was not sufficient."
+  },
+  {
+    "objectID": "9_resilience_gxe.html#no-stress-no-difference",
+    "href": "9_resilience_gxe.html#no-stress-no-difference",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "No stress, no difference",
+    "text": "No stress, no difference"
+  },
+  {
+    "objectID": "9_resilience_gxe.html#suicide-related-outcomes",
+    "href": "9_resilience_gxe.html#suicide-related-outcomes",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Suicide-related outcomes",
+    "text": "Suicide-related outcomes\nSimilar interaction effects were observed for:\n\nSuicidal ideation\n\nSuicide attempts\n\nStress predicted these outcomes mainly in s/s individuals."
+  },
+  {
+    "objectID": "9_resilience_gxe.html#suicide-and-early-life-outcomes",
+    "href": "9_resilience_gxe.html#suicide-and-early-life-outcomes",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Suicide and early life outcomes",
+    "text": "Suicide and early life outcomes\nSimilar interaction effects were observed for:\n\nSuicidal ideation\n\nSuicide attempts\n\nStress predicted these outcomes mainly in s/s individuals."
+  },
+  {
+    "objectID": "9_resilience_gxe.html#suicide-and-early-life-adversity-outcomes",
+    "href": "9_resilience_gxe.html#suicide-and-early-life-adversity-outcomes",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Suicide and early life adversity outcomes",
+    "text": "Suicide and early life adversity outcomes\n\n\n\nSimilar interaction effects were observed for:\n\nSuicidal ideation\n\nSuicide attempts\n\nStress predicted these outcomes mainly in s/s individuals.\n\n\nThe interaction also showed a correlation with early life adversities:\n\nChildhood maltreatment predicted adult depression\n\nOnly in individuals carrying an s allele\n\nNot in l/l homozygotes"
+  },
+  {
+    "objectID": "9_resilience_gxe.html#dopamine-and-reward-sensitivity",
+    "href": "9_resilience_gxe.html#dopamine-and-reward-sensitivity",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Dopamine and reward sensitivity",
+    "text": "Dopamine and reward sensitivity\n\n\nIndividual differences in reward sensitivity\ncan be partly influenced by genetic variation.\nOne candidate gene is the DRD4 gene.\n\nThe DRD4 gene codes for the D4 dopamine receptor.\nThis receptor is involved in:\n\nDopamine signaling\n\nPleasure and gratification\n\nMotivation and reward sensitivity\n\n\n\n\n\nThe DRD4 gene shows a functional polymorphism. Two main variants are often considered:\n\nLong (L) allele\n\nShort (S) allele\n\nThe L variant is considered hypofunctional.\n\n\nThe DRD4 polymorphism appears to influence the salience of appetitive stimuli"
+  },
+  {
+    "objectID": "9_resilience_gxe.html#experiment",
+    "href": "9_resilience_gxe.html#experiment",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Experiment",
+    "text": "Experiment\n\n\n\n Experimental Design\n\n\nAlcohol study\n\n\n\nParticipants\nYoung adults\nConditions\n\nOne session with 3 alcoholic drinks\n\nOne session with 3 non-alcoholic control drinks\nThe order of conditions was counterbalanced\n\nResults\nParticipants with the L/L genotype: reported a stronger desire to continue drinking, but only after the alcoholic condition Participants with the S/S genotype showed no difference between conditions."
+  },
+  {
+    "objectID": "9_resilience_gxe.html#conditions",
+    "href": "9_resilience_gxe.html#conditions",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Conditions",
+    "text": "Conditions\n\nOne session with 3 alcoholic drinks\n\nOne session with 3 non-alcoholic control drinks\nThe order of conditions was counterbalanced\n\nClinical notes\n- Symptoms cause significant distress or impairment\n- Not attributable to substances or medical conditions\n- No history of manic or hypomanic episodes"
+  },
+  {
+    "objectID": "9_resilience_gxe.html#alchol-experiment",
+    "href": "9_resilience_gxe.html#alchol-experiment",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Alchol Experiment",
+    "text": "Alchol Experiment\n\n\n\n Experimental Design\n\n\nAlcohol study\n\n\n\nParticipants\nYoung adults\nConditions\n\nOne session with 3 alcoholic drinks\n\nOne session with 3 non-alcoholic control drinks\nThe order of conditions was counterbalanced\n\nResults\nParticipants with the L/L genotype: reported a stronger desire to continue drinking, but only after the alcoholic condition Participants with the S/S genotype showed no difference between conditions."
+  },
+  {
+    "objectID": "9_resilience_gxe.html#smoking-experiment",
+    "href": "9_resilience_gxe.html#smoking-experiment",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Smoking Experiment",
+    "text": "Smoking Experiment\n\n\n\n Experimental Design\n\n\nAlcohol study\n\n\n\nParticipants\nYoung adults\nConditions\n\nOne session with 3 alcoholic drinks\n\nOne session with 3 non-alcoholic control drinks\nThe order of conditions was counterbalanced\n\nResults\nParticipants with the L/L genotype: reported a stronger desire to continue drinking, but only after the alcoholic condition Participants with the S/S genotype showed no difference between conditions."
+  },
+  {
+    "objectID": "9_resilience_gxe.html#not-only-for-alcohol",
+    "href": "9_resilience_gxe.html#not-only-for-alcohol",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Not only for Alcohol",
+    "text": "Not only for Alcohol"
+  },
+  {
+    "objectID": "9_resilience_gxe.html#other-gxe-interactions-cannabis-use",
+    "href": "9_resilience_gxe.html#other-gxe-interactions-cannabis-use",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Other GxE interactions: Cannabis Use",
+    "text": "Other GxE interactions: Cannabis Use\n\n\n\nEarly use of cannabis, especially during adolescence, is associated with an increased risk of psychosis.\n\n\nThis includes:\n\nTransient psychotic symptoms\n\nClinically relevant disorders\n\nDiagnosis of schizophrenia\n\n\n\n\nBut most individuals who use cannabis do not develop psychosis. This suggests that cannabis exposure alone\nis not sufficient.\n\n\n\nOne candidate gene is COMT.\n\n\nThe COMT gene codes for catechol-O-methyltransferase.\nThis enzyme is involved in the degradation of Dopamine\nCOMT activity is particularly important\nin the prefrontal cortex.\n\n\nA functional polymorphism exists in the COMT gene:\n\nMET allele (high activity)\nVAL allele (low activity)"
+  },
+  {
+    "objectID": "9_resilience_gxe.html#other-gxe-interactions-cannabis-use-1",
+    "href": "9_resilience_gxe.html#other-gxe-interactions-cannabis-use-1",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Other GxE interactions: Cannabis Use",
+    "text": "Other GxE interactions: Cannabis Use\n\n\n\n\n\n Experimental Design\n\n\nWorking Memory and Cannabis study\n\n\n\nParticipants\nYoung adults\nProcedure\n\nA small dose of cannabis\n\nPlacebo\n\nPerform a working memory task.\n\nResults\nIn VAL/VAL individuals:\n\nBaseline performance was good\n\nCannabis markedly impaired performance"
+  },
+  {
+    "objectID": "9_resilience_gxe.html#an-evolutionary-question",
+    "href": "9_resilience_gxe.html#an-evolutionary-question",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "An evolutionary question",
+    "text": "An evolutionary question\n\n\n\n\n\n\n\n\n\nIf some polymorphisms increase vulnerability, why have they not been eliminated by evolution?"
   }
 ]

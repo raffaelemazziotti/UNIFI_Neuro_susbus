@@ -1,6 +1,6 @@
 ---
 title: "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes"
-subtitle: "Module 1 - Neuroplasticity"
+subtitle: "Module 1 - GxE"
 author: "Raffaele M Mazziotti, PhD"
 institute: "University of Florence"
 resources:
@@ -64,11 +64,9 @@ Resilience involves `adaptation`, not endurance alone.
 ::: columns
 ::: column
 
-The concept of resilience entered psychology through  
-a landmark [longitudinal study](https://en.wikipedia.org/wiki/Longitudinal_study).
+The concept of resilience entered psychology through a landmark [longitudinal study](https://en.wikipedia.org/wiki/Longitudinal_study).
 
-`Werner (1993)` followed the entire cohort of children  
-born in 1955 on the island of Kauai (about 700 individuals for more than 40 years).
+`Werner (1993)` followed the entire cohort of children born in 1955 on the island of Kauai (about 700 individuals, for more than 40 years).
 
 :::info-box
 About 1/3 of these children were exposed to:
@@ -77,8 +75,7 @@ About 1/3 of these children were exposed to:
 - Family instability  
 - Environmental stress  
 
-As a group, this population showed a higher `incidence`  
-of psychological distress.
+As a group, this population showed a higher `incidence` of psychological distress.
 
 :::
 
@@ -190,8 +187,7 @@ Understanding how genetic factors contribute
 to behavior and its disorders is a central problem in neuroscience.
 
 :::info-box
-[Caspi et al. (2006)](https://www.nature.com/articles/nrn1925) described three main approaches  
-to study this relationship:
+[Caspi et al. (2006)](https://www.nature.com/articles/nrn1925) described three main approaches to study this relationship:
 
 - Gene-to-disorder approach  
 - Endophenotype-to-disorder approach  
@@ -416,6 +412,605 @@ Is the `height` or the `width` more important to calculate the area of a rectang
 
 :::
 
+
+::: 
+::: 
+
+## Polymorphisms as risk and protective factors
+
+::: columns
+::: column
+
+>A `polymorphism` is a variation in DNA sequence present in more than `1%` of the population.
+
+Polymorphisms can involve:
+
+- Substitution of DNA bases  
+- Deletion of DNA bases  
+- Insertion of DNA bases  
+
+They do not cause disease by themselves.
+
+
+::: 
+::: column
+
+:::info-box
+Polymorphisms can act as:
+
+- `Risk factors`  
+- `Protective factors`  
+
+Their effect depends on the environment.
+
+This fits the `gene–environment interaction` framework.
+:::
+
+![](images/gxe_polymorphism.jpg){width="250" fig-align="center"}
+
+::: 
+::: 
+
+## Childhood maltreatment and antisocial behavior
+
+::: columns
+::: column
+
+`Childhood maltreatment` is a strong and universal risk factor for antisocial behavior. However:
+
+- Not all maltreated children develop antisocial outcomes  
+- Responses to maltreatment vary widely  
+
+This variability suggests biological moderation.
+
+:::info-box
+Caspi et al. (2002) focused on the `MAOA` gene.
+
+The [MAOA](https://en.wikipedia.org/wiki/Monoamine_oxidase_A) gene:
+
+- Is located on the `X chromosome`  
+- Codes for the [enzyme](https://en.wikipedia.org/wiki/Enzyme) monoamine oxidase A  
+:::
+
+::: 
+::: column
+
+:::info-box
+The MAOA enzyme is involved in the `catabolism` of:
+
+- Dopamine  
+- Norepinephrine  
+- Serotonin  
+
+It makes these neurotransmitters `inactive`.
+:::
+
+![](images/gxe_maoa.jpg){width="450" fig-align="center"}
+
+::: 
+::: 
+
+## MAOA polymorphism
+
+::: columns
+::: column
+
+A functional polymorphism affects MAOA activity.
+`Low-activity MAOA` variants:
+
+- Degrade monoamines less efficiently  
+- Allow neurotransmitters to persist longer  
+- Increase synaptic signaling
+
+:::info-box
+In mice:
+
+- Silencing the MAOA gene increases aggression
+- Restoring MAOA expression normalizes aggression  
+
+This shows a causal link in regulating aggression.
+:::
+
+::: 
+::: column
+
+:::info-box
+In humans:
+
+- A rare null mutation of MAOA was linked  
+  to antisocial behavior in a Dutch family  
+
+Because MAOA is X-linked:
+
+- Affected males had no functional enzyme  
+- This acted as a human [knockout](https://en.wikipedia.org/wiki/Gene_knockout) 
+
+This mutation is `extremely rare`.
+:::
+
+:::info-box
+In most individuals:
+
+- MAOA is present  
+- But its activity varies
+:::
+
+::: 
+::: 
+
+## The Dunedin longitudinal study
+
+![](images/gxe_dunedin.png){width="200" fig-align="center"}
+
+::: columns
+::: column
+
+Caspi et al. tested this hypothesis  
+in the `Dunedin Multidisciplinary Health and Development Study`.
+
+This cohort includes:
+
+- 1,037 individuals  
+- Born in 1972–1973 in Dunedin, New Zealand  
+
+Participants were followed from childhood into adulthood.
+
+::: 
+::: column
+
+:::info-box
+The study had three major strengths:
+
+- The cohort represents the general population.
+- Well-characterized adversity
+- Antisocial behavior was assessed using multiple sources
+:::
+
+::: 
+:::
+
+## Gene-environment interaction
+
+::: columns
+::: column
+
+In the absence of maltreatment:
+
+- Both MAOA genotypes showed low antisocial behavior  
+
+The polymorphism alone was not sufficient.
+
+:::info-box
+When maltreatment occurred:
+
+- Antisocial behavior increased in all individuals  
+- The increase was much stronger  
+  in low-activity MAOA individuals  
+
+The curves diverged only under adversity.
+:::
+
+::: 
+::: column
+
+:::info-box
+If the environment is protective:
+
+- The genotype does not produce antisocial behavior  
+
+Maltreatment is necessary for the genetic effect to emerge.
+
+Although only `12%` of males had both:
+
+- Low-activity MAOA  
+- Childhood maltreatment  
+
+They accounted for `44%` of violent convictions.
+
+:::
+
+::: 
+::: 
+
+## Gene-environment interaction
+
+::: columns
+::: column
+![](images/gxe_maoa_antisocial.png){width="600" fig-align="center"}
+
+::: 
+::: column
+
+:::info-box
+Among severely maltreated males:
+
+- `85%` with low-activity MAOA  
+  developed antisocial behavior  
+
+Risk increased, but outcomes were not inevitable.
+:::
+
+:::info-box
+Pathogenesis is `multifactorial`.
+
+It is:
+
+- Not purely genetic  
+- Not purely environmental  
+
+Risk emerges from their interaction.
+:::
+
+::: 
+::: 
+
+## Life stress and depression
+
+::: columns
+::: column
+
+Across the lifespan, `stressful life events` involving:
+
+- Threat  
+- Loss  
+- Humiliation  
+- Defeat  
+
+strongly influence the onset and course of `depression`.
+
+However, not everyone exposed to stress becomes depressed.
+
+::: 
+::: column
+
+:::info-box
+Caspi et al. proposed that:
+
+- Stressful life events act as an `environmental risk factor`  
+- Genetic variation moderates individual sensitivity to stress  
+
+This follows the `gene–environment interaction` framework.
+:::
+
+::: 
+::: 
+
+## Major Depressive Disorder (MDD)
+
+::: {.disorder-card}
+::: {.disorder-header}
+<div class="disorder-title">Major Depressive Disorder</div>
+<div class="disorder-subtitle">DSM-5 • Mood Disorders</div>
+:::
+
+::: {.disorder-body}
+**Core features**  
+- Depressed mood
+- Loss of interest or pleasure (anhedonia)
+
+**Diagnostic criteria (≥ 5 for ≥ 2 weeks)**  
+- Depressed mood
+- Anhedonia
+- Sleep disturbance
+- Appetite or weight change
+- Psychomotor agitation or retardation
+- Fatigue
+- Feelings of worthlessness or guilt
+- Impaired concentration
+- Recurrent thoughts of death
+
+**Clinical notes**  
+- Symptoms cause significant distress or impairment  
+- Not attributable to substances or medical conditions  
+- No history of manic or hypomanic episodes
+:::
+:::
+
+## The candidate gene: 5-HTT
+
+::: columns
+::: column
+
+>The gene under study codes for the [serotonin](3_synapse.html#serotonin) transporter (`5-HTT`).
+The transporter regulates serotonin `reuptake` at the synapse.
+
+The serotonin system is relevant to depression because:
+
+- It is the target of [SSRI](https://en.wikipedia.org/wiki/Selective_serotonin_reuptake_inhibitor) antidepressant drugs  
+- It modulates mood, stress reactivity, and emotion regulation  
+
+This makes 5-HTT a plausible candidate gene.
+
+::: 
+::: column
+
+:::info-box
+The 5-HTT gene contains a `polymorphism` in its promoter region  
+called `5-HTTLPR`. Two main variants exist: `Long (l)` and `Short (s)` allele.  
+:::
+
+The `short` allele is associated with:
+
+- Lower transcriptional efficiency  
+- Reduced serotonin transporter expression  
+
+:::info-box
+Genotypes:
+
+- `l/l`: high transporter expression  
+- `s/l`: intermediate expression  
+- `s/s`: low expression
+:::
+
+::: 
+::: 
+
+## Non-human primates
+
+::: columns
+::: column
+
+In [rhesus macaques](https://en.wikipedia.org/wiki/Rhesus_macaque):
+
+- The 5-HTTLPR polymorphism is analogous to humans  
+
+The `short allele` is associated with:
+
+- Reduced serotonergic function  
+- Abnormal [HPA](7_emotion_motivation.html#hpa) response
+
+>Only in monkeys reared in `stressful conditions`
+No effect is seen in normally reared monkeys.
+
+::: 
+::: column
+
+![](images/gxe_rhesus_5ht.png){width="550" fig-align="center"}
+
+::: 
+::: 
+
+## The Dunedin study on MDD
+
+::: columns
+::: column
+
+Different types of stressful life events between ages `21 and 26` were assessed.
+Among participants:
+
+- `30%` experienced no stressful events  
+- `20%` experienced two events  
+- `11%` experienced three events  
+- `15%` experienced four or more events  
+
+:::info-box
+There was:
+
+- No significant main effect of genotype  
+- A significant `gene–environment interaction`  
+
+:::
+
+::: 
+::: column
+
+:::info-box
+As the number of stressful life events increased:
+
+- Risk of depression increased in all individuals  
+- The increase was much steeper in `s/s` individuals  
+- `l/l` individuals were relatively protected
+:::
+
+:::card
+In the absence of stressful life events: All genotypes showed similar levels of depression  
+The gene alone was not sufficient.
+:::
+
+::: 
+::: 
+
+## No stress, no difference
+
+![](images/gxe_htt_mdd.png){width="550" fig-align="center"}
+
+## Suicide and early life adversity outcomes
+
+::: columns
+::: column
+
+:::info-box
+Similar interaction effects were observed for:
+
+- Suicidal ideation  
+- Suicide attempts  
+
+Stress predicted these outcomes mainly in `s/s` individuals.
+:::
+
+:::info-box
+The interaction also showed a correlation with early life adversities:
+
+- Childhood maltreatment predicted adult depression  
+- Only in individuals carrying an `s` allele  
+- Not in `l/l` homozygotes 
+:::
+
+::: 
+::: column
+
+![](images/gxe_suicide.png){width="400" fig-align="center"}
+![](images/gxe_early_adversities.png){width="400" fig-align="center"}
+
+
+::: 
+::: 
+
+## Dopamine and reward sensitivity
+
+::: columns
+::: column
+
+Individual differences in reward sensitivity  
+can be partly influenced by genetic variation.
+
+One candidate gene is the `DRD4` gene.
+
+:::info-box
+The `DRD4` gene codes for the `D4 dopamine receptor`.
+
+This receptor is involved in:
+
+- Dopamine signaling  
+- Pleasure and gratification  
+- Motivation and reward sensitivity  
+:::
+
+::: 
+::: column
+
+:::info-box
+The DRD4 gene shows a functional polymorphism.
+Two main variants are often considered:
+
+- `Long (L)` allele  
+- `Short (S)` allele  
+
+The `L` variant is considered `hypofunctional`.
+:::
+
+:::card
+The DRD4 polymorphism appears to influence the `salience` of appetitive stimuli
+:::
+
+::: 
+::: 
+
+## Alchol Experiment
+
+::: {.disorder-card}
+::: {.disorder-header}
+
+<div class="disorder-title"> <img src="images/gxe_drink.svg" class="disorder-icon" alt=""> 
+Experimental Design</div>
+<div class="disorder-subtitle">Alcohol study</div>
+:::
+
+::: {.disorder-body}
+**Participants**  
+Young adults
+
+**Conditions**
+
+- One session with `3 alcoholic drinks`  
+- One session with `3 non-alcoholic control drinks`
+- The order of conditions was counterbalanced
+
+**Results**  
+Participants with the `L/L` genotype: reported a stronger desire to continue drinking, but `only` after the alcoholic condition
+Participants with the `S/S` genotype showed no difference between conditions.  
+
+:::
+:::
+
+## Not only for Alcohol
+
+![](images/gxe_smoking.png){width="550" fig-align="center"}
+
+## Other GxE interactions: Cannabis Use
+
+::: columns
+::: column
+
+:::card
+Early use of `cannabis`, especially during `adolescence`, is associated with an increased risk of `psychosis`.
+:::
+:::info-box
+This includes:
+
+- Transient psychotic symptoms  
+- Clinically relevant disorders  
+- Diagnosis of schizophrenia  
+:::
+
+>But most individuals who use cannabis do **not** develop psychosis. This suggests that cannabis exposure alone  
+is `not sufficient`.
+
+::: 
+::: column
+
+>One candidate gene is `COMT`.
+
+:::info-box
+The `COMT` gene codes for `catechol-O-methyltransferase`.
+
+This enzyme is involved in the degradation of `Dopamine`  
+
+COMT activity is particularly important  
+in the `prefrontal cortex`.
+:::
+
+:::info-box
+A functional polymorphism exists in the COMT gene:
+
+- `MET` allele  (high activity)
+- `VAL` allele  (low activity)
+
+:::
+
+::: 
+::: 
+
+## Other GxE interactions: Cannabis Use
+
+::: columns
+::: column
+
+::: {.disorder-card}
+::: {.disorder-header}
+
+<div class="disorder-title"> <img src="images/gxe_cannabis.svg" class="disorder-icon" alt=""> 
+Experimental Design</div>
+<div class="disorder-subtitle">Working Memory and Cannabis study</div>
+:::
+
+::: {.disorder-body}
+**Participants**  
+Young adults
+
+**Procedure**
+
+- A small dose of cannabis  
+- Placebo  
+- Perform a `working memory` task.
+
+**Results**  
+In `VAL/VAL` individuals:
+
+- Baseline performance was good  
+- Cannabis markedly impaired performance  
+
+:::
+:::
+
+::: 
+::: column
+
+![](images/gxe_COMT_cannabis_wm.png){width="400" fig-align="center"}
+
+::: 
+::: 
+
+## An evolutionary question
+::: columns
+::: column
+
+![](images/gxe_darwin_award.jpg){width="400" fig-align="center"}
+
+::: 
+::: column
+
+>If some polymorphisms increase vulnerability, why have they not been `eliminated` by `evolution`?
 
 ::: 
 ::: 

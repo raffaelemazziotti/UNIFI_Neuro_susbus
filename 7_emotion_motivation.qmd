@@ -740,7 +740,7 @@ During stress, the autonomic system (the sympathetic division) produces rapid ef
 
 These changes prepare the body for immediate action.
 
-## The HPA axis
+## The HPA axis {#hpa}
 
 ::: columns
 ::: column

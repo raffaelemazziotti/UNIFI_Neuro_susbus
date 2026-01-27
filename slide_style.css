@@ -335,6 +335,49 @@
   margin-bottom: 0.35em;
 }
 
+.disorder-card {
+  margin: 20px 0;
+  border: 2px solid rgba(180, 180, 180, 0.6);
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.04);
+  overflow: hidden;
+}
+
+.disorder-card .disorder-header {
+  background-color: rgba(180, 180, 180, 0.25);
+  color: #e6e6e6;
+  padding: 12px 16px;
+}
+
+.disorder-card .disorder-title {
+  font-size: 1.1em;
+  font-weight: 700;
+}
+
+.disorder-card .disorder-subtitle {
+  font-size: 0.75em;
+  opacity: 0.8;
+  margin-top: 2px;
+}
+
+.disorder-card .disorder-body {
+  padding: 14px 18px;
+  font-size: 0.95em;
+  line-height: 1.45;
+}
+
+.disorder-card ul {
+  margin-left: 1.2em;
+}
+
+.disorder-icon {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  opacity: 0.75;
+  vertical-align: middle;
+}
+
 
 /*************************************************
   PDF EXPORT (reveal.js print-pdf mode)
@@ -450,4 +493,21 @@
   background: #ffffff !important;
 }
 
+/*disorder card*/
+
+.print-pdf .disorder-card {
+  background: #ffffff !important;
+  border: 2px solid #999999;
+}
+
+.print-pdf .disorder-header {
+  background: #e6e6e6 !important;
+  color: #111111 !important;
+}
+
+.print-pdf .disorder-body {
+  color: #111111 !important;
+}
+
 /* ********************************* */
+

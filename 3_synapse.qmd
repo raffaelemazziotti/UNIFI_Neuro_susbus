@@ -282,7 +282,7 @@ Acts on:
 :::
 :::
 
-##  Serotonin - 5-Ht {#serotonin}
+##  Serotonin - 5-HT {#serotonin}
 
 ::: columns
 ::: column
@@ -501,7 +501,7 @@ Provide [fast inhibition]{.highlight} in neural circuits
 
 > `Signaling Pathway`: chain of intracellular events where molecules relay messages from outside the cell to trigger specific internal responses like growth, division, or death
 
-##  **Metabotropic glutamate receptors (mGluRs)**
+## Metabotropic glutamate receptors (mGluRs)
 
 ::: columns
 ::: column
