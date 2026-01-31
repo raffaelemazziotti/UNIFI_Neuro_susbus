@@ -50,11 +50,12 @@ from neurons to systems.
 ::: 
 ::: column
 
-:::card
+:::{.list-box}
 - [Motor System](6_motor.html)
 - [Emotion, Motivation & Stress](7_emotion_motivation.html)
 - [Neuroplasticity](8_Neuroplasticity.html)
-- [Resilience GxE](9_resilience_gxe.qmd)
+- [Resilience GxE](9_resilience_gxe.html)
+- [Epigenetics](10_epigenetics.html)
 :::
 
 :::

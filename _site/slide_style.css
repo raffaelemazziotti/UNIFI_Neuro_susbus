@@ -378,6 +378,69 @@
   vertical-align: middle;
 }
 
+/* esperiment card */
+
+.experiment-card .exp-header::before {
+  content: "🧪";
+  position: absolute;
+  left: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1.1em;
+  opacity: 0.75;
+}
+
+.experiment-card {
+  margin: 20px 0;
+  border: 2px solid rgba(150, 150, 150, 0.6);
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.04);
+  overflow: hidden;
+}
+
+
+.experiment-card .exp-header {
+  position: relative;          /* ← required */
+  padding-left: 50px;          /* space for icon */
+  background-color: rgba(150, 150, 150, 0.25);
+  color: #e6e6e6;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 16px;
+  font-weight: 700;
+  font-size: 1.0em;
+}
+
+.experiment-card .exp-header::before {
+  content: "🧪";
+  position: absolute;
+  left: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1.1em;
+  opacity: 0.75;
+}
+
+
+.experiment-card .exp-section {
+  padding: 12px 18px;
+  border-top: 1px solid rgba(180, 180, 180, 0.3);
+}
+
+.experiment-card .exp-section-title {
+  font-size: 0.85em;
+  font-weight: 600;
+  color: #9ad1ff;
+  margin-bottom: 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.experiment-card ul {
+  margin-left: 1.2em;
+}
+
+
 
 /*************************************************
   PDF EXPORT (reveal.js print-pdf mode)
@@ -508,6 +571,21 @@
 .print-pdf .disorder-body {
   color: #111111 !important;
 }
+
+.print-pdf .experiment-card {
+  background: #ffffff !important;
+  border: 2px solid #999999;
+}
+
+.print-pdf .exp-header {
+  background: #e6e6e6 !important;
+  color: #111111 !important;
+}
+
+.print-pdf .exp-section-title {
+  color: #003366 !important;
+}
+
 
 /* ********************************* */
 

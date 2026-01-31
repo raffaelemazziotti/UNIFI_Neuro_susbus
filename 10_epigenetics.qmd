@@ -1,0 +1,367 @@
+---
+title: "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes"
+subtitle: "Module 1 - Epigenetics"
+author: "Raffaele M Mazziotti, PhD"
+institute: "University of Florence"
+resources:
+  - quiz/
+  - images/
+format:
+  revealjs:
+    controls: true
+    theme: default
+    slide-number: true
+    logo: images/logo/NEUROFARBA_logo.svg
+    css: slide_style.css
+    transition: fade
+    center: true
+    math: mathjax
+    chalkboard: 
+      buttons: false
+    progress: true
+    title-slide-attributes:
+      data-background-image: images/logo/NEUROFARBA.svg
+      data-background-size: 500px
+      data-background-position: "center 10%"
+      data-state: title-slide
+    include-after-body: afterbody.html
+      
+    mermaid:
+      theme: neutral
+---
+
+## Epigenetics and behavior
+
+::: columns
+::: column
+
+Epigenetic mechanisms have attracted great interest in the study of `behavior` and `mental disorders`.
+
+>They help explain how experiences, especially early in life,  
+can have long-lasting effects on brain function.
+
+:::info-box
+
+Epigenetic mechanisms can explain:
+
+- Why early `experiences` can have lifelong effects  
+- Why  `stress` can also shape behavior  
+
+:::
+
+::: 
+::: column
+
+:::info-box
+Epigenetic mechanisms allow:
+
+- Transient experiences  
+- To produce long-term biological effects  
+
+They provide a way for plasticity  
+to be maintained over time.
+:::
+
+![](images/epigen_effects.png){width="300" fig-align="center"}
+
+::: 
+::: 
+
+## Epigenetic mechanisms
+
+::: columns
+::: column
+
+There are several epigenetic mechanisms.
+Two of the most studied are:
+
+- `Histone acetylation`  
+- `DNA methylation`  
+
+:::info-box
+Epigenetics was originally developed  
+to explain how cellular traits are inherited  
+without changes in DNA sequence.
+
+This was crucial in:
+
+- Developmental biology  
+- Cell differentiation  
+
+:::
+
+::: 
+::: column
+
+:::info-box
+During development we have undifferentiated cells ([stem cells](https://en.wikipedia.org/wiki/Stem_cell)):
+
+- Cells are initially `totipotent`  
+- Then become `multipotent`  
+- Finally become `specialized`  
+
+This occurs through epigenetic regulation of gene expression.
+As cells encounter specific signals:
+
+- Some genes are `silenced`  
+- Others are `activated`  
+
+The gene remains present, but epigenetic modulate its expression.
+
+:::
+
+::: 
+::: 
+
+## Epigenetics in neurons
+
+::: columns
+::: column
+
+In neurons:
+
+- Epigenetic changes are maintained  
+  at the level of the `individual cell`
+- They provide long-term regulation of neuronal function.
+
+:::info-box
+Epigenetic mechanisms are now considered crucial for:
+
+- Long-term behavioral change  
+- Resilience and vulnerability  
+- Adaptive and maladaptive plasticity  
+
+They link experience to lasting brain change.
+
+:::
+
+
+::: 
+::: column
+
+:::info-box
+Epigenetic mechanisms are processes that:
+
+- Alter `gene expression`  
+- Without changing the `DNA sequence`  
+
+They act through chromatin remodeling.
+:::
+
+![](images/epigen_chromatin.png){width="600" fig-align="center"}
+
+::: 
+:::
+
+## Chromatin
+::: columns
+::: column
+
+:::info-box
+Think of chromatin as a `spool of thread`:
+
+- `Thread` = DNA  
+- `Spool` = histone proteins  
+
+DNA wraps around histones.
+:::
+
+:::info-box
+`Chromatin` is the combination of:
+
+- DNA  
+- Histone proteins  
+
+Its structure determines whether genes  
+are accessible for transcription.
+:::
+
+::: 
+::: column
+
+![](images/epigen_chromatin_2.png){width="400" fig-align="center"}
+
+::: 
+::: 
+
+## Chromatin states
+::: columns
+::: column
+
+Chromatin can be:
+
+| State        | [Transcription](https://en.wikipedia.org/wiki/Transcription_(biology)) |
+|--------------|-------------------|
+| `Inactive`   | Not accessible    |
+| `Repressed`  | Low               |
+| `Permissive` | Medium            |
+| `Active`     | High              |
+
+
+![](images/epigen_chromatine_states.png){width="400" fig-align="center"}
+
+::: 
+::: column
+```{mermaid}
+
+flowchart TD
+    Gene["Gene needs<br/>transcription"]
+    Access["Transcription<br/>machinery access"]
+    Chromatin{"Chromatin<br/>state?"}
+
+    Tight["Tightly packed"]
+    Loose["Loosely packed"]
+
+    NoTx["Transcription<br/>unlikely"]
+    YesTx["Transcription<br/>possible"]
+
+    Gene --> Access
+    Access --> Chromatin
+    Chromatin --> Tight
+    Chromatin --> Loose
+    Tight --> NoTx
+    Loose --> YesTx
+
+    %% Compact style (single line!)
+    classDef simple fill:#a4d5c2,color:#000,stroke:#9f8ca0,stroke-width:2px,font-size:14px
+    class Gene,Access,Chromatin,Tight,Loose,NoTx,YesTx simple
+
+```
+
+::: 
+::: 
+
+## DNA methylation
+
+::: columns
+::: column
+
+`DNA methylation`:
+
+- Adds a methyl group (`CH3`) to DNA  
+- Acts as a transcriptional stop signal  
+
+When methylation is present:
+
+- Transcription machinery is blocked  
+
+:::info-box
+Life experiences can modify:
+
+- Which regions of DNA are methylated  
+
+This changes transcription probability  
+without altering DNA sequence.
+:::
+
+::: 
+::: column
+
+:::info-box
+Studies of [monozygotic twins](https://en.wikipedia.org/wiki/Twin) show:
+
+- At early age, epigenetic patterns are similar  
+- Later in life, patterns diverge  
+
+Experience leaves an epigenetic signature.
+:::
+
+![](images/epigen_dna_methylation.jpg){width="400" fig-align="center"}
+
+
+::: 
+::: 
+
+## Evidence from twins
+
+![](images/epigen_dna_methylation_twins.jpg){width="400" fig-align="center"}
+
+## Histone modifications
+
+::: columns
+::: column
+
+:::card
+Histone proteins are not static.
+
+They can undergo `post-translational modifications`  
+after they are synthesized.
+
+These modifications change how histones interact with DNA.
+:::
+
+:::info-box
+A histone modification is a `chemical change` added to histone proteins.
+
+These changes:
+
+- Do not alter DNA sequence  
+- Alter chromatin structure  
+- Modify gene transcription probability  
+
+They act as regulatory signals.
+:::
+
+::: 
+::: column
+
+:::info-box
+Histone modifications determine:
+
+- How tightly DNA is packed  
+- Whether a gene is accessible  
+
+They regulate gene expression dynamically.
+:::
+
+:::card
+`Histone acetylation` is one type of histone modification. It consists of adding an `acetyl group` to specific regions of histone proteins.
+
+:::
+
+:::info-box
+Histone acetylation:
+
+- Makes chromatin `less compact`  
+- Increases DNA accessibility  
+
+:::
+
+::: 
+::: 
+
+## Histone modifications
+
+::: columns
+::: column
+
+:::info-box
+Common histone post-translational modifications include:
+
+- `Acetylation`  
+- `Methylation`  
+- `Phosphorylation`  
+- `Ubiquitination`  
+
+Each modification can alter chromatin structure  
+or recruit specific regulatory proteins. In a much more complex way.
+:::
+
+::: 
+::: column
+
+:::info-box
+Histone modifications do not act in isolation.
+
+Different combinations of modifications  
+create a `histone code`.
+
+This code:
+
+- Fine-tunes gene expression  
+- Allows flexible and context-dependent regulation  
+:::
+
+
+::: 
+::: 

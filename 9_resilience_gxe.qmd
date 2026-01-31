@@ -476,7 +476,7 @@ The [MAOA](https://en.wikipedia.org/wiki/Monoamine_oxidase_A) gene:
 ::: column
 
 :::info-box
-The MAOA enzyme is involved in the `catabolism` of:
+The MAOA enzyme is involved in the [catabolism](https://en.wikipedia.org/wiki/Catabolism) of [monoamines](https://en.wikipedia.org/wiki/Monoamine_neurotransmitter):
 
 - Dopamine  
 - Norepinephrine  
@@ -1014,3 +1014,266 @@ In `VAL/VAL` individuals:
 
 ::: 
 ::: 
+
+## Early gene-environment interactions
+
+::: columns
+::: column
+
+Gene-environment interactions are especially powerful  
+during `early development`.
+
+Early experiences can shape long-term cognitive  
+and emotional outcomes.
+
+:::info-box
+One of the most influential projects in this area is the  
+`Bucharest Early Intervention (BEI) Project`.
+
+This study examined the effects of early psychosocial deprivation  
+on child development.
+:::
+
+::: 
+::: column
+
+![](images/gxe_beip.jpg){width="200" fig-align="center"}
+
+:::info-box
+The BEI Project studied children raised in  
+Romanian orphanages.
+
+These children experienced:
+
+- Severe social deprivation  
+- Limited caregiver interaction  
+:::
+
+::: 
+:::
+
+## Bucharest Early Intervention Project
+
+::: {.experiment-card}
+::: {.exp-header}
+Randomized early-life intervention
+:::
+
+::: columns
+::: column
+::: {.exp-section}
+<div class="exp-section-title">Experimental design</div>
+
+Children were randomly assigned to:
+
+- Remain in institutional care  
+- Be placed in <span class="highlight">foster care</span>  
+:::
+
+::: {.exp-section}
+<div class="exp-section-title">Comparison groups</div>
+
+Three groups were compared:
+
+- Institutionalized children  
+- Foster care children  
+- Never institutionalized children  
+
+This design allowed <span class="important">causal inference</span>.
+:::
+:::
+
+::: column
+::: {.exp-section}
+<div class="exp-section-title">Cognitive outcomes</div>
+
+- Cognitive performance was <span class="core">consistently higher</span> in foster care  
+- Outcomes were better when fostering occurred <span class="highlight">earlier</span>  
+
+Early intervention mattered.
+:::
+:::
+:::
+:::
+
+## A genetic moderator
+
+::: columns
+::: column
+
+>Despite overall benefits, children differed in their degree of recovery.
+
+Drury et al. (2010) investigated whether genetic variation  
+could explain differences in recovery. They focused on the `COMT val158met` polymorphism.
+
+:::info-box
+The study included `136` children from the BEI Project. Procedure:
+
+- At `2.5 years`: children assigned to foster care or institution  
+- At `4.5 years`: psychiatric assessment 
+- Genotyping for `COMT val158met`  
+
+:::
+
+::: 
+::: column
+
+:::info-box
+Among children who `remained` institutionalized:
+
+- Carriers of the `MET` allele showed fewer depressive symptoms  
+- `VAL/VAL` homozygotes showed higher symptoms
+
+:::
+
+:::info-box
+Among children placed in foster care:
+
+- `VAL/VAL` children improved dramatically  
+- Their depressive symptoms dropped  
+- They reached levels similar to `MET/MET` children  
+
+Positive environments had a strong impact.
+
+:::
+
+::: 
+::: 
+
+## A key insight
+
+::: columns
+::: column
+
+The children who appeared most vulnerable  
+benefited the most from a supportive environment.
+
+>This is not simple vulnerability. This is `plasticity`.
+
+:::info-box
+This study was among the first to show:
+
+- Genetic differences predict `recovery`  
+- Positive environments can `override` early adversity  
+- G × E applies to `improvement`, not only to risk  
+
+:::
+
+
+::: 
+::: column
+
+:::info-box
+Many G × E studies focused mainly on:
+
+- Stress  
+- Negative life events  
+
+They paid less attention to positive environments.
+:::
+
+:::card
+The `differential susceptibility model`  
+(Belsky et al., 2007; Belsky & Pluess, 2009)  
+proposes a different perspective.
+
+:::
+
+::: 
+::: 
+
+
+## The differential susceptibility model
+
+::: columns
+::: column
+
+Individuals differ in their susceptibility to:
+
+- Negative environments  
+- Positive environments  
+
+The same genotype can amplify both.
+
+:::info-box
+Genetic variants are better described as:
+
+- `Plasticity variants`  
+
+Rather than:
+
+- Risk genes  
+- Vulnerability genes  
+
+They increase environmental responsiveness.
+:::
+
+::: 
+::: column
+
+![](images/gxe_differential_susceptibility_model.png){width="400" fig-align="center"}
+
+:::card
+The idea that individuals are genetically determined  
+(except for rare genetic diseases) is incorrect.
+:::
+
+::: 
+::: 
+
+## Open questions
+
+::: columns
+::: column
+
+We still do not fully understand:
+
+- Why some genotypes are more plastic  
+- Which neural circuits are involved  
+- How genes and environments interact at the brain level  
+
+:::info-box
+Progress requires studies linking:
+
+- Genetic variation  
+- Environmental exposure  
+- Brain mechanisms  
+- Behavioral outcomes  
+
+Across development.
+
+:::
+
+::: 
+::: column
+
+:::card
+Conclusions
+
+Mental disorders and individual differences  
+must be studied through `gene–environment interactions`.
+
+>We cannot change genes.
+But we can improve environments.
+Prevention is a powerful intervention.
+
+:::
+
+::: 
+::: 
+
+## Self-check
+
+```{=html}
+<div style="display: flex; justify-content: center;">
+  <iframe src="quiz/quiz_9_gxe.html"
+          style="
+            width: 90vw;
+            max-width: 900px;
+            height: 80vh;
+            border: none;
+            border-radius: 16px;
+          ">
+  </iframe>
+</div>
+```

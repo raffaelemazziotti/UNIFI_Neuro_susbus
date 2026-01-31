@@ -304,323 +304,323 @@
     "objectID": "2_neuron.html#ion-movement",
     "href": "2_neuron.html#ion-movement",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Ion Movement",
-    "text": "2. Ion Movement\n\n\nNeurons communicate using electrical signals.\nThese signals exist because ions move across cell membranes.\nUnderstanding ion movement is the foundation for:\n\nElectrical signaling\nMembrane potential\nAction potentials\nSynaptic transmission"
+    "section": "Ion Movement",
+    "text": "Ion Movement\n\n\nNeurons communicate using electrical signals.\nThese signals exist because ions move across cell membranes.\nUnderstanding ion movement is the foundation for:\n\nElectrical signaling\nMembrane potential\nAction potentials\nSynaptic transmission"
   },
   {
     "objectID": "2_neuron.html#ions",
     "href": "2_neuron.html#ions",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. What Is an Ion?",
-    "text": "2. What Is an Ion?\n\n\nAn ion is an atom or molecule with an electrical charge.\n\nPositive charge → cation\n\nNegative charge → anion\n\nIn neuroscience, the most important ions are:\n\nSodium (Na⁺)\nPotassium (K⁺)\nChloride (Cl⁻)\nCalcium (Ca²⁺)"
+    "section": "What Is an Ion?",
+    "text": "What Is an Ion?\n\n\nAn ion is an atom or molecule with an electrical charge.\n\nPositive charge → cation\n\nNegative charge → anion\n\nIn neuroscience, the most important ions are:\n\nSodium (Na⁺)\nPotassium (K⁺)\nChloride (Cl⁻)\nCalcium (Ca²⁺)"
   },
   {
     "objectID": "2_neuron.html#why-charges-matter-in-the-brain",
     "href": "2_neuron.html#why-charges-matter-in-the-brain",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Why Charges Matter in the Brain",
-    "text": "2. Why Charges Matter in the Brain\nElectrical signals arise because:\n\nIons carry charge\nNeurons separate charges across membranes\nDifferences in charge create electrical forces\n\n\nNo electricity → no neural signaling."
+    "section": "Why Charges Matter in the Brain",
+    "text": "Why Charges Matter in the Brain\nElectrical signals arise because:\n\nIons carry charge\nNeurons separate charges across membranes\nDifferences in charge create electrical forces\n\n\nNo electricity → no neural signaling."
   },
   {
     "objectID": "2_neuron.html#the-neuronal-membrane",
     "href": "2_neuron.html#the-neuronal-membrane",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. The Neuronal Membrane",
-    "text": "2. The Neuronal Membrane\n\n\nThe neuron is surrounded by a lipid bilayer membrane.\nKey properties:\n\nElectrically insulating\nImpermeable to most ions\n\nThis separation is essential for signaling."
+    "section": "The Neuronal Membrane",
+    "text": "The Neuronal Membrane\n\n\nThe neuron is surrounded by a lipid bilayer membrane.\nKey properties:\n\nElectrically insulating\nImpermeable to most ions\n\nThis separation is essential for signaling."
   },
   {
     "objectID": "2_neuron.html#ion-channels",
     "href": "2_neuron.html#ion-channels",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Ion Channels",
-    "text": "2. Ion Channels\n\n\nIon channels are proteins embedded in the membrane.\nThey:\n\nAllow specific ions to cross\nAre selective (not all ions can pass)\nCan open or close\n\n\nIon movement only occurs through these channels."
+    "section": "Ion Channels",
+    "text": "Ion Channels\n\n\nIon channels are proteins embedded in the membrane.\nThey:\n\nAllow specific ions to cross\nAre selective (not all ions can pass)\nCan open or close\n\n\nIon movement only occurs through these channels."
   },
   {
     "objectID": "2_neuron.html#channel-selectivity",
     "href": "2_neuron.html#channel-selectivity",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Channel Selectivity",
-    "text": "2. Channel Selectivity\n\n\nIon channels are selective because:\n\nIons differ in size\nIons differ in charge\nChannel pores are highly specific\n\nExample:\n\nSodium channels allow Na⁺ but not K⁺\nPotassium channels allow K⁺ but not Na⁺"
+    "section": "Channel Selectivity",
+    "text": "Channel Selectivity\n\n\nIon channels are selective because:\n\nIons differ in size\nIons differ in charge\nChannel pores are highly specific\n\nExample:\n\nSodium channels allow Na⁺ but not K⁺\nPotassium channels allow K⁺ but not Na⁺"
   },
   {
     "objectID": "2_neuron.html#two-forces-acting-on-ions",
     "href": "2_neuron.html#two-forces-acting-on-ions",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Two Forces Acting on Ions",
-    "text": "2. Two Forces Acting on Ions\nIon movement depends on two forces:\n\nDiffusion\n\nElectrical attraction or repulsion\n\n\nThe combined effect determines ion flow."
+    "section": "Two Forces Acting on Ions",
+    "text": "Two Forces Acting on Ions\nIon movement depends on two forces:\n\nDiffusion\n\nElectrical attraction or repulsion\n\n\nThe combined effect determines ion flow."
   },
   {
     "objectID": "2_neuron.html#diffusion",
     "href": "2_neuron.html#diffusion",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Diffusion",
-    "text": "2. Diffusion\n\n\nDiffusion is movement from:\n\n\n\n\n\nflowchart LR\n  A[High concentration]\n  B[Low concentration]\n\n  A --&gt;|Net flow| B\n  B -. No net flow .-&gt; A\n  style A fill:#2b2b2b,stroke:#67bdfb,color:#e6e6e6\n  style B fill:#2b2b2b,stroke:#67bdfb,color:#e6e6e6\n  linkStyle default stroke:#bbbbbb,stroke-width:2px\n\n\n\n\n\n\nIf more Na⁺ ions are outside the neuron than inside, Na⁺ tends to move inward.\n\nIt does not require energy."
+    "section": "Diffusion",
+    "text": "Diffusion\n\n\nDiffusion is movement from:\n\n\n\n\n\nflowchart LR\n  A[High concentration]\n  B[Low concentration]\n\n  A --&gt;|Net flow| B\n  B -. No net flow .-&gt; A\n  style A fill:#2b2b2b,stroke:#67bdfb,color:#e6e6e6\n  style B fill:#2b2b2b,stroke:#67bdfb,color:#e6e6e6\n  linkStyle default stroke:#bbbbbb,stroke-width:2px\n\n\n\n\n\n\nIf more Na⁺ ions are outside the neuron than inside, Na⁺ tends to move inward.\n\nIt does not require energy."
   },
   {
     "objectID": "2_neuron.html#electrical-forces",
     "href": "2_neuron.html#electrical-forces",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Electrical Forces",
-    "text": "2. Electrical Forces\n\n\nCharged particles are influenced by:\n\nOpposite charges attract\nSame charges repel\n\nA negatively charged interior attracts positive ions."
+    "section": "Electrical Forces",
+    "text": "Electrical Forces\n\n\nCharged particles are influenced by:\n\nOpposite charges attract\nSame charges repel\n\nA negatively charged interior attracts positive ions."
   },
   {
     "objectID": "2_neuron.html#electrochemical-gradient",
     "href": "2_neuron.html#electrochemical-gradient",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Electrochemical Gradient",
-    "text": "2. Electrochemical Gradient\nThe electrochemical gradient combines:\n\nChemical gradient (diffusion)\nElectrical gradient (charge)\n\nIon movement depends on both at the same time.\nThis is the key principle of neural signaling."
+    "section": "Electrochemical Gradient",
+    "text": "Electrochemical Gradient\nThe electrochemical gradient combines:\n\nChemical gradient (diffusion)\nElectrical gradient (charge)\n\nIon movement depends on both at the same time.\nThis is the key principle of neural signaling."
   },
   {
     "objectID": "2_neuron.html#example-sodium-ions-na",
     "href": "2_neuron.html#example-sodium-ions-na",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Example: Sodium Ions (Na⁺)",
-    "text": "2. Example: Sodium Ions (Na⁺)\nTypically:\n\nHigh Na⁺ outside the neuron\nLow Na⁺ inside\nInside of neuron is negatively charged\n\n\nBoth diffusion and electrical forces push Na⁺ inward.\n\n\nThe inside of the neuron (and cells in general) is negative mainly because of large amount of anions inside the cell like proteins and other large organic anions (phosphates, metabolites)."
+    "section": "Example: Sodium Ions (Na⁺)",
+    "text": "Example: Sodium Ions (Na⁺)\nTypically:\n\nHigh Na⁺ outside the neuron\nLow Na⁺ inside\nInside of neuron is negatively charged\n\n\nBoth diffusion and electrical forces push Na⁺ inward.\n\n\nThe inside of the neuron (and cells in general) is negative mainly because of large amount of anions inside the cell like proteins and other large organic anions (phosphates, metabolites)."
   },
   {
     "objectID": "2_neuron.html#example-potassium-ions-k",
     "href": "2_neuron.html#example-potassium-ions-k",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Example: Potassium Ions (K⁺)",
-    "text": "2. Example: Potassium Ions (K⁺)\n\nHigh K⁺ inside the neuron\nLow K⁺ outside\nElectrical force pulls K⁺ inward\nDiffusion pushes K⁺ outward\n\n\nHere the diffusion force in higher that the electical force an K⁺ flux tends to go outward"
+    "section": "Example: Potassium Ions (K⁺)",
+    "text": "Example: Potassium Ions (K⁺)\n\nHigh K⁺ inside the neuron\nLow K⁺ outside\nElectrical force pulls K⁺ inward\nDiffusion pushes K⁺ outward\n\n\nHere the diffusion force in higher that the electical force an K⁺ flux tends to go outward"
   },
   {
     "objectID": "2_neuron.html#calcium",
     "href": "2_neuron.html#calcium",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Example: Calcium Ions (Ca²⁺)",
-    "text": "2. Example: Calcium Ions (Ca²⁺)\n\nVery low concentration inside neurons\nStrong positive electrical charge\nActs as both an ion and a signaling molecule\n\n\nOpening Ca²⁺ channels causes a inward flux of Ca²⁺ ions."
+    "section": "Example: Calcium Ions (Ca²⁺)",
+    "text": "Example: Calcium Ions (Ca²⁺)\n\nVery low concentration inside neurons\nStrong positive electrical charge\nActs as both an ion and a signaling molecule\n\n\nOpening Ca²⁺ channels causes a inward flux of Ca²⁺ ions."
   },
   {
     "objectID": "2_neuron.html#ion-movement-is-passive",
     "href": "2_neuron.html#ion-movement-is-passive",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Ion Movement Is Passive",
-    "text": "2. Ion Movement Is Passive\nIon movement through channels:\n\nDoes not require energy\nIs driven by electrochemical gradients\n\n\nBut maintaining the gradients require energy! The gradients are maintained by specific proteins called pumps that can move ions against their gradients."
+    "section": "Ion Movement Is Passive",
+    "text": "Ion Movement Is Passive\nIon movement through channels:\n\nDoes not require energy\nIs driven by electrochemical gradients\n\n\nBut maintaining the gradients require energy! The gradients are maintained by specific proteins called pumps that can move ions against their gradients."
   },
   {
     "objectID": "2_neuron.html#membrane-voltage",
     "href": "2_neuron.html#membrane-voltage",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Membrane Voltage",
-    "text": "2. Membrane Voltage\n\n\nThe neuron’s membrane separates electrical charges.\nThis separation creates a quantity called membrane voltage.\n\nVoltage is a difference in electrical potential\nIt tells us how strong the electrical force is\nIt is measured across the membrane, not inside the cell\n\n\nVoltage is not a substance and not a force.\nIt is a measure of how much electrical energy is available to move ions."
+    "section": "Membrane Voltage",
+    "text": "Membrane Voltage\n\n\nThe neuron’s membrane separates electrical charges.\nThis separation creates a quantity called membrane voltage.\n\nVoltage is a difference in electrical potential\nIt tells us how strong the electrical force is\nIt is measured across the membrane, not inside the cell\n\n\nVoltage is not a substance and not a force.\nIt is a measure of how much electrical energy is available to move ions."
   },
   {
     "objectID": "2_neuron.html#which-ion-dominates",
     "href": "2_neuron.html#which-ion-dominates",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Which Ion Dominates?",
-    "text": "2. Which Ion Dominates?\nThe influence of an ion depends on:\n\nPermeability, a measure of how easily a given ion can cross the membrane through its channels and is given by the number of ions for that channel are open.\n\nAt rest, neuronal membranes are:\n\nHighly permeable to \\(K^+\\)\nWeakly permeable to \\(Na^+\\)\nModerately permeable to \\(Cl^-\\)\n\n\nIn most neurons resting membrane potential is \\(\\approx -65\\,\\mathrm{mV}\\). This reflects potassium dominance at rest."
+    "section": "Which Ion Dominates?",
+    "text": "Which Ion Dominates?\nThe influence of an ion depends on:\n\nPermeability, a measure of how easily a given ion can cross the membrane through its channels and is given by the number of ions for that channel are open.\n\nAt rest, neuronal membranes are:\n\nHighly permeable to \\(K^+\\)\nWeakly permeable to \\(Na^+\\)\nModerately permeable to \\(Cl^-\\)\n\n\nIn most neurons resting membrane potential is \\(\\approx -65\\,\\mathrm{mV}\\). This reflects potassium dominance at rest."
   },
   {
     "objectID": "2_neuron.html#voltage_change",
     "href": "2_neuron.html#voltage_change",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Voltage Change",
-    "text": "2. Voltage Change\nIf channels open for an ion, the membrane potential changes. If a positive ion moves inside the cell, the membrane potential becomes less negative; if it moves outside, it becomes more negative. For negative ions, the effect is reversed.\n\n\n\nExample: Opening Sodium Channels\nIf \\(Na^+\\) channels open:\n\n\\(Na^+\\) enters the cell\nMembrane potential becomes less negative\n\nThis process is called depolarization.\n\n\n\nExample: Opening Potassium Channels\nIf \\(K^+\\) channels open:\n\n\\(K^+\\) leaves the cell\nMembrane potential becomes more negative\n\nThis process is called hyperpolarization."
+    "section": "Voltage Change",
+    "text": "Voltage Change\nIf channels open for an ion, the membrane potential changes. If a positive ion moves inside the cell, the membrane potential becomes less negative; if it moves outside, it becomes more negative. For negative ions, the effect is reversed.\n\n\n\nExample: Opening Sodium Channels\nIf \\(Na^+\\) channels open:\n\n\\(Na^+\\) enters the cell\nMembrane potential becomes less negative\n\nThis process is called depolarization.\n\n\n\nExample: Opening Potassium Channels\nIf \\(K^+\\) channels open:\n\n\\(K^+\\) leaves the cell\nMembrane potential becomes more negative\n\nThis process is called hyperpolarization."
   },
   {
     "objectID": "2_neuron.html#from-steady-voltage-to-signals",
     "href": "2_neuron.html#from-steady-voltage-to-signals",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. From Steady Voltage to Signals",
-    "text": "2. From Steady Voltage to Signals\nNeurons use changes in membrane potential as signals.\nThese changes can be:\n\nSmall or large (millivolts )\nSlow or fast (milliseconds)\nLocal or long-range (micrometers to meters)\n\n\nTwo main types exist:\n\nGraded potentials\nAction potentials\n\nThey differ in origin, size, and function."
+    "section": "From Steady Voltage to Signals",
+    "text": "From Steady Voltage to Signals\nNeurons use changes in membrane potential as signals.\nThese changes can be:\n\nSmall or large (millivolts )\nSlow or fast (milliseconds)\nLocal or long-range (micrometers to meters)\n\n\nTwo main types exist:\n\nGraded potentials\nAction potentials\n\nThey differ in origin, size, and function."
   },
   {
     "objectID": "2_neuron.html#graded_potential",
     "href": "2_neuron.html#graded_potential",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Graded Potentials",
-    "text": "2. Graded Potentials\n\nGraded potential: local change in membrane potential whose magnitude depends on the strength of the stimulus.\n\n\n\nKey properties:\n\nAmplitude varies continuously\nCan be depolarizing or hyperpolarizing\nSpread passively\nBecome smaller with distance\n\n\n\nThis decay is due to:\n\nMembrane resistance\nCytoplasmic resistance\n\n\n\nThey are common in:\n\nDendrites\nSoma"
+    "section": "Graded Potentials",
+    "text": "Graded Potentials\n\nGraded potential: local change in membrane potential whose magnitude depends on the strength of the stimulus.\n\n\n\nKey properties:\n\nAmplitude varies continuously\nCan be depolarizing or hyperpolarizing\nSpread passively\nBecome smaller with distance\n\n\n\nThis decay is due to:\n\nMembrane resistance\nCytoplasmic resistance\n\n\n\nThey are common in:\n\nDendrites\nSoma"
   },
   {
     "objectID": "2_neuron.html#integration-of-graded-potentials",
     "href": "2_neuron.html#integration-of-graded-potentials",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Integration of Graded Potentials",
-    "text": "2. Integration of Graded Potentials\n\n\nMultiple graded potentials can:\n\nAdd together in space (spatial summation)\nAdd together in time (temporal summation)\n\nIntegration mainly occurs at:\n\nThe cell body\nThe axon initial segment (axon hillock)\n\n\nNeurons continuously integrate incoming signals."
+    "section": "Integration of Graded Potentials",
+    "text": "Integration of Graded Potentials\n\n\nMultiple graded potentials can:\n\nAdd together in space (spatial summation)\nAdd together in time (temporal summation)\n\nIntegration mainly occurs at:\n\nThe cell body\nThe axon initial segment (axon hillock)\n\n\nNeurons continuously integrate incoming signals."
   },
   {
     "objectID": "2_neuron.html#actionpotential",
     "href": "2_neuron.html#actionpotential",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Action Potentials",
-    "text": "2. Action Potentials\n\n\nIf depolarization is strong enough:\n\nA critical voltage is reached\nA different electrical event is triggered\n\nThis voltage is called the threshold. Potentials beyond the threshold trigger Action Potentials.\n\nAction potential: A large, rapid, and stereotyped change in membrane potential, originated at the level of the axon hillock, that propagates along the axon."
+    "section": "Action Potentials",
+    "text": "Action Potentials\n\n\nIf depolarization is strong enough:\n\nA critical voltage is reached\nA different electrical event is triggered\n\nThis voltage is called the threshold. Potentials beyond the threshold trigger Action Potentials.\n\nAction potential: A large, rapid, and stereotyped change in membrane potential, originated at the level of the axon hillock, that propagates along the axon."
   },
   {
     "objectID": "2_neuron.html#why-action-potentials-are-needed",
     "href": "2_neuron.html#why-action-potentials-are-needed",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Why Action Potentials Are Needed",
-    "text": "2. Why Action Potentials Are Needed\n\n\n\nGraded potentials decay with distance.\n\nTo communicate over long axons, neurons need:\n\nA signal that does not fade\nA reliable, all-or-none event"
+    "section": "Why Action Potentials Are Needed",
+    "text": "Why Action Potentials Are Needed\n\n\n\nGraded potentials decay with distance.\n\nTo communicate over long axons, neurons need:\n\nA signal that does not fade\nA reliable, all-or-none event"
   },
   {
     "objectID": "2_neuron.html#membrane-proteins-and-transport",
     "href": "2_neuron.html#membrane-proteins-and-transport",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Membrane Proteins and Transport",
-    "text": "2. Membrane Proteins and Transport\nThe lipid bilayer is electrically insulating. Ions can cross the membrane only through membrane proteins.\nMembrane transport proteins fall into two broad categories:\n\nChannels\nTransporters (carriers and pumps)\n\n\nIon channel: A protein that forms a continuous aqueous pathway across the membrane, allowing ions to move down their electrochemical gradient.\nProperties:\n\nDo not use metabolic energy (passive)\nDo not move ions against gradients (no energy)\nSelective to specific Ions"
+    "section": "Membrane Proteins and Transport",
+    "text": "Membrane Proteins and Transport\nThe lipid bilayer is electrically insulating. Ions can cross the membrane only through membrane proteins.\nMembrane transport proteins fall into two broad categories:\n\nChannels\nTransporters (carriers and pumps)\n\n\nIon channel: A protein that forms a continuous aqueous pathway across the membrane, allowing ions to move down their electrochemical gradient.\nProperties:\n\nDo not use metabolic energy (passive)\nDo not move ions against gradients (no energy)\nSelective to specific Ions"
   },
   {
     "objectID": "2_neuron.html#channel-gating",
     "href": "2_neuron.html#channel-gating",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Channel Gating",
-    "text": "2. Channel Gating\n\n\nIon channels are not static holes.\nThey fluctuate between:\n\nClosed states\nOpen states\n\n\nChannels can be gated by different physical signals:\n\nChemical binding (ligand-gated - e.g. Neurotransmitters)\nMechanical deformation (mechanosensitive)\nMembrane voltage (voltage-gated - activated when the membrane cross a specific voltage)\n\n\n\n\nGating: The process by which an ion channel switches between open and closed states."
+    "section": "Channel Gating",
+    "text": "Channel Gating\n\n\nIon channels are not static holes.\nThey fluctuate between:\n\nClosed states\nOpen states\n\n\nChannels can be gated by different physical signals:\n\nChemical binding (ligand-gated - e.g. Neurotransmitters)\nMechanical deformation (mechanosensitive)\nMembrane voltage (voltage-gated - activated when the membrane cross a specific voltage)\n\n\n\n\nGating: The process by which an ion channel switches between open and closed states."
   },
   {
     "objectID": "2_neuron.html#graded-potentials-and-channels",
     "href": "2_neuron.html#graded-potentials-and-channels",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Graded Potentials and Channels",
-    "text": "2. Graded Potentials and Channels\nDuring Graded Potentials:\n\nPassive channels remain unchanged\nVoltage-gated channels remain mostly closed\n\n\nVoltage changes are passive and proportional to input and decay over space-time.\n\nWhen depolarization is small:\n\nA few voltage-gated \\(Na^+\\) channels open\nResulting \\(Na^+\\) influx is weak\nPassive \\(K^+\\) currents counteract depolarization\n\nThe voltage relaxes back to rest."
+    "section": "Graded Potentials and Channels",
+    "text": "Graded Potentials and Channels\nDuring Graded Potentials:\n\nPassive channels remain unchanged\nVoltage-gated channels remain mostly closed\n\n\nVoltage changes are passive and proportional to input and decay over space-time.\n\nWhen depolarization is small:\n\nA few voltage-gated \\(Na^+\\) channels open\nResulting \\(Na^+\\) influx is weak\nPassive \\(K^+\\) currents counteract depolarization\n\nThe voltage relaxes back to rest."
   },
   {
     "objectID": "2_neuron.html#threshold-crossing",
     "href": "2_neuron.html#threshold-crossing",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Threshold Crossing",
-    "text": "2. Threshold Crossing\nAt threshold:\n\nVoltage-gated \\(Na^+\\) channel opening becomes significant\n\\(Na^+\\) influx exceeds opposing currents\nDepolarization accelerates\n\nThis marks the transition from passive to active behavior.\n\nOnce threshold is crossed:\n\nMany \\(Na^+\\) channels open rapidly\nMembrane permeability to \\(Na^+\\) increases sharply\nVoltage changes are no longer passive\n\nThe action potential is initiated."
+    "section": "Threshold Crossing",
+    "text": "Threshold Crossing\nAt threshold:\n\nVoltage-gated \\(Na^+\\) channel opening becomes significant\n\\(Na^+\\) influx exceeds opposing currents\nDepolarization accelerates\n\nThis marks the transition from passive to active behavior.\n\nOnce threshold is crossed:\n\nMany \\(Na^+\\) channels open rapidly\nMembrane permeability to \\(Na^+\\) increases sharply\nVoltage changes are no longer passive\n\nThe action potential is initiated."
   },
   {
     "objectID": "2_neuron.html#during-the-action-potential",
     "href": "2_neuron.html#during-the-action-potential",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. During the Action Potential",
-    "text": "2. During the Action Potential\n\n\nDuring the spike:\n\nVoltage-gated \\(Na^+\\) channels open, then inactivate\nVoltage-gated \\(K^+\\) channels open with delay\n\nVoltage is dominated by voltage-gated dynamics.\nAfter the action potential:\n\n\\(Na^+\\) channels recover from inactivation\n\\(K^+\\) channels close\nPassive channels dominate again\n\n\n\n\n\n\n\n\n\nInactivation: A state in which a voltage-gated channel is closed and temporarily unable to reopen, even though the membrane is still depolarized."
+    "section": "During the Action Potential",
+    "text": "During the Action Potential\n\n\nDuring the spike:\n\nVoltage-gated \\(Na^+\\) channels open, then inactivate\nVoltage-gated \\(K^+\\) channels open with delay\n\nVoltage is dominated by voltage-gated dynamics.\nAfter the action potential:\n\n\\(Na^+\\) channels recover from inactivation\n\\(K^+\\) channels close\nPassive channels dominate again\n\n\n\n\n\n\n\n\n\nInactivation: A state in which a voltage-gated channel is closed and temporarily unable to reopen, even though the membrane is still depolarized."
   },
   {
     "objectID": "2_neuron.html#refractory-period",
     "href": "2_neuron.html#refractory-period",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Refractory Period",
-    "text": "2. Refractory Period\n\n\nAfter an action potential, the neuron cannot immediately fire another spike.\n\nRefractory period: A time interval following an action potential during which the neuron’s ability to generate another action potential is reduced or absent.\n\nThis phase is caused purely by Na⁺ channel inactivation.\nRefractory periods ensure that:\n\nAction potentials propagate in one direction\nSpikes are separated in time (neural code)\nMaximum firing frequency is limited"
+    "section": "Refractory Period",
+    "text": "Refractory Period\n\n\nAfter an action potential, the neuron cannot immediately fire another spike.\n\nRefractory period: A time interval following an action potential during which the neuron’s ability to generate another action potential is reduced or absent.\n\nThis phase is caused purely by Na⁺ channel inactivation.\nRefractory periods ensure that:\n\nAction potentials propagate in one direction\nSpikes are separated in time (neural code)\nMaximum firing frequency is limited"
   },
   {
     "objectID": "2_neuron.html#axon-diameter-and-conduction-speed",
     "href": "2_neuron.html#axon-diameter-and-conduction-speed",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Axon Diameter and Conduction Speed",
-    "text": "2. Axon Diameter and Conduction Speed\nThe speed of action potential propagation depends on axon geometry.\nLarger axons:\n\nHave lower internal (axial) resistance\nAllow local currents to spread more easily\nDepolarize adjacent membrane faster\n\nAs a result, action potentials propagate faster in thicker axons."
+    "section": "Axon Diameter and Conduction Speed",
+    "text": "Axon Diameter and Conduction Speed\nThe speed of action potential propagation depends on axon geometry.\nLarger axons:\n\nHave lower internal (axial) resistance\nAllow local currents to spread more easily\nDepolarize adjacent membrane faster\n\nAs a result, action potentials propagate faster in thicker axons."
   },
   {
     "objectID": "2_neuron.html#myelination",
     "href": "2_neuron.html#myelination",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Myelination",
-    "text": "2. Myelination\n\n\nMany axons, especially long ones, are wrapped in myelin, a multilayered insulating sheath formed by glial cells. This ensures that the signal reaches its destination.\nMyelination is not continuous along the axon. Axons contain regularly spaced gaps called nodes of Ranvier.\n\nAt nodes:\n\nVoltage-gated \\(Na^+\\) and \\(K^+\\) channels are highly concentrated\nAction potentials are regenerated\nSaltatory conduction (the action potential jumps from one node to the other)"
+    "section": "Myelination",
+    "text": "Myelination\n\n\nMany axons, especially long ones, are wrapped in myelin, a multilayered insulating sheath formed by glial cells. This ensures that the signal reaches its destination.\nMyelination is not continuous along the axon. Axons contain regularly spaced gaps called nodes of Ranvier.\n\nAt nodes:\n\nVoltage-gated \\(Na^+\\) and \\(K^+\\) channels are highly concentrated\nAction potentials are regenerated\nSaltatory conduction (the action potential jumps from one node to the other)"
   },
   {
     "objectID": "2_neuron.html#self-check",
     "href": "2_neuron.html#self-check",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "2. Self-check",
-    "text": "2. Self-check"
+    "section": "Self-check",
+    "text": "Self-check"
   },
   {
     "objectID": "0_content.html#index",
     "href": "0_content.html#index",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Index",
-    "text": "Index\n\nWelcome to the course! This part of the course introduces the foundations of neuroscience. We will cover basic principles of neurobiology,\nan introduction to neurophysiology, and the core concepts needed to understand how the nervous system works, from neurons to systems.\n\nChapters\n\n\n\n\nIntroduction\nNeuron\nNeuronal Communication\nOrganization of the Nervous System\nSensory Systems\n\n\n\n\n\nMotor System\nEmotion, Motivation & Stress\nNeuroplasticity\nResilience GxE"
+    "text": "Index\n\nWelcome to the course! This part of the course introduces the foundations of neuroscience. We will cover basic principles of neurobiology,\nan introduction to neurophysiology, and the core concepts needed to understand how the nervous system works, from neurons to systems.\n\nChapters\n\n\n\n\nIntroduction\nNeuron\nNeuronal Communication\nOrganization of the Nervous System\nSensory Systems\n\n\n\n\n\nMotor System\nEmotion, Motivation & Stress\nNeuroplasticity\nResilience GxE\nEpigenetics"
   },
   {
     "objectID": "1_intro.html#neuron",
     "href": "1_intro.html#neuron",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. What Is Neuroscience?",
-    "text": "1. What Is Neuroscience?\n\n\nNeuroscience asks a simple question:\nHow does the brain produce behavior?\n\nStudies the Central (brain and spinal cord) and Peripheral (somatic, autonomic and enteric) nervous systems\n\nConnects biology, psychology, physics, engineering, and philosophy\n\nGoal of this course: build intuition about how the nervous system works, without assuming prior biology knowledge."
+    "section": "What Is Neuroscience?",
+    "text": "What Is Neuroscience?\n\n\nNeuroscience asks a simple question:\nHow does the brain produce behavior?\n\nStudies the Central (brain and spinal cord) and Peripheral (somatic, autonomic and enteric) nervous systems\n\nConnects biology, psychology, physics, engineering, and philosophy\n\nGoal of this course: build intuition about how the nervous system works, without assuming prior biology knowledge."
   },
   {
     "objectID": "1_intro.html#what-is-a-neuron",
     "href": "1_intro.html#what-is-a-neuron",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. What Is a Neuron?",
-    "text": "1. What Is a Neuron?\n\n\nNeurons are the basic units of the brain.\nTheir main function is to send electrical signals over short and long distances.\nThey are electrically and chemically excitable. The function of a neuron depends on its structure."
+    "section": "What Is a Neuron?",
+    "text": "What Is a Neuron?\n\n\nNeurons are the basic units of the brain.\nTheir main function is to send electrical signals over short and long distances.\nThey are electrically and chemically excitable. The function of a neuron depends on its structure."
   },
   {
     "objectID": "1_intro.html#major-parts-of-the-neuron",
     "href": "1_intro.html#major-parts-of-the-neuron",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. Major Parts of the Neuron",
-    "text": "1. Major Parts of the Neuron\n\n\n\nDendrites\n\nCell body (soma)\nAxon hillock\nAxon\nPresynaptic terminal These components determine how signals are received, processed, and transmitted."
+    "section": "Major Parts of the Neuron",
+    "text": "Major Parts of the Neuron\n\n\n\nDendrites\n\nCell body (soma)\nAxon hillock\nAxon\nPresynaptic terminal These components determine how signals are received, processed, and transmitted."
   },
   {
     "objectID": "1_intro.html#diagram-typical-neuron",
     "href": "1_intro.html#diagram-typical-neuron",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. Diagram: Typical Neuron",
-    "text": "1. Diagram: Typical Neuron\n\n\nA neuron has:\n- Branching dendrites\n- A soma with nucleus\n- A long axon\n- Terminal branches forming synapses"
+    "section": "Diagram: Typical Neuron",
+    "text": "Diagram: Typical Neuron\n\n\nA neuron has:\n- Branching dendrites\n- A soma with nucleus\n- A long axon\n- Terminal branches forming synapses"
   },
   {
     "objectID": "1_intro.html#dendrites",
     "href": "1_intro.html#dendrites",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. Dendrites",
-    "text": "1. Dendrites\n\n\n\nBranch out from the soma\n\nPrimary targets of incoming signals\n\nThe number of dendrites influences how many inputs the neuron can receive\n\nOften contain spines, which increase surface area for synaptic contact"
+    "section": "Dendrites",
+    "text": "Dendrites\n\n\n\nBranch out from the soma\n\nPrimary targets of incoming signals\n\nThe number of dendrites influences how many inputs the neuron can receive\n\nOften contain spines, which increase surface area for synaptic contact"
   },
   {
     "objectID": "1_intro.html#soma",
     "href": "1_intro.html#soma",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. Cell Body (Soma)",
-    "text": "1. Cell Body (Soma)\n\n\n\nContains nucleus and organelles\n\nIntegrates incoming signals from dendrites\n\nBiochemistry of the cell shapes its excitability and response properties"
+    "section": "Cell Body (Soma)",
+    "text": "Cell Body (Soma)\n\n\n\nContains nucleus and organelles\n\nIntegrates incoming signals from dendrites\n\nBiochemistry of the cell shapes its excitability and response properties"
   },
   {
     "objectID": "1_intro.html#the-nucleus-and-dna",
     "href": "1_intro.html#the-nucleus-and-dna",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. The Nucleus and DNA",
-    "text": "1. The Nucleus and DNA\n\n\n\nThe nucleus contains the cell’s DNA\nDNA is a long chain of nucleotides\nNucleotides form genes\n\n\nGenes are instructions for building cellular components"
+    "section": "The Nucleus and DNA",
+    "text": "The Nucleus and DNA\n\n\n\nThe nucleus contains the cell’s DNA\nDNA is a long chain of nucleotides\nNucleotides form genes\n\n\nGenes are instructions for building cellular components"
   },
   {
     "objectID": "1_intro.html#from-genes-to-proteins",
     "href": "1_intro.html#from-genes-to-proteins",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. From Genes to Proteins",
-    "text": "1. From Genes to Proteins\n\n\n\nGenes encode proteins\nProteins are chains of amino acids\nThe sequence of nucleotides determines:\n\nThe sequence of amino acids\nThe structure and function of the protein\n\n\n\nProteins are the working molecules of the cell"
+    "section": "From Genes to Proteins",
+    "text": "From Genes to Proteins\n\n\n\nGenes encode proteins\nProteins are chains of amino acids\nThe sequence of nucleotides determines:\n\nThe sequence of amino acids\nThe structure and function of the protein\n\n\n\nProteins are the working molecules of the cell"
   },
   {
     "objectID": "1_intro.html#hillock",
     "href": "1_intro.html#hillock",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. Axon Hillock",
-    "text": "1. Axon Hillock\n\n\n\nJunction between soma and axon\n\nLocation where action potentials are initiated\n\nSensitive to the summed electrical inputs from dendrites and soma"
+    "section": "Axon Hillock",
+    "text": "Axon Hillock\n\n\n\nJunction between soma and axon\n\nLocation where action potentials are initiated\n\nSensitive to the summed electrical inputs from dendrites and soma"
   },
   {
     "objectID": "1_intro.html#the-axon",
     "href": "1_intro.html#the-axon",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. The Axon",
-    "text": "1. The Axon\n\n\n\nConducts electrical signals over long distances\n\nMay be myelinated to increase conduction speed\n\nCan branch extensively"
+    "section": "The Axon",
+    "text": "The Axon\n\n\n\nConducts electrical signals over long distances\n\nMay be myelinated to increase conduction speed\n\nCan branch extensively"
   },
   {
     "objectID": "1_intro.html#presynaptic-terminal",
     "href": "1_intro.html#presynaptic-terminal",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. Presynaptic Terminal",
-    "text": "1. Presynaptic Terminal\n\n\n\nEnd of the axon\n\nReleases neurotransmitter onto postsynaptic cells\n\nForms multiple terminals for communication with many neurons"
+    "section": "Presynaptic Terminal",
+    "text": "Presynaptic Terminal\n\n\n\nEnd of the axon\n\nReleases neurotransmitter onto postsynaptic cells\n\nForms multiple terminals for communication with many neurons"
   },
   {
     "objectID": "1_intro.html#neurons-communicate-electrically-and-chemically",
     "href": "1_intro.html#neurons-communicate-electrically-and-chemically",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. Neurons Communicate Electrically and Chemically",
-    "text": "1. Neurons Communicate Electrically and Chemically\n\nElectrical signals travel along the axon.\n\nChemical signals (neurotransmitters) are released at the synapse.\n\nThis dual mode of signaling enables fast and flexible communication."
+    "section": "Neurons Communicate Electrically and Chemically",
+    "text": "Neurons Communicate Electrically and Chemically\n\nElectrical signals travel along the axon.\n\nChemical signals (neurotransmitters) are released at the synapse.\n\nThis dual mode of signaling enables fast and flexible communication."
   },
   {
     "objectID": "1_intro.html#structure-influences-function",
     "href": "1_intro.html#structure-influences-function",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. Structure Influences Function",
-    "text": "1. Structure Influences Function\n\n\nExamples:\n\nMore dendrites → more inputs\n\nAxon myelination → faster conduction\n\nTerminal branching → more downstream targets\n\nForm and function are tightly linked in neuronal physiology."
+    "section": "Structure Influences Function",
+    "text": "Structure Influences Function\n\n\nExamples:\n\nMore dendrites → more inputs\n\nAxon myelination → faster conduction\n\nTerminal branching → more downstream targets\n\nForm and function are tightly linked in neuronal physiology."
   },
   {
     "objectID": "1_intro.html#neuron-diversity-overview",
     "href": "1_intro.html#neuron-diversity-overview",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "1. Neuron Diversity (Overview)",
-    "text": "1. Neuron Diversity (Overview)\nNeurons vary in:\n\nSize\n\nShape\n\nDendritic complexity\n\nAxon length\n\nNeurotransmitter type\n\nThis diversity supports specialized functions across the nervous system."
+    "section": "Neuron Diversity (Overview)",
+    "text": "Neuron Diversity (Overview)\nNeurons vary in:\n\nSize\n\nShape\n\nDendritic complexity\n\nAxon length\n\nNeurotransmitter type\n\nThis diversity supports specialized functions across the nervous system."
   },
   {
     "objectID": "1_intro.html#summary-of-key-concepts",
@@ -1705,7 +1705,7 @@
     "href": "9_resilience_gxe.html#childhood-maltreatment-and-antisocial-behavior",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Childhood maltreatment and antisocial behavior",
-    "text": "Childhood maltreatment and antisocial behavior\n\n\nChildhood maltreatment is a strong and universal risk factor for antisocial behavior. However:\n\nNot all maltreated children develop antisocial outcomes\n\nResponses to maltreatment vary widely\n\nThis variability suggests biological moderation.\n\nCaspi et al. (2002) focused on the MAOA gene.\nThe MAOA gene:\n\nIs located on the X chromosome\n\nCodes for the enzyme monoamine oxidase A\n\n\n\n\n\nThe MAOA enzyme is involved in the catabolism of:\n\nDopamine\n\nNorepinephrine\n\nSerotonin\n\nIt makes these neurotransmitters inactive."
+    "text": "Childhood maltreatment and antisocial behavior\n\n\nChildhood maltreatment is a strong and universal risk factor for antisocial behavior. However:\n\nNot all maltreated children develop antisocial outcomes\n\nResponses to maltreatment vary widely\n\nThis variability suggests biological moderation.\n\nCaspi et al. (2002) focused on the MAOA gene.\nThe MAOA gene:\n\nIs located on the X chromosome\n\nCodes for the enzyme monoamine oxidase A\n\n\n\n\n\nThe MAOA enzyme is involved in the catabolism of monoamines:\n\nDopamine\n\nNorepinephrine\n\nSerotonin\n\nIt makes these neurotransmitters inactive."
   },
   {
     "objectID": "9_resilience_gxe.html#maoa-polymorphism",
@@ -1881,5 +1881,145 @@
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "An evolutionary question",
     "text": "An evolutionary question\n\n\n\n\n\n\n\n\n\nIf some polymorphisms increase vulnerability, why have they not been eliminated by evolution?"
+  },
+  {
+    "objectID": "9_resilience_gxe.html#early-geneenvironment-interactions",
+    "href": "9_resilience_gxe.html#early-geneenvironment-interactions",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Early gene–environment interactions",
+    "text": "Early gene–environment interactions"
+  },
+  {
+    "objectID": "9_resilience_gxe.html#early-gene-environment-interactions",
+    "href": "9_resilience_gxe.html#early-gene-environment-interactions",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Early gene-environment interactions",
+    "text": "Early gene-environment interactions\n\n\nGene-environment interactions are especially powerful\nduring early development.\nEarly experiences can shape long-term cognitive\nand emotional outcomes.\n\nOne of the most influential projects in this area is the\nBucharest Early Intervention (BEI) Project.\nThis study examined the effects of early psychosocial deprivation\non child development.\n\n\n\n\n\n\n\n\nThe BEI Project studied children raised in\nRomanian orphanages.\nThese children experienced:\n\nSevere social deprivation\n\nLimited caregiver interaction"
+  },
+  {
+    "objectID": "9_resilience_gxe.html#bucharest-early-intervention-project",
+    "href": "9_resilience_gxe.html#bucharest-early-intervention-project",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Bucharest Early Intervention Project",
+    "text": "Bucharest Early Intervention Project\n\n\nRandomized early-life intervention\n\n\n\n\n\nExperimental design\n\nChildren were randomly assigned to:\n\nRemain in institutional care\n\nBe placed in foster care\n\n\n\n\n\nComparison groups\n\nThree groups were compared:\n\nInstitutionalized children\n\nFoster care children\n\nNever institutionalized children\n\nThis design allowed causal inference.\n\n\n\n\nCognitive outcomes\n\n\nCognitive performance was consistently higher in foster care\n\nOutcomes were better when fostering occurred earlier\n\nEarly intervention mattered."
+  },
+  {
+    "objectID": "9_resilience_gxe.html#bucharest-early-intervention-project-1",
+    "href": "9_resilience_gxe.html#bucharest-early-intervention-project-1",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Bucharest Early Intervention Project",
+    "text": "Bucharest Early Intervention Project\n\n\nRandomized early-life intervention\n\n\n\n\n\nExperimental design\n\nChildren were randomly assigned to:\n\nRemain in institutional care\n\nBe placed in foster care\n\n\n\n\n\nComparison groups\n\nThree groups were compared:\n\nInstitutionalized children\n\nFoster care children\n\nNever institutionalized children\n\nThis design allowed causal inference.\n\n\n\n\nCognitive outcomes\n\n\nCognitive performance was consistently higher in foster care\n\nOutcomes were better when fostering occurred earlier\n\nEarly intervention mattered."
+  },
+  {
+    "objectID": "9_resilience_gxe.html#a-genetic-moderator",
+    "href": "9_resilience_gxe.html#a-genetic-moderator",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "A genetic moderator",
+    "text": "A genetic moderator\n\n\n\nDespite overall benefits, children differed in their degree of recovery.\n\nDrury et al. (2010) investigated whether genetic variation\ncould explain differences in recovery. They focused on the COMT val158met polymorphism.\n\nThe study included 136 children from the BEI Project. Procedure:\n\nAt 2.5 years: children assigned to foster care or institution\n\nAt 4.5 years: psychiatric assessment\nGenotyping for COMT val158met\n\n\n\n\nAmong children who remained institutionalized:\n\nCarriers of the MET allele showed fewer depressive symptoms\n\nVAL/VAL homozygotes showed higher symptoms\n\n\n\nAmong children placed in foster care:\n\nVAL/VAL children improved dramatically\n\nTheir depressive symptoms dropped\n\nThey reached levels similar to MET/MET children\n\nPositive environments had a strong impact."
+  },
+  {
+    "objectID": "9_resilience_gxe.html#a-key-insight",
+    "href": "9_resilience_gxe.html#a-key-insight",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "A key insight",
+    "text": "A key insight\n\n\nThe children who appeared most vulnerable\nbenefited the most from a supportive environment.\n\nThis is not simple vulnerability. This is plasticity.\n\n\nThis study was among the first to show:\n\nGenetic differences predict recovery\n\nPositive environments can override early adversity\n\nG × E applies to improvement, not only to risk\n\n\n\n\nMany G × E studies focused mainly on:\n\nStress\n\nNegative life events\n\nThey paid less attention to positive environments.\n\n\nThe differential susceptibility model\n(Belsky et al., 2007; Belsky & Pluess, 2009)\nproposes a different perspective."
+  },
+  {
+    "objectID": "9_resilience_gxe.html#the-differential-susceptibility-model",
+    "href": "9_resilience_gxe.html#the-differential-susceptibility-model",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "The differential susceptibility model",
+    "text": "The differential susceptibility model\n\n\nIndividuals differ in their susceptibility to:\n\nNegative environments\n\nPositive environments\n\nThe same genotype can amplify both.\n\nGenetic variants are better described as:\n\nPlasticity variants\n\nRather than:\n\nRisk genes\n\nVulnerability genes\n\nThey increase environmental responsiveness.\n\n\n\n\n\n\n\n\nThe idea that individuals are genetically determined\n(except for rare genetic diseases) is incorrect."
+  },
+  {
+    "objectID": "9_resilience_gxe.html#open-questions",
+    "href": "9_resilience_gxe.html#open-questions",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Open questions",
+    "text": "Open questions\n\n\nWe still do not fully understand:\n\nWhy some genotypes are more plastic\n\nWhich neural circuits are involved\n\nHow genes and environments interact at the brain level\n\n\nProgress requires studies linking:\n\nGenetic variation\n\nEnvironmental exposure\n\nBrain mechanisms\n\nBehavioral outcomes\n\nAcross development.\n\n\n\nConclusions\nMental disorders and individual differences\nmust be studied through gene–environment interactions.\n\nWe cannot change genes. But we can improve environments. Prevention is a powerful intervention."
+  },
+  {
+    "objectID": "9_resilience_gxe.html#self-check",
+    "href": "9_resilience_gxe.html#self-check",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Self-check",
+    "text": "Self-check"
+  },
+  {
+    "objectID": "10_epigenetics.html#epigenetics-and-behavior",
+    "href": "10_epigenetics.html#epigenetics-and-behavior",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Epigenetics and behavior",
+    "text": "Epigenetics and behavior\n\n\nEpigenetic mechanisms have attracted great interest in the study of behavior and mental disorders.\n\nThey help explain how experiences, especially early in life,\ncan have long-lasting effects on brain function.\n\n\nEpigenetic mechanisms can explain:\n\nWhy early experiences can have lifelong effects\n\nWhy stress can also shape behavior\n\n\n\n\nEpigenetic mechanisms allow:\n\nTransient experiences\n\nTo produce long-term biological effects\n\nThey provide a way for plasticity\nto be maintained over time."
+  },
+  {
+    "objectID": "10_epigenetics.html#epigenetic-mechanisms",
+    "href": "10_epigenetics.html#epigenetic-mechanisms",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Epigenetic mechanisms",
+    "text": "Epigenetic mechanisms\n\n\nThere are several epigenetic mechanisms. Two of the most studied are:\n\nHistone acetylation\n\nDNA methylation\n\n\nEpigenetics was originally developed\nto explain how cellular traits are inherited\nwithout changes in DNA sequence.\nThis was crucial in:\n\nDevelopmental biology\n\nCell differentiation\n\n\n\n\nDuring development we have undifferentiated cells (stem cells):\n\nCells are initially totipotent\n\nThen become multipotent\n\nFinally become specialized\n\nThis occurs through epigenetic regulation of gene expression. As cells encounter specific signals:\n\nSome genes are silenced\n\nOthers are activated\n\nThe gene remains present, but epigenetic modulate its expression."
+  },
+  {
+    "objectID": "10_epigenetics.html#epigenetics-in-neurons",
+    "href": "10_epigenetics.html#epigenetics-in-neurons",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Epigenetics in neurons",
+    "text": "Epigenetics in neurons\n\n\nIn neurons:\n\nEpigenetic changes are maintained\nat the level of the individual cell\nThey provide long-term regulation of neuronal function.\n\n\nEpigenetic mechanisms are now considered crucial for:\n\nLong-term behavioral change\n\nResilience and vulnerability\n\nAdaptive and maladaptive plasticity\n\nThey link experience to lasting brain change.\n\n\n\nEpigenetic mechanisms are processes that:\n\nAlter gene expression\n\nWithout changing the DNA sequence\n\nThey act through chromatin remodeling."
+  },
+  {
+    "objectID": "10_epigenetics.html#chromatin",
+    "href": "10_epigenetics.html#chromatin",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Chromatin",
+    "text": "Chromatin\n\n\n\nThink of chromatin as a spool of thread:\n\nThread = DNA\n\nSpool = histone proteins\n\nDNA wraps around histones.\n\n\nChromatin is the combination of:\n\nDNA\n\nHistone proteins\n\nIts structure determines whether genes\nare accessible for transcription."
+  },
+  {
+    "objectID": "10_epigenetics.html#chromatin-states",
+    "href": "10_epigenetics.html#chromatin-states",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Chromatin states",
+    "text": "Chromatin states\n\n\nChromatin can be:\n\n\n\nState\nTranscription\n\n\n\n\nInactive\nNot accessible\n\n\nRepressed\nLow\n\n\nPermissive\nMedium\n\n\nActive\nHigh\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nflowchart TD\n    Gene[\"Gene needs&lt;br/&gt;transcription\"]\n    Access[\"Transcription&lt;br/&gt;machinery access\"]\n    Chromatin{\"Chromatin&lt;br/&gt;state?\"}\n\n    Tight[\"Tightly packed\"]\n    Loose[\"Loosely packed\"]\n\n    NoTx[\"Transcription&lt;br/&gt;unlikely\"]\n    YesTx[\"Transcription&lt;br/&gt;possible\"]\n\n    Gene --&gt; Access\n    Access --&gt; Chromatin\n    Chromatin --&gt; Tight\n    Chromatin --&gt; Loose\n    Tight --&gt; NoTx\n    Loose --&gt; YesTx\n\n    %% Compact style (single line!)\n    classDef simple fill:#a4d5c2,color:#000,stroke:#9f8ca0,stroke-width:2px,font-size:14px\n    class Gene,Access,Chromatin,Tight,Loose,NoTx,YesTx simple"
+  },
+  {
+    "objectID": "10_epigenetics.html#dna-methylation",
+    "href": "10_epigenetics.html#dna-methylation",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "DNA methylation",
+    "text": "DNA methylation\n\n\nDNA methylation:\n\nAdds a methyl group (CH3) to DNA\n\nActs as a transcriptional stop signal\n\nWhen methylation is present:\n\nTranscription machinery is blocked\n\n\nLife experiences can modify:\n\nWhich regions of DNA are methylated\n\nThis changes transcription probability\nwithout altering DNA sequence.\n\n\n\nStudies of monozygotic twins show:\n\nAt early age, epigenetic patterns are similar\n\nLater in life, patterns diverge\n\nExperience leaves an epigenetic signature."
+  },
+  {
+    "objectID": "10_epigenetics.html#evidence-from-twins",
+    "href": "10_epigenetics.html#evidence-from-twins",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Evidence from twins",
+    "text": "Evidence from twins"
+  },
+  {
+    "objectID": "10_epigenetics.html#histone-acetylation",
+    "href": "10_epigenetics.html#histone-acetylation",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Histone acetylation",
+    "text": "Histone acetylation\nHistone acetylation:\n\nLoosens chromatin structure\n\nMakes DNA more accessible\n\nThis generally promotes gene transcription."
+  },
+  {
+    "objectID": "10_epigenetics.html#histone-modifications",
+    "href": "10_epigenetics.html#histone-modifications",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Histone modifications",
+    "text": "Histone modifications\n\n\n\nHistone proteins are not static.\nThey can undergo post-translational modifications\nafter they are synthesized.\nThese modifications change how histones interact with DNA.\n\n\nA histone modification is a chemical change added to histone proteins.\nThese changes:\n\nDo not alter DNA sequence\n\nAlter chromatin structure\n\nModify gene transcription probability\n\nThey act as regulatory signals.\n\n\n\nHistone modifications determine:\n\nHow tightly DNA is packed\n\nWhether a gene is accessible\n\nThey regulate gene expression dynamically.\n\n\nHistone acetylation is one type of histone modification. It consists of adding an acetyl group to specific regions of histone proteins.\n\n\nHistone acetylation:\n\nMakes chromatin less compact\n\nIncreases DNA accessibility"
+  },
+  {
+    "objectID": "10_epigenetics.html#histone-modifications-1",
+    "href": "10_epigenetics.html#histone-modifications-1",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Histone modifications",
+    "text": "Histone modifications\n\n\n\nCommon histone post-translational modifications include:\n\nAcetylation\n\nMethylation\n\nPhosphorylation\n\nUbiquitination\n\nEach modification can alter chromatin structure\nor recruit specific regulatory proteins. In a much more complex way.\n\n\n\nHistone modifications do not act in isolation.\nDifferent combinations of modifications\ncreate a histone code.\nThis code:\n\nFine-tunes gene expression\n\nAllows flexible and context-dependent regulation"
+  },
+  {
+    "objectID": "10_epigenetics.html#histone-modifications-2",
+    "href": "10_epigenetics.html#histone-modifications-2",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Histone modifications",
+    "text": "Histone modifications\n\n\n\nHistone modification\nChromatin\n\n\n\n\nHistone acetylation\nless compact\n\n\nHistone deacetylation\nmore compact\n\n\nHistone methylation\nmore compact\n\n\nHistone demethylation\nless compact"
   }
 ]
