@@ -118,7 +118,19 @@ A neuron has:
 - Often contain **spines**, which increase surface area for synaptic contact
 ::: 
 ::: column
+
+<div class="img-overlay">
 ![](images/neuron_compartments.png){width="500" fig-align="right"}
+
+<svg viewBox="0 0 500 500" preserveAspectRatio="none">
+  <rect x="125" y="0" width="60" height="25"
+      fill="rgba(255, 0, 0, 0)"
+      stroke="red"
+      stroke-width="3"/>
+</svg>
+
+</div>
+
 ::: 
 ::: 
 ---
@@ -133,7 +145,17 @@ A neuron has:
 ::: 
 
 ::: column
+<div class="img-overlay">
 ![](images/neuron_compartments.png){width="500" fig-align="right"}
+<svg viewBox="0 0 500 500" preserveAspectRatio="none">
+  <rect x="65" y="230" width="40" height="25"
+      fill="rgba(255, 0, 0, 0)"
+      stroke="red"
+      stroke-width="3"/>
+</svg>
+
+</div>
+
 ::: 
 :::
 
@@ -194,8 +216,16 @@ Genes are instructions for building cellular components
 
 :::
 ::: column
-
+<div class="img-overlay">
 ![](images/neuron_compartments.png){width="500" fig-align="right"}
+<svg viewBox="0 0 500 500" preserveAspectRatio="none">
+  <rect x="204" y="135" width="70" height="25"
+      fill="rgba(255, 0, 0, 0)"
+      stroke="red"
+      stroke-width="3"/>
+</svg>
+
+</div>
 
 ::: 
 :::
@@ -211,7 +241,17 @@ Genes are instructions for building cellular components
 ::: 
 
 ::: column
+<div class="img-overlay">
 ![](images/neuron_compartments.png){width="500" fig-align="right"}
+<svg viewBox="0 0 500 500" preserveAspectRatio="none">
+  <rect x="245" y="170" width="35" height="25"
+      fill="rgba(255, 0, 0, 0)"
+      stroke="red"
+      stroke-width="3"/>
+</svg>
+
+</div>
+
 ::: 
 :::
 ---
@@ -225,7 +265,17 @@ Genes are instructions for building cellular components
 ::: 
 
 ::: column
+<div class="img-overlay">
 ![](images/neuron_compartments.png){width="500" fig-align="right"}
+<svg viewBox="0 0 500 500" preserveAspectRatio="none">
+  <rect x="328" y="65" width="55" height="25"
+      fill="rgba(255, 0, 0, 0)"
+      stroke="red"
+      stroke-width="3"/>
+</svg>
+
+</div>
+
 ::: 
 :::
 ---
