@@ -1,0 +1,456 @@
+{
+  "topic": "Gene-Environment Interaction (GxE)",
+  "questions": [
+    {
+      "question": "The original meaning of resilience comes from:",
+      "options": [
+        "Psychology",
+        "Biology",
+        "Metallurgy",
+        "Medicine"
+      ],
+      "correct": 2,
+      "feedback": "Resilience originally referred to materials resisting force without breaking."
+    },
+    {
+      "question": "In psychology, resilience primarily refers to:",
+      "options": [
+        "Enduring stress without change",
+        "Suppressing emotional responses",
+        "Active adaptation to adversity",
+        "Genetic resistance to disease"
+      ],
+      "correct": 2,
+      "feedback": "Psychological resilience involves active and adaptive responses."
+    },
+    {
+      "question": "The Kauai longitudinal study followed:",
+      "options": [
+        "Adults exposed to trauma",
+        "Children born in 1955 on Kauai",
+        "Families across generations",
+        "Clinical psychiatric patients"
+      ],
+      "correct": 1,
+      "feedback": "Werner followed an entire birth cohort from Kauai."
+    },
+    {
+      "question": "Approximately what fraction of high-risk children in the Kauai study developed normally?",
+      "options": [
+        "Almost none",
+        "About one third",
+        "Half",
+        "Nearly all"
+      ],
+      "correct": 1,
+      "feedback": "About one third showed resilient outcomes."
+    },
+    {
+      "question": "The Kauai study shifted research focus from:",
+      "options": [
+        "Genes to environment",
+        "Risk factors to protective factors",
+        "Brain to behavior",
+        "Diagnosis to treatment"
+      ],
+      "correct": 1,
+      "feedback": "The key shift was toward identifying protective factors."
+    },
+    {
+      "question": "Resilience is best described as:",
+      "options": [
+        "The absence of pathology",
+        "Passive endurance",
+        "An active biological process",
+        "Purely psychological coping"
+      ],
+      "correct": 2,
+      "feedback": "Resilience involves active molecular and circuit-level changes."
+    },
+    {
+      "question": "Passive resilience refers to:",
+      "options": [
+        "Enhanced adaptive responses",
+        "Absence of maladaptive changes",
+        "Increased plasticity",
+        "Environmental enrichment"
+      ],
+      "correct": 1,
+      "feedback": "Passive resilience reflects lack of harmful responses."
+    },
+    {
+      "question": "Active resilience involves:",
+      "options": [
+        "Lack of stress exposure",
+        "Presence of adaptive plastic changes",
+        "Reduced gene expression",
+        "Behavioral avoidance only"
+      ],
+      "correct": 1,
+      "feedback": "Active resilience includes changes unique to resilient individuals."
+    },
+    {
+      "question": "Which concept is central to both forms of resilience?",
+      "options": [
+        "Neuroplasticity",
+        "Neurogenesis",
+        "Neurodegeneration",
+        "Neural pruning"
+      ],
+      "correct": 0,
+      "feedback": "Plasticity enables adaptation to adversity."
+    },
+    {
+      "question": "The gene-to-disorder approach assumes:",
+      "options": [
+        "Genes act only with environment",
+        "Linear effects of genes on disorders",
+        "Disorders arise without genetics",
+        "Genes affect only endophenotypes"
+      ],
+      "correct": 1,
+      "feedback": "This approach assumes direct gene-disorder links."
+    },
+    {
+      "question": "A major limitation of the gene-to-disorder approach was:",
+      "options": [
+        "Ethical concerns",
+        "Poor animal models",
+        "Replication failures",
+        "Lack of diagnostic criteria"
+      ],
+      "correct": 2,
+      "feedback": "Many associations failed to replicate."
+    },
+    {
+      "question": "Endophenotypes are defined as:",
+      "options": [
+        "Behavioral symptoms",
+        "Environmental risk factors",
+        "Heritable intermediate traits",
+        "Clinical diagnoses"
+      ],
+      "correct": 2,
+      "feedback": "Endophenotypes bridge genes and disorders."
+    },
+    {
+      "question": "The endophenotype-to-disorder approach assumes:",
+      "options": [
+        "Genes affect diagnoses directly",
+        "Genes have stronger effects on intermediate traits",
+        "Environment is irrelevant",
+        "Endophenotypes are non-heritable"
+      ],
+      "correct": 1,
+      "feedback": "Intermediate traits are closer to genetic action."
+    },
+    {
+      "question": "The G×E approach emphasizes:",
+      "options": [
+        "Genes alone",
+        "Environment alone",
+        "Their interaction",
+        "Random developmental noise"
+      ],
+      "correct": 2,
+      "feedback": "Risk emerges from gene–environment interaction."
+    },
+    {
+      "question": "In a G×E framework, genes are best described as:",
+      "options": [
+        "Deterministic causes",
+        "Inactive without environment",
+        "Risk or sensitivity factors",
+        "Protective only"
+      ],
+      "correct": 2,
+      "feedback": "Genes modulate sensitivity to environments."
+    },
+    {
+      "question": "A polymorphism is defined as a DNA variant present in:",
+      "options": [
+        "Any individual",
+        "Less than 0.1% of the population",
+        "More than 1% of the population",
+        "Only clinical populations"
+      ],
+      "correct": 2,
+      "feedback": "Polymorphisms are common variants."
+    },
+    {
+      "question": "Polymorphisms typically:",
+      "options": [
+        "Cause disease directly",
+        "Act as risk or protective factors",
+        "Eliminate plasticity",
+        "Prevent development"
+      ],
+      "correct": 1,
+      "feedback": "Their effects depend on context."
+    },
+    {
+      "question": "Childhood maltreatment is:",
+      "options": [
+        "A sufficient cause of antisocial behavior",
+        "A weak risk factor",
+        "A strong but non-deterministic risk factor",
+        "Irrelevant to later outcomes"
+      ],
+      "correct": 2,
+      "feedback": "Maltreatment increases risk but does not determine outcomes."
+    },
+    {
+      "question": "The MAOA gene is located on the:",
+      "options": [
+        "Chromosome 1",
+        "Y chromosome",
+        "X chromosome",
+        "Chromosome 21"
+      ],
+      "correct": 2,
+      "feedback": "MAOA is X-linked."
+    },
+    {
+      "question": "MAOA encodes an enzyme involved in the breakdown of:",
+      "options": [
+        "Glutamate",
+        "Monoamines",
+        "GABA",
+        "Acetylcholine"
+      ],
+      "correct": 1,
+      "feedback": "MAOA degrades dopamine, serotonin, and norepinephrine."
+    },
+    {
+      "question": "Low-activity MAOA variants result in:",
+      "options": [
+        "Faster neurotransmitter degradation",
+        "Reduced synaptic signaling",
+        "Prolonged monoamine action",
+        "Complete enzyme loss"
+      ],
+      "correct": 2,
+      "feedback": "Neurotransmitters persist longer at synapses."
+    },
+    {
+      "question": "In the Dunedin study, antisocial behavior increased most in:",
+      "options": [
+        "High-activity MAOA individuals",
+        "Low-activity MAOA individuals exposed to maltreatment",
+        "All individuals equally",
+        "Individuals without maltreatment"
+      ],
+      "correct": 1,
+      "feedback": "The effect emerged only under adversity."
+    },
+    {
+      "question": "The MAOA polymorphism alone was:",
+      "options": [
+        "Sufficient to cause antisocial behavior",
+        "Protective",
+        "Not sufficient to predict behavior",
+        "Unrelated to neurotransmission"
+      ],
+      "correct": 2,
+      "feedback": "The environment was necessary."
+    },
+    {
+      "question": "The serotonin transporter gene (5-HTT) regulates:",
+      "options": [
+        "Serotonin synthesis",
+        "Serotonin receptor binding",
+        "Serotonin reuptake",
+        "Serotonin degradation"
+      ],
+      "correct": 2,
+      "feedback": "5-HTT controls synaptic serotonin clearance."
+    },
+    {
+      "question": "The short (s) allele of 5-HTTLPR is associated with:",
+      "options": [
+        "Higher transporter expression",
+        "Lower transporter expression",
+        "Faster serotonin breakdown",
+        "Increased dopamine release"
+      ],
+      "correct": 1,
+      "feedback": "The short allele reduces transcription."
+    },
+    {
+      "question": "In the absence of stress, depression levels across 5-HTTLPR genotypes were:",
+      "options": [
+        "Very different",
+        "Highest in s/s individuals",
+        "Similar",
+        "Only present in l/l individuals"
+      ],
+      "correct": 2,
+      "feedback": "The gene effect emerged only under stress."
+    },
+    {
+      "question": "The Dunedin depression study showed:",
+      "options": [
+        "A main effect of genotype",
+        "A main effect of stress only",
+        "A significant gene–environment interaction",
+        "No genetic involvement"
+      ],
+      "correct": 2,
+      "feedback": "Stress effects depended on genotype."
+    },
+    {
+      "question": "The DRD4 gene codes for:",
+      "options": [
+        "A serotonin transporter",
+        "A dopamine receptor",
+        "A dopamine enzyme",
+        "A glutamate receptor"
+      ],
+      "correct": 1,
+      "feedback": "DRD4 codes for the D4 dopamine receptor."
+    },
+    {
+      "question": "The DRD4 long (L) variant is considered:",
+      "options": [
+        "Hyperfunctional",
+        "Hypofunctional",
+        "Inactive",
+        "Protective only"
+      ],
+      "correct": 1,
+      "feedback": "The L variant reduces receptor efficiency."
+    },
+    {
+      "question": "In the alcohol experiment, L/L individuals showed:",
+      "options": [
+        "No effect of alcohol",
+        "Less desire to drink",
+        "Increased desire to continue drinking after alcohol",
+        "Reduced reward sensitivity"
+      ],
+      "correct": 2,
+      "feedback": "Genotype modulated alcohol effects."
+    },
+    {
+      "question": "Early cannabis use is associated with increased risk of:",
+      "options": [
+        "Depression only",
+        "Anxiety disorders only",
+        "Psychosis",
+        "Dementia"
+      ],
+      "correct": 2,
+      "feedback": "Risk increases but is not universal."
+    },
+    {
+      "question": "The COMT gene is particularly important in the:",
+      "options": [
+        "Amygdala",
+        "Hippocampus",
+        "Prefrontal cortex",
+        "Cerebellum"
+      ],
+      "correct": 2,
+      "feedback": "COMT regulates dopamine in PFC."
+    },
+    {
+      "question": "In the cannabis working memory study, impairment was strongest in:",
+      "options": [
+        "MET/MET individuals",
+        "VAL/VAL individuals",
+        "All genotypes equally",
+        "Only non-users"
+      ],
+      "correct": 1,
+      "feedback": "Cannabis effects depended on COMT genotype."
+    },
+    {
+      "question": "The Bucharest Early Intervention Project studied:",
+      "options": [
+        "Genetic disorders",
+        "Adult depression",
+        "Early psychosocial deprivation",
+        "Substance abuse"
+      ],
+      "correct": 2,
+      "feedback": "The BEI focused on institutional deprivation."
+    },
+    {
+      "question": "The BEI project design allowed:",
+      "options": [
+        "Correlational inference",
+        "Pure genetic inference",
+        "Causal inference",
+        "Animal modeling"
+      ],
+      "correct": 2,
+      "feedback": "Randomization allowed causal conclusions."
+    },
+    {
+      "question": "Earlier placement into foster care resulted in:",
+      "options": [
+        "Worse outcomes",
+        "No differences",
+        "Better cognitive outcomes",
+        "Only emotional benefits"
+      ],
+      "correct": 2,
+      "feedback": "Timing of intervention mattered."
+    },
+    {
+      "question": "In the BEI genetic moderator study, VAL/VAL children:",
+      "options": [
+        "Did not improve",
+        "Improved the most in foster care",
+        "Were always resilient",
+        "Were unaffected by environment"
+      ],
+      "correct": 1,
+      "feedback": "They benefited strongly from positive environments."
+    },
+    {
+      "question": "This pattern supports the idea of:",
+      "options": [
+        "Pure vulnerability",
+        "Genetic determinism",
+        "Plasticity",
+        "Random recovery"
+      ],
+      "correct": 2,
+      "feedback": "Susceptibility applied to improvement as well."
+    },
+    {
+      "question": "The differential susceptibility model proposes that:",
+      "options": [
+        "Some genes only increase risk",
+        "Genes act only under stress",
+        "Some genotypes increase sensitivity to all environments",
+        "Environment overrides genetics completely"
+      ],
+      "correct": 2,
+      "feedback": "Plasticity variants amplify both positive and negative effects."
+    },
+    {
+      "question": "According to differential susceptibility, some genes are better described as:",
+      "options": [
+        "Risk genes",
+        "Disease genes",
+        "Plasticity genes",
+        "Neutral genes"
+      ],
+      "correct": 2,
+      "feedback": "They increase environmental responsiveness."
+    },
+    {
+      "question": "A key implication of G×E research is that:",
+      "options": [
+        "Genes cannot be changed",
+        "Environment is irrelevant",
+        "Improving environments can reduce risk",
+        "Disorders are inevitable"
+      ],
+      "correct": 2,
+      "feedback": "Prevention through environment is powerful."
+    }
+  ]
+}

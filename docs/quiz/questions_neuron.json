@@ -1,0 +1,478 @@
+{
+  "topic": "Neuron Biophysics",
+  "questions": [
+    {
+      "question": "Why are ions essential for neural signaling?",
+      "options": [
+        "They generate heat",
+        "They carry electrical charge",
+        "They synthesize neurotransmitters",
+        "They stabilize membranes"
+      ],
+      "correct": 1,
+      "feedback": "Electrical signals in neurons arise because ions carry electrical charge."
+    },
+    {
+      "question": "Which of the following is a cation?",
+      "options": [
+        "Cl⁻",
+        "Protein anion",
+        "Na⁺",
+        "Phosphate"
+      ],
+      "correct": 2,
+      "feedback": "Na⁺ is a positively charged ion and therefore a cation."
+    },
+    {
+      "question": "Which ion is most abundant inside neurons at rest?",
+      "options": [
+        "Na⁺",
+        "K⁺",
+        "Ca²⁺",
+        "Cl⁻"
+      ],
+      "correct": 1,
+      "feedback": "Potassium concentration is higher inside neurons at rest."
+    },
+    {
+      "question": "What property of the lipid bilayer is crucial for electrical signaling?",
+      "options": [
+        "High conductivity",
+        "Electrical insulation",
+        "Ion selectivity",
+        "Elasticity"
+      ],
+      "correct": 1,
+      "feedback": "The lipid bilayer is electrically insulating and prevents free ion flow."
+    },
+    {
+      "question": "How do ions cross the neuronal membrane?",
+      "options": [
+        "By diffusion through lipids",
+        "Through ion channels",
+        "By vesicular transport",
+        "Through gap junctions only"
+      ],
+      "correct": 1,
+      "feedback": "Ions cross membranes through specific membrane proteins called ion channels."
+    },
+    {
+      "question": "Ion channel selectivity is mainly determined by:",
+      "options": [
+        "Channel color",
+        "Ion speed",
+        "Ion size and charge",
+        "Membrane thickness"
+      ],
+      "correct": 2,
+      "feedback": "Channel pores are selective based on ion size and charge."
+    },
+    {
+      "question": "Which force drives ions from high to low concentration?",
+      "options": [
+        "Electrical force",
+        "Diffusion",
+        "Osmosis",
+        "Active transport"
+      ],
+      "correct": 1,
+      "feedback": "Diffusion drives particles down their concentration gradient."
+    },
+    {
+      "question": "Which force depends on the electrical charge of ions?",
+      "options": [
+        "Diffusion",
+        "Chemical gradient",
+        "Electrical force",
+        "Thermal motion"
+      ],
+      "correct": 2,
+      "feedback": "Electrical forces arise from attraction or repulsion between charges."
+    },
+    {
+      "question": "The electrochemical gradient is the combination of:",
+      "options": [
+        "Temperature and pressure",
+        "Ion size and channel shape",
+        "Chemical and electrical gradients",
+        "Diffusion and osmosis"
+      ],
+      "correct": 2,
+      "feedback": "Ion movement depends on both chemical and electrical forces."
+    },
+    {
+      "question": "Why does Na⁺ strongly enter neurons when its channels open?",
+      "options": [
+        "Only electrical forces act",
+        "Only diffusion acts",
+        "Both forces push inward",
+        "Na⁺ is actively pumped inside"
+      ],
+      "correct": 2,
+      "feedback": "Both diffusion and electrical attraction drive Na⁺ inward."
+    },
+    {
+      "question": "For K⁺ at rest, which forces act in opposite directions?",
+      "options": [
+        "Electrical attraction inward and diffusion outward",
+        "Diffusion inward and electrical repulsion outward",
+        "Both forces inward",
+        "Both forces outward"
+      ],
+      "correct": 0,
+      "feedback": "Diffusion pushes K⁺ outward while electrical forces pull it inward."
+    },
+    {
+      "question": "Why is intracellular Ca²⁺ concentration normally very low?",
+      "options": [
+        "Ca²⁺ cannot enter neurons",
+        "Ca²⁺ is rapidly degraded",
+        "Ca²⁺ is tightly regulated as a signal",
+        "Ca²⁺ diffuses out freely"
+      ],
+      "correct": 2,
+      "feedback": "Ca²⁺ acts as a powerful signaling molecule and must be tightly controlled."
+    },
+    {
+      "question": "Ion movement through channels is considered passive because:",
+      "options": [
+        "It requires ATP",
+        "It moves ions against gradients",
+        "It follows electrochemical gradients",
+        "It stops at equilibrium"
+      ],
+      "correct": 2,
+      "feedback": "Ions move passively down their electrochemical gradients."
+    },
+    {
+      "question": "Which proteins maintain ion gradients across membranes?",
+      "options": [
+        "Channels",
+        "Receptors",
+        "Pumps",
+        "Gap junctions"
+      ],
+      "correct": 2,
+      "feedback": "Pumps use energy to maintain ion gradients."
+    },
+    {
+      "question": "Membrane voltage is best described as:",
+      "options": [
+        "An electrical current",
+        "A substance inside neurons",
+        "A difference in electrical potential",
+        "A chemical gradient"
+      ],
+      "correct": 2,
+      "feedback": "Voltage is a difference in electrical potential across the membrane."
+    },
+    {
+      "question": "At rest, neuronal membranes are most permeable to:",
+      "options": [
+        "Na⁺",
+        "Ca²⁺",
+        "K⁺",
+        "Cl⁻"
+      ],
+      "correct": 2,
+      "feedback": "Resting membrane potential reflects potassium dominance."
+    },
+    {
+      "question": "Opening Na⁺ channels causes:",
+      "options": [
+        "Hyperpolarization",
+        "Depolarization",
+        "No voltage change",
+        "Refractory period"
+      ],
+      "correct": 1,
+      "feedback": "Na⁺ influx makes the membrane potential less negative."
+    },
+    {
+      "question": "Opening K⁺ channels usually leads to:",
+      "options": [
+        "Depolarization",
+        "Hyperpolarization",
+        "Threshold crossing",
+        "Inactivation"
+      ],
+      "correct": 1,
+      "feedback": "K⁺ efflux makes the membrane potential more negative."
+    },
+    {
+      "question": "Which property distinguishes graded potentials?",
+      "options": [
+        "All-or-none behavior",
+        "Constant amplitude",
+        "Amplitude depends on stimulus strength",
+        "Long-distance propagation"
+      ],
+      "correct": 2,
+      "feedback": "Graded potentials vary in amplitude with stimulus strength."
+    },
+    {
+      "question": "Why do graded potentials decay with distance?",
+      "options": [
+        "Ion channels close",
+        "Membrane and cytoplasmic resistance",
+        "Energy depletion",
+        "Threshold effects"
+      ],
+      "correct": 1,
+      "feedback": "Passive spread is limited by membrane and axial resistance."
+    },
+    {
+      "question": "Where do graded potentials typically occur?",
+      "options": [
+        "Axon terminals only",
+        "Nodes of Ranvier",
+        "Dendrites and soma",
+        "Myelin sheath"
+      ],
+      "correct": 2,
+      "feedback": "Graded potentials are common in dendrites and soma."
+    },
+    {
+      "question": "Spatial summation refers to:",
+      "options": [
+        "Signals adding over time",
+        "Signals adding across space",
+        "Action potential propagation",
+        "Threshold adaptation"
+      ],
+      "correct": 1,
+      "feedback": "Spatial summation involves simultaneous inputs from different locations."
+    },
+    {
+      "question": "Temporal summation occurs when:",
+      "options": [
+        "Inputs arrive at different dendrites",
+        "Inputs arrive close in time",
+        "Threshold is lowered",
+        "Channels inactivate"
+      ],
+      "correct": 1,
+      "feedback": "Temporal summation results from rapid successive inputs."
+    },
+    {
+      "question": "Action potentials are triggered when:",
+      "options": [
+        "Graded potentials decay",
+        "Threshold is crossed",
+        "K⁺ channels close",
+        "Ca²⁺ enters dendrites"
+      ],
+      "correct": 1,
+      "feedback": "Crossing threshold triggers an action potential."
+    },
+    {
+      "question": "Where do action potentials typically originate?",
+      "options": [
+        "Dendritic spines",
+        "Axon hillock",
+        "Soma center",
+        "Synaptic cleft"
+      ],
+      "correct": 1,
+      "feedback": "The axon hillock is specialized for action potential initiation."
+    },
+    {
+      "question": "Which property defines action potentials?",
+      "options": [
+        "Graded amplitude",
+        "Passive spread",
+        "All-or-none behavior",
+        "Decay with distance"
+      ],
+      "correct": 2,
+      "feedback": "Action potentials are stereotyped, all-or-none events."
+    },
+    {
+      "question": "Why are action potentials needed for long-distance signaling?",
+      "options": [
+        "They are slower",
+        "They do not decay",
+        "They require less energy",
+        "They occur only in dendrites"
+      ],
+      "correct": 1,
+      "feedback": "Action potentials propagate without loss of amplitude."
+    },
+    {
+      "question": "Which membrane proteins dominate during action potentials?",
+      "options": [
+        "Passive leak channels",
+        "Ligand-gated channels",
+        "Voltage-gated channels",
+        "Pumps"
+      ],
+      "correct": 2,
+      "feedback": "Voltage-gated Na⁺ and K⁺ channels dominate during spikes."
+    },
+    {
+      "question": "What is channel gating?",
+      "options": [
+        "Ion degradation",
+        "Channel synthesis",
+        "Opening and closing of channels",
+        "Ion pumping"
+      ],
+      "correct": 2,
+      "feedback": "Gating refers to transitions between open and closed states."
+    },
+    {
+      "question": "Which signal can gate voltage-gated channels?",
+      "options": [
+        "Neurotransmitter binding",
+        "Mechanical stretch",
+        "Membrane voltage",
+        "Ion concentration only"
+      ],
+      "correct": 2,
+      "feedback": "Voltage-gated channels respond to changes in membrane voltage."
+    },
+    {
+      "question": "What causes the refractory period?",
+      "options": [
+        "K⁺ channel closure",
+        "Na⁺ channel inactivation",
+        "Ion pump failure",
+        "Ca²⁺ accumulation"
+      ],
+      "correct": 1,
+      "feedback": "Na⁺ channel inactivation prevents immediate re-firing."
+    },
+    {
+      "question": "One function of the refractory period is to:",
+      "options": [
+        "Increase spike size",
+        "Reverse spike direction",
+        "Ensure one-way propagation",
+        "Slow down diffusion"
+      ],
+      "correct": 2,
+      "feedback": "Refractoriness enforces unidirectional propagation."
+    },
+    {
+      "question": "Increasing axon diameter affects conduction speed by:",
+      "options": [
+        "Increasing membrane capacitance",
+        "Increasing axial resistance",
+        "Reducing axial resistance",
+        "Reducing channel density"
+      ],
+      "correct": 2,
+      "feedback": "Larger axons have lower internal resistance."
+    },
+    {
+      "question": "Myelin primarily acts as:",
+      "options": [
+        "A conductor",
+        "An insulator",
+        "A channel cluster",
+        "A receptor"
+      ],
+      "correct": 1,
+      "feedback": "Myelin electrically insulates axons."
+    },
+    {
+      "question": "Nodes of Ranvier are characterized by:",
+      "options": [
+        "Absence of channels",
+        "High channel density",
+        "Thick myelin layers",
+        "Synaptic terminals"
+      ],
+      "correct": 1,
+      "feedback": "Voltage-gated channels are concentrated at nodes."
+    },
+    {
+      "question": "Saltatory conduction means:",
+      "options": [
+        "Continuous propagation",
+        "Random propagation",
+        "Jumping between nodes",
+        "Backward propagation"
+      ],
+      "correct": 2,
+      "feedback": "Action potentials jump from node to node in myelinated axons."
+    },
+    {
+      "question": "Myelination increases conduction speed primarily by:",
+      "options": [
+        "Increasing ion concentration",
+        "Reducing current leakage",
+        "Increasing channel opening time",
+        "Increasing pump activity"
+      ],
+      "correct": 1,
+      "feedback": "Myelin reduces current loss across the membrane."
+    },
+    {
+      "question": "Which statement about voltage is correct?",
+      "options": [
+        "It is a force",
+        "It is a substance",
+        "It measures electrical energy difference",
+        "It is an ion property"
+      ],
+      "correct": 2,
+      "feedback": "Voltage measures how much electrical energy is available to move ions."
+    },
+    {
+      "question": "Which ions mainly shape the resting membrane potential?",
+      "options": [
+        "Na⁺ and Ca²⁺",
+        "Ca²⁺ and Cl⁻",
+        "K⁺ and leak channels",
+        "Na⁺ and pumps"
+      ],
+      "correct": 2,
+      "feedback": "Resting potential reflects high K⁺ permeability through leak channels."
+    },
+    {
+      "question": "What happens if depolarization does not reach threshold?",
+      "options": [
+        "An action potential still occurs",
+        "The neuron fires backward",
+        "The voltage returns to rest",
+        "Na⁺ channels inactivate permanently"
+      ],
+      "correct": 2,
+      "feedback": "Subthreshold depolarizations decay back to resting potential."
+    },
+    {
+      "question": "Why are action potentials considered active events?",
+      "options": [
+        "They require ATP directly",
+        "They depend on voltage-gated channels",
+        "They involve diffusion only",
+        "They are graded"
+      ],
+      "correct": 1,
+      "feedback": "Voltage-gated channel dynamics make action potentials active processes."
+    },
+    {
+      "question": "Which channel state prevents immediate reopening after a spike?",
+      "options": [
+        "Closed",
+        "Open",
+        "Inactivated",
+        "Leaky"
+      ],
+      "correct": 2,
+      "feedback": "Inactivation temporarily prevents Na⁺ channels from reopening."
+    },
+    {
+      "question": "Which property limits the maximum firing frequency of neurons?",
+      "options": [
+        "Membrane thickness",
+        "Channel selectivity",
+        "Refractory period",
+        "Diffusion rate"
+      ],
+      "correct": 2,
+      "feedback": "The refractory period limits how fast neurons can fire."
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "topic": "Introduction to Neuroscience",
+  "questions": [
+    {
+      "question": "What core question does neuroscience aim to answer?",
+      "options": [
+        "How neurons evolve over time",
+        "How the brain produces behavior",
+        "How genes control movement",
+        "How muscles generate force"
+      ],
+      "correct": 1,
+      "feedback": "Neuroscience asks how brain activity gives rise to behavior."
+    },
+    {
+      "question": "Which systems are studied in neuroscience?",
+      "options": [
+        "Only the central nervous system",
+        "Only the peripheral nervous system",
+        "Central and peripheral nervous systems",
+        "Only sensory systems"
+      ],
+      "correct": 2,
+      "feedback": "Neuroscience studies both central and peripheral nervous systems."
+    },
+    {
+      "question": "Which disciplines contribute to neuroscience?",
+      "options": [
+        "Only biology and medicine",
+        "Biology, psychology, physics, engineering, and philosophy",
+        "Only psychology and philosophy",
+        "Only engineering and physics"
+      ],
+      "correct": 1,
+      "feedback": "Neuroscience is an interdisciplinary field."
+    },
+    {
+      "question": "What is the primary functional unit of the nervous system?",
+      "options": [
+        "Glial cell",
+        "Neuron",
+        "Synapse",
+        "Axon"
+      ],
+      "correct": 1,
+      "feedback": "Neurons are the basic units that process and transmit signals."
+    },
+    {
+      "question": "What is the main function of neurons?",
+      "options": [
+        "Producing hormones",
+        "Sending electrical signals",
+        "Supporting blood flow",
+        "Maintaining posture"
+      ],
+      "correct": 1,
+      "feedback": "Neurons send electrical signals over short and long distances."
+    },
+    {
+      "question": "Neurons are described as electrically and chemically excitable because they:",
+      "options": [
+        "Only release neurotransmitters",
+        "Respond only to chemicals",
+        "Generate electrical signals and release chemicals",
+        "Produce energy"
+      ],
+      "correct": 2,
+      "feedback": "Neurons use both electrical and chemical signaling."
+    },
+    {
+      "question": "Which neuronal component primarily receives incoming signals?",
+      "options": [
+        "Axon",
+        "Axon hillock",
+        "Dendrites",
+        "Presynaptic terminal"
+      ],
+      "correct": 2,
+      "feedback": "Dendrites are the main targets of incoming synaptic signals."
+    },
+    {
+      "question": "What is the role of dendritic spines?",
+      "options": [
+        "Increase axon speed",
+        "Store neurotransmitters",
+        "Increase surface area for synapses",
+        "Generate action potentials"
+      ],
+      "correct": 2,
+      "feedback": "Spines increase the surface area for synaptic contact."
+    },
+    {
+      "question": "What is the primary role of the cell body (soma)?",
+      "options": [
+        "Releasing neurotransmitters",
+        "Conducting signals rapidly",
+        "Integrating incoming signals",
+        "Generating reflexes"
+      ],
+      "correct": 2,
+      "feedback": "The soma integrates signals from dendrites."
+    },
+    {
+      "question": "Which structure contains the neuron’s DNA?",
+      "options": [
+        "Axon",
+        "Dendrites",
+        "Nucleus",
+        "Presynaptic terminal"
+      ],
+      "correct": 2,
+      "feedback": "DNA is stored inside the nucleus."
+    },
+    {
+      "question": "Genes are best described as:",
+      "options": [
+        "Electrical signals",
+        "Proteins",
+        "Chains of amino acids",
+        "Instructions encoded in DNA"
+      ],
+      "correct": 3,
+      "feedback": "Genes are DNA sequences that encode instructions."
+    },
+    {
+      "question": "Proteins are composed of:",
+      "options": [
+        "Nucleotides",
+        "Lipids",
+        "Amino acids",
+        "Sugars"
+      ],
+      "correct": 2,
+      "feedback": "Proteins are chains of amino acids."
+    },
+    {
+      "question": "Why are proteins described as the working molecules of the cell?",
+      "options": [
+        "They store genetic information",
+        "They carry electrical signals",
+        "They perform most cellular functions",
+        "They form membranes"
+      ],
+      "correct": 2,
+      "feedback": "Proteins carry out most cellular processes."
+    },
+    {
+      "question": "Where are action potentials typically initiated?",
+      "options": [
+        "Dendrites",
+        "Cell body",
+        "Axon hillock",
+        "Presynaptic terminal"
+      ],
+      "correct": 2,
+      "feedback": "The axon hillock is the trigger zone for action potentials."
+    },
+    {
+      "question": "What property makes the axon suitable for long-distance signaling?",
+      "options": [
+        "High metabolic activity",
+        "Electrical insulation",
+        "Ability to conduct electrical signals",
+        "Large nucleus"
+      ],
+      "correct": 2,
+      "feedback": "Axons conduct electrical signals over long distances."
+    },
+    {
+      "question": "What is the effect of axon myelination?",
+      "options": [
+        "Slower signaling",
+        "Faster signal conduction",
+        "More neurotransmitter release",
+        "Increased dendritic input"
+      ],
+      "correct": 1,
+      "feedback": "Myelination increases conduction speed."
+    },
+    {
+      "question": "What is the function of the presynaptic terminal?",
+      "options": [
+        "Receiving neurotransmitters",
+        "Generating action potentials",
+        "Releasing neurotransmitters",
+        "Integrating signals"
+      ],
+      "correct": 2,
+      "feedback": "Presynaptic terminals release neurotransmitters."
+    },
+    {
+      "question": "Neuronal communication is described as dual because it involves:",
+      "options": [
+        "Two types of neurons",
+        "Electrical and chemical signaling",
+        "Fast and slow neurons",
+        "Sensory and motor pathways"
+      ],
+      "correct": 1,
+      "feedback": "Signals travel electrically along axons and chemically at synapses."
+    },
+    {
+      "question": "Which example best illustrates structure influencing function?",
+      "options": [
+        "Larger nucleus produces stronger signals",
+        "More dendrites allow more inputs",
+        "More DNA increases firing rate",
+        "Longer soma improves memory"
+      ],
+      "correct": 1,
+      "feedback": "More dendrites allow a neuron to receive more inputs."
+    },
+    {
+      "question": "Why is neuron diversity important?",
+      "options": [
+        "All neurons perform the same task",
+        "Different structures support specialized functions",
+        "It increases metabolic cost",
+        "It reduces signaling efficiency"
+      ],
+      "correct": 1,
+      "feedback": "Neuronal diversity enables specialized functions across the nervous system."
+    }
+  ]
+}

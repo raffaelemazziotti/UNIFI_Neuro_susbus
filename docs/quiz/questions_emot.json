@@ -1,0 +1,335 @@
+{
+  "topic": "Emotion, Motivation and Stress",
+  "questions": [
+    {
+      "question": "What core problem do emotion and motivation help solve for the brain?",
+      "options": [
+        "Increasing sensory resolution",
+        "Prioritizing what is important and requires action",
+        "Storing long-term memories",
+        "Optimizing motor precision"
+      ],
+      "correct": 1,
+      "feedback": "Emotion and motivation help the brain prioritize information and guide action."
+    },
+    {
+      "question": "Emotion and motivation primarily contribute to:",
+      "options": [
+        "Signal transmission speed",
+        "Decision biasing and behavioral drive",
+        "Sensory adaptation",
+        "Muscle coordination"
+      ],
+      "correct": 1,
+      "feedback": "They bias decisions and drive behavior."
+    },
+    {
+      "question": "Which best defines emotion from a neuroscience perspective?",
+      "options": [
+        "A conscious feeling state",
+        "A coordinated brain–body state that assigns value",
+        "A purely cognitive interpretation",
+        "A learned behavioral response"
+      ],
+      "correct": 1,
+      "feedback": "Emotion is a coordinated brain–body state that assigns value and prepares action."
+    },
+    {
+      "question": "What distinguishes emotions from feelings?",
+      "options": [
+        "Emotions are slower than feelings",
+        "Feelings are objective and measurable",
+        "Emotions can occur without awareness",
+        "Feelings originate subcortically"
+      ],
+      "correct": 2,
+      "feedback": "Emotions can occur without conscious awareness, while feelings require it."
+    },
+    {
+      "question": "Feelings depend most strongly on:",
+      "options": [
+        "Subcortical reflexes",
+        "Autonomic responses",
+        "Cortical processing and awareness",
+        "Motor execution"
+      ],
+      "correct": 2,
+      "feedback": "Feelings rely on cortical processing and conscious interpretation."
+    },
+    {
+      "question": "Which statement is correct?",
+      "options": [
+        "You can have feelings without emotions",
+        "Emotions always require conscious awareness",
+        "Emotions typically occur before feelings",
+        "Feelings generate emotions"
+      ],
+      "correct": 2,
+      "feedback": "Emotions occur first; feelings may emerge later."
+    },
+    {
+      "question": "Which brain regions are commonly involved in emotion processing?",
+      "options": [
+        "Only the amygdala",
+        "Only cortical areas",
+        "Amygdala, hypothalamus, brainstem, cortex",
+        "Only the prefrontal cortex"
+      ],
+      "correct": 2,
+      "feedback": "Emotion relies on distributed networks across cortex and subcortex."
+    },
+    {
+      "question": "Subcortical emotion-related regions are mainly involved in:",
+      "options": [
+        "Conscious interpretation",
+        "Slow deliberation",
+        "Rapid and automatic responses",
+        "Language processing"
+      ],
+      "correct": 2,
+      "feedback": "Subcortical systems support fast, automatic emotional responses."
+    },
+    {
+      "question": "Cortical regions contribute to emotion by:",
+      "options": [
+        "Generating reflexes",
+        "Suppressing autonomic function",
+        "Interpreting and regulating emotional states",
+        "Encoding muscle force"
+      ],
+      "correct": 2,
+      "feedback": "Cortex supports interpretation, context, and regulation."
+    },
+    {
+      "question": "The amygdala is especially involved in:",
+      "options": [
+        "Language comprehension",
+        "Motor learning",
+        "Detecting biologically relevant stimuli",
+        "Spatial navigation"
+      ],
+      "correct": 2,
+      "feedback": "The amygdala evaluates relevance, especially threat."
+    },
+    {
+      "question": "Amygdala responses are characterized by:",
+      "options": [
+        "Slow cortical computation",
+        "Dependence on conscious awareness",
+        "Fast responses before detailed analysis",
+        "Exclusive sensitivity to negative stimuli"
+      ],
+      "correct": 2,
+      "feedback": "Amygdala responses are fast and can precede cortical analysis."
+    },
+    {
+      "question": "Fear conditioning is best described as:",
+      "options": [
+        "A reflexive motor response",
+        "A form of associative learning",
+        "A conscious fear strategy",
+        "A hormonal stress response"
+      ],
+      "correct": 1,
+      "feedback": "Fear conditioning is associative learning between stimuli."
+    },
+    {
+      "question": "In fear conditioning, the conditioned stimulus (CS) is:",
+      "options": [
+        "An inherently aversive stimulus",
+        "A neutral stimulus that predicts danger",
+        "A stress hormone",
+        "A motor response"
+      ],
+      "correct": 1,
+      "feedback": "The CS is initially neutral and gains significance through learning."
+    },
+    {
+      "question": "Which structure is required for acquiring fear memories?",
+      "options": [
+        "Prefrontal cortex",
+        "Amygdala",
+        "Cerebellum",
+        "Basal nuclei"
+      ],
+      "correct": 1,
+      "feedback": "The amygdala is essential for fear memory acquisition."
+    },
+    {
+      "question": "Fear extinction involves:",
+      "options": [
+        "Erasing the original fear memory",
+        "Suppressing amygdala formation",
+        "Learning that the CS no longer predicts danger",
+        "Blocking sensory input"
+      ],
+      "correct": 2,
+      "feedback": "Extinction is new learning, not erasure."
+    },
+    {
+      "question": "Fear can reappear after extinction because:",
+      "options": [
+        "The amygdala is destroyed",
+        "The original memory persists",
+        "Extinction damages memory",
+        "Hormones overwrite learning"
+      ],
+      "correct": 1,
+      "feedback": "Extinction modulates expression but does not erase the original memory."
+    },
+    {
+      "question": "Emotion regulation primarily relies on:",
+      "options": [
+        "Brainstem nuclei",
+        "Spinal circuits",
+        "Prefrontal cortex",
+        "Sensory cortex"
+      ],
+      "correct": 2,
+      "feedback": "Prefrontal regions support top-down regulation."
+    },
+    {
+      "question": "Reappraisal is best described as:",
+      "options": [
+        "Suppressing emotions",
+        "Avoiding emotional stimuli",
+        "Changing interpretation to alter emotional impact",
+        "Blocking autonomic responses"
+      ],
+      "correct": 2,
+      "feedback": "Reappraisal changes meaning to regulate emotion."
+    },
+    {
+      "question": "Why is adolescence associated with increased emotional intensity?",
+      "options": [
+        "Amygdala is underdeveloped",
+        "Prefrontal regulation matures early",
+        "Subcortical systems mature before prefrontal control",
+        "Stress hormones are absent"
+      ],
+      "correct": 2,
+      "feedback": "Emotion systems mature before regulatory control."
+    },
+    {
+      "question": "Motivation answers which question?",
+      "options": [
+        "What do I feel?",
+        "Why act at all?",
+        "How do I perceive?",
+        "How fast should I move?"
+      ],
+      "correct": 1,
+      "feedback": "Motivation concerns initiating and sustaining action."
+    },
+    {
+      "question": "Which distinction is central to motivation?",
+      "options": [
+        "Emotion vs feeling",
+        "Wanting vs liking",
+        "Stress vs fear",
+        "Control vs reflex"
+      ],
+      "correct": 1,
+      "feedback": "Wanting and liking are dissociable motivational components."
+    },
+    {
+      "question": "Dopamine is primarily involved in:",
+      "options": [
+        "Pure pleasure",
+        "Muscle contraction",
+        "Reward prediction and learning",
+        "Autonomic reflexes"
+      ],
+      "correct": 2,
+      "feedback": "Dopamine signals prediction and learning, not simple pleasure."
+    },
+    {
+      "question": "Reward prediction error reflects:",
+      "options": [
+        "Reward magnitude",
+        "Reward pleasure",
+        "Difference between expected and actual outcomes",
+        "Stress hormone levels"
+      ],
+      "correct": 2,
+      "feedback": "Prediction error updates expectations."
+    },
+    {
+      "question": "When a reward is worse than expected, dopamine activity:",
+      "options": [
+        "Increases",
+        "Does not change",
+        "Decreases",
+        "Becomes random"
+      ],
+      "correct": 2,
+      "feedback": "Negative prediction error reduces dopamine firing."
+    },
+    {
+      "question": "Stress is best defined as:",
+      "options": [
+        "A negative emotion",
+        "A physiological response to challenge",
+        "A motivational state",
+        "A cognitive bias"
+      ],
+      "correct": 1,
+      "feedback": "Stress is a coordinated physiological response."
+    },
+    {
+      "question": "Which systems mediate stress responses?",
+      "options": [
+        "Only cortex",
+        "Autonomic system and HPA axis",
+        "Motor cortex and cerebellum",
+        "Basal nuclei only"
+      ],
+      "correct": 1,
+      "feedback": "Stress involves fast autonomic and slower hormonal systems."
+    },
+    {
+      "question": "Autonomic stress responses are:",
+      "options": [
+        "Slow and hormonal",
+        "Fast and neural",
+        "Conscious and voluntary",
+        "Limited to digestion"
+      ],
+      "correct": 1,
+      "feedback": "Autonomic responses are rapid and neural."
+    },
+    {
+      "question": "The HPA axis response is characterized by:",
+      "options": [
+        "Milliseconds timing",
+        "Purely neural signaling",
+        "Hormonal cascades",
+        "Lack of brain control"
+      ],
+      "correct": 2,
+      "feedback": "The HPA axis operates through hormonal signaling."
+    },
+    {
+      "question": "Cortisol primarily:",
+      "options": [
+        "Suppresses all behavior",
+        "Mobilizes energy resources",
+        "Blocks learning",
+        "Eliminates fear"
+      ],
+      "correct": 1,
+      "feedback": "Cortisol increases energy availability."
+    },
+    {
+      "question": "Chronic stress differs from acute stress because it:",
+      "options": [
+        "Is stronger",
+        "Lasts longer due to dysregulation",
+        "Involves different hormones",
+        "Is always adaptive"
+      ],
+      "correct": 1,
+      "feedback": "Chronic stress reflects failure to terminate responses."
+    }
+  ]
+}

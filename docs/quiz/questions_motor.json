@@ -1,0 +1,467 @@
+{
+  "topic": "Motor System",
+  "questions": [
+    {
+      "question": "What is the primary function of the motor system?",
+      "options": [
+        "Processing sensory input",
+        "Generating movement from goals and intentions",
+        "Regulating autonomic functions",
+        "Maintaining posture only"
+      ],
+      "correct": 1,
+      "feedback": "The motor system transforms goals and intentions into coordinated muscle activity."
+    },
+    {
+      "question": "Which process is NOT required for producing movement?",
+      "options": [
+        "Action selection",
+        "Motor planning",
+        "Outcome monitoring",
+        "Sensory transduction"
+      ],
+      "correct": 3,
+      "feedback": "Sensory transduction belongs to sensory systems, not motor execution."
+    },
+    {
+      "question": "Which structure is the main cortical output of the motor system?",
+      "options": [
+        "Premotor cortex",
+        "Primary motor cortex (M1)",
+        "Supplementary motor area",
+        "Somatosensory cortex"
+      ],
+      "correct": 1,
+      "feedback": "M1 is the main cortical output sending commands to the spinal cord."
+    },
+    {
+      "question": "Where is the primary motor cortex located?",
+      "options": [
+        "Posterior to the central sulcus",
+        "In the parietal lobe",
+        "Anterior to somatosensory cortex",
+        "In the temporal lobe"
+      ],
+      "correct": 2,
+      "feedback": "Primary motor cortex lies in the frontal lobe, anterior to somatosensory cortex."
+    },
+    {
+      "question": "Somatotopic organization in M1 means that:",
+      "options": [
+        "Each muscle has one neuron",
+        "Different body parts map to different cortical regions",
+        "Only sensory information is mapped",
+        "All body parts are equally represented"
+      ],
+      "correct": 1,
+      "feedback": "Different body parts are represented in distinct cortical regions."
+    },
+    {
+      "question": "Which body parts occupy more cortical space in M1?",
+      "options": [
+        "Large muscles",
+        "Muscles with fine motor control",
+        "Axial muscles",
+        "Postural muscles"
+      ],
+      "correct": 1,
+      "feedback": "Fine motor control requires larger cortical representation."
+    },
+    {
+      "question": "What do neurons in primary motor cortex encode?",
+      "options": [
+        "Single muscle contractions",
+        "Only force",
+        "Only direction",
+        "Patterns of movement via population activity"
+      ],
+      "correct": 3,
+      "feedback": "Movement emerges from population activity encoding direction, force, and coordination."
+    },
+    {
+      "question": "Motor control from cortex to spinal cord is largely:",
+      "options": [
+        "Ipsilateral",
+        "Bilateral",
+        "Contralateral",
+        "Unilateral but random"
+      ],
+      "correct": 2,
+      "feedback": "Motor cortex mainly controls the contralateral side of the body."
+    },
+    {
+      "question": "Lower motor neurons are located in the:",
+      "options": [
+        "Dorsal horn of the spinal cord",
+        "Ventral horn of the spinal cord",
+        "Motor cortex",
+        "Brainstem nuclei only"
+      ],
+      "correct": 1,
+      "feedback": "Lower motor neurons reside in the ventral horn of the spinal cord."
+    },
+    {
+      "question": "Why are lower motor neurons called the final common pathway?",
+      "options": [
+        "They initiate voluntary movement",
+        "They integrate sensory input only",
+        "All motor commands converge on them",
+        "They plan motor sequences"
+      ],
+      "correct": 2,
+      "feedback": "All descending motor commands converge on lower motor neurons."
+    },
+    {
+      "question": "Which structure is the main site of motor execution?",
+      "options": [
+        "Motor cortex",
+        "Basal ganglia",
+        "Cerebellum",
+        "Spinal cord"
+      ],
+      "correct": 3,
+      "feedback": "The spinal cord integrates commands and executes movement."
+    },
+    {
+      "question": "Why is M1 alone insufficient for voluntary movement?",
+      "options": [
+        "It cannot generate force",
+        "It cannot select or plan actions",
+        "It does not connect to the spinal cord",
+        "It lacks somatotopy"
+      ],
+      "correct": 1,
+      "feedback": "Action selection and planning require additional motor areas."
+    },
+    {
+      "question": "The supplementary motor area (SMA) is especially involved in:",
+      "options": [
+        "Externally guided movements",
+        "Internally generated actions",
+        "Reflexes",
+        "Muscle tone regulation"
+      ],
+      "correct": 1,
+      "feedback": "SMA supports internally generated and self-initiated movements."
+    },
+    {
+      "question": "Which function is strongly associated with the SMA?",
+      "options": [
+        "Visual guidance",
+        "Bimanual coordination",
+        "Balance",
+        "Reflex modulation"
+      ],
+      "correct": 1,
+      "feedback": "SMA is critical for sequencing and bimanual coordination."
+    },
+    {
+      "question": "The premotor cortex is mainly involved in:",
+      "options": [
+        "Internally driven actions",
+        "Externally guided movements",
+        "Error correction",
+        "Muscle execution"
+      ],
+      "correct": 1,
+      "feedback": "Premotor cortex links sensory cues to motor plans."
+    },
+    {
+      "question": "What is the primary role of the basal nuclei?",
+      "options": [
+        "Generating motor commands",
+        "Correcting movement errors",
+        "Selecting and gating actions",
+        "Maintaining muscle tone"
+      ],
+      "correct": 2,
+      "feedback": "Basal nuclei regulate whether actions are initiated or suppressed."
+    },
+    {
+      "question": "Basal nuclei do NOT:",
+      "options": [
+        "Influence action selection",
+        "Suppress competing actions",
+        "Send commands directly to muscles",
+        "Gate motor plans"
+      ],
+      "correct": 2,
+      "feedback": "Basal nuclei do not project directly to muscles."
+    },
+    {
+      "question": "The cerebellum is primarily involved in:",
+      "options": [
+        "Action selection",
+        "Movement execution commands",
+        "Coordination and timing",
+        "Initiating voluntary movement"
+      ],
+      "correct": 2,
+      "feedback": "The cerebellum refines movement execution through coordination and timing."
+    },
+    {
+      "question": "What comparison does the cerebellum perform?",
+      "options": [
+        "Desired reward vs outcome",
+        "Sensory input vs motor cortex activity",
+        "Intended movement vs actual outcome",
+        "Muscle force vs reflex activity"
+      ],
+      "correct": 2,
+      "feedback": "The cerebellum compares intended and actual movement."
+    },
+    {
+      "question": "Damage to primary motor cortex typically causes:",
+      "options": [
+        "Loss of reflexes",
+        "Sensory deficits only",
+        "Contralateral weakness or paralysis",
+        "Involuntary movements"
+      ],
+      "correct": 2,
+      "feedback": "Primary motor cortex damage causes contralateral motor deficits."
+    },
+    {
+      "question": "Why are reflexes usually preserved after M1 damage?",
+      "options": [
+        "Reflexes depend on cortex",
+        "Reflexes are spinal",
+        "Reflexes are voluntary",
+        "Reflexes are cerebellar"
+      ],
+      "correct": 1,
+      "feedback": "Reflexes are mediated by spinal circuits."
+    },
+    {
+      "question": "Damage to premotor cortex or SMA results in:",
+      "options": [
+        "Muscle paralysis",
+        "Loss of strength",
+        "Difficulty planning movements",
+        "Loss of reflexes"
+      ],
+      "correct": 2,
+      "feedback": "These areas are critical for planning and sequencing actions."
+    },
+    {
+      "question": "Apraxia is best described as:",
+      "options": [
+        "Loss of muscle strength",
+        "Involuntary movements",
+        "Inability to plan movements despite normal strength",
+        "Loss of coordination due to weakness"
+      ],
+      "correct": 2,
+      "feedback": "Apraxia reflects impaired motor planning, not execution."
+    },
+    {
+      "question": "Basal nuclei damage primarily affects:",
+      "options": [
+        "Muscle strength",
+        "Action initiation and suppression",
+        "Reflex pathways",
+        "Sensory feedback"
+      ],
+      "correct": 1,
+      "feedback": "Basal nuclei damage disrupts action selection."
+    },
+    {
+      "question": "Parkinsonian disorders are characterized by:",
+      "options": [
+        "Excessive involuntary movements",
+        "Loss of coordination only",
+        "Difficulty initiating movement",
+        "Complete paralysis"
+      ],
+      "correct": 2,
+      "feedback": "Parkinsonian disorders impair movement initiation."
+    },
+    {
+      "question": "Which symptom is typical of Parkinson’s disease?",
+      "options": [
+        "Flaccid paralysis",
+        "Bradykinesia",
+        "Loss of reflexes",
+        "Muscle atrophy"
+      ],
+      "correct": 1,
+      "feedback": "Bradykinesia is a hallmark of Parkinsonian disorders."
+    },
+    {
+      "question": "Cerebellar damage usually causes:",
+      "options": [
+        "Paralysis",
+        "Loss of sensation",
+        "Poor coordination with preserved strength",
+        "Spasticity"
+      ],
+      "correct": 2,
+      "feedback": "Cerebellar damage affects accuracy and timing, not strength."
+    },
+    {
+      "question": "Cerebellar ataxia includes which symptom?",
+      "options": [
+        "Rigidity",
+        "Dysmetria",
+        "Hyperreflexia",
+        "Flaccidity"
+      ],
+      "correct": 1,
+      "feedback": "Dysmetria reflects inaccurate movement scaling."
+    },
+    {
+      "question": "An intention tremor is associated with damage to the:",
+      "options": [
+        "Basal nuclei",
+        "Motor cortex",
+        "Cerebellum",
+        "Spinal cord"
+      ],
+      "correct": 2,
+      "feedback": "Intention tremor is characteristic of cerebellar damage."
+    },
+    {
+      "question": "Upper motor neuron lesions typically produce:",
+      "options": [
+        "Flaccid paralysis",
+        "Muscle atrophy",
+        "Increased muscle tone and hyperreflexia",
+        "Loss of reflexes"
+      ],
+      "correct": 2,
+      "feedback": "Upper motor neuron lesions remove inhibitory control."
+    },
+    {
+      "question": "Lower motor neuron lesions result in:",
+      "options": [
+        "Spastic paralysis",
+        "Hyperreflexia",
+        "Flaccid paralysis and muscle atrophy",
+        "Preserved reflexes"
+      ],
+      "correct": 2,
+      "feedback": "Lower motor neuron damage disrupts the final motor pathway."
+    },
+    {
+      "question": "Which feature distinguishes upper from lower motor neuron damage?",
+      "options": [
+        "Presence of weakness",
+        "Loss of voluntary movement",
+        "Muscle tone changes",
+        "Contralateral deficits"
+      ],
+      "correct": 2,
+      "feedback": "Upper motor neuron damage increases tone; lower decreases it."
+    },
+    {
+      "question": "Spinal cord lesions typically cause:",
+      "options": [
+        "Localized muscle weakness only",
+        "Deficits above the lesion",
+        "Deficits below the lesion",
+        "Only sensory loss"
+      ],
+      "correct": 2,
+      "feedback": "Spinal cord lesions affect functions below the lesion level."
+    },
+    {
+      "question": "Why does the level of a spinal cord lesion matter?",
+      "options": [
+        "It determines reflex strength",
+        "It determines which muscles are affected",
+        "It determines cognitive deficits",
+        "It determines basal nuclei involvement"
+      ],
+      "correct": 1,
+      "feedback": "The lesion level defines which body regions lose control."
+    },
+    {
+      "question": "Peripheral nerve damage typically results in:",
+      "options": [
+        "Contralateral weakness",
+        "Diffuse motor deficits",
+        "Deficits following peripheral anatomy",
+        "Preserved reflexes"
+      ],
+      "correct": 2,
+      "feedback": "Peripheral nerve damage follows nerve distribution."
+    },
+    {
+      "question": "Which deficit is common after peripheral nerve injury?",
+      "options": [
+        "Increased muscle tone",
+        "Hyperreflexia",
+        "Loss of reflexes",
+        "Intention tremor"
+      ],
+      "correct": 2,
+      "feedback": "Peripheral nerve damage disrupts reflex arcs."
+    },
+    {
+      "question": "Motor planning primarily occurs:",
+      "options": [
+        "After movement execution",
+        "Only in the spinal cord",
+        "Before movement execution",
+        "Only during reflexes"
+      ],
+      "correct": 2,
+      "feedback": "Planning precedes execution in voluntary movement."
+    },
+    {
+      "question": "Which structure integrates descending motor commands with sensory input?",
+      "options": [
+        "Basal ganglia",
+        "Motor cortex",
+        "Cerebellum",
+        "Spinal cord"
+      ],
+      "correct": 3,
+      "feedback": "The spinal cord integrates commands and sensory feedback."
+    },
+    {
+      "question": "Which component of the motor system does NOT directly produce force?",
+      "options": [
+        "Lower motor neurons",
+        "Muscle fibers",
+        "Basal nuclei",
+        "Spinal circuits"
+      ],
+      "correct": 2,
+      "feedback": "Basal nuclei modulate plans but do not generate force."
+    },
+    {
+      "question": "Which structure mainly contributes to externally cued movement preparation?",
+      "options": [
+        "SMA",
+        "Premotor cortex",
+        "Basal nuclei",
+        "Cerebellum"
+      ],
+      "correct": 1,
+      "feedback": "Premotor cortex links sensory cues to motor plans."
+    },
+    {
+      "question": "Motor system organization is best described as:",
+      "options": [
+        "Strictly hierarchical",
+        "Localized to one region",
+        "Distributed across multiple interacting regions",
+        "Purely reflex-based"
+      ],
+      "correct": 2,
+      "feedback": "Motor control arises from distributed interacting circuits."
+    },
+    {
+      "question": "Which statement best describes voluntary movement?",
+      "options": [
+        "Generated by a single cortical area",
+        "Independent of sensory input",
+        "Requires selection, planning, execution, and monitoring",
+        "Occurs only in the spinal cord"
+      ],
+      "correct": 2,
+      "feedback": "Voluntary movement is a multi-stage distributed process."
+    }
+  ]
+}

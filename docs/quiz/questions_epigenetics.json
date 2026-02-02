@@ -1,0 +1,401 @@
+{
+  "topic": "Epigenetics",
+  "questions": [
+    {
+      "question": "Epigenetic mechanisms are especially relevant for understanding behavior because they:",
+      "options": [
+        "Change the DNA sequence",
+        "Act only during embryonic development",
+        "Allow experiences to have long-lasting biological effects",
+        "Eliminate genetic influences"
+      ],
+      "correct": 2,
+      "feedback": "Epigenetics explains how transient experiences can produce persistent effects."
+    },
+    {
+      "question": "Epigenetics was originally developed to explain:",
+      "options": [
+        "Mental disorders",
+        "Inheritance of traits without DNA sequence changes",
+        "Neural signaling",
+        "Learning and memory"
+      ],
+      "correct": 1,
+      "feedback": "Epigenetics emerged from developmental biology and cell differentiation."
+    },
+    {
+      "question": "Which of the following is NOT an epigenetic mechanism?",
+      "options": [
+        "DNA methylation",
+        "Histone acetylation",
+        "DNA mutation",
+        "Chromatin remodeling"
+      ],
+      "correct": 2,
+      "feedback": "Epigenetic mechanisms do not alter DNA sequence."
+    },
+    {
+      "question": "During development, cell differentiation occurs mainly through:",
+      "options": [
+        "Loss of genes",
+        "Epigenetic regulation of gene expression",
+        "Random mutations",
+        "Neuronal activity"
+      ],
+      "correct": 1,
+      "feedback": "Genes remain present but are differentially regulated."
+    },
+    {
+      "question": "In neurons, epigenetic changes are important because they:",
+      "options": [
+        "Are rapidly reversible",
+        "Act only at the population level",
+        "Provide long-term regulation at the single-cell level",
+        "Replace synaptic plasticity"
+      ],
+      "correct": 2,
+      "feedback": "Epigenetic changes can persist within individual neurons."
+    },
+    {
+      "question": "Epigenetic mechanisms modify gene expression by acting on:",
+      "options": [
+        "mRNA stability",
+        "Chromatin structure",
+        "Protein folding",
+        "Ion channels"
+      ],
+      "correct": 1,
+      "feedback": "They regulate accessibility of DNA to transcription machinery."
+    },
+    {
+      "question": "Chromatin is composed of:",
+      "options": [
+        "RNA and proteins",
+        "DNA and histone proteins",
+        "Only DNA",
+        "Only histones"
+      ],
+      "correct": 1,
+      "feedback": "Chromatin is DNA wrapped around histones."
+    },
+    {
+      "question": "Tightly packed chromatin is typically associated with:",
+      "options": [
+        "High transcription",
+        "Medium transcription",
+        "Low or absent transcription",
+        "Increased plasticity"
+      ],
+      "correct": 2,
+      "feedback": "Compact chromatin restricts access to transcription machinery."
+    },
+    {
+      "question": "DNA methylation generally:",
+      "options": [
+        "Promotes transcription",
+        "Blocks transcription",
+        "Has no effect on gene expression",
+        "Removes histones"
+      ],
+      "correct": 1,
+      "feedback": "Methylation acts as a transcriptional stop signal."
+    },
+    {
+      "question": "Studies of monozygotic twins show that epigenetic patterns:",
+      "options": [
+        "Remain identical throughout life",
+        "Diverge with different experiences",
+        "Depend only on genetics",
+        "Disappear with age"
+      ],
+      "correct": 1,
+      "feedback": "Life experiences shape epigenetic divergence."
+    },
+    {
+      "question": "Histone modifications are best described as:",
+      "options": [
+        "Changes in DNA sequence",
+        "Post-translational chemical modifications",
+        "Permanent gene deletions",
+        "Random molecular noise"
+      ],
+      "correct": 1,
+      "feedback": "They modify histone proteins after synthesis."
+    },
+    {
+      "question": "Histone modifications influence gene expression mainly by:",
+      "options": [
+        "Altering RNA transcription rate directly",
+        "Changing how tightly DNA is packed",
+        "Destroying transcription factors",
+        "Removing methyl groups from DNA"
+      ],
+      "correct": 1,
+      "feedback": "They regulate chromatin accessibility."
+    },
+    {
+      "question": "The concept of a \"histone code\" refers to:",
+      "options": [
+        "A single dominant modification",
+        "Random histone changes",
+        "Combinations of histone modifications encoding regulatory information",
+        "Genetic mutations in histones"
+      ],
+      "correct": 2,
+      "feedback": "Different combinations fine-tune gene regulation."
+    },
+    {
+      "question": "Histone acetylation typically leads to:",
+      "options": [
+        "More compact chromatin",
+        "Reduced gene expression",
+        "Less compact chromatin",
+        "DNA degradation"
+      ],
+      "correct": 2,
+      "feedback": "Acetylation increases DNA accessibility."
+    },
+    {
+      "question": "Chronic social defeat stress is used as a model to study:",
+      "options": [
+        "Learning and memory",
+        "Neurodevelopment",
+        "Stress, depression-like behavior, and resilience",
+        "Motor control"
+      ],
+      "correct": 2,
+      "feedback": "It models chronic psychosocial stress."
+    },
+    {
+      "question": "In the social defeat paradigm, stable depression-like behavior requires:",
+      "options": [
+        "A single exposure",
+        "At least 10 days of stress",
+        "Genetic manipulation",
+        "Physical injury"
+      ],
+      "correct": 1,
+      "feedback": "Shorter protocols are insufficient."
+    },
+    {
+      "question": "Anhedonia in mice is commonly assessed by:",
+      "options": [
+        "Maze performance",
+        "Food intake",
+        "Social interaction tests",
+        "Pain sensitivity"
+      ],
+      "correct": 2,
+      "feedback": "Reduced social interaction reflects anhedonia-like behavior."
+    },
+    {
+      "question": "After chronic social defeat, mice can be classified as:",
+      "options": [
+        "Normal or abnormal",
+        "Genetically distinct",
+        "Susceptible or resilient",
+        "Healthy or sick"
+      ],
+      "correct": 2,
+      "feedback": "Behavioral outcomes differ despite identical genetics."
+    },
+    {
+      "question": "Differences between susceptible and resilient mice arise mainly from:",
+      "options": [
+        "DNA mutations",
+        "Epigenetic regulation",
+        "Developmental defects",
+        "Sensory deprivation"
+      ],
+      "correct": 1,
+      "feedback": "They belong to the same genetic strain."
+    },
+    {
+      "question": "Under normal conditions, the BDNF gene in the hippocampus shows:",
+      "options": [
+        "Low expression",
+        "Open chromatin and high expression",
+        "Permanent DNA methylation",
+        "No epigenetic regulation"
+      ],
+      "correct": 1,
+      "feedback": "BDNF supports plasticity under normal conditions."
+    },
+    {
+      "question": "Chronic stress reduces hippocampal BDNF expression mainly by:",
+      "options": [
+        "DNA mutation",
+        "Reduced histone acetylation",
+        "Increased neurogenesis",
+        "Enhanced transcription"
+      ],
+      "correct": 1,
+      "feedback": "Chromatin becomes more compact."
+    },
+    {
+      "question": "Reduced hippocampal BDNF leads to:",
+      "options": [
+        "Enhanced plasticity",
+        "Increased neurogenesis",
+        "Reduced plasticity and neurogenesis",
+        "Improved stress regulation"
+      ],
+      "correct": 2,
+      "feedback": "BDNF is crucial for hippocampal function."
+    },
+    {
+      "question": "Antidepressant treatment restores BDNF expression primarily by:",
+      "options": [
+        "Removing DNA methylation",
+        "Increasing histone acetylation",
+        "Changing DNA sequence",
+        "Blocking transcription"
+      ],
+      "correct": 1,
+      "feedback": "DNA methylation often persists."
+    },
+    {
+      "question": "Stress-induced epigenetic changes that persist after stress ends are called:",
+      "options": [
+        "Genetic mutations",
+        "Molecular scars",
+        "Homeostatic markers",
+        "Developmental errors"
+      ],
+      "correct": 1,
+      "feedback": "They represent latent traces of past stress."
+    },
+    {
+      "question": "In vulnerable mice, chronic stress causes hyperactivity of:",
+      "options": [
+        "Hippocampal pyramidal neurons",
+        "VTA dopamine neurons",
+        "Cortical interneurons",
+        "Serotonergic neurons"
+      ],
+      "correct": 1,
+      "feedback": "This overstimulates the nucleus accumbens."
+    },
+    {
+      "question": "Resilient mice counteract stress by:",
+      "options": [
+        "Reducing dopamine synthesis",
+        "Upregulating potassium channels in the VTA",
+        "Increasing DNA methylation",
+        "Suppressing plasticity"
+      ],
+      "correct": 1,
+      "feedback": "This limits excessive dopamine firing."
+    },
+    {
+      "question": "These findings support the idea that resilience is:",
+      "options": [
+        "Passive resistance",
+        "Genetically predetermined",
+        "An active adaptive process",
+        "Independent of plasticity"
+      ],
+      "correct": 2,
+      "feedback": "Resilience involves specific mechanisms."
+    },
+    {
+      "question": "SSRIs increase neural plasticity, but clinical effects appear slowly because:",
+      "options": [
+        "They act only on receptors",
+        "Plasticity requires time and environmental guidance",
+        "They block epigenetic mechanisms",
+        "They suppress experience"
+      ],
+      "correct": 1,
+      "feedback": "Plasticity must be shaped by context."
+    },
+    {
+      "question": "Fluoxetine-treated mice improve when placed in:",
+      "options": [
+        "Stressful environments",
+        "Socially deprived conditions",
+        "Enriched environments",
+        "Isolated cages"
+      ],
+      "correct": 2,
+      "feedback": "Environment determines plastic outcomes."
+    },
+    {
+      "question": "Meaney’s studies showed that maternal care influences:",
+      "options": [
+        "DNA sequence",
+        "Epigenetic regulation of stress-related genes",
+        "Brain size",
+        "Motor development"
+      ],
+      "correct": 1,
+      "feedback": "Maternal behavior programs stress systems."
+    },
+    {
+      "question": "Differences between high- and low-nurturing mothers lie mainly in:",
+      "options": [
+        "Nutrition",
+        "Abuse",
+        "Quality of interaction",
+        "Genetic background"
+      ],
+      "correct": 2,
+      "feedback": "Basic care is normal in both groups."
+    },
+    {
+      "question": "High maternal care leads to offspring with:",
+      "options": [
+        "Chronically active HPA axis",
+        "Higher anxiety",
+        "Better stress regulation",
+        "Lower glucocorticoid receptors"
+      ],
+      "correct": 2,
+      "feedback": "Stress responses are efficiently regulated."
+    },
+    {
+      "question": "Glucocorticoid receptors in the hippocampus are important because they:",
+      "options": [
+        "Activate stress responses",
+        "Provide negative feedback to the HPA axis",
+        "Increase cortisol release",
+        "Block plasticity"
+      ],
+      "correct": 1,
+      "feedback": "More receptors mean better feedback control."
+    },
+    {
+      "question": "Early maternal care programs stress reactivity mainly through:",
+      "options": [
+        "DNA mutations",
+        "Epigenetic regulation of the GR gene",
+        "Neurogenesis",
+        "Synapse elimination"
+      ],
+      "correct": 1,
+      "feedback": "Gene expression is epigenetically modified."
+    },
+    {
+      "question": "Treatment with TSA demonstrates that:",
+      "options": [
+        "Epigenetic effects are irreversible",
+        "Functional recovery is possible despite epigenetic scars",
+        "Genes determine stress outcomes",
+        "Maternal care has no long-term effects"
+      ],
+      "correct": 1,
+      "feedback": "Epigenetic marks may persist, but function can recover."
+    },
+    {
+      "question": "Overall, epigenetic mechanisms link:",
+      "options": [
+        "Genes to mutations",
+        "Experience to long-term brain function",
+        "Stress to DNA damage",
+        "Environment to genetics only during development"
+      ],
+      "correct": 1,
+      "feedback": "They provide a biological bridge between experience and behavior."
+    }
+  ]
+}

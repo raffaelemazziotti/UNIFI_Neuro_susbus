@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Tone Generator</title>
+
+<style>
+  body {
+    font-family: sans-serif;
+    background: #f4f4f4;
+    padding: 12px;
+  }
+
+  .row {
+    margin: 10px 0;
+  }
+
+  label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 4px;
+  }
+
+  input[type="range"] {
+    width: 100%;
+  }
+
+  button {
+    padding: 6px 14px;
+    margin-right: 8px;
+    font-size: 0.9em;
+  }
+
+  .value {
+    font-size: 0.85em;
+    color: #333;
+  }
+
+  canvas {
+    display: block;
+    width: 100%;
+    height: 120px;
+    background: #ffffff;
+    border: 1px solid #ccc;
+  }
+</style>
+</head>
+
+<body>
+
+<div class="row">
+  <button id="start">Start</button>
+  <button id="stop" disabled>Stop</button>
+</div>
+
+<div class="row">
+  <label>Frequency</label>
+  <input type="range" id="freq" min="50" max="5000" value="440">
+  <div class="value"><span id="freqVal">440</span> Hz</div>
+</div>
+
+<div class="row">
+  <label>Volume</label>
+  <input type="range" id="vol" min="0" max="1" step="0.01" value="0.2">
+  <div class="value"><span id="volVal">0.20</span></div>
+</div>
+
+<div class="row">
+  <label>Waveform (time domain)</label>
+  <canvas id="wave"></canvas>
+</div>
+
+<script>
+  let audioCtx = null;
+  let osc = null;
+  let gain = null;
+  let analyser = null;
+  let animationId = null;
+
+  const freqSlider = document.getElementById("freq");
+  const volSlider  = document.getElementById("vol");
+  const freqVal    = document.getElementById("freqVal");
+  const volVal     = document.getElementById("volVal");
+  const startBtn   = document.getElementById("start");
+  const stopBtn    = document.getElementById("stop");
+
+  const canvas = document.getElementById("wave");
+  const ctx = canvas.getContext("2d");
+
+  function resizeCanvas() {
+    const dpr = window.devicePixelRatio || 1;
+    const rect = canvas.getBoundingClientRect();
+    canvas.width = rect.width * dpr;
+    canvas.height = rect.height * dpr;
+    ctx.scale(dpr, dpr);
+  }
+
+  resizeCanvas();
+  window.addEventListener("resize", resizeCanvas);
+
+  freqVal.textContent = freqSlider.value;
+  volVal.textContent  = Number(volSlider.value).toFixed(2);
+
+  freqSlider.oninput = () => {
+    freqVal.textContent = freqSlider.value;
+    if (osc) osc.frequency.value = freqSlider.value;
+  };
+
+  volSlider.oninput = () => {
+    volVal.textContent = Number(volSlider.value).toFixed(2);
+    if (gain) gain.gain.value = volSlider.value;
+  };
+
+  function drawWave() {
+    if (!analyser) return;
+
+    const bufferLength = analyser.fftSize;
+    const data = new Uint8Array(bufferLength);
+    analyser.getByteTimeDomainData(data);
+
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+    ctx.beginPath();
+    ctx.strokeStyle = "#3366cc";
+    ctx.lineWidth = 2;
+
+    const width = canvas.clientWidth;
+    const height = canvas.clientHeight;
+
+    for (let i = 0; i < bufferLength; i++) {
+      const x = (i / bufferLength) * width;
+      const y = (data[i] / 255) * height;
+
+      if (i === 0) ctx.moveTo(x, y);
+      else ctx.lineTo(x, y);
+    }
+
+    ctx.stroke();
+    animationId = requestAnimationFrame(drawWave);
+  }
+
+  startBtn.onclick = async () => {
+    if (!audioCtx) audioCtx = new AudioContext();
+    await audioCtx.resume();
+
+    osc = audioCtx.createOscillator();
+    gain = audioCtx.createGain();
+    analyser = audioCtx.createAnalyser();
+
+    analyser.fftSize = 2048;
+
+    osc.type = "sine";
+    osc.frequency.value = freqSlider.value;
+    gain.gain.value = volSlider.value;
+
+    osc.connect(gain);
+    gain.connect(analyser);
+    analyser.connect(audioCtx.destination);
+
+    osc.start();
+    drawWave();
+
+    startBtn.disabled = true;
+    stopBtn.disabled = false;
+  };
+
+  stopBtn.onclick = () => {
+    if (osc) {
+      osc.stop();
+      osc.disconnect();
+      osc = null;
+    }
+
+    analyser = null;
+    cancelAnimationFrame(animationId);
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+    startBtn.disabled = false;
+    stopBtn.disabled = true;
+  };
+</script>
+
+</body>
+</html>
