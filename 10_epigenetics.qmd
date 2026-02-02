@@ -284,8 +284,7 @@ Experience leaves an epigenetic signature.
 :::card
 Histone proteins are not static.
 
-They can undergo `post-translational modifications`  
-after they are synthesized.
+They can undergo `post-translational modifications` after they are synthesized.
 
 These modifications change how histones interact with DNA.
 :::
@@ -295,11 +294,11 @@ A histone modification is a `chemical change` added to histone proteins.
 
 These changes:
 
-- Do not alter DNA sequence  
-- Alter chromatin structure  
+- Do `not` alter DNA sequence  
+- `Alter chromatin structure`  
 - Modify gene transcription probability  
 
-They act as regulatory signals.
+They act as `regulatory` signals.
 :::
 
 ::: 
@@ -314,18 +313,7 @@ Histone modifications determine:
 They regulate gene expression dynamically.
 :::
 
-:::card
-`Histone acetylation` is one type of histone modification. It consists of adding an `acetyl group` to specific regions of histone proteins.
-
-:::
-
-:::info-box
-Histone acetylation:
-
-- Makes chromatin `less compact`  
-- Increases DNA accessibility  
-
-:::
+![](images/epigen_histone_modification.gif){width="500" fig-align="center"}
 
 ::: 
 ::: 
@@ -343,8 +331,6 @@ Common histone post-translational modifications include:
 - `Phosphorylation`  
 - `Ubiquitination`  
 
-Each modification can alter chromatin structure  
-or recruit specific regulatory proteins. In a much more complex way.
 :::
 
 ::: 
@@ -353,10 +339,9 @@ or recruit specific regulatory proteins. In a much more complex way.
 :::info-box
 Histone modifications do not act in isolation.
 
+Each modification can alter chromatin structure or recruit specific regulatory proteins. In a much more complex way.
 Different combinations of modifications  
-create a `histone code`.
-
-This code:
+create a [histone code](https://en.wikipedia.org/wiki/Histone_code). This code:
 
 - Fine-tunes gene expression  
 - Allows flexible and context-dependent regulation  
@@ -365,3 +350,614 @@ This code:
 
 ::: 
 ::: 
+
+![](images/epigen_histone_code.png){width="700" fig-align="center"}
+
+## Histone modifications
+
+::: columns
+::: column
+
+:::card
+`Histone acetylation` is one type of histone modification. It consists of adding an `acetyl group` to specific regions of histone proteins.
+
+:::
+
+:::info-box
+Histone acetylation:
+
+- Makes chromatin `less compact`  
+- Increases DNA accessibility  
+- Increases Genes expression  
+
+:::
+
+::: 
+::: column
+
+
+![](images/epigen_acetylation.png){width="400" fig-align="center"}
+
+::: 
+::: 
+
+## Chronic social defeat stress
+
+::: columns
+::: column
+
+`Chronic social defeat stress` is an animal model  
+used to study stress, depression-like behavior,  
+and resilience.
+
+:::info-box
+The model involves:
+
+- A `dominant` male mouse  
+- A `subordinate` male mouse  
+
+The subordinate mouse is placed  
+in the cage of the dominant one.
+:::
+
+::: 
+::: column
+
+![](images/epigen_social_defeat.png){width="400" fig-align="center"}
+
+
+::: 
+::: 
+
+## Persistent stress exposure
+
+::: columns
+::: column
+
+:::info-box
+- The dominant mouse forces subordination  
+- The subordinate experiences social defeat  
+
+This interaction lasts:
+
+- `10 minutes per day`  
+- For `10 consecutive days`  
+:::
+
+:::info-box
+When separated:
+
+- The mice remain in visual contact  
+- They can smell each other  
+
+Stress therefore continues  
+even outside direct interaction.
+:::
+
+::: 
+::: column
+
+:::info-box
+Only protocols lasting at least `10 days`:
+
+- Induce stable depression-like behavior  
+- Produce [anhedonia](https://en.wikipedia.org/wiki/Anhedonia)-like symptoms  
+
+Shorter protocols are insufficient.
+:::
+
+:::info-box
+Chronic social defeat produces:
+
+- Strong experience of subordination  
+- Reduced motivation for social interaction  
+
+This is measured `quantitatively`.
+
+:::
+
+::: 
+::: 
+
+## Measuring anhedonia
+
+::: columns
+::: column
+
+:::info-box
+Anhedonia is assessed using a  
+`social interaction task`.
+
+The task measures:
+
+- Time spent exploring a conspecific  
+- Willingness to engage socially  
+:::
+
+:::info-box
+Compared to controls:
+
+- Defeated mice explore less  
+- Show social withdrawal  
+
+The distribution shifts toward  
+reduced social interaction.
+:::
+
+::: 
+::: column
+
+![](images/epigen_test_interaction.png){width="350" fig-align="center"}
+
+![](images/epigen_social_defeat_results.png){width="500" fig-align="center"}
+
+::: 
+::: 
+
+## Individual differences
+
+::: columns
+::: column
+
+:::info-box
+
+```{mermaid}
+flowchart TD
+    Defeat["Social defeat<br/>experience"]
+
+    Avoid["Severe social<br/>avoidance"]
+    Normal["Normal social<br/>interaction"]
+
+    Defeat --> Avoid
+    Defeat --> Normal
+
+    %% Style
+    classDef simple fill:#a4d5c2,color:#000,stroke:#9f8ca0,stroke-width:3px,font-size:16px
+    class Defeat,Avoid,Normal simple
+```
+
+:::
+
+::: 
+::: column
+
+:::info-box
+After social defeat:
+
+- `Susceptible` mice show social withdrawal  
+- `Resilient` mice behave like controls  
+
+There is a continuum between the two poles.
+:::
+
+::: 
+::: 
+
+![](images/epigen_social_defeal_resilient.png){width="550" fig-align="center"}
+
+## Effect of chronic stress
+
+::: columns
+::: column
+
+>What determines vulnerability or resilience?
+
+:::info-box
+Genetic differences are unlikely:
+
+- These mice belong to the same strain  
+
+This points to `non-genetic mechanisms`.
+:::
+
+:::info-box
+Differences may arise from:
+
+- `Epigenetic regulation`  
+- `Experience-dependent plasticity`
+
+:::
+
+::: 
+::: column
+
+:::info-box
+Under normal conditions:
+
+- The `BDNF` gene is highly expressed  
+- Chromatin is open  
+- Histones are acetylated  
+
+This supports hippocampal plasticity.
+:::
+
+:::info-box
+After chronic social defeat:
+
+- Chromatin becomes more compact
+- Histone acetylation decreases  
+
+`BDNF expression` and plasticity in the hippocampus are reduced.
+
+:::
+
+
+
+::: 
+::: 
+
+## Effect of chronic stress
+
+::: columns
+::: column
+![](images/epigen_social_defeat_bdnf.png){width="500" fig-align="center"}
+
+::: 
+::: column
+
+:::info-box
+Reduced hippocampal BDNF leads to:
+
+- Reduced neurogenesis  
+- Reduced synaptic plasticity  
+- Impaired hippocampal function  
+
+This contributes to anhedonic behavior.
+:::
+
+::: 
+::: 
+
+## Antidepressant treatment
+
+::: columns
+::: column
+
+:::info-box
+After antidepressant treatment:
+
+- Histone acetylation increases  
+- BDNF transcription partially recovers  
+
+However:
+
+- DNA methylation remains  
+:::
+
+:::info-box
+Stress-induced epigenetic changes:
+
+- Persist after stress ends  
+- Are only partially reversible  
+
+These changes act as `molecular scars`.
+:::
+
+::: 
+::: column
+
+![](images/epigen_social_defeat_bdnf2.png){width="500" fig-align="center"}
+
+:::
+:::
+
+## Molecular Scar
+
+::: columns
+::: column
+
+:::info-box
+If antidepressant treatment stops:
+
+- BDNF reduction reappears  
+
+The epigenetic trace of stress remains.
+
+:::
+
+:::info-box
+Chronic stress:
+
+- Alters neural circuits  
+- Leaves latent molecular marks  
+
+Recovery is possible,  
+but not complete.
+:::
+
+::: 
+::: column
+
+![](images/epigen_social_defeat_bdnf2.png){width="500" fig-align="center"}
+
+::: 
+::: 
+
+## VTA–NAc circuit and resilience
+
+::: columns
+::: column
+
+> The hippocampal effects are not the only mechanism involved.
+
+:::info-box
+After social defeat vulnerable mice show:
+
+- Hyperactive VTA dopamine neurons  
+- NAc becomes `overstimulated`
+:::
+
+:::info-box
+Resilient mice:
+
+- Upregulate `potassium channels` in the VTA  
+- Reduce dopamine neuron firing preventing chronic NAc overstimulation.
+:::
+
+::: 
+::: column
+
+![](images/epigen_NAc_overstim.png){width="500" fig-align="center"}
+
+:::info-box
+The activation of NAc follows a homeostatic principle:
+
+- Acute dopamine → pleasure  
+- Chronic dopamine → saturation → anhedonia
+
+:::
+
+::: 
+::: 
+
+## Active resilience
+
+::: columns
+::: column
+
+> These findings indicate that resilience is not merely the absence of adverse effects. Rather, it reflects an active process, with specific mechanisms shaping distinct outcomes.
+
+:::card
+Can resilience be induced?
+
+Yes.
+
+Vulnerable animals can become resilient  
+by targeting adaptive mechanisms.
+:::
+
+::: 
+::: column
+
+:::info-box
+Ezogabine, a drug enhancing potassium channels:
+
+- Reduced depressive and anhedonic symptoms  
+- Normalized reward circuit connectivity  
+
+:::
+
+![](images/epigen_ezogabine.jpg){width="500" fig-align="center"}
+
+::: 
+::: 
+
+## Plasticity needs guidance
+
+::: columns
+::: column
+
+>Drugs can increase plasticity. But plasticity is `undirected`. The environment determines the outcome.
+
+:::card
+SSRIs increase serotonin rapidly. Clinical effects appear slowly. This suggests involvement of `slow plastic mechanisms`.
+:::
+
+:::info-box
+SSRIs:
+
+- Increase neural plasticity  
+- Create a window for change  
+
+The environment drives whether changes are  
+adaptive or maladaptive.
+:::
+
+::: 
+::: column
+
+![](images/epigen_env_effects.png){width="400" fig-align="center"}
+
+:::info-box
+Fluoxetine-treated mice:
+
+- Improved in enriched environments  
+- Worsened in stressful environments  
+
+The drug increased sensitivity to `context`.
+
+:::
+
+::: 
+::: 
+
+## Early developmental environment and epigenetics
+
+::: columns
+::: column
+
+>Early life experiences can have `long-lasting effects` on behavior.
+> These effects are often mediated by `epigenetic mechanisms`.
+
+:::info-box
+[M. Meaney](https://en.wikipedia.org/wiki/Michael_Meaney) studied differences in `maternal behavior` in rats.
+
+Mothers were classified based on:
+
+- `Licking and grooming`  
+- `Nursing posture`  
+
+They are better described as `high-nurturing` or `low-nurturing` mothers.
+
+:::
+
+
+::: 
+::: column
+
+![](images/epigen_mothering.png){width="500" fig-align="center"}
+
+::: 
+::: 
+
+## Early developmental environment and epigenetics
+
+::: columns
+::: column
+
+:::info-box
+Low-nurturing mothers:
+
+- Feed offspring normally  
+- Are not abusive
+
+The difference lies in `interaction quality`, not basic care.
+:::
+
+:::info-box
+Rats raised by `low-nurturing` mothers:
+
+- Are more neophobic
+- Have a chronically active HPA axis  
+- Females often become low-nurturing mothers.
+:::
+
+::: 
+::: column
+
+:::info-box
+Rats raised by high-nurturing mothers:
+
+- Are less `neophobic`
+- Have a well-regulated `HPA axis`  
+- Females often become high-nurturing mothers.
+
+:::
+
+![](images/epigne_maternal_styles.png){width="500" fig-align="center"}
+
+::: 
+::: 
+
+## The stress system: HPA axis
+
+::: columns
+::: column
+
+:::info-box
+The HPA axis involves:
+
+- Hypothalamus → `CRH`  
+- Pituitary → `ACTH`  
+- Adrenal glands → `cortisol`  
+
+Cortisol feeds back to the hippocampus.
+:::
+
+:::info-box
+The hippocampus contains  
+`glucocorticoid receptors (GR)`.
+
+More GRs means:
+
+- Faster negative feedback  
+- Better stress regulation  
+
+:::
+
+::: 
+::: column
+
+![](images/epigen_hpa_regulaiton.png){width="450" fig-align="center"}
+
+
+::: 
+::: 
+
+## Epigenetic programming of stress
+
+::: columns
+::: column
+
+>Maternal care activates epigenetic mechanisms at the `GR gene` in the hippocampus.
+
+:::info-box
+High GR expression leads to:
+
+- Efficient HPA self-regulation  
+- Lower anxiety  
+- Lower cortisol levels  
+
+Low maternal care produces the opposite pattern. Early experience `programs`  
+the long-term functionality of the HPA axis.
+:::
+
+::: 
+::: column
+
+![](images/epigen_hpa_gr.png){width="450" fig-align="center"}
+
+::: 
+::: 
+
+## Functional recovery
+
+::: columns
+::: column
+
+:::info-box
+After [TSA](https://en.wikipedia.org/wiki/Trichostatin_A) treatment:
+
+- HPA axis responses normalized  
+- Stress reactivity decreased  
+
+The negative effects of low maternal care were  significantly reduced.
+
+:::
+
+:::info-box
+Similar recovery occurs with:
+
+- `Enriched environments`  
+- Foster care  
+
+Epigenetic scars may persist,  
+but their functional impact can be reduced.
+
+:::
+
+::: 
+::: column
+
+![](images/epigen_tsa.png){width="450" fig-align="center"}
+
+::: 
+::: 
+
+
+
+## Self-check
+
+```{=html}
+<div style="display: flex; justify-content: center;">
+  <iframe src="quiz/quiz_10_epigenetics.html"
+          style="
+            width: 90vw;
+            max-width: 900px;
+            height: 80vh;
+            border: none;
+            border-radius: 16px;
+          ">
+  </iframe>
+</div>
+```

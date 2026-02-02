@@ -2006,20 +2006,146 @@
     "href": "10_epigenetics.html#histone-modifications",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Histone modifications",
-    "text": "Histone modifications\n\n\n\nHistone proteins are not static.\nThey can undergo post-translational modifications\nafter they are synthesized.\nThese modifications change how histones interact with DNA.\n\n\nA histone modification is a chemical change added to histone proteins.\nThese changes:\n\nDo not alter DNA sequence\n\nAlter chromatin structure\n\nModify gene transcription probability\n\nThey act as regulatory signals.\n\n\n\nHistone modifications determine:\n\nHow tightly DNA is packed\n\nWhether a gene is accessible\n\nThey regulate gene expression dynamically.\n\n\nHistone acetylation is one type of histone modification. It consists of adding an acetyl group to specific regions of histone proteins.\n\n\nHistone acetylation:\n\nMakes chromatin less compact\n\nIncreases DNA accessibility"
+    "text": "Histone modifications\n\n\n\nHistone proteins are not static.\nThey can undergo post-translational modifications after they are synthesized.\nThese modifications change how histones interact with DNA.\n\n\nA histone modification is a chemical change added to histone proteins.\nThese changes:\n\nDo not alter DNA sequence\n\nAlter chromatin structure\n\nModify gene transcription probability\n\nThey act as regulatory signals.\n\n\n\nHistone modifications determine:\n\nHow tightly DNA is packed\n\nWhether a gene is accessible\n\nThey regulate gene expression dynamically."
   },
   {
     "objectID": "10_epigenetics.html#histone-modifications-1",
     "href": "10_epigenetics.html#histone-modifications-1",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Histone modifications",
-    "text": "Histone modifications\n\n\n\nCommon histone post-translational modifications include:\n\nAcetylation\n\nMethylation\n\nPhosphorylation\n\nUbiquitination\n\nEach modification can alter chromatin structure\nor recruit specific regulatory proteins. In a much more complex way.\n\n\n\nHistone modifications do not act in isolation.\nDifferent combinations of modifications\ncreate a histone code.\nThis code:\n\nFine-tunes gene expression\n\nAllows flexible and context-dependent regulation"
+    "text": "Histone modifications\n\n\n\nCommon histone post-translational modifications include:\n\nAcetylation\n\nMethylation\n\nPhosphorylation\n\nUbiquitination\n\n\n\n\nHistone modifications do not act in isolation.\nEach modification can alter chromatin structure or recruit specific regulatory proteins. In a much more complex way. Different combinations of modifications\ncreate a histone code. This code:\n\nFine-tunes gene expression\n\nAllows flexible and context-dependent regulation"
   },
   {
     "objectID": "10_epigenetics.html#histone-modifications-2",
     "href": "10_epigenetics.html#histone-modifications-2",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Histone modifications",
-    "text": "Histone modifications\n\n\n\nHistone modification\nChromatin\n\n\n\n\nHistone acetylation\nless compact\n\n\nHistone deacetylation\nmore compact\n\n\nHistone methylation\nmore compact\n\n\nHistone demethylation\nless compact"
+    "text": "Histone modifications\n\n\n\nHistone acetylation is one type of histone modification. It consists of adding an acetyl group to specific regions of histone proteins.\n\n\nHistone acetylation:\n\nMakes chromatin less compact\n\nIncreases DNA accessibility\n\nIncreases Genes expression"
+  },
+  {
+    "objectID": "10_epigenetics.html#chronic-social-defeat-stress",
+    "href": "10_epigenetics.html#chronic-social-defeat-stress",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Chronic social defeat stress",
+    "text": "Chronic social defeat stress\n\n\nChronic social defeat stress is an animal model\nused to study stress, depression-like behavior,\nand resilience.\n\nThe model involves:\n\nA dominant male mouse\n\nA subordinate male mouse\n\nThe subordinate mouse is placed\nin the cage of the dominant one."
+  },
+  {
+    "objectID": "10_epigenetics.html#persistent-stress-exposure",
+    "href": "10_epigenetics.html#persistent-stress-exposure",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Persistent stress exposure",
+    "text": "Persistent stress exposure\n\n\n\n\nThe dominant mouse forces subordination\n\nThe subordinate experiences social defeat\n\nThis interaction lasts:\n\n10 minutes per day\n\nFor 10 consecutive days\n\n\n\n\nWhen separated:\n\nThe mice remain in visual contact\n\nThey can smell each other\n\nStress therefore continues\neven outside direct interaction.\n\n\n\nOnly protocols lasting at least 10 days:\n\nInduce stable depression-like behavior\n\nProduce anhedonia-like symptoms\n\nShorter protocols are insufficient.\n\n\nChronic social defeat produces:\n\nStrong experience of subordination\n\nReduced motivation for social interaction\n\nThis is measured quantitatively."
+  },
+  {
+    "objectID": "10_epigenetics.html#measuring-anhedonia",
+    "href": "10_epigenetics.html#measuring-anhedonia",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Measuring anhedonia",
+    "text": "Measuring anhedonia\n\n\n\nAnhedonia is assessed using a\nsocial interaction task.\nThe task measures:\n\nTime spent exploring a conspecific\n\nWillingness to engage socially\n\n\n\n\nCompared to controls:\n\nDefeated mice explore less\n\nShow social withdrawal\n\nThe distribution shifts toward\nreduced social interaction."
+  },
+  {
+    "objectID": "10_epigenetics.html#individual-differences",
+    "href": "10_epigenetics.html#individual-differences",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Individual differences",
+    "text": "Individual differences\n\n\n\n\n\n\n\n\nflowchart TD\n    Defeat[\"Social defeat&lt;br/&gt;experience\"]\n\n    Avoid[\"Severe social&lt;br/&gt;avoidance\"]\n    Normal[\"Normal social&lt;br/&gt;interaction\"]\n\n    Defeat --&gt; Avoid\n    Defeat --&gt; Normal\n\n    %% Style\n    classDef simple fill:#a4d5c2,color:#000,stroke:#9f8ca0,stroke-width:3px,font-size:16px\n    class Defeat,Avoid,Normal simple\n\n\n\n\n\n\n\n\n\nAfter social defeat:\n\nSusceptible mice show social withdrawal\n\nResilient mice behave like controls\n\nThere is a continuum between the two poles."
+  },
+  {
+    "objectID": "10_epigenetics.html#a-key-question",
+    "href": "10_epigenetics.html#a-key-question",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "A key question",
+    "text": "A key question\n\n\n\nWhat determines vulnerability or resilience?\n\n\nGenetic differences are unlikely:\n\nThese mice belong to the same strain\n\nThis points to non-genetic mechanisms.\n\n\nDifferences may arise from:\n\nEpigenetic regulation\n\nExperience-dependent plasticity\n\n\n\n\nUnder normal conditions:\n\nThe BDNF gene is highly expressed\n\nChromatin is open\n\nHistones are acetylated\n\nThis supports hippocampal plasticity.\n\n\nAfter chronic social defeat:\n\nChromatin becomes more compact\nHistone acetylation decreases\n\nBDNF expression in the hippocampus is reduced."
+  },
+  {
+    "objectID": "10_epigenetics.html#effect-of-chronic-stress",
+    "href": "10_epigenetics.html#effect-of-chronic-stress",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Effect of chronic stress",
+    "text": "Effect of chronic stress\n\n\n\nWhat determines vulnerability or resilience?\n\n\nGenetic differences are unlikely:\n\nThese mice belong to the same strain\n\nThis points to non-genetic mechanisms.\n\n\nDifferences may arise from:\n\nEpigenetic regulation\n\nExperience-dependent plasticity\n\n\n\n\nUnder normal conditions:\n\nThe BDNF gene is highly expressed\n\nChromatin is open\n\nHistones are acetylated\n\nThis supports hippocampal plasticity.\n\n\nAfter chronic social defeat:\n\nChromatin becomes more compact\nHistone acetylation decreases\n\nBDNF expression and plasticity in the hippocampus are reduced."
+  },
+  {
+    "objectID": "10_epigenetics.html#effect-of-chronic-stress-1",
+    "href": "10_epigenetics.html#effect-of-chronic-stress-1",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Effect of chronic stress",
+    "text": "Effect of chronic stress\n\n\n\n\n\n\n\n\n\nReduced hippocampal BDNF leads to:\n\nReduced neurogenesis\n\nReduced synaptic plasticity\n\nImpaired hippocampal function\n\nThis contributes to anhedonic behavior."
+  },
+  {
+    "objectID": "10_epigenetics.html#antidepressant-treatment",
+    "href": "10_epigenetics.html#antidepressant-treatment",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Antidepressant treatment",
+    "text": "Antidepressant treatment\n\n\n\nAfter antidepressant treatment:\n\nHistone acetylation increases\n\nBDNF transcription partially recovers\n\nHowever:\n\nDNA methylation remains\n\n\n\n\nStress-induced epigenetic changes:\n\nPersist after stress ends\n\nAre only partially reversible\n\nThese changes act as molecular scars."
+  },
+  {
+    "objectID": "10_epigenetics.html#molecular-scar",
+    "href": "10_epigenetics.html#molecular-scar",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Molecular Scar",
+    "text": "Molecular Scar\n\n\n\nIf antidepressant treatment stops:\n\nBDNF reduction reappears\n\nThe epigenetic trace of stress remains.\n\n\nChronic stress:\n\nAlters neural circuits\n\nLeaves latent molecular marks\n\nRecovery is possible,\nbut not complete."
+  },
+  {
+    "objectID": "10_epigenetics.html#early-developmental-environment-and-epigenetics",
+    "href": "10_epigenetics.html#early-developmental-environment-and-epigenetics",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Early developmental environment and epigenetics",
+    "text": "Early developmental environment and epigenetics\n\n\n\nEarly life experiences can have long-lasting effects on behavior. These effects are often mediated by epigenetic mechanisms.\n\n\nM. Meaney studied differences in maternal behavior in rats.\nMothers were classified based on:\n\nLicking and grooming\n\nNursing posture\n\nThey are better described as high-nurturing or low-nurturing mothers."
+  },
+  {
+    "objectID": "10_epigenetics.html#early-developmental-environment-and-epigenetics-1",
+    "href": "10_epigenetics.html#early-developmental-environment-and-epigenetics-1",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Early developmental environment and epigenetics",
+    "text": "Early developmental environment and epigenetics\n\n\n\nLow-nurturing mothers:\n\nFeed offspring normally\n\nAre not abusive\n\nThe difference lies in interaction quality, not basic care.\n\n\nRats raised by low-nurturing mothers:\n\nAre more neophobic\nHave a chronically active HPA axis\n\nFemales often become low-nurturing mothers.\n\n\n\n\nRats raised by high-nurturing mothers:\n\nAre less neophobic\nHave a well-regulated HPA axis\n\nFemales often become high-nurturing mothers."
+  },
+  {
+    "objectID": "10_epigenetics.html#the-stress-system-hpa-axis",
+    "href": "10_epigenetics.html#the-stress-system-hpa-axis",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "The stress system: HPA axis",
+    "text": "The stress system: HPA axis\n\n\n\nThe HPA axis involves:\n\nHypothalamus → CRH\n\nPituitary → ACTH\n\nAdrenal glands → cortisol\n\nCortisol feeds back to the hippocampus.\n\n\nThe hippocampus contains\nglucocorticoid receptors (GR).\nMore GRs means:\n\nFaster negative feedback\n\nBetter stress regulation"
+  },
+  {
+    "objectID": "10_epigenetics.html#epigenetic-programming-of-stress",
+    "href": "10_epigenetics.html#epigenetic-programming-of-stress",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Epigenetic programming of stress",
+    "text": "Epigenetic programming of stress\n\n\n\nMaternal care activates epigenetic mechanisms at the GR gene in the hippocampus.\n\n\nHigh GR expression leads to:\n\nEfficient HPA self-regulation\n\nLower anxiety\n\nLower cortisol levels\n\nLow maternal care produces the opposite pattern. Early experience programs\nthe long-term functionality of the HPA axis."
+  },
+  {
+    "objectID": "10_epigenetics.html#functional-recovery",
+    "href": "10_epigenetics.html#functional-recovery",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Functional recovery",
+    "text": "Functional recovery\n\n\n\nAfter TSA treatment:\n\nHPA axis responses normalized\n\nStress reactivity decreased\n\nThe negative effects of low maternal care were significantly reduced.\n\n\nSimilar recovery occurs with:\n\nEnriched environments\n\nFoster care\n\nEpigenetic scars may persist,\nbut their functional impact can be reduced."
+  },
+  {
+    "objectID": "10_epigenetics.html#vtanac-circuit-and-resilience",
+    "href": "10_epigenetics.html#vtanac-circuit-and-resilience",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "VTA–NAc circuit and resilience",
+    "text": "VTA–NAc circuit and resilience\n\n\n\nThe hippocampal effects are not the only mechanism involved.\n\n\nAfter social defeat vulnerable mice show:\n\nHyperactive VTA dopamine neurons\n\nNAc becomes overstimulated\n\n\n\nResilient mice:\n\nUpregulate potassium channels in the VTA\n\nReduce dopamine neuron firing preventing chronic NAc overstimulation.\n\n\n\n\n\n\n\n\n\nThe activation of NAc follows a homeostatic principle:\n\nAcute dopamine → pleasure\n\nChronic dopamine → saturation → anhedonia"
+  },
+  {
+    "objectID": "10_epigenetics.html#active-resilience",
+    "href": "10_epigenetics.html#active-resilience",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Active resilience",
+    "text": "Active resilience\n\n\n\nThese findings indicate that resilience is not merely the absence of adverse effects. Rather, it reflects an active process, with specific mechanisms shaping distinct outcomes.\n\n\nCan resilience be induced?\nYes.\nVulnerable animals can become resilient\nby targeting adaptive mechanisms.\n\n\n\nEzogabine, a drug enhancing potassium channels:\n\nReduced depressive and anhedonic symptoms\n\nNormalized reward circuit connectivity"
+  },
+  {
+    "objectID": "10_epigenetics.html#plasticity-needs-guidance",
+    "href": "10_epigenetics.html#plasticity-needs-guidance",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Plasticity needs guidance",
+    "text": "Plasticity needs guidance\n\n\n\nDrugs can increase plasticity. But plasticity is undirected. The environment determines the outcome.\n\n\nSSRIs increase serotonin rapidly. Clinical effects appear slowly. This suggests involvement of slow plastic mechanisms.\n\n\nSSRIs:\n\nIncrease neural plasticity\n\nCreate a window for change\n\nThe environment drives whether changes are\nadaptive or maladaptive.\n\n\n\n\n\n\n\n\nFluoxetine-treated mice:\n\nImproved in enriched environments\n\nWorsened in stressful environments\n\nThe drug increased sensitivity to context."
+  },
+  {
+    "objectID": "10_epigenetics.html#self-check",
+    "href": "10_epigenetics.html#self-check",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Self-check",
+    "text": "Self-check"
   }
 ]
