@@ -61,3 +61,79 @@ from neurons to systems.
 :::
 :::
 
+## Course material and schedule
+
+::: columns
+::: column
+
+::: {.card}
+[📘 Course book]{.highlight}
+
+- The main reference for the course is an **open-access textbook**
+- You can read it online or download it for free
+
+👉 [Foundations of Neuroscience (open book)](https://openbooks.lib.msu.edu/neuroscience/)
+:::
+
+:::
+
+::: column
+
+::: {.card}
+[🗓 ️Timetable and midterms]{.highlight}
+
+- The timetable includes:
+  - scheduled lessons
+  - midterm dates
+- Please check it regularly for updates
+
+👉 [Course timetable and midterms](https://docs.google.com/spreadsheets/d/1PJGewiJnxrPQ5PUh9JBqskFjvt7H6T6Mhd8j8Ym0QKw/edit?usp=sharing)
+:::
+
+:::
+:::
+
+## How to use these slides
+
+::: columns
+::: column
+
+::: {.info-box}
+[⛵ Navigation]{.highlight}
+
+- These slides are **interactive**
+- Use **keyboard** or **mouse**
+- Press `F` for **full-screen mode**
+:::
+
+:::card
+[⏱️ Quick access]{.highlight}
+
+- In the **lower-left corner**, click the ☰ icon to open the **slide index**
+- Click any slide title to jump directly to it
+- Use the ⚙️ **Tools** menu to see all available shortcuts
+:::
+
+:::
+::: column
+
+::: {.info-box}
+[🧭 Course structure]{.highlight}
+
+- The **Index slide** links all sections
+- Each section starts with a title slide
+- A **🏠 Home button** on the first slide  
+  brings you back to the Index
+:::
+
+::: {.card}
+[📄 PDF version]{.highlight}
+
+- Go to the **first slide of a section**
+- Press `E`
+- A **PDF-compatible version** appears
+- Print or save it for clean notes
+:::
+
+:::
+:::
