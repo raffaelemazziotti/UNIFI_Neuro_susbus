@@ -608,89 +608,52 @@
 
 
 /* ==========================
-   Mobile + scroll view
-   Dark theme override
+   Mobile: force dark theme + bigger text
+   (matches body.quarto-light in your HTML)
    ========================== */
 @media (max-width: 768px) {
 
-  /* Force dark background in scroll mode */
-  .reveal.scroll {
-    background-color: #121212 !important;
-    color: #eaeaea !important;
+  /* Make the whole page dark */
+  body.quarto-light,
+  body.quarto-light .reveal-viewport,
+  body.quarto-light .reveal {
+    background: #121212 !important;
+    color: #f2f2f2 !important;
   }
 
-  /* Individual slides */
-  .reveal.scroll .slides section {
-    background-color: #1a1a1a !important;
-    color: #eaeaea !important;
+  /* Make each slide/card dark too */
+  body.quarto-light .reveal .slides section {
+    background: #1a1a1a !important;
+    color: #f2f2f2 !important;
     border-radius: 14px;
-    margin: 16px 0;
     padding: 18px 16px;
+    margin: 16px 0;
   }
 
   /* Headings */
-  .reveal.scroll h1,
-  .reveal.scroll h2,
-  .reveal.scroll h3 {
+  body.quarto-light .reveal h1,
+  body.quarto-light .reveal h2,
+  body.quarto-light .reveal h3 {
     color: #ffffff !important;
   }
 
-  /* Text + lists */
-  .reveal.scroll p,
-  .reveal.scroll li {
-    font-size: 1.15em;   /* 👈 larger text */
-    line-height: 1.4;
+  /* Bigger base font (this *will* apply if CSS is loading) */
+  body.quarto-light .reveal {
+    font-size: 26px !important;
+    line-height: 1.4 !important;
   }
 
-  /* Links */
-  .reveal.scroll a {
-    color: #7cc7ff;
+  /* Optional: stack columns on phones */
+  body.quarto-light .reveal .columns {
+    flex-direction: column !important;
+    gap: 0.8em !important;
   }
-
-  /* Code blocks (if any) */
-  .reveal.scroll pre,
-  .reveal.scroll code {
-    background: #222 !important;
-    color: #eaeaea !important;
-  }
-
-  /* Horizontal rules / separators */
-  .reveal.scroll hr {
-    border-color: #333;
+  body.quarto-light .reveal .column {
+    width: 100% !important;
+    flex: none !important;
   }
 }
 
-@media (max-width: 768px) {
-
-  /* Stop Reveal from scaling slides down */
-  .reveal.scroll {
-    font-size: 22px !important;   /* REAL base size */
-  }
-
-  .reveal.scroll .slides {
-    width: auto !important;
-    height: auto !important;
-    transform: none !important;
-  }
-
-  .reveal.scroll .slides section {
-    transform: none !important;
-    width: auto !important;
-    height: auto !important;
-    min-height: auto !important;
-  }
-
-  /* Make text comfortably large */
-  .reveal.scroll p,
-  .reveal.scroll li {
-    font-size: 1.15em;
-    line-height: 1.45;
-  }
-
-  .reveal.scroll h1 { font-size: 1.6em; }
-  .reveal.scroll h2 { font-size: 1.4em; }
-  .reveal.scroll h3 { font-size: 1.2em; }
-}
 
 
 
