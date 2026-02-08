@@ -325,15 +325,7 @@ This diversity supports specialized functions across the nervous system.
 ## Self-check
 
 ```{=html}
-<div style="display: flex; justify-content: center;">
-  <iframe src="quiz/quiz_1_intro.html"
-          style="
-            width: 90vw;
-            max-width: 900px;
-            height: 80vh;
-            border: none;
-            border-radius: 16px;
-          ">
-  </iframe>
+<div class="quiz-wrap">
+  <iframe class="quiz-frame" src="quiz/quiz_1_intro.html" loading="lazy"></iframe>
 </div>
 ```

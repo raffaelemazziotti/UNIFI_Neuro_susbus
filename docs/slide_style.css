@@ -608,23 +608,28 @@
 
 
 /* ==========================
-   Mobile: force dark theme + bigger text
-   (matches body.quarto-light in your HTML)
+   Mobile: dark theme + bigger text + page-like snapping
    ========================== */
 @media (max-width: 768px) {
 
-  /* Make the whole page dark */
+  /* ---- choose ONE consistent dark background ---- */
+  :root { --mobile-bg: #0b0b0b; }  /* <- change to match your desktop exactly */
+
+  /* Whole page + reveal container */
+  body,
   body.quarto-light,
   body.quarto-light .reveal-viewport,
   body.quarto-light .reveal {
-    background: #121212 !important;
+    background: var(--mobile-bg) !important;
     color: #f2f2f2 !important;
   }
 
-  /* Make each slide/card dark too */
+  /* Slides: same background (uniform look) */
   body.quarto-light .reveal .slides section {
-    background: #1a1a1a !important;
+    background: var(--mobile-bg) !important;
     color: #f2f2f2 !important;
+
+    /* keep your “separated pages” feel */
     border-radius: 14px;
     padding: 18px 16px;
     margin: 16px 0;
@@ -637,13 +642,13 @@
     color: #ffffff !important;
   }
 
-  /* Bigger base font (this *will* apply if CSS is loading) */
+  /* Bigger base font */
   body.quarto-light .reveal {
-    font-size: 26px !important;
+    font-size: 26px !important;   /* increase if you want: 28px, 30px */
     line-height: 1.4 !important;
   }
 
-  /* Optional: stack columns on phones */
+  /* Stack columns on phones */
   body.quarto-light .reveal .columns {
     flex-direction: column !important;
     gap: 0.8em !important;
@@ -652,8 +657,50 @@
     width: 100% !important;
     flex: none !important;
   }
+
+  /* ---- page-by-page-ish scrolling (snap to slide) ---- */
+  html, body {
+    scroll-snap-type: y mandatory;
+    scroll-padding-top: 12px;
+  }
+
+  body.quarto-light .reveal .slides section {
+    scroll-snap-align: start;
+    scroll-snap-stop: always;  /* best-effort: reduces skipping */
+  }
+
+  /* Optional: makes each slide feel like one “page” */
+  body.quarto-light .reveal .slides section {
+    min-height: calc(100vh - 32px);
+  }
 }
 
 
+/* ==========================
+   Quiz iframe responsive styling
+   ========================== */
 
+/* default (desktop/tablet) */
+.quiz-wrap{
+  display: flex;
+  justify-content: center;
+}
 
+.quiz-frame{
+  width: 90vw;
+  max-width: 900px;
+  height: 80vh;
+  border: none;
+  border-radius: 16px;
+  background: transparent;
+}
+
+/* mobile */
+@media (max-width: 768px){
+  .quiz-frame{
+    width: calc(100vw - 24px);     /* nearly full width, with margin */
+    max-width: none;
+    height: 72vh;                 /* less aggressive than 80vh */
+    border-radius: 12px;
+  }
+}
