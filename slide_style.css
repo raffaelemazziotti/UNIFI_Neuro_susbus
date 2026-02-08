@@ -607,5 +607,61 @@
 }
 
 
-/* ********************************* */
+/* ==========================
+   Mobile / small screens
+   ========================== */
+@media (max-width: 768px) {
+
+  /* Make text scale more naturally on phones */
+  .reveal {
+    font-size: 18px; /* was 25px */
+    line-height: 1.35;
+  }
+
+  /* Headings: smaller so they don't wrap badly */
+  .reveal h1 { font-size: 1.35em; }
+  .reveal h2 { font-size: 1.20em; }
+  .reveal h3 { font-size: 1.05em; }
+
+  /* Stack columns vertically instead of 2-up */
+  .reveal .columns {
+    flex-direction: column !important;
+    gap: 0.8em !important;
+  }
+  .reveal .column {
+    width: 100% !important;
+    flex: none !important;
+  }
+
+  /* Cards/boxes: less padding so they fit */
+  .card, .info-box, .tip, .list-box {
+    padding: 10px 12px;
+    margin: 10px 0;
+    border-radius: 12px;
+  }
+
+  /* Logo: smaller on phones */
+  .reveal .slide-logo {
+    height: 56px !important; /* was 100px */
+  }
+
+  /* Fix home button drifting off-screen:
+     you currently have left:1% + translateX(-50%) */
+  .home-link {
+    left: 12px !important;
+    bottom: 12px !important;
+    transform: none !important;
+    opacity: 0.85;
+  }
+  .home-link img {
+    width: 28px;
+  }
+
+  /* Tooltips based on :hover don't work well on touch;
+     hide them so they don't overlay weirdly */
+  .term::after, .term::before {
+    display: none !important;
+  }
+}
+
 
