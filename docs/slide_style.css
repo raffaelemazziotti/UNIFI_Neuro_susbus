@@ -660,5 +660,37 @@
   }
 }
 
+@media (max-width: 768px) {
+
+  /* Stop Reveal from scaling slides down */
+  .reveal.scroll {
+    font-size: 22px !important;   /* REAL base size */
+  }
+
+  .reveal.scroll .slides {
+    width: auto !important;
+    height: auto !important;
+    transform: none !important;
+  }
+
+  .reveal.scroll .slides section {
+    transform: none !important;
+    width: auto !important;
+    height: auto !important;
+    min-height: auto !important;
+  }
+
+  /* Make text comfortably large */
+  .reveal.scroll p,
+  .reveal.scroll li {
+    font-size: 1.15em;
+    line-height: 1.45;
+  }
+
+  .reveal.scroll h1 { font-size: 1.6em; }
+  .reveal.scroll h2 { font-size: 1.4em; }
+  .reveal.scroll h3 { font-size: 1.2em; }
+}
+
 
 
