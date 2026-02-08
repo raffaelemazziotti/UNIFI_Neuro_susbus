@@ -608,72 +608,131 @@
 
 
 /* ==========================
-   Mobile: dark theme + bigger text + page-like snapping
+   Mobile: match notebook theme + better reading + snap
    ========================== */
 @media (max-width: 768px) {
 
-  /* ---- choose ONE consistent dark background ---- */
-  :root { --mobile-bg: #0b0b0b; }  /* <- change to match your desktop exactly */
-
-  /* Whole page + reveal container */
-  body,
-  body.quarto-light,
-  body.quarto-light .reveal-viewport,
-  body.quarto-light .reveal {
-    background: var(--mobile-bg) !important;
-    color: #f2f2f2 !important;
+  /* Reuse the SAME colors as notebook */
+  :root{
+    --slide-bg: #454545;          /* matches .reveal background-color */
+    --bg-layer: #424242;          /* matches .reveal .backgrounds */
+    --text: #e6e6e6;              /* matches default text */
+    --heading: #67bdfb;           /* matches h1/h2 */
+    --link: #9ad1ff;              /* matches link base */
   }
 
-  /* Slides: same background (uniform look) */
-  body.quarto-light .reveal .slides section {
-    background: var(--mobile-bg) !important;
-    color: #f2f2f2 !important;
+  /* Page + reveal containers */
+  body,
+  body.quarto-light,
+  body.quarto-light .reveal-viewport{
+    background: var(--bg-layer) !important;
+    color: var(--text) !important;
+  }
 
-    /* keep your “separated pages” feel */
+  body.quarto-light .reveal{
+    background: var(--slide-bg) !important;
+    color: var(--text) !important;
+    font-size: 30px !important;     /* ↑ bump more than 26; tune here */
+    line-height: 1.45 !important;
+  }
+
+  /* Keep reveal background layer consistent */
+  body.quarto-light .reveal .backgrounds{
+    background-color: var(--bg-layer) !important;
+  }
+
+  /* Slides: same base background as notebook (no weird translucent white) */
+  body.quarto-light .reveal .slides section{
+    background: var(--slide-bg) !important;
+    color: var(--text) !important;
+
+    /* “separated pages” feel */
     border-radius: 14px;
     padding: 18px 16px;
     margin: 16px 0;
+
+    /* Help page-by-page feel */
+    min-height: calc(100vh - 32px);
   }
 
-  /* Headings */
+  /* Headings: match notebook colors */
   body.quarto-light .reveal h1,
-  body.quarto-light .reveal h2,
-  body.quarto-light .reveal h3 {
-    color: #ffffff !important;
+  body.quarto-light .reveal h2{
+    color: var(--heading) !important;
+  }
+  body.quarto-light .reveal h3{
+    color: var(--text) !important;
   }
 
-  /* Bigger base font */
-  body.quarto-light .reveal {
-    font-size: 26px !important;   /* increase if you want: 28px, 30px */
-    line-height: 1.4 !important;
+  /* Links: match notebook */
+  body.quarto-light .reveal a{
+    color: var(--link) !important;
   }
 
   /* Stack columns on phones */
-  body.quarto-light .reveal .columns {
+  body.quarto-light .reveal .columns{
     flex-direction: column !important;
     gap: 0.8em !important;
   }
-  body.quarto-light .reveal .column {
+  body.quarto-light .reveal .column{
     width: 100% !important;
     flex: none !important;
   }
 
-  /* ---- page-by-page-ish scrolling (snap to slide) ---- */
-  html, body {
+  /* Cards / boxes: keep SAME styling as notebook, just slightly tighter */
+  body.quarto-light .card{
+    background-color: rgba(255, 255, 255, 0.08) !important;
+    color: var(--text) !important;
+    padding: 12px 14px !important;
+    border-radius: 14px !important;
+  }
+
+  body.quarto-light .info-box{
+    background-color: rgba(103, 189, 251, 0.15) !important;
+    color: var(--text) !important;
+    border-left: 6px solid #67bdfb !important;
+    padding: 12px 14px !important;
+  }
+
+  body.quarto-light .tip{
+    background-color: rgba(255, 236, 179, 0.18) !important;
+    color: #f2f2f2 !important;
+    border: 1px solid rgba(255, 236, 179, 0.35) !important;
+    padding: 12px 14px !important;
+  }
+
+  body.quarto-light .list-box{
+    background-color: rgba(255, 255, 255, 0.06) !important;
+    border-left: 5px solid rgba(103, 189, 251, 0.6) !important;
+    padding: 12px 14px !important;
+  }
+
+  /* Tooltips: disable on touch screens (hover is awkward) */
+  body.quarto-light .term::after,
+  body.quarto-light .term::before{
+    display: none !important;
+  }
+
+  /* Home button: keep it visible */
+  .home-link{
+    left: 12px !important;
+    bottom: 12px !important;
+    transform: none !important;
+    opacity: 0.75 !important;
+  }
+  .home-link img{ width: 34px !important; }
+
+  /* ---- page-by-page-ish scrolling (snap) ---- */
+  html, body{
     scroll-snap-type: y mandatory;
     scroll-padding-top: 12px;
   }
-
-  body.quarto-light .reveal .slides section {
+  body.quarto-light .reveal .slides section{
     scroll-snap-align: start;
-    scroll-snap-stop: always;  /* best-effort: reduces skipping */
-  }
-
-  /* Optional: makes each slide feel like one “page” */
-  body.quarto-light .reveal .slides section {
-    min-height: calc(100vh - 32px);
+    scroll-snap-stop: always; /* best-effort */
   }
 }
+
 
 
 /* ==========================
@@ -698,9 +757,10 @@
 /* mobile */
 @media (max-width: 768px){
   .quiz-frame{
-    width: calc(100vw - 24px);     /* nearly full width, with margin */
-    max-width: none;
-    height: 72vh;                 /* less aggressive than 80vh */
+    width: 100%;     /* nearly full width, with margin */
+    max-width: 100%;
+    height: 700px;
+    max-height: 2000px;
     border-radius: 12px;
   }
 }
