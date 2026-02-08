@@ -608,60 +608,57 @@
 
 
 /* ==========================
-   Mobile / small screens
+   Mobile + scroll view
+   Dark theme override
    ========================== */
 @media (max-width: 768px) {
 
-  /* Make text scale more naturally on phones */
-  .reveal {
-    font-size: 18px; /* was 25px */
-    line-height: 1.35;
+  /* Force dark background in scroll mode */
+  .reveal.scroll {
+    background-color: #121212 !important;
+    color: #eaeaea !important;
   }
 
-  /* Headings: smaller so they don't wrap badly */
-  .reveal h1 { font-size: 1.35em; }
-  .reveal h2 { font-size: 1.20em; }
-  .reveal h3 { font-size: 1.05em; }
-
-  /* Stack columns vertically instead of 2-up */
-  .reveal .columns {
-    flex-direction: column !important;
-    gap: 0.8em !important;
-  }
-  .reveal .column {
-    width: 100% !important;
-    flex: none !important;
+  /* Individual slides */
+  .reveal.scroll .slides section {
+    background-color: #1a1a1a !important;
+    color: #eaeaea !important;
+    border-radius: 14px;
+    margin: 16px 0;
+    padding: 18px 16px;
   }
 
-  /* Cards/boxes: less padding so they fit */
-  .card, .info-box, .tip, .list-box {
-    padding: 10px 12px;
-    margin: 10px 0;
-    border-radius: 12px;
+  /* Headings */
+  .reveal.scroll h1,
+  .reveal.scroll h2,
+  .reveal.scroll h3 {
+    color: #ffffff !important;
   }
 
-  /* Logo: smaller on phones */
-  .reveal .slide-logo {
-    height: 56px !important; /* was 100px */
+  /* Text + lists */
+  .reveal.scroll p,
+  .reveal.scroll li {
+    font-size: 1.15em;   /* 👈 larger text */
+    line-height: 1.4;
   }
 
-  /* Fix home button drifting off-screen:
-     you currently have left:1% + translateX(-50%) */
-  .home-link {
-    left: 12px !important;
-    bottom: 12px !important;
-    transform: none !important;
-    opacity: 0.85;
-  }
-  .home-link img {
-    width: 28px;
+  /* Links */
+  .reveal.scroll a {
+    color: #7cc7ff;
   }
 
-  /* Tooltips based on :hover don't work well on touch;
-     hide them so they don't overlay weirdly */
-  .term::after, .term::before {
-    display: none !important;
+  /* Code blocks (if any) */
+  .reveal.scroll pre,
+  .reveal.scroll code {
+    background: #222 !important;
+    color: #eaeaea !important;
+  }
+
+  /* Horizontal rules / separators */
+  .reveal.scroll hr {
+    border-color: #333;
   }
 }
+
 
 
