@@ -4,3 +4,8 @@ project:
   render:
     - "*.qmd"
     - "!old/"
+
+format:
+  revealjs:
+    scroll-view:
+      activation-width: 0
