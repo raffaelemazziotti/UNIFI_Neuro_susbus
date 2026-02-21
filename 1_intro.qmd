@@ -37,10 +37,10 @@ format:
 Neuroscience asks a simple question:  
 **How does the brain produce behavior?**
 
-- Studies the Central (brain and spinal cord) and Peripheral (somatic, autonomic and enteric) nervous systems  
+- Studies the `Central` (brain and spinal cord) and `Peripheral` (somatic, autonomic and enteric) nervous systems  
 - Connects biology, psychology, physics, engineering, and philosophy 
 
-**Goal of this course:** build intuition about how the nervous system works, without assuming prior biology knowledge.
+`Goal of this course`: build intuition about how the nervous system works, without assuming prior biology knowledge.
 ::: 
 ::: column
 ![](images/cpns.png){width="400" fig-align="right"}
@@ -53,8 +53,8 @@ Neuroscience asks a simple question:
 
 ::: columns
 ::: column
-Neurons are the **basic units** of the brain.  
-Their main function is to **send electrical signals** over short and long distances.  
+Neurons are the `basic units` of the brain.  
+Their main function is to `send electrical signals` over short and long distances.  
 They are electrically and chemically excitable.
 The function of a neuron depends on its structure.
 
@@ -76,46 +76,30 @@ The function of a neuron depends on its structure.
 ::: columns
 
 ::: column
-- **Dendrites**  
-- **Cell body (soma)**
-- **Axon hillock**
-- **Axon**
-- **Presynaptic terminal**
-These components determine how signals are received, processed, and transmitted.
+- `Dendrites`  
+- `Cell body (Soma)`
+- `Axon hillock`
+- `Axon`
+- `Presynaptic terminal`
+
+>These components determine how signals are received, processed, and transmitted.
+
 :::
 
 ::: column
 ![](images/neuron_compartments.png){width="500" fig-align="right"}
 :::
 :::
----
-
-## Diagram: Typical Neuron
-
-::: columns
-::: column
-A neuron has:  
-- Branching dendrites  
-- A soma with nucleus  
-- A long axon  
-- Terminal branches forming synapses
-:::
-
-::: column
-![](images/neuron_compartments.png){width="500" fig-align="right"}
-::: 
-::: 
-
 ---
 
 ## Dendrites {#dendrites}
 
 ::: columns
 ::: column
-- Branch out from the soma  
-- Primary targets of incoming signals  
+- `Branch out` from the soma  
+- Primary targets of `incoming signals`  
 - The number of dendrites influences how many inputs the neuron can receive  
-- Often contain **spines**, which increase surface area for synaptic contact
+- Contain `spines`, which increase surface area for synaptic contact
 ::: 
 ::: column
 
@@ -139,8 +123,8 @@ A neuron has:
 
 ::: columns
 ::: column
-- Contains nucleus and organelles  
-- Integrates incoming signals from dendrites  
+- Contains `nucleus and organelles`  
+- `Integrates` incoming signals from dendrites  
 - Biochemistry of the cell shapes its excitability and response properties  
 ::: 
 
@@ -210,8 +194,8 @@ Genes are instructions for building cellular components
 ::: columns
 ::: column
 
-- Junction between soma and axon  
-- Location where **action potentials are initiated**  
+- `Junction` between soma and axon  
+- Location where `action potentials` are `initiated`  
 - Sensitive to the summed electrical inputs from dendrites and soma
 
 :::
@@ -235,9 +219,9 @@ Genes are instructions for building cellular components
 ## The Axon
 ::: columns
 ::: column
-- Conducts electrical signals over long distances  
-- May be myelinated to increase conduction speed  
-- Can branch extensively
+- `Conducts` electrical signals over long distances  
+- May be `myelinated` to increase conduction speed  
+- Can `branch` extensively
 ::: 
 
 ::: column
@@ -261,7 +245,7 @@ Genes are instructions for building cellular components
 ::: column
 - End of the axon  
 - Releases neurotransmitter onto postsynaptic cells  
-- Forms multiple terminals for communication with many neurons
+- Forms multiple terminals for `communication` with many neurons
 ::: 
 
 ::: column
@@ -282,10 +266,10 @@ Genes are instructions for building cellular components
 
 ## Neurons Communicate Electrically and Chemically
 
-1. **Electrical signals** travel along the axon.  
-2. **Chemical signals** (neurotransmitters) are released at the synapse.  
+1. `Electrical signals` travel along the axon.  
+2. `Chemical signals` (neurotransmitters) are released at the synapse.  
 
-This dual mode of signaling enables fast and flexible communication.
+This `dual mode` of signaling enables fast and flexible communication.
 
 ---
 

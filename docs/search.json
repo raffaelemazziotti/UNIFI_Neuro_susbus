@@ -963,21 +963,14 @@
     "href": "1_intro.html#major-parts-of-the-neuron",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Major Parts of the Neuron",
-    "text": "Major Parts of the Neuron\n\n\n\nDendrites\n\nCell body (soma)\nAxon hillock\nAxon\nPresynaptic terminal These components determine how signals are received, processed, and transmitted."
-  },
-  {
-    "objectID": "1_intro.html#diagram-typical-neuron",
-    "href": "1_intro.html#diagram-typical-neuron",
-    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
-    "section": "Diagram: Typical Neuron",
-    "text": "Diagram: Typical Neuron\n\n\nA neuron has:\n- Branching dendrites\n- A soma with nucleus\n- A long axon\n- Terminal branches forming synapses"
+    "text": "Major Parts of the Neuron\n\n\n\nDendrites\n\nCell body (Soma)\nAxon hillock\nAxon\nPresynaptic terminal\n\n\nThese components determine how signals are received, processed, and transmitted."
   },
   {
     "objectID": "1_intro.html#dendrites",
     "href": "1_intro.html#dendrites",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Dendrites",
-    "text": "Dendrites\n\n\n\nBranch out from the soma\n\nPrimary targets of incoming signals\n\nThe number of dendrites influences how many inputs the neuron can receive\n\nOften contain spines, which increase surface area for synaptic contact"
+    "text": "Dendrites\n\n\n\nBranch out from the soma\n\nPrimary targets of incoming signals\n\nThe number of dendrites influences how many inputs the neuron can receive\n\nContain spines, which increase surface area for synaptic contact"
   },
   {
     "objectID": "1_intro.html#soma",
@@ -1285,7 +1278,7 @@
     "href": "2_neuron.html#the-neuronal-membrane",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "The Neuronal Membrane",
-    "text": "The Neuronal Membrane\n\n\nThe neuron is surrounded by a lipid bilayer membrane.\nKey properties:\n\nElectrically insulating\nImpermeable to most ions\n\nThis separation is essential for signaling."
+    "text": "The Neuronal Membrane\n\n\nThe neuron is surrounded by a lipid bilayer membrane.\nKey properties:\n\nElectrically insulating\nImpermeable to most ions\n\n\nThis separation is essential for signaling."
   },
   {
     "objectID": "2_neuron.html#ion-channels",
@@ -1299,7 +1292,7 @@
     "href": "2_neuron.html#channel-selectivity",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Channel Selectivity",
-    "text": "Channel Selectivity\n\n\nIon channels are selective because:\n\nIons differ in size\nIons differ in charge\nChannel pores are highly specific\n\nExample:\n\nSodium channels allow Na⁺ but not K⁺\nPotassium channels allow K⁺ but not Na⁺"
+    "text": "Channel Selectivity\n\n\nIon channels are selective because:\n\nIons differ in size\nIons differ in charge\n\n\nExample:\n\nSodium channels allow Na⁺ but not K⁺\nPotassium channels allow K⁺ but not Na⁺"
   },
   {
     "objectID": "2_neuron.html#two-forces-acting-on-ions",
@@ -1320,14 +1313,14 @@
     "href": "2_neuron.html#electrical-forces",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Electrical Forces",
-    "text": "Electrical Forces\n\n\nCharged particles are influenced by:\n\nOpposite charges attract\nSame charges repel\n\nA negatively charged interior attracts positive ions."
+    "text": "Electrical Forces\n\n\nCharged particles are influenced by:\n\nOpposite charges attract\nSame charges repel\n\n\nIons can be described as:\n\nAnions: Negatively charged ion\nCations: Positively charged ion"
   },
   {
     "objectID": "2_neuron.html#electrochemical-gradient",
     "href": "2_neuron.html#electrochemical-gradient",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Electrochemical Gradient",
-    "text": "Electrochemical Gradient\nThe electrochemical gradient combines:\n\nChemical gradient (diffusion)\nElectrical gradient (charge)\n\nIon movement depends on both at the same time.\nThis is the key principle of neural signaling."
+    "text": "Electrochemical Gradient\nThe electrochemical gradient combines:\n\nChemical gradient (diffusion)\nElectrical gradient (charge)\n\n\nIon movement depends on both at the same time. This is the key principle of neural signaling."
   },
   {
     "objectID": "2_neuron.html#example-sodium-ions-na",
@@ -1348,14 +1341,14 @@
     "href": "2_neuron.html#calcium",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Example: Calcium Ions (Ca²⁺)",
-    "text": "Example: Calcium Ions (Ca²⁺)\n\nVery low concentration inside neurons\nStrong positive electrical charge\nActs as both an ion and a signaling molecule\n\n\nOpening Ca²⁺ channels causes a inward flux of Ca²⁺ ions."
+    "text": "Example: Calcium Ions (Ca²⁺)\n\nVery low concentration inside neurons\nStrong positive electrical charge\nActs as both an ion and a signaling molecule\n\n\nOpening Ca²⁺ channels causes an inward flux of Ca²⁺ ions."
   },
   {
     "objectID": "2_neuron.html#ion-movement-is-passive",
     "href": "2_neuron.html#ion-movement-is-passive",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Ion Movement Is Passive",
-    "text": "Ion Movement Is Passive\nIon movement through channels:\n\nDoes not require energy\nIs driven by electrochemical gradients\n\n\nBut maintaining the gradients require energy! The gradients are maintained by specific proteins called pumps that can move ions against their gradients."
+    "text": "Ion Movement Is Passive\n\n\nIon movement through channels:\n\nDoes not require energy\nIs driven by electrochemical gradients\n\n\nBut maintaining the gradients require energy! The gradients are maintained by specific proteins called pumps that can move ions against their gradients."
   },
   {
     "objectID": "2_neuron.html#membrane-voltage",
@@ -1446,7 +1439,7 @@
     "href": "2_neuron.html#during-the-action-potential",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "During the Action Potential",
-    "text": "During the Action Potential\n\n\nDuring the spike:\n\nVoltage-gated \\(Na^+\\) channels open, then inactivate\nVoltage-gated \\(K^+\\) channels open with delay\n\nVoltage is dominated by voltage-gated dynamics.\nAfter the action potential:\n\n\\(Na^+\\) channels recover from inactivation\n\\(K^+\\) channels close\nPassive channels dominate again\n\n\n\n\n\n\n\n\n\nInactivation: A state in which a voltage-gated channel is closed and temporarily unable to reopen, even though the membrane is still depolarized."
+    "text": "During the Action Potential\n\n\nDuring the spike:\n\nVoltage-gated \\(Na^+\\) channels open, then inactivate\nVoltage-gated \\(K^+\\) channels open with delay\n\nVoltage is dominated by voltage-gated dynamics. After the action potential:\n\n\\(Na^+\\) channels recover from inactivation\n\\(K^+\\) channels close\nPassive channels dominate again\n\n\n\n\n\n\n\n\n\nInactivation: A state in which a voltage-gated channel is closed and temporarily unable to reopen, even though the membrane is still depolarized."
   },
   {
     "objectID": "2_neuron.html#refractory-period",

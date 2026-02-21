@@ -34,7 +34,7 @@ format:
 ::: columns
 ::: column
 Neurons communicate using electrical signals.  
-These signals exist because [ions move across cell membranes]{.highlight}.
+These signals exist because [ions](https://en.wikipedia.org/wiki/Ion) [move across cell membranes]{.highlight}.
 
 Understanding ion movement is the foundation for:
 
@@ -53,10 +53,10 @@ Understanding ion movement is the foundation for:
 ## What Is an Ion?{#ions}
 ::: columns
 ::: column
-An **ion** is an atom or molecule with an [electrical charge]{.highlight}.
+An `ion` is an atom or molecule with an [electrical charge]{.highlight}.
 
-- Positive charge → cation  
-- Negative charge → anion  
+- `Positive` charge → cation  
+- `Negative` charge → anion  
 
 In neuroscience, the most important ions are:
 
@@ -75,9 +75,9 @@ In neuroscience, the most important ions are:
 
 Electrical signals arise because:
 
-- Ions carry charge
-- Neurons separate charges across membranes
-- Differences in charge create electrical forces
+- `Ions carry charge`
+- Neurons `separate` charges across membranes
+- `Differences in charge create electrical forces`
 
 > No electricity → no neural signaling.
 
@@ -91,10 +91,11 @@ The neuron is surrounded by a [lipid bilayer membrane]{.highlight}.
 
 Key properties:
 
-- Electrically insulating
-- Impermeable to most ions
+- Electrically `insulating`
+- `Impermeable` to most ions
 
-This separation is essential for signaling.
+>This separation is essential for signaling.
+
 :::
 ::: column
 ![](images/bilayer.png){width="450" fig-align="right"}
@@ -105,13 +106,14 @@ This separation is essential for signaling.
 ## Ion Channels
 ::: columns
 ::: column
-Ion channels are [proteins embedded in the membrane]{.highlight}.
+
+Ion channels are `proteins` [embedded in the membrane]{.highlight}.
 
 They:
 
-- Allow specific ions to cross
+- `Allow specific ions to cross`
 - Are [selective]{.highlight} (not all ions can pass)
-- Can open or close
+- Can `open` or `close`
 
 > Ion movement only occurs through these channels.
 
@@ -128,14 +130,16 @@ They:
 ::: column
 Ion channels are selective because:
 
-- Ions differ in size
-- Ions differ in charge
-- Channel pores are highly specific
+- Ions differ in `size`
+- Ions differ in `charge`
 
+:::info-box
 Example:
 
 - Sodium channels allow Na⁺ but not K⁺
 - Potassium channels allow K⁺ but not Na⁺
+:::
+
 :::
 ::: column
 ![](images/ion_ch_selective.png){width="500" fig-align="right"}
@@ -145,10 +149,10 @@ Example:
 
 ## Two Forces Acting on Ions
 
-Ion movement depends on **two forces**:
+Ion movement depends on `two forces`:
 
-1. **Diffusion**  
-2. **Electrical attraction or repulsion**
+1. `Diffusion`  
+2. `Electrical attraction or repulsion`
 
 > The combined effect determines [ion flow]{.highlight}.
 
@@ -160,7 +164,6 @@ Ion movement depends on **two forces**:
 ::: column
 
 Diffusion is movement from:
-
 
 ```{mermaid}
 flowchart LR
@@ -191,13 +194,23 @@ It does `not` require energy.
 
 ::: columns
 ::: column
+
 Charged particles are influenced by:
 
 ::: {.nonincremental}
-- Opposite charges attract
-- Same charges repel
+- `Opposite` charges attract
+- `Same` charges repel
+
 :::
-A negatively charged interior attracts positive ions.
+
+:::info-box
+Ions can be described as:
+
+- `Anions`: Negatively charged ion 
+- `Cations`: Positively charged ion
+
+:::
+
 :::
 ::: column
 ![](images/ions_electric_force.jpg){width="500" fig-align="right"}
@@ -207,14 +220,14 @@ A negatively charged interior attracts positive ions.
 
 ## Electrochemical Gradient
 
-The **electrochemical gradient** combines:
+The `electrochemical gradient` combines:
 
 ::: {.nonincremental}
 - Chemical gradient (diffusion)
 - Electrical gradient (charge)
 :::
-Ion movement depends on `both` at the same time.
 
+>Ion movement depends on `both` at the same time.
 This is the key principle of neural signaling.
 
 ---
@@ -226,10 +239,10 @@ Typically:
 ::: {.nonincremental}
 - High Na⁺ outside the neuron
 - Low Na⁺ inside
-- Inside of neuron is negatively charged
+- `Inside of neuron is negatively charged`
 :::
 
-> Both diffusion and electrical forces push Na⁺ **inward**.
+> Both diffusion and electrical forces push Na⁺ `inward`.
 
 ::: info-box
 The inside of the neuron (and cells in general) is negative mainly because of large amount of `anions` inside the cell like `proteins` and other large organic anions (phosphates, metabolites).
@@ -247,7 +260,7 @@ The inside of the neuron (and cells in general) is negative mainly because of la
 - Diffusion pushes K⁺ outward
 :::
 
-> Here the diffusion force in higher that the electical force an K⁺ flux tends to go **outward**
+> Here the diffusion force in higher that the electical force an K⁺ flux tends to go `outward`
 
 ---
 
@@ -259,11 +272,14 @@ The inside of the neuron (and cells in general) is negative mainly because of la
 - [Acts as both an ion and a signaling molecule]{.highlight}
 :::
 
-> Opening Ca²⁺ channels causes a inward flux of Ca²⁺ ions.
+> Opening Ca²⁺ channels causes an `inward` flux of Ca²⁺ ions.
 
 ---
 
 ## Ion Movement Is Passive
+
+::: columns
+::: column
 
 Ion movement through channels:
 
@@ -272,7 +288,15 @@ Ion movement through channels:
 - Is driven by electrochemical gradients
 :::
 
->`But maintaining the gradients require energy!` The gradients are maintained by specific proteins called **pumps** that can move ions against their gradients.
+>`But maintaining the gradients require energy!` The gradients are maintained by specific proteins called `pumps` that can move ions against their gradients.
+
+::: 
+::: column
+
+![](images/ions_pump.gif){width="500" fig-align="right"}
+
+::: 
+::: 
 
 ---
 
@@ -282,15 +306,15 @@ Ion movement through channels:
 ::: column
 The neuron’s membrane separates electrical charges.
 
-This separation creates a quantity called **membrane voltage**.
+This separation creates a quantity called `membrane voltage`.
 
-- Voltage is a *difference* in electrical potential
-- It tells us how strong the electrical force is
+- Voltage is a `difference` in electrical potential
+- It tells us `how strong the electrical force is`
 - It is measured across the membrane, not inside the cell
 
 ::: info-box
 Voltage is not a substance and not a force.  
-It is a measure of how much electrical energy is available to move ions.
+It is a measure of `how much electrical energy is available` to move ions.
 
 :::
 :::
@@ -363,17 +387,17 @@ Neurons use changes in membrane potential as `signals`.
 These changes can be:
 
 ::: {.nonincremental}
-- Small or large (millivolts )
-- Slow or fast (milliseconds)
-- Local or long-range (micrometers to meters)
+- `Small or large` (millivolts )
+- `Slow or fast` (milliseconds)
+- `Local or long-range` (micrometers to meters)
 :::
 
 ::: info-box
 Two main types exist:
 
 ::: {.nonincremental}
-- **Graded potentials**
-- **Action potentials**
+- `Graded potentials`
+- `Action potentials`
 :::
 
 They differ in origin, size, and function.
@@ -385,24 +409,24 @@ They differ in origin, size, and function.
 ## Graded Potentials {#graded_potential}
 
 
-> [Graded potential]{.highlight}: **local change** in membrane potential whose magnitude depends on the strength of the stimulus.
+> [Graded potential]{.highlight}: `local` change in membrane potential whose magnitude depends on the strength of the stimulus.
 
 :::columns
 :::column
 Key properties:
 
-- Amplitude varies continuously
+- `Amplitude varies` continuously
 - Can be `depolarizing` or `hyperpolarizing`
-- Spread passively
-- Become smaller with distance
+- Spread `passively`
+- Become `smaller with distance`
 :::
 
 ::: column
 ::: info-box
 This decay is due to:
 
-- Membrane resistance
-- Cytoplasmic resistance
+- `Membrane resistance`
+- `Cytoplasmic resistance`
 :::
 
 
@@ -590,7 +614,7 @@ At threshold:
 - Depolarization accelerates
 :::
 
-This marks the transition from **passive to active** behavior.
+This marks the `transition from passive to active` behavior.
 
 ::: info-box
 Once threshold is crossed:
@@ -614,12 +638,10 @@ During the spike:
 
 ::: {.nonincremental}
 - Voltage-gated $Na^+$ channels open, then `inactivate`
-- Voltage-gated $K^+$ channels open with delay
+- Voltage-gated $K^+$ channels open with `delay`
 :::
 
-Voltage is dominated by **voltage-gated dynamics**.
-
-After the action potential:
+Voltage is dominated by `voltage-gated dynamics`. After the action potential:
 
 ::: {.nonincremental}
 - $Na^+$ channels recover from inactivation
@@ -644,12 +666,12 @@ After an action potential, the neuron cannot immediately fire another spike.
 
 >**Refractory period**: A time interval following an action potential during which the neuron’s ability to generate another action potential is `reduced or absent`.
 
-This phase is caused purely by **Na⁺ channel inactivation**.
+This phase is caused purely by `Na⁺ channel inactivation`.
 
 Refractory periods ensure that:
 
 ::: {.nonincremental}
-- Action potentials propagate in one direction
+- Action potentials propagate in `one direction`
 - Spikes are separated in time (`neural code`)
 - Maximum firing frequency is limited
 :::
@@ -664,7 +686,7 @@ Refractory periods ensure that:
 
 ## Axon Diameter and Conduction Speed
 
-The speed of action potential propagation depends on axon geometry.
+The speed of action potential propagation depends on `axon geometry`.
 
 Larger axons:
 
@@ -674,7 +696,7 @@ Larger axons:
 - Depolarize adjacent membrane faster
 :::
 
-As a result, action potentials propagate **faster** in thicker axons.
+As a result, action potentials propagate `faster` in thicker axons.
 
 ---
 
