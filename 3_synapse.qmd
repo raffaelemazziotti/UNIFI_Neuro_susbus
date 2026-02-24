@@ -44,9 +44,9 @@ A Synapse is a `specialized junction` where a neuron communicates with another n
 ::: info-box
 Three main components:
 
-- **Presynaptic** compartment (or terminal)
-- Synaptic cleft  
-- **Postsynaptic** compartment (or spine)
+- `Presynaptic` compartment (or terminal)
+- `Synaptic cleft`  
+- `Postsynaptic` compartment (generally a spine)
 :::
 
 
@@ -54,11 +54,11 @@ Three main components:
 ::: column
 
 ::: info-box
-Synapses allow:
+Synapses `allow`:
 
-  - Directional signaling  
-  - Signal modulation  
-  - Integration of multiple inputs
+  - `Directional` signaling  
+  - Signal `modulation`  
+  - `Integration` of multiple inputs
 :::
 
 :::
@@ -88,7 +88,7 @@ Synapses allow:
 ::: columns
 ::: column
 - Small `membrane-bound organelles` in the presynaptic terminal  
-- **Store neurotransmitters** at high concentration  
+- `Store neurotransmitters` at high concentration  
 - Cluster near [active zones]{.highlight} of the presynaptic membrane  
 
 ::: info-box
@@ -96,7 +96,7 @@ Synapses allow:
 Key properties:
 
 - Release occurs in discrete, [quantal]{.highlight} events
-- The release is mediated by **SNARE proteins**
+- The release is mediated by `SNARE proteins`
 - Vesicles are [recycled]{.highlight} locally
 
 :::

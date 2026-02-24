@@ -788,7 +788,7 @@
     "href": "3_synapse.html#synaptic-communication",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "3. Synaptic Communication",
-    "text": "3. Synaptic Communication\nNeurons transmit information to other neurons and target cells using specialized compartments called Synapses. A Synapse is a specialized junction where a neuron communicates with another neuron (or another cell).\n\nIMPORTANT: In synapses, neurons are not physically continous, but there is a gap called Synaptic Cleft\n\n\n\n\nThree main components:\n\nPresynaptic compartment (or terminal)\nSynaptic cleft\n\nPostsynaptic compartment (or spine)\n\n\n\n\nSynapses allow:\n\nDirectional signaling\n\nSignal modulation\n\nIntegration of multiple inputs"
+    "text": "3. Synaptic Communication\nNeurons transmit information to other neurons and target cells using specialized compartments called Synapses. A Synapse is a specialized junction where a neuron communicates with another neuron (or another cell).\n\nIMPORTANT: In synapses, neurons are not physically continous, but there is a gap called Synaptic Cleft\n\n\n\n\nThree main components:\n\nPresynaptic compartment (or terminal)\nSynaptic cleft\n\nPostsynaptic compartment (generally a spine)\n\n\n\n\nSynapses allow:\n\nDirectional signaling\n\nSignal modulation\n\nIntegration of multiple inputs"
   },
   {
     "objectID": "3_synapse.html#presynaptic-events",
