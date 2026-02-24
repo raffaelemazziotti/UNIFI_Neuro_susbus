@@ -60,10 +60,10 @@ An `ion` is an atom or molecule with an [electrical charge]{.highlight}.
 
 In neuroscience, the most important ions are:
 
-- Sodium (Na⁺)
-- Potassium (K⁺)
-- Chloride (Cl⁻)
-- Calcium (Ca²⁺)
+- `Sodium` (Na⁺)
+- `Potassium` (K⁺)
+- `Chloride` (Cl⁻)
+- `Calcium` (Ca²⁺)
 :::
 ::: column
 ![](images/ions.png){width="300" fig-align="right"}
@@ -223,8 +223,8 @@ Ions can be described as:
 The `electrochemical gradient` combines:
 
 ::: {.nonincremental}
-- Chemical gradient (diffusion)
-- Electrical gradient (charge)
+- Chemical gradient (`diffusion`)
+- `Electrical` gradient (charge)
 :::
 
 >Ion movement depends on `both` at the same time.
@@ -237,7 +237,7 @@ This is the key principle of neural signaling.
 Typically:
 
 ::: {.nonincremental}
-- High Na⁺ outside the neuron
+- `High` Na⁺ `outside` the neuron
 - Low Na⁺ inside
 - `Inside of neuron is negatively charged`
 :::
@@ -245,7 +245,7 @@ Typically:
 > Both diffusion and electrical forces push Na⁺ `inward`.
 
 ::: info-box
-The inside of the neuron (and cells in general) is negative mainly because of large amount of `anions` inside the cell like `proteins` and other large organic anions (phosphates, metabolites).
+The `inside of the neuron` (and cells in general) is negative mainly because of large amount of `anions` inside the cell like `proteins` and other large organic anions (phosphates, metabolites).
 :::
 
 ---
@@ -254,7 +254,7 @@ The inside of the neuron (and cells in general) is negative mainly because of la
 
 
 ::: {.nonincremental}
-- High K⁺ inside the neuron
+- `High` K⁺ `inside` the neuron
 - Low K⁺ outside
 - Electrical force pulls K⁺ inward
 - Diffusion pushes K⁺ outward
@@ -267,7 +267,7 @@ The inside of the neuron (and cells in general) is negative mainly because of la
 ## Example: Calcium Ions (Ca²⁺){#calcium}
 
 ::: {.nonincremental}
-- Very low concentration inside neurons
+- Very `low` concentration `inside` neurons
 - Strong positive electrical charge
 - [Acts as both an ion and a signaling molecule]{.highlight}
 :::
@@ -284,7 +284,7 @@ The inside of the neuron (and cells in general) is negative mainly because of la
 Ion movement through channels:
 
 ::: {.nonincremental}
-- Does not require energy
+- `Does not require energy`
 - Is driven by electrochemical gradients
 :::
 
@@ -306,11 +306,11 @@ Ion movement through channels:
 ::: column
 The neuron’s membrane separates electrical charges.
 
-This separation creates a quantity called `membrane voltage`.
+This separation creates a `quantity` called `membrane voltage`.
 
-- Voltage is a `difference` in electrical potential
+- Voltage is a `difference` in `electrical potential`
 - It tells us `how strong the electrical force is`
-- It is measured across the membrane, not inside the cell
+- It is `measured across the membrane`, not inside the cell
 
 ::: info-box
 Voltage is not a substance and not a force.  
@@ -329,26 +329,28 @@ It is a measure of `how much electrical energy is available` to move ions.
 
 The influence of an ion depends on: 
 
-> `Permeability`, a measure of how easily a given ion can cross the membrane through its channels and is given by the number of ions for that channel are open.
+> `Permeability`, a `measure of how easily a given ion can cross` the membrane through its channels and is given by the number of ions for that channel are open.
 
 At rest, neuronal membranes are:
 
 ::: {.nonincremental}
-- Highly permeable to $K^+$
-- Weakly permeable to $Na^+$
-- Moderately permeable to $Cl^-$
+- `Highly` permeable to $K^+$
+- `Weakly` permeable to $Na^+$
+- `Moderately` permeable to $Cl^-$
 :::
 
 ::: info-box
 In most neurons `resting membrane potential` is $\approx -65\,\mathrm{mV}$.
-This reflects potassium dominance at rest.
+This reflects $K^+$ dominance at rest.
 :::
 
 ---
 
 ## Voltage Change {#voltage_change}
 
-If channels open for an ion, the membrane potential changes. If a positive ion moves inside the cell, the membrane potential becomes less negative; if it moves outside, it becomes more negative. For negative ions, the effect is reversed.
+`If channels open` for an ion, the `membrane potential changes`. 
+
+>If a positive ion moves inside the cell, the membrane potential becomes less negative; if it moves outside, it becomes more negative. For negative ions, the effect is reversed.
 
 ::: columns
 ::: column
@@ -358,9 +360,9 @@ If channels open for an ion, the membrane potential changes. If a positive ion m
 If $Na^+$ channels open:
 
 - $Na^+$ enters the cell
-- Membrane potential becomes less negative
+- Membrane potential becomes `less negative`
 
-This process is called `depolarization`.
+This process is called [depolarization]{.highlight}.
 :::
 :::
 ::: column
@@ -370,9 +372,9 @@ This process is called `depolarization`.
 If $K^+$ channels open:
 
 - $K^+$ leaves the cell
-- Membrane potential becomes more negative
+- Membrane potential becomes `more negative`
 
-This process is called `hyperpolarization`.
+This process is called [hyperpolarization]{.highlight}.
 
 :::
 :::
@@ -409,7 +411,7 @@ They differ in origin, size, and function.
 ## Graded Potentials {#graded_potential}
 
 
-> [Graded potential]{.highlight}: `local` change in membrane potential whose magnitude depends on the strength of the stimulus.
+> [Graded potential]{.highlight}: `local` change in membrane potential whose `magnitude` depends on the strength of the stimulus.
 
 :::columns
 :::column
@@ -451,18 +453,18 @@ They are common in:
 Multiple graded potentials can:
 
 ::: {.nonincremental}
-- Add together in space ([spatial summation]{.highlight})
-- Add together in time ([temporal summation]{.highlight})
+- Add together in `space` ([spatial summation]{.highlight})
+- Add together in `time` ([temporal summation]{.highlight})
 :::
 
-Integration mainly occurs at:
+::: info-box
+[Integration]{.highlight} mainly occurs at:
 
-::: {.nonincremental}
-- The cell body
-- The axon initial segment ([axon hillock](0_intro.html#hillock))
+- The `cell body`
+- The `axon initial segment` ([axon hillock](0_intro.html#hillock))
 :::
 
->Neurons continuously integrate incoming signals.
+>Neurons `continuously` integrate incoming signals.
 
 :::
 
@@ -479,17 +481,17 @@ Integration mainly occurs at:
 ## Action Potentials {#actionpotential}
 ::: columns
 ::: column
-If depolarization is strong enough:
+`If depolarization is strong` enough:
 
 ::: {.nonincremental}
-- A critical voltage is reached
+- A `critial` voltage is reached
 - A different electrical event is triggered
 :::
 
 This voltage is called the [threshold]{.highlight}. Potentials beyond the threshold trigger `Action Potentials`.
 
 
->**Action potential**: A large, rapid, and `stereotyped` change in membrane potential, originated at the level of the [axon hillock](1_intro.html#hillock), that propagates along the axon.
+>**Action potential**: A `large`, `rapid`, and [stereotyped]{.highlight} change in membrane potential, originated at the level of the [axon hillock](1_intro.html#hillock), that propagates along the axon.
 ::: 
 ::: column
 ![](images/neuron_signals.jpg){width="500" fig-align="right"}
@@ -501,13 +503,13 @@ This voltage is called the [threshold]{.highlight}. Potentials beyond the thresh
 ## Why Action Potentials Are Needed
 ::: columns
 ::: column
-> Graded potentials decay with distance.
+> Graded potentials `decay` with distance.
 
 To communicate over long axons, neurons need:
 
 ::: {.nonincremental}
-- A signal that does not fade
-- A reliable, all-or-none event
+- A signal that does `not fade`
+- A reliable, `all-or-none` event
 :::
 
 ![](images/neuron_bursting.png){width="400" fig-align="right"}
@@ -523,23 +525,23 @@ To communicate over long axons, neurons need:
 
 ## Membrane Proteins and Transport
 
-The lipid bilayer is electrically insulating. Ions can cross the membrane only through **membrane proteins**.
+The lipid bilayer is electrically insulating. Ions can cross the membrane only through `membrane proteins`.
 
 Membrane transport proteins fall into two broad categories:
 
-::: {.nonincremental}
+::: card
 - **Channels**
 - **Transporters (carriers and pumps)**
 :::
 
 ::: info-box
-[Ion channel]{.highlight}: A protein that forms a continuous aqueous pathway across the membrane, allowing ions to move down their electrochemical gradient.
+[Ion channel]{.highlight}: A protein that forms a `continuous aqueous pathway` across the membrane, allowing ions to move down their electrochemical gradient.
 
 Properties:
 
-- Do not use metabolic energy (passive)
-- Do not move ions against gradients (no energy)
-- Selective to specific Ions
+- Do not use metabolic energy (`passive`)
+- Do not move ions against gradients (same as above)
+- `Selective` to specific Ions
 
 :::
 
@@ -550,12 +552,12 @@ Properties:
 ::: columns
 ::: column
 
-Ion channels are not static holes.
+Ion channels are `not static holes`.
 
 They fluctuate between:
 
 ::: {.nonincremental}
-- `Closed` states
+- `Closed` or `Inactive` states
 - `Open` states
 :::
 
@@ -572,7 +574,7 @@ Channels can be `gated` by different physical signals:
 
 :::
 ::: column
->[Gating]{.highlight}: The process by which an ion channel switches between open and closed states.
+>[Gating]{.highlight}: The process by which an ion channel `switches between` open and closed `states`.
 
 ![](images/ion_channel.gif){width="500" fig-align="right"}
 
@@ -583,21 +585,21 @@ Channels can be `gated` by different physical signals:
 
 ## Graded Potentials and Channels
 
-During Graded Potentials:
+During `Graded` Potentials:
 
 ::: {.nonincremental}
-- Passive channels remain unchanged
-- Voltage-gated channels remain mostly closed
+- `Passive` channels remain `unchanged`
+- `Voltage-gated` channels remain `mostly closed`
 :::
 
->Voltage changes are **passive and proportional** to input and decay over space-time.
+>Voltage changes are `passive and proportional to input and decay` over space-time.
 
 When depolarization is small:
 
 ::: {.nonincremental}
 - A few voltage-gated $Na^+$ channels open
 - Resulting $Na^+$ influx is weak
-- Passive $K^+$ currents counteract depolarization
+- Passive $K^+$ currents `counteract` depolarization
 :::
 
 The voltage relaxes back to rest.
@@ -606,12 +608,12 @@ The voltage relaxes back to rest.
 
 ## Threshold Crossing
 
-At threshold:
+`At threshold`:
 
 ::: {.nonincremental}
-- Voltage-gated $Na^+$ channel opening becomes significant
-- $Na^+$ influx exceeds opposing currents
-- Depolarization accelerates
+- `Voltage-gated` $Na^+$ channel opening becomes `significant`
+- $Na^+$ influx `exceeds` opposing currents
+- `Depolarization accelerates`
 :::
 
 This marks the `transition from passive to active` behavior.
@@ -625,7 +627,7 @@ Once threshold is crossed:
 - Voltage changes are no longer passive
 :::
 
-The action potential is initiated.
+>The action potential is initiated.
 :::
 
 ---
@@ -637,8 +639,8 @@ The action potential is initiated.
 During the spike:
 
 ::: {.nonincremental}
-- Voltage-gated $Na^+$ channels open, then `inactivate`
-- Voltage-gated $K^+$ channels open with `delay`
+- Voltage-gated $Na^+$ channels `open`, then `inactivate`
+- Voltage-gated $K^+$ channels `open` with `delay`
 :::
 
 Voltage is dominated by `voltage-gated dynamics`. After the action potential:
@@ -654,7 +656,7 @@ Voltage is dominated by `voltage-gated dynamics`. After the action potential:
 :::
 :::
 
->[Inactivation]{.highlight}: A state in which a voltage-gated channel is closed and temporarily unable to reopen, even though the membrane is still depolarized.
+>[Inactivation]{.highlight}: A state in which a voltage-gated channel is `closed and temporarily unable to reopen`, even though the membrane is still depolarized.
 
 ---
 
@@ -662,9 +664,9 @@ Voltage is dominated by `voltage-gated dynamics`. After the action potential:
 
 ::: columns
 ::: column
-After an action potential, the neuron cannot immediately fire another spike.
+After an action potential, the neuron `cannot immediately fire another spike`.
 
->**Refractory period**: A time interval following an action potential during which the neuron’s ability to generate another action potential is `reduced or absent`.
+>**Refractory period**: A `time interval` following an action potential during which the neuron’s ability to generate another action potential is `reduced or absent`.
 
 This phase is caused purely by `Na⁺ channel inactivation`.
 
@@ -673,7 +675,7 @@ Refractory periods ensure that:
 ::: {.nonincremental}
 - Action potentials propagate in `one direction`
 - Spikes are separated in time (`neural code`)
-- Maximum firing frequency is limited
+- `Maximum firing frequency` is limited
 :::
 
 :::
@@ -691,8 +693,8 @@ The speed of action potential propagation depends on `axon geometry`.
 Larger axons:
 
 ::: {.nonincremental}
-- Have lower internal (axial) resistance
-- Allow local currents to spread more easily
+- Have lower internal (axial) `resistance`
+- Allow local `currents to spread more easily`
 - Depolarize adjacent membrane faster
 :::
 
@@ -705,16 +707,16 @@ As a result, action potentials propagate `faster` in thicker axons.
 ::: columns
 ::: column
 
-Many axons, especially long ones, are wrapped in myelin, a multilayered insulating sheath formed by `glial` cells. This ensures that the signal reaches its destination.
+Many axons, especially `long` ones, are `wrapped in myelin`, a multilayered `insulating sheath` formed by `glial` cells. This ensures that the signal reaches its destination.
 
-Myelination is not continuous along the axon. Axons contain regularly spaced gaps called **nodes of Ranvier**.
+Myelination is not continuous along the axon. Axons contain regularly spaced gaps called `nodes of Ranvier`.
 
 ::: info-box
-At nodes:
+At `nodes`:
 
 - Voltage-gated $Na^+$ and $K^+$ channels are highly concentrated
 - Action potentials are `regenerated`
-- Saltatory conduction (the action potential jumps from one node to the other)
+- `Saltatory conduction` (the action potential jumps from one node to the other)
 :::
 
 :::

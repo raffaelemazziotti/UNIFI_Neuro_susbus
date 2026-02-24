@@ -1362,14 +1362,14 @@
     "href": "2_neuron.html#which-ion-dominates",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Which Ion Dominates?",
-    "text": "Which Ion Dominates?\nThe influence of an ion depends on:\n\nPermeability, a measure of how easily a given ion can cross the membrane through its channels and is given by the number of ions for that channel are open.\n\nAt rest, neuronal membranes are:\n\nHighly permeable to \\(K^+\\)\nWeakly permeable to \\(Na^+\\)\nModerately permeable to \\(Cl^-\\)\n\n\nIn most neurons resting membrane potential is \\(\\approx -65\\,\\mathrm{mV}\\). This reflects potassium dominance at rest."
+    "text": "Which Ion Dominates?\nThe influence of an ion depends on:\n\nPermeability, a measure of how easily a given ion can cross the membrane through its channels and is given by the number of ions for that channel are open.\n\nAt rest, neuronal membranes are:\n\nHighly permeable to \\(K^+\\)\nWeakly permeable to \\(Na^+\\)\nModerately permeable to \\(Cl^-\\)\n\n\nIn most neurons resting membrane potential is \\(\\approx -65\\,\\mathrm{mV}\\). This reflects \\(K^+\\) dominance at rest."
   },
   {
     "objectID": "2_neuron.html#voltage_change",
     "href": "2_neuron.html#voltage_change",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Voltage Change",
-    "text": "Voltage Change\nIf channels open for an ion, the membrane potential changes. If a positive ion moves inside the cell, the membrane potential becomes less negative; if it moves outside, it becomes more negative. For negative ions, the effect is reversed.\n\n\n\nExample: Opening Sodium Channels\nIf \\(Na^+\\) channels open:\n\n\\(Na^+\\) enters the cell\nMembrane potential becomes less negative\n\nThis process is called depolarization.\n\n\n\nExample: Opening Potassium Channels\nIf \\(K^+\\) channels open:\n\n\\(K^+\\) leaves the cell\nMembrane potential becomes more negative\n\nThis process is called hyperpolarization."
+    "text": "Voltage Change\nIf channels open for an ion, the membrane potential changes.\n\nIf a positive ion moves inside the cell, the membrane potential becomes less negative; if it moves outside, it becomes more negative. For negative ions, the effect is reversed.\n\n\n\n\nExample: Opening Sodium Channels\nIf \\(Na^+\\) channels open:\n\n\\(Na^+\\) enters the cell\nMembrane potential becomes less negative\n\nThis process is called depolarization.\n\n\n\nExample: Opening Potassium Channels\nIf \\(K^+\\) channels open:\n\n\\(K^+\\) leaves the cell\nMembrane potential becomes more negative\n\nThis process is called hyperpolarization."
   },
   {
     "objectID": "2_neuron.html#from-steady-voltage-to-signals",
@@ -1390,14 +1390,14 @@
     "href": "2_neuron.html#integration-of-graded-potentials",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Integration of Graded Potentials",
-    "text": "Integration of Graded Potentials\n\n\nMultiple graded potentials can:\n\nAdd together in space (spatial summation)\nAdd together in time (temporal summation)\n\nIntegration mainly occurs at:\n\nThe cell body\nThe axon initial segment (axon hillock)\n\n\nNeurons continuously integrate incoming signals."
+    "text": "Integration of Graded Potentials\n\n\nMultiple graded potentials can:\n\nAdd together in space (spatial summation)\nAdd together in time (temporal summation)\n\n\nIntegration mainly occurs at:\n\nThe cell body\nThe axon initial segment (axon hillock)\n\n\n\nNeurons continuously integrate incoming signals."
   },
   {
     "objectID": "2_neuron.html#actionpotential",
     "href": "2_neuron.html#actionpotential",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Action Potentials",
-    "text": "Action Potentials\n\n\nIf depolarization is strong enough:\n\nA critical voltage is reached\nA different electrical event is triggered\n\nThis voltage is called the threshold. Potentials beyond the threshold trigger Action Potentials.\n\nAction potential: A large, rapid, and stereotyped change in membrane potential, originated at the level of the axon hillock, that propagates along the axon."
+    "text": "Action Potentials\n\n\nIf depolarization is strong enough:\n\nA critial voltage is reached\nA different electrical event is triggered\n\nThis voltage is called the threshold. Potentials beyond the threshold trigger Action Potentials.\n\nAction potential: A large, rapid, and stereotyped change in membrane potential, originated at the level of the axon hillock, that propagates along the axon."
   },
   {
     "objectID": "2_neuron.html#why-action-potentials-are-needed",
@@ -1411,14 +1411,14 @@
     "href": "2_neuron.html#membrane-proteins-and-transport",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Membrane Proteins and Transport",
-    "text": "Membrane Proteins and Transport\nThe lipid bilayer is electrically insulating. Ions can cross the membrane only through membrane proteins.\nMembrane transport proteins fall into two broad categories:\n\nChannels\nTransporters (carriers and pumps)\n\n\nIon channel: A protein that forms a continuous aqueous pathway across the membrane, allowing ions to move down their electrochemical gradient.\nProperties:\n\nDo not use metabolic energy (passive)\nDo not move ions against gradients (no energy)\nSelective to specific Ions"
+    "text": "Membrane Proteins and Transport\nThe lipid bilayer is electrically insulating. Ions can cross the membrane only through membrane proteins.\nMembrane transport proteins fall into two broad categories:\n\n\nChannels\nTransporters (carriers and pumps)\n\n\n\nIon channel: A protein that forms a continuous aqueous pathway across the membrane, allowing ions to move down their electrochemical gradient.\nProperties:\n\nDo not use metabolic energy (passive)\nDo not move ions against gradients (same as above)\nSelective to specific Ions"
   },
   {
     "objectID": "2_neuron.html#channel-gating",
     "href": "2_neuron.html#channel-gating",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Channel Gating",
-    "text": "Channel Gating\n\n\nIon channels are not static holes.\nThey fluctuate between:\n\nClosed states\nOpen states\n\n\nChannels can be gated by different physical signals:\n\nChemical binding (ligand-gated - e.g. Neurotransmitters)\nMechanical deformation (mechanosensitive)\nMembrane voltage (voltage-gated - activated when the membrane cross a specific voltage)\n\n\n\n\nGating: The process by which an ion channel switches between open and closed states."
+    "text": "Channel Gating\n\n\nIon channels are not static holes.\nThey fluctuate between:\n\nClosed or Inactive states\nOpen states\n\n\nChannels can be gated by different physical signals:\n\nChemical binding (ligand-gated - e.g. Neurotransmitters)\nMechanical deformation (mechanosensitive)\nMembrane voltage (voltage-gated - activated when the membrane cross a specific voltage)\n\n\n\n\nGating: The process by which an ion channel switches between open and closed states."
   },
   {
     "objectID": "2_neuron.html#graded-potentials-and-channels",
@@ -1432,7 +1432,7 @@
     "href": "2_neuron.html#threshold-crossing",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Threshold Crossing",
-    "text": "Threshold Crossing\nAt threshold:\n\nVoltage-gated \\(Na^+\\) channel opening becomes significant\n\\(Na^+\\) influx exceeds opposing currents\nDepolarization accelerates\n\nThis marks the transition from passive to active behavior.\n\nOnce threshold is crossed:\n\nMany \\(Na^+\\) channels open rapidly\nMembrane permeability to \\(Na^+\\) increases sharply\nVoltage changes are no longer passive\n\nThe action potential is initiated."
+    "text": "Threshold Crossing\nAt threshold:\n\nVoltage-gated \\(Na^+\\) channel opening becomes significant\n\\(Na^+\\) influx exceeds opposing currents\nDepolarization accelerates\n\nThis marks the transition from passive to active behavior.\n\nOnce threshold is crossed:\n\nMany \\(Na^+\\) channels open rapidly\nMembrane permeability to \\(Na^+\\) increases sharply\nVoltage changes are no longer passive\n\n\nThe action potential is initiated."
   },
   {
     "objectID": "2_neuron.html#during-the-action-potential",
