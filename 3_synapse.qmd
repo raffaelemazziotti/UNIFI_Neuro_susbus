@@ -129,12 +129,12 @@ Contains neurotransmitter [Receptors](https://en.wikipedia.org/wiki/Receptor_(bi
 Receptors can be of two main `classes`:
 
 - **`Ionotropic` receptors**
-  - Ligand-gated ion channels
-  - Fast responses
+  - `Ligand-gated` ion channels
+  - `Fast` responses
 
 - **`Metabotropic` receptors**
-  - G-protein coupled
-  - Slower but modulatory (long-lasting response)
+  - `G-protein coupled`
+  - `Slower` but modulatory (long-lasting response)
 :::
 
 :::
@@ -150,10 +150,10 @@ Receptors can be of two main `classes`:
 ::: columns
 
 ::: column
-Neurotransmitter binding produces graded signals of different types:
+Neurotransmitter `binding produces graded signals` of different types:
 
-- **`EPSP`**: **Excitatory** PostSynaptic Potential
-- **`IPSP`**: **Inhibitory** PostSynaptic Potential
+- **`EPSP`**: **E**xcitatory **P**ost**S**ynaptic **P**otential
+- **`IPSP`**: **I**nhibitory **P**ost**S**ynaptic **P**otential
 
 ::: info-box
 [Excitatory synapses]{.highlight}:
@@ -184,16 +184,16 @@ Neurotransmitter action ends by:
 
 ##  Neurotransmitters
 
-Neurotransmitters are `chemical messengers` released at synapses  
-They transmit signals from a presynaptic neuron to a postsynaptic cell
+Neurotransmitters are `chemical messengers` released at synapses.  
+They transmit the signals from a presynaptic neuron to a postsynaptic cell
 
 ::: columns
 ::: column
 ::: info-box
 Each neurotransmitter:
 
-- Is synthesized in the neuron
-- Is released in response to activity
+- Is `synthesized` in the neuron
+- Is `released` in response to activity
 - Acts on specific receptors
 :::
 :::
@@ -201,9 +201,9 @@ Each neurotransmitter:
 ::: info-box
 Neurotransmitters can be grouped by function:
 
-- **Excitatory**
-- **Inhibitory**
-- **Modulatory**
+- `Excitatory`
+- `Inhibitory`
+- `Modulatory`
 :::
 
 :::
@@ -216,14 +216,14 @@ Neurotransmitters can be grouped by function:
 ::: column
 > Main [excitatory]{.highlight} neurotransmitter in the brain
 
-- Increases neuronal excitability (EPSP)
-- Really abbundant in the brain
+- Increases neuronal excitability (`EPSP`)
+- Really `abbundant` in the brain
 
 ::: info-box
 Acts on:
 
-- Ionotropic receptors
-- Metabotropic receptors
+- `Ionotropic` receptors (fast excitation)
+- `Metabotropic` receptors (modulatory excitation)
 
 :::
 
@@ -240,14 +240,14 @@ Acts on:
 
 > Main [inhibitory]{.highlight} neurotransmitter in the brain
 
-- Reduces neuronal excitability (IPSP)
-- Essential for network stability
+- Reduces neuronal excitability (`IPSP`)
+- Essential for `network stability`
 
 ::: info-box
 Acts on:
 
-- Ionotropic receptors (fast inhibition)
-- Metabotropic receptors (slow inhibition)
+- `Ionotropic` receptors (fast inhibition)
+- `Metabotropic` receptors (modulatory inhibition)
 :::
 
 :::
@@ -260,19 +260,19 @@ Acts on:
 
 ::: columns
 ::: column
-> Acts as a `Diffuse Projection System` in the brain. This means that is produced in specific nuclei and projected throughout the brain.
+> Acts as a `Diffuse Projection System` in the brain. This means that is produced in specific nuclei and `projected` throughout the brain.
 > AKA: `Cholinergic system`
 
 Involved in:
 
-- Muscle contraction
-- Vital and Cognitive functions
+- `Muscle` contraction
+- `Vital and Cognitive` functions
 
 ::: info-box
 Acts on:
 
-- Ionotropic receptors
-- Metabotropic receptors
+- `Ionotropic` receptors
+- `Metabotropic` receptors
 :::
 
 :::
@@ -286,19 +286,19 @@ Acts on:
 
 ::: columns
 ::: column
-> Acts as a `Diffuse Projection System` in the brain. This means that is produced in specific nuclei and projected throughout the brain.
+> Acts as a `Diffuse Projection System` in the brain. This means that is produced in specific nuclei and `projected` throughout the brain.
 > AKA: `Serotoninergic system`
 
 Involved in:
 
-- Mood and Emotional processing
-- Vital functions including Sleep and Appetite
+- `Mood` and Emotional processing
+- `Vital functions` (Sleep, Appetite ...)
 
 ::: info-box
 Acts on:
 
-- Ionotropic receptors
-- Metabotropic receptors
+- `Ionotropic` receptors
+- `Metabotropic` receptors
 :::
 
 :::
@@ -312,18 +312,18 @@ Acts on:
 
 ::: columns
 ::: column
-> Acts as a `Diffuse Projection System` in the brain. This means that is produced in specific nuclei and projected throughout the brain.
+> Acts as a `Diffuse Projection System` in the brain. This means that is produced in specific nuclei and `projected` throughout the brain.
 > AKA: `Dopaminergic system`
-> 
+ 
 Involved in:
 
-- Motivation, Learning and Reward
-- Movement control
+- `Motivation`, `Learning` and `Reward`
+- `Movement` control
 
 ::: info-box
 Acts on:
 
-- Metabotropic receptors
+- `Metabotropic` receptors
 :::
 
 :::
@@ -337,18 +337,18 @@ Acts on:
 
 ::: columns
 ::: column
-> Or Norepinephrine. Acts as a `Diffuse Projection System` in the brain. This means that is produced in specific nuclei and projected throughout the brain.
+> Or Norepinephrine. Acts as a `Diffuse Projection System` in the brain. This means that is produced in specific nuclei and `projected` throughout the brain.
 > AKA: `Noradrenergic System`. 
  
 Involved in:
 
-- [Arousal](https://en.wikipedia.org/wiki/Arousal) and Attention
-- Stress response
+- [Arousal](https://en.wikipedia.org/wiki/Arousal) and `Attention`
+- `Stress` response
 
 ::: info-box
 Acts on:
 
-- Metabotropic receptors
+- `Metabotropic` receptors
 :::
 
 :::
@@ -362,17 +362,17 @@ Acts on:
 
 ::: columns
 ::: column
-> Or Epinephrine. Less abundant in the Central Nervous System than other neurotransmitters. More Peripheral.
+> Or `Epinephrine`. Less abundant in the Central Nervous System than other neurotransmitters. More `Peripheral`.
 
 Involved in:
 
 - [Arousal](https://en.wikipedia.org/wiki/Arousal) and [Autonomic](https://en.wikipedia.org/wiki/Autonomic_nervous_system) regulation
-- Stress response
+- `Stress` response
 
 ::: info-box
 Acts on:
 
-- Metabotropic receptors
+- `Metabotropic` receptors
 :::
 
 :::
@@ -426,7 +426,7 @@ Receptors determine the `speed and effect` of synaptic transmission
 ::: column
 
 ::: info-box
-**Ionotropic** Receptors
+[Ionotropic]{.highlight} Receptors
 
 - `Ligand`-gated ion channels
 - Neurotransmitter `binding` directly opens the channel
@@ -437,9 +437,9 @@ Receptors determine the `speed and effect` of synaptic transmission
 ::: column
 
 ::: info-box
-**Metabotropic** Receptors
+[Metabotropic]{.highlight} Receptors
 
-- Do not form ion channels
+- `Do not form ion channels`
 - Coupled to intracellular [signaling pathways](https://en.wikipedia.org/wiki/Signal_transduction)
 - Neurotransmitter binding activates `G-proteins`
 - Effects are `slower` but longer-lasting
@@ -452,17 +452,19 @@ Receptors determine the `speed and effect` of synaptic transmission
 
 ::: columns
 ::: column
-Glutamate activates multiple ionotropic receptors, including:
+:::info-box
+Glutamate activates `multiple` ionotropic receptors, including:
 
-- **`AMPA` receptors**
+- `AMPA` receptors
   - Fast `excitatory` transmission
   - Allow `Na⁺` influx
   - Main mediator of [rapid excitation]{.highlight}
 
-- **`NMDA` receptors**
-  - Slower and Long-lasting kinetics
+- `NMDA` receptors
+  - Slower and Long-lasting `excitatory` kinetics
   - Permeable to `Ca²⁺`
   - Involved in [synaptic plasticity]{.highlight}
+:::
 
 ::: 
 ::: column
@@ -475,6 +477,7 @@ Glutamate activates multiple ionotropic receptors, including:
 ::: columns
 ::: column
 
+:::info-box
 **GABA-A receptors**
 
   - Ionotropic `inhibitory` receptors
@@ -482,6 +485,7 @@ Glutamate activates multiple ionotropic receptors, including:
   - Reduce neuronal excitability
 
 Provide [fast inhibition]{.highlight} in neural circuits
+:::
 
 :::
 
@@ -494,25 +498,27 @@ Provide [fast inhibition]{.highlight} in neural circuits
 
 ##  Metabotropic Receptors
 
-- Do not form ion channels
+:::info-box
+- `Do not form ion channels`
 - Coupled to intracellular [singaling pathways](https://en.wikipedia.org/wiki/Signal_transduction)
 - Neurotransmitter binding activates `G-proteins`
 - Effects are `slower` but longer-lasting
+:::
 
-> `Signaling Pathway`: chain of intracellular events where molecules relay messages from outside the cell to trigger specific internal responses like growth, division, or death
+> `Signaling Pathway`: chain of intracellular events where molecules relay messages from outside the cell to trigger specific `internal responses` like `growth`, `division`, or `death`.
 
 ## Metabotropic glutamate receptors (mGluRs)
 
 ::: columns
 ::: column
-  - Modulate synaptic transmission
-  - Regulate ion channel activity indirectly
-  - Influence plasticity and excitability
+  - `Modulate` synaptic transmission
+  - `Regulate ion channel activity` indirectly
+  - `Influence plasticity` and excitability
 
 > Similar mechanisms apply to many [modulatory systems]{data-tooltip="AKA: diffuse projection system" .term} systems, such as [dopamine](#dopamine) and [serotonin](#serotonin)
 
 :::info-box
-[Neuromodulation]{.highlight} is the process by which a neurotransmitter does not directly trigger a fast electrical signal, but instead changes how a neuron or a network responds to external inputs.
+[Neuromodulation]{.highlight} is the process by which a neurotransmitter does `not` directly trigger a `fast` electrical signal, but instead `changes how a neuron or a network responds` to external inputs.
 :::
 
 :::
@@ -525,28 +531,28 @@ Provide [fast inhibition]{.highlight} in neural circuits
 
 ##  Position of the Synapse
 
-Also the position of a synapse along a neuron matters, because neurons are not electrically uniform cables. Where a signal arrives strongly shapes what it can do.
+Also the position of a synapse along a neuron matters, because neurons are `not electrically uniform cables`. `Where` a signal arrives `strongly shapes` what it can do.
 
 :::columns
 ::: column
 
 :::info-box 
-- **Axo-dendritic**
-  - Axon contacts a dendrite (Most common type)
-  - Often excitatory
+- `Axo-dendritic`
+  - Axon contacts a `dendrite` (Most common type)
+  - Often `excitatory`
 :::
 :::info-box
-- **Axo-somatic**
-  - Axon contacts the cell body
-  - Strong influence on spike generation
+- `Axo-somatic`
+  - Axon contacts the `cell body` (like axon hillock)
+  - Strong influence on `spike generation`
 :::
 :::
 ::: column
 
 :::info-box
-- **Axo-axonic**
-  - Axon contacts another axon
-  - Modulates neurotransmitter release
+- `Axo-axonic`
+  - Axon contacts another `axon`
+  - `Modulates` neurotransmitter release
 :::
 ![](images/syn_syn_type.jpg){width="500" fig-align="right"}
 
@@ -556,17 +562,19 @@ Also the position of a synapse along a neuron matters, because neurons are not e
 
 ##  Neurotransmitter Clearance
 
-After release, neurotransmitters must be removed from the synaptic cleft  
-This ensures that synaptic signals are brief and precisely controlled
+After release, neurotransmitters `must be removed` from the synaptic cleft  
+This ensures that synaptic signals are `brief` and precisely `controlled`.
 
+:::info-box
 - [Reuptake]{.highlight}
   - Neurotransmitter is `transported back` into the presynaptic terminal
   - Mediated by specific `membrane transporters`
   - Allows `recycling` of neurotransmitter molecules
 
 - [Enzymatic Degradation]{.highlight}
-  - Neurotransmitter is broken down by `enzymes` in the synaptic cleft
-  - Prevents prolonged receptor activation
+  - Neurotransmitter is `broken` down by `enzymes` in the `synaptic cleft`
+  - `Prevents prolonged receptor activation`
+:::
 
 ##  Drugs and Neurotransmitter Clearance
 
@@ -579,15 +587,15 @@ By changing clearance, drugs modify the strength and duration of synaptic signal
 :::info-box
 Selective Serotonin Reuptake Inhibitors (`SSRIs`)
 
-  - Block serotonin reuptake transporters
-  - Increase serotonin availability at synapses
+  - `Block` or slow down serotonin reuptake transporters
+  - `Increase serotonin availability` at synapses
 
 Used to treat:
 
-- Depression
-- Anxiety disorders
+- `Depression`
+- `Anxiety` disorders
 
-Effects develop slowly due to circuit-level adaptations
+Effects develop `slowly` due to `circuit-level adaptations`
 :::
 
 :::
@@ -595,16 +603,16 @@ Effects develop slowly due to circuit-level adaptations
 :::info-box
 `Cocaine`
 
-- Blocks reuptake of:
-  - Dopamine
-  - Norepinephrine
-  - Serotonin
+- `Blocks` reuptake of:
+  - `Dopamine`
+  - `Norepinephrine`
+  - `Serotonin`
 
 Results in:
 
-- Strong increase in synaptic signaling
+- Strong `increase` in synaptic signaling
 - Enhanced `reward` and `arousal`
-- High addictive potential
+- High `addictive` potential
 :::
 
 :::

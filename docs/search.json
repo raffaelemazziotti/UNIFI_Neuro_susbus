@@ -823,21 +823,21 @@
     "href": "3_synapse.html#neurotransmitters",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Neurotransmitters",
-    "text": "Neurotransmitters\nNeurotransmitters are chemical messengers released at synapses\nThey transmit signals from a presynaptic neuron to a postsynaptic cell\n\n\n\nEach neurotransmitter:\n\nIs synthesized in the neuron\nIs released in response to activity\nActs on specific receptors\n\n\n\n\nNeurotransmitters can be grouped by function:\n\nExcitatory\nInhibitory\nModulatory\n\n\n\n\nThe effect depends on the receptor, not only on the neurotransmitter"
+    "text": "Neurotransmitters\nNeurotransmitters are chemical messengers released at synapses.\nThey transmit the signals from a presynaptic neuron to a postsynaptic cell\n\n\n\nEach neurotransmitter:\n\nIs synthesized in the neuron\nIs released in response to activity\nActs on specific receptors\n\n\n\n\nNeurotransmitters can be grouped by function:\n\nExcitatory\nInhibitory\nModulatory\n\n\n\n\nThe effect depends on the receptor, not only on the neurotransmitter"
   },
   {
     "objectID": "3_synapse.html#glutamate---glu",
     "href": "3_synapse.html#glutamate---glu",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Glutamate - Glu",
-    "text": "Glutamate - Glu\n\n\n\nMain excitatory neurotransmitter in the brain\n\n\nIncreases neuronal excitability (EPSP)\nReally abbundant in the brain\n\n\nActs on:\n\nIonotropic receptors\nMetabotropic receptors"
+    "text": "Glutamate - Glu\n\n\n\nMain excitatory neurotransmitter in the brain\n\n\nIncreases neuronal excitability (EPSP)\nReally abbundant in the brain\n\n\nActs on:\n\nIonotropic receptors (fast excitation)\nMetabotropic receptors (modulatory excitation)"
   },
   {
     "objectID": "3_synapse.html#gaba",
     "href": "3_synapse.html#gaba",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "GABA",
-    "text": "GABA\n\n\n\nMain inhibitory neurotransmitter in the brain\n\n\nReduces neuronal excitability (IPSP)\nEssential for network stability\n\n\nActs on:\n\nIonotropic receptors (fast inhibition)\nMetabotropic receptors (slow inhibition)"
+    "text": "GABA\n\n\n\nMain inhibitory neurotransmitter in the brain\n\n\nReduces neuronal excitability (IPSP)\nEssential for network stability\n\n\nActs on:\n\nIonotropic receptors (fast inhibition)\nMetabotropic receptors (modulatory inhibition)"
   },
   {
     "objectID": "3_synapse.html#acetylcholine---ach",
@@ -851,14 +851,14 @@
     "href": "3_synapse.html#serotonin",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Serotonin - 5-HT",
-    "text": "Serotonin - 5-HT\n\n\n\nActs as a Diffuse Projection System in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: Serotoninergic system\n\nInvolved in:\n\nMood and Emotional processing\nVital functions including Sleep and Appetite\n\n\nActs on:\n\nIonotropic receptors\nMetabotropic receptors"
+    "text": "Serotonin - 5-HT\n\n\n\nActs as a Diffuse Projection System in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: Serotoninergic system\n\nInvolved in:\n\nMood and Emotional processing\nVital functions (Sleep, Appetite …)\n\n\nActs on:\n\nIonotropic receptors\nMetabotropic receptors"
   },
   {
     "objectID": "3_synapse.html#dopamine",
     "href": "3_synapse.html#dopamine",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Dopamine - DA",
-    "text": "Dopamine - DA\n\n\n\nActs as a Diffuse Projection System in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: Dopaminergic system\nInvolved in:\n\n\nMotivation, Learning and Reward\nMovement control\n\n\nActs on:\n\nMetabotropic receptors"
+    "text": "Dopamine - DA\n\n\n\nActs as a Diffuse Projection System in the brain. This means that is produced in specific nuclei and projected throughout the brain. AKA: Dopaminergic system\n\nInvolved in:\n\nMotivation, Learning and Reward\nMovement control\n\n\nActs on:\n\nMetabotropic receptors"
   },
   {
     "objectID": "3_synapse.html#noradrenaline---na",
@@ -893,21 +893,21 @@
     "href": "3_synapse.html#glutamate-ionotropic-receptors",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Glutamate Ionotropic Receptors",
-    "text": "Glutamate Ionotropic Receptors\n\n\nGlutamate activates multiple ionotropic receptors, including:\n\nAMPA receptors\n\nFast excitatory transmission\nAllow Na⁺ influx\nMain mediator of rapid excitation\n\nNMDA receptors\n\nSlower and Long-lasting kinetics\nPermeable to Ca²⁺\nInvolved in synaptic plasticity"
+    "text": "Glutamate Ionotropic Receptors\n\n\n\nGlutamate activates multiple ionotropic receptors, including:\n\nAMPA receptors\n\nFast excitatory transmission\nAllow Na⁺ influx\nMain mediator of rapid excitation\n\nNMDA receptors\n\nSlower and Long-lasting excitatory kinetics\nPermeable to Ca²⁺\nInvolved in synaptic plasticity"
   },
   {
     "objectID": "3_synapse.html#gaba-ionotropic-receptors",
     "href": "3_synapse.html#gaba-ionotropic-receptors",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "GABA Ionotropic Receptors",
-    "text": "GABA Ionotropic Receptors\n\n\nGABA-A receptors\n\nIonotropic inhibitory receptors\nAllow Cl⁻ influx\nReduce neuronal excitability\n\nProvide fast inhibition in neural circuits"
+    "text": "GABA Ionotropic Receptors\n\n\n\nGABA-A receptors\n\nIonotropic inhibitory receptors\nAllow Cl⁻ influx\nReduce neuronal excitability\n\nProvide fast inhibition in neural circuits"
   },
   {
     "objectID": "3_synapse.html#metabotropic-receptors",
     "href": "3_synapse.html#metabotropic-receptors",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Metabotropic Receptors",
-    "text": "Metabotropic Receptors\n\nDo not form ion channels\nCoupled to intracellular singaling pathways\nNeurotransmitter binding activates G-proteins\nEffects are slower but longer-lasting\n\n\nSignaling Pathway: chain of intracellular events where molecules relay messages from outside the cell to trigger specific internal responses like growth, division, or death"
+    "text": "Metabotropic Receptors\n\n\nDo not form ion channels\nCoupled to intracellular singaling pathways\nNeurotransmitter binding activates G-proteins\nEffects are slower but longer-lasting\n\n\n\nSignaling Pathway: chain of intracellular events where molecules relay messages from outside the cell to trigger specific internal responses like growth, division, or death."
   },
   {
     "objectID": "3_synapse.html#metabotropic-glutamate-receptors-mglurs",
@@ -921,21 +921,21 @@
     "href": "3_synapse.html#position-of-the-synapse",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Position of the Synapse",
-    "text": "Position of the Synapse\nAlso the position of a synapse along a neuron matters, because neurons are not electrically uniform cables. Where a signal arrives strongly shapes what it can do.\n\n\n\n\nAxo-dendritic\n\nAxon contacts a dendrite (Most common type)\nOften excitatory\n\n\n\n\n\nAxo-somatic\n\nAxon contacts the cell body\nStrong influence on spike generation\n\n\n\n\n\n\nAxo-axonic\n\nAxon contacts another axon\nModulates neurotransmitter release"
+    "text": "Position of the Synapse\nAlso the position of a synapse along a neuron matters, because neurons are not electrically uniform cables. Where a signal arrives strongly shapes what it can do.\n\n\n\n\nAxo-dendritic\n\nAxon contacts a dendrite (Most common type)\nOften excitatory\n\n\n\n\n\nAxo-somatic\n\nAxon contacts the cell body (like axon hillock)\nStrong influence on spike generation\n\n\n\n\n\n\nAxo-axonic\n\nAxon contacts another axon\nModulates neurotransmitter release"
   },
   {
     "objectID": "3_synapse.html#neurotransmitter-clearance",
     "href": "3_synapse.html#neurotransmitter-clearance",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Neurotransmitter Clearance",
-    "text": "Neurotransmitter Clearance\nAfter release, neurotransmitters must be removed from the synaptic cleft\nThis ensures that synaptic signals are brief and precisely controlled\n\nReuptake\n\nNeurotransmitter is transported back into the presynaptic terminal\nMediated by specific membrane transporters\nAllows recycling of neurotransmitter molecules\n\nEnzymatic Degradation\n\nNeurotransmitter is broken down by enzymes in the synaptic cleft\nPrevents prolonged receptor activation"
+    "text": "Neurotransmitter Clearance\nAfter release, neurotransmitters must be removed from the synaptic cleft\nThis ensures that synaptic signals are brief and precisely controlled.\n\n\nReuptake\n\nNeurotransmitter is transported back into the presynaptic terminal\nMediated by specific membrane transporters\nAllows recycling of neurotransmitter molecules\n\nEnzymatic Degradation\n\nNeurotransmitter is broken down by enzymes in the synaptic cleft\nPrevents prolonged receptor activation"
   },
   {
     "objectID": "3_synapse.html#drugs-and-neurotransmitter-clearance",
     "href": "3_synapse.html#drugs-and-neurotransmitter-clearance",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Drugs and Neurotransmitter Clearance",
-    "text": "Drugs and Neurotransmitter Clearance\nMany drugs act by altering how neurotransmitters are removed from the synaptic cleft\nBy changing clearance, drugs modify the strength and duration of synaptic signaling.\n\n\n\nSelective Serotonin Reuptake Inhibitors (SSRIs)\n\nBlock serotonin reuptake transporters\nIncrease serotonin availability at synapses\n\nUsed to treat:\n\nDepression\nAnxiety disorders\n\nEffects develop slowly due to circuit-level adaptations\n\n\n\nCocaine\n\nBlocks reuptake of:\n\nDopamine\nNorepinephrine\nSerotonin\n\n\nResults in:\n\nStrong increase in synaptic signaling\nEnhanced reward and arousal\nHigh addictive potential"
+    "text": "Drugs and Neurotransmitter Clearance\nMany drugs act by altering how neurotransmitters are removed from the synaptic cleft\nBy changing clearance, drugs modify the strength and duration of synaptic signaling.\n\n\n\nSelective Serotonin Reuptake Inhibitors (SSRIs)\n\nBlock or slow down serotonin reuptake transporters\nIncrease serotonin availability at synapses\n\nUsed to treat:\n\nDepression\nAnxiety disorders\n\nEffects develop slowly due to circuit-level adaptations\n\n\n\nCocaine\n\nBlocks reuptake of:\n\nDopamine\nNorepinephrine\nSerotonin\n\n\nResults in:\n\nStrong increase in synaptic signaling\nEnhanced reward and arousal\nHigh addictive potential"
   },
   {
     "objectID": "3_synapse.html#self-check",
