@@ -33,7 +33,7 @@ format:
 ## Organization of the Nervous System
 
 The nervous system is organized into distinct [anatomical]{.highlight} and [functional]{.highlight} divisions.
-It is composed of interconnected networks that work in tight coordination to support vital, sensory, emotional, cognitive, and behavioral functions.
+It is composed of `interconnected networks` that work in tight coordination to support `vital`, `sensory`, `emotional`, `cognitive`, and `behavioral` functions.
 
 ::: columns
 ::: column
@@ -220,13 +220,13 @@ The CNS includes:
 ::: info-box
 Neurons in the CNS are responsible for:
 
-- Sensory processing  
-- Cognitive & Emotional processing 
-- Behavioural output  
+- `Sensory` processing  
+- `Cognitive` & `Emotional` processing 
+- `Behavioural output`  
 :::
 
 ::: card
-The CNS is `protected` by bone, meninges, and cerebrospinal fluid.
+The CNS is `protected` by `bones`, `meninges`, and `cerebrospinal fluid`.
 :::
 
 :::
@@ -242,9 +242,9 @@ The CNS is `protected` by bone, meninges, and cerebrospinal fluid.
 The PNS includes:
 
 ::: info-box
-- Cranial & Spinal nerves  
-- Autonomic NS  
-- Somatic NS  
+- `Cranial` & `Spinal` nerves  
+- `Autonomic` NS  
+- `Somatic` NS  
 :::
 
 > Its main role is `communication` between the body and the CNS.
@@ -301,18 +301,18 @@ This includes the sense of touch, temperature, pain, and [proprioception](https:
 
 ::: columns
 ::: column
-The **autonomic nervous system** regulates internal physiology.
+The **autonomic nervous system** regulates internal physiology ([Homeostasis](https://en.wikipedia.org/wiki/Homeostasis)).
 
 ::: info-box
 It controls:
 
-- Vital functions (Heart rate, breathing...) 
-- Smooth muscle (Digestion, salivation...)
-- Glands (Hormones...) 
+- `Vital` functions (Heart rate, breathing...) 
+- `Smooth` muscle (Digestion, salivation...)
+- `Glands` (Hormones...) 
 :::
 
-> Most autonomic activity occurs `without` conscious awareness.
-> It is composed of two main branches: `Sympathetic` and `Parasympathetic`.
+> Most autonomic activity occurs `without conscious awareness`.
+> It is composed of two main branches: [Sympathetic]{.highlight} and [Parasympathetic]{.highlight}.
 
 ::: 
 ::: column
@@ -327,18 +327,18 @@ It controls:
 ::: columns
 ::: column
 
-The **sympathetic nervous system** prepares the body for action [Fight or Flight]{.highlight} Response.
+The **sympathetic nervous system** prepares the body for action ([Fight or Flight](https://en.wikipedia.org/wiki/Fight-or-flight_response) Response).
 
 :::info-box
 Activation of the sympathetic system typically leads to:
 
-- Increased heart rate  
-- Bronchodilation  
-- Reduced digestive activity  
-- Mobilization of glucose  
+- Increased `heart rate`  
+- `Bronchodilation`  
+- `Reduced digestive activity`  
+- `Mobilization of glucose`  
 :::
 
-> Increase the `Arousal` level. These effects support physical and cognitive demands.
+> `Increase` the [Arousal](https://en.wikipedia.org/wiki/Arousal) level. These effects support physical and cognitive demands.
 
 ::: 
 ::: column
@@ -379,9 +379,9 @@ Activation of the parasympathetic system typically leads to:
 ::: column
 From a broad anatomical perspective, the brain is divided into:
 
-- Cerebrum (or Forebrain)
-- Midbrain & Cerebellum
-- Brainstem  (Hindbrain)
+- `Cerebrum` (or Forebrain)
+- `Midbrain` & `Cerebellum`
+- `Brainstem`  (Hindbrain)
 
 ::: 
 ::: column
@@ -404,10 +404,10 @@ The hemispheres are connected by large bundles of axons (`Corpus Callosum`).
 ::: info-box
 It is responsible for:
 
-- Sensory perception  
-- Voluntary movement  
-- Cognition and language  
-- Conscious awareness  
+- `Sensory` perception  
+- `Voluntary` movement  
+- `Cognition` and language  
+- `Conscious awareness`  
 :::
 
 > Despite strong similarities, the two hemispheres are `not` functionally identical.
@@ -436,11 +436,11 @@ Folding pattern
 - `Gyri` Raised ridges of cortex
 - `Sulci` Grooves that separate gyri
 
-This pattern increase surface area without increasing volume.
+This pattern `increase surface` area without increasing volume.
 :::
 
 ::: card
-Each hemisphere is subdivided into lobes. The main lobes are:
+Each hemisphere is subdivided into lobes. The main `lobes` are:
 [Frontal]{.highlight}, [Parietal]{.highlight}, [Temporal]{.highlight}, [Occipital]{.highlight} 
 :::
 
@@ -458,22 +458,22 @@ Each hemisphere is subdivided into lobes. The main lobes are:
 
 ::: columns
 ::: column
-The **frontal lobe** is located anterior to the `central sulcus`.
+The `frontal lobe` is located anterior to the `central sulcus`.
 
 It is heavily involved in motor control and high-level cognition.
 
 ::: info-box
-**Primary roles**
+`Primary roles`
 
-- Voluntary movement  
-- Planning and decision making  
-- Executive control
+- `Voluntary movement`  
+- `Planning` and `decision making`  
+- `Executive control`
 :::
 
 ::: info-box
-**Effects of damage**
+`Effects of damage`
 
-- Motor dysfunctions
+- `Motor` dysfunctions
 - Changes in [personality and social behavior](https://en.wikipedia.org/wiki/Phineas_Gage)   
 :::
 
@@ -489,22 +489,22 @@ It is heavily involved in motor control and high-level cognition.
 
 ::: columns
 ::: column
-The **parietal lobe** lies posterior to the central sulcus.
-It integrates sensory information to construct `spatial and bodily representations`.
+The `parietal lobe` lies posterior to the central sulcus.
+It `integrates sensory information` to construct `spatial and bodily representations`.
 
 ::: info-box
-**Primary roles**
+`Primary roles`
 
 - Somatosensory processing  
-- Spatial awareness (Propioception) 
-- Integration of sensory modalities  
+- Spatial awareness (`Propioception`) 
+- `Integration` of sensory modalities  
 :::
 
 ::: info-box
-**Effects of damage**
+`Effects of damage`
 
 - Impaired touch perception   
-- [Spatial Neglect](https://en.wikipedia.org/wiki/Hemispatial_neglect), especially after right hemisphere damage
+- [Spatial Neglect](https://en.wikipedia.org/wiki/Hemispatial_neglect), especially after `right` hemisphere damage
 :::
 
 ::: 
@@ -519,23 +519,23 @@ It integrates sensory information to construct `spatial and bodily representatio
 
 ::: columns
 ::: column
-The **temporal lobe** is located laterally, beneath the lateral sulcus.
-It is closely associated with auditory processing, memory, and emotion.
+The `temporal lobe` is located laterally, beneath the `lateral sulcus`.
+It is closely associated with `auditory` processing, `memory`, and `emotion`.
 
 ::: info-box
-**Primary roles**
+`Primary roles`
 
-- Auditory perception  
-- Language comprehension  
-- [Memory](https://en.wikipedia.org/wiki/Henry_Molaison) & Emotional processing
+- `Auditory` perception  
+- `Language comprehension`  
+- [Memory](https://en.wikipedia.org/wiki/Henry_Molaison) & `Emotional` processing
 :::
 
 ::: info-box
-**Effects of damage**
+`Effects of damage`
 
-- Auditory perception deficits  
-- Impaired language comprehension  
-- Memory & emotional disturbances   
+- `Auditory` perception deficits  
+- Impaired `language` comprehension  
+- `Memory & emotional disturbances`   
 :::
 
 ::: 
@@ -551,22 +551,22 @@ It is closely associated with auditory processing, memory, and emotion.
 ::: columns
 ::: column
 
-The **occipital lobe** is located at the posterior pole of the brain.
+The `occipital lobe` is located at the `posterior pole` of the brain.
 
-It is primarily dedicated to visual processing.
+It is primarily dedicated to `visual` processing.
 
 ::: info-box
-**Primary roles**
+`Primary roles`
 
 - Visual perception  
-- Processing of shape, motion, and color  
+- Processing of `shape`, `motion`, and `color`  
 :::
 
 ::: info-box
-**Effects of damage**
+`Effects of damage`
 
-- Partial or complete loss of vision  
-- Visual field deficits
+- Partial or complete `loss of vision`  
+- `Visual field` deficits
 :::
 
 ::: 
@@ -585,9 +585,9 @@ Below the Cerebral Cortex we can find also another layer of (Subcortical) struct
 ::: info-box
 Major subcortical structures include:
 
-- Basal nuclei  
-- Hippocampus  
-- Amygdala  
+- `Basal nuclei`  
+- `Hippocampus`  
+- `Amygdala`  
 :::
 
 They are not visible from the surface but are critical for information processing.
@@ -597,14 +597,14 @@ They are not visible from the surface but are critical for information processin
 ## Basal nuclei
 ::: columns
 ::: column
-The **[basal nuclei]{.highlight}** are a group of interconnected nuclei. Including the `dorsal striatum` (caudate nucleus and putamen) and the `ventral striatum` (nucleus accumbens), the globus pallidus, the ventral pallidum, the substantia nigra, and the subthalamic nucleus.
+The [basal nuclei]{.highlight} are a group of interconnected nuclei. Including the `dorsal striatum` (caudate nucleus and putamen) and the `ventral striatum` (nucleus accumbens), the globus pallidus, the ventral pallidum, the substantia nigra, and the subthalamic nucleus.
 
 :::info-box
 They are best known for their role in:
 
-- Movement regulation  
-- Action selection  
-- Habit formation  
+- `Movement regulation`  
+- `Action selection`  
+- `Habit formation`  
 :::
 
 >Damage to these structures disrupts `movement` without causing paralysis.
@@ -620,14 +620,14 @@ They are best known for their role in:
 ::: columns
 ::: column
 
-The **hippocampus** is located in the `medial temporal lobe`.
+The `hippocampus` is located in the `medial temporal lobe`.
 
 :::info-box
 It is essential for:
 
-- Formation memory and Contextual processing 
-- Spatial navigation  
-- Emotional regulation
+- `Memory formation`  and `Contextual processing` 
+- `Spatial navigation`  
+- `Emotional regulation`
 :::
 
 > Damage may impair the ability to form new long-term `memories`.
@@ -642,14 +642,14 @@ It is essential for:
 
 ::: columns
 ::: column
-The **amygdala** is also located in the `medial temporal lobe`.
+The `amygdala` is also located in the `medial temporal lobe`.
 
 :::info-box
 It plays a major role in:
 
-- Emotional processing  
-- Threat detection  
-- Assigning emotional value to stimuli  
+- `Emotional` processing  
+- `Threat detection`  
+- `Assigning emotional value` to stimuli  
 :::
 
 > Damage to this structure may strongly influence learning and memory under `emotional` conditions.
@@ -664,15 +664,20 @@ It plays a major role in:
 
 ::: columns
 ::: column
-The **diencephalon** lies beneath the cerebrum.
+The `diencephalon` lies beneath the cerebrum.
 
+:::info-box
 It serves as a critical `interface` between cortical and subcortical systems.
+:::
 
+:::info-box
 Major components include:
 
-- Thalamus  
-- Hypothalamus  
-- Epithalamus
+- `Thalamus`  
+- `Hypothalamus`  
+- `Epithalamus`
+- `Pituitary` gland
+:::
 
 ::: 
 ::: column
@@ -688,9 +693,11 @@ Major components include:
 ::: column
 The **thalamus** is often described as a `relay station`.
 
+:::info-box
 Most sensory information passes through it on the way to cortex.
+:::
 
-> However, it is not a passive `relay`.
+> However, it is not a passive [relay](https://en.wikipedia.org/wiki/Relay).
 > It actively `shapes` and `modulates` information flow.
 
 ::: 
@@ -706,18 +713,18 @@ Most sensory information passes through it on the way to cortex.
 ::: columns
 ::: column
 
-The **hypothalamus** is a group of different nuclei, small but functionally powerful.
+The `hypothalamus` is a group of different nuclei, small but functionally powerful.
 
 ::: info-box
 It regulates:
 
-- Homeostasis  
-- Autonomic nervous system activity  
-- Hormone release  
-- Motivated behaviors  
+- `Homeostasis`  
+- `Autonomic` nervous system activity  
+- `Hormone` release  
+- `Motivated` behaviors  
 :::
 
-> It forms a major `link` between the nervous and endocrine systems.
+> It forms a major `link` between the nervous and [endocrine](https://en.wikipedia.org/wiki/Endocrine_system) systems.
 
 ::: 
 ::: column
@@ -732,16 +739,16 @@ It regulates:
 ::: columns
 ::: column
 
-The **brainstem** connects the brain to the spinal cord.
+The `brainstem` connects the brain to the spinal cord.
 
-It is essential for `survival`.
+>It is essential for `survival`.
 
 ::: info-box
 It controls basic functions such as:
 
-- Breathing  
-- Heart rate  
-- Sleep and arousal  
+- `Breathing`  
+- `Heart rate`  
+- `Sleep and arousal`  
 :::
 
 ::: 
@@ -761,9 +768,9 @@ It controls basic functions such as:
 The brainstem is divided into three major parts:
 
 ::: info-box
-- Midbrain  
-- Pons  
-- Medulla  
+- `Midbrain`  
+- `Pons`  
+- `Medulla`  
 :::
 
 > Each contains nuclei and pathways critical for life.
@@ -780,14 +787,14 @@ The brainstem is divided into three major parts:
 ::: columns
 ::: column
 
-The **cerebellum** lies posterior to the brainstem.
+The `cerebellum` lies posterior to the brainstem.
 
 ::: info-box
 It is involved in:
 
-- Coordination of movement  
-- Timing  
-- Motor learning  
+- `Coordination` of movement  
+- `Timing`  
+- `Motor learning`  
 :::
 
 > Damage does not prevent movement, but makes it inaccurate and unstable.
@@ -804,16 +811,16 @@ It is involved in:
 Cranial nerves are part of the `peripheral nervous system`.
 They connect directly to the brain. 
 
->Most cranial nerves enter or exit the CNS at the [brainstem]{.highlight} (except olfactory and optic nerves).
+>Most cranial nerves enter or exit the CNS at the [brainstem]{.highlight} (except `olfactory` and `optic` nerves).
 
-> There are **12 pairs of cranial nerves**. Numbered using Roman numerals I to XII .
+> There are `12 pairs of cranial nerves`. Numbered using Roman numerals I to XII .
 
 :::info-box
 Cranial nerves can be classified by function:
 
-- **Sensory**  
-- **Motor**  
-- **Mixed** (sensory and motor)  
+- `Sensory`  
+- `Motor`  
+- `Mixed` (sensory and motor)  
 :::
 
 ## Cranial nerves
@@ -849,9 +856,10 @@ It is a major pathway for `autonomic` communication between `brain and body`.
 
 ## The spinal cord
 
-The **spinal cord** is part of the central nervous system.
+The `spinal cord` is part of the central nervous system.
 It serves as the main communication pathway between the brain and the body, through the spinal nerves.
-It also performs important processing independently of the brain.
+
+>It also performs important processing `independently` of the brain.
 
 ::: columns
 ::: column
