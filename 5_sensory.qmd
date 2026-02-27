@@ -39,11 +39,11 @@ The idea that humans have only `five senses` is a historical simplification.
 What we call a `sense` is any system that:
 
 - `detects` a specific form of energy or chemical signal
-- `converts` it into neural activity
-- `provides` information about the body or the environment
+- `converts` (or transduce) it into neural activity
+- `provides` information about the `body` or the `environment`
 :::
 
-By this definition, the nervous system supports many `parallel` sensory channels, often operating outside awareness.
+By this definition, the nervous system supports many `parallel` sensory channels, **often operating outside awareness**.
 
 :::tip
 **The brain does not experience “the world” directly.**  
@@ -65,7 +65,7 @@ Signals head position and movement, supporting `balance`, posture, and stable vi
 Provides continuous information about `limb position`, muscle stretch, and joint angle, even with eyes closed.
 
 [Interoception]{.highlight}    
-Monitors the `internal state` of the body, including heart rate, respiration, hunger, visceral pain, and arousal.
+Monitors the `internal state` of the body, including <u>heart rate</u>, <u>respiration</u>, hunger, visceral pain, and arousal.
 :::
 
 :::
@@ -94,9 +94,9 @@ Detection of `blood chemistry` such as CO₂.
 ::: column
 A sensory system allows the nervous system to `detect` and process `stimuli` from the environment.
 
->Each system is specialized for a particular form of energy or stimulus.
+>Each system is `specialized` for a particular form of `energy` or stimulus.
 
-Despite their differences, sensory systems share common organizational principles.
+Despite their differences, sensory systems <u>share common organizational principles</u>.
 
 :::info-box
 [Sensory Transduction]{.highlight}
@@ -132,16 +132,16 @@ Sensory transduction begins at [sensory receptors]{.highlight}.
 ::: info-box
 [Receptor potentials]{.highlight}
 
-Sensory receptors generate receptor potentials, graded changes in membrane potential. Stronger stimuli generally produce larger receptor potentials.
-If threshold is reached, action potentials are generated.
+Sensory receptors generate `receptor potentials`, <u>graded</u> changes in membrane potential. Stronger stimuli generally produce larger receptor potentials.
+If <u>threshold</u> is reached, action potentials are generated.
 :::
 
 ::: card
 
 Stimulus intensity is `encoded` in two main ways:
 
-- Firing rate of action potentials  
-- Number of activated receptors
+- `Firing rate` of action potentials  
+- `Number of activated receptors`
 :::
 
 :::
@@ -149,9 +149,9 @@ Stimulus intensity is `encoded` in two main ways:
 
 ::: info-box
 
-Receptive fields
+[Receptive fields]{.highlight}
 
-A **receptive field** is the region of sensory space that influences a neuron.
+A `receptive field` is the <u>region of sensory space-time</u> that influences a neuron.
 
 Examples include:
 
@@ -169,12 +169,12 @@ Examples include:
 ## Sensory pathways
 ::: columns
 ::: column
-Most sensory systems follow a common pathway:
+Most sensory systems follow a `common pathway`:
 
-1. Peripheral receptor  
-2. Entry into CNS  
-3. Relay through the thalamus  
-4. Projection to primary sensory cortex  
+1. `Peripheral receptor`  
+2. `Entry into CNS`  
+3. `Relay` through the `thalamus`  
+4. `Projection to primary sensory cortex`  
 
 :::info-box
 The [thalamus]{.highlight} plays a central role in sensory processing. It does more than `relay` information. 
@@ -195,7 +195,7 @@ It actively `modulates` and organizes sensory signals before they reach cortex.
 
 ::: columns
 ::: column
-Each sensory system has a **primary cortical area**.
+Each sensory system has a `primary cortical area`.
 
 ::: info-box
 These areas:
@@ -218,14 +218,14 @@ These areas:
 ## Distributed processing
 ::: columns
 ::: column
-Perception does not arise in a single area.
+>Perception does not arise in a single area.
 
 ::: info-box
 Sensory information is processed across:
 
-1. Primary cortex  
-2. Secondary areas  
-3. Association cortices  
+1. `Primary` cortex  
+2. `Secondary` areas  
+3. `Association` cortices  
 :::
 
 >Perception is an `emergent property` of distributed networks.
@@ -254,9 +254,9 @@ These properties are transformed into neural signals by the `retina`.
 
 :::info-box
 
-A 'sensory window' is the part of a physical dimension that a biological system can detect. 
+A `sensory window` is the part of a physical dimension that a biological system can detect. 
 What lies outside the window is not perceived, but it still exists.
-**Human vision** : Sensitive roughly to wavelengths between `~400 nm (violet)` and `~700 nm (red)`
+`Human vision` : Sensitive roughly to wavelengths between `~400 nm (violet)` and `~700 nm (red)`
 :::
 
 :::
@@ -308,9 +308,9 @@ There are two main types:
 :::
 
 ::: card
-`Rods` are highly sensitive to light. They are specialized for:
+`Rods` are <u>highly sensitive</u> to light. They are specialized for:
 
-- `Low-light` conditions (Night vision - Scotopic)
+- `Low-light` conditions (Night vision - <u>Scotopic</u>)
 - `No color` information
 
 :::
@@ -319,11 +319,11 @@ There are two main types:
 ::: column
 
 ::: card
-`Cones` are less sensitive to light. They are specialized for:
+`Cones` are <u>less sensitive to light</u>. They are specialized for:
 
-- Daylight vision  
-- Color perception  
-- High spatial resolution  
+- `Daylight vision`  
+- `Color` perception  
+- `High spatial resolution`  
 
 Humans typically have `3 cone types`.
 
@@ -365,8 +365,8 @@ The axons of ganglion cells form the [optic nerve]{.highlight}.
 
 This nerve carries visual information to the brain.
 
-Where the optic nerve exits the retina, there are no photoreceptors.
-This creates the `blind spot`.
+Where the optic nerve exits the retina, there are <u>no photoreceptors</u>.
+This creates the [blind spot](https://faculty.washington.edu/chudler/chvision.html).
 :::
 
 ![](images/sen_fovea.jpg){width="250" fig-align="left"}
@@ -439,7 +439,7 @@ In [OFF-center]{.highlight} ganglion cells:
 ## RGC Receptive Field 
 
 ::: card
-Uniform illumination produces weak responses. his makes the RGC sensitive to `changes` in relative illumination across space-time.
+Uniform illumination produces weak responses. This makes the RGC sensitive to `changes` in <u>relative illumination</u> across space-time.
 
 :::
 
@@ -447,7 +447,7 @@ Uniform illumination produces weak responses. his makes the RGC sensitive to `ch
 :::column
 
 :::info-box
-Center–surround organization emphasizes:
+Center-surround organization emphasizes:
 
 - `Contrast`
 - `Changes` in light intensity  
@@ -462,9 +462,9 @@ Center-surround receptive fields arise from `retinal circuitry`.
 
 Key contributors include:
 
-- Bipolar cells  
-- Horizontal cells  
-- Amacrine cells  
+- `Bipolar` cells  
+- `Horizontal` cells  
+- `Amacrine` cells  
 
 `Lateral interactions` are essential.
 :::
@@ -476,14 +476,14 @@ Key contributors include:
 
 :::columns
 :::column
->[Visual acuity]{.highlight} refers to the ability to resolve fine spatial detail.
+>[Visual acuity]{.highlight} refers to the ability to <u>resolve fine spatial detail</u>.
 
 :::info-box
 Visual acuity is constrained by multiple factors:
 
-- Density of photoreceptors in the retina  
-- Size of receptive fields  
-- Cortical magnification in visual cortex  
+- `Density of photoreceptors` in the retina  
+- `Size of receptive fields`  
+- `Cortical magnification` in visual cortex  
 
 Acuity is highest in the `fovea` and decreases toward the periphery.
 :::
@@ -503,19 +503,19 @@ Acuity is highest in the `fovea` and decreases toward the periphery.
 :::column
 
 :::card
-After retinal processing, visual information leaves the eye through the **optic nerve**. Each optic nerve carries information from `one eye`.
-At this stage, information is `segregated` by eye. The optic nerves meet at the [optic chiasm]{.highlight}. Here, some axons cross to the opposite side of the brain.
+After retinal processing, visual information leaves the eye through the `optic nerve`. Each optic nerve (left and right) carries information from `one eye`.
+At this stage, information is `segregated` by eye. The optic nerves meet at the [optic chiasm]{.highlight}. Here, some axons <u>cross</u> to the opposite side of the brain.
 This crossing is `partial`, not complete.
 :::
 
 :::info-box
 The `Crossing Rule`:
 
-- Axons from the [nasal]{.highlight} retina **cross** at the chiasm.
+- Axons from the [nasal]{.highlight} retina <u>cross</u> at the chiasm.
 
-- Axons from the [temporal]{.highlight} retina remain on the **same side**.
+- Axons from the [temporal]{.highlight} retina remain on the <u>same side</u>.
 
-Each hemisphere receives information from the [contralateral]{.highlight} visual field.
+Each hemisphere receives information from the [contralateral]{.highlight} `visual field`.
 
 :::
 
@@ -523,18 +523,18 @@ Each hemisphere receives information from the [contralateral]{.highlight} visual
 :::column
 
 :::info-box
-**Ipsilateral**  
-Located on the *same side* of the body as the structure or reference point.
+[Ipsilateral]{.highlight}  
+Located on the `same side` of the body as the structure or reference point.
 
-**Contralateral**  
-Located on the *opposite side* of the body relative to the structure or reference point.
+[Contralateral]{.highlight}  
+Located on the `opposite side` of the body relative to the structure or reference point.
 :::
 
 :::info-box
 After the chiasm:
 
-- Left hemisphere processes right visual field  
-- Right hemisphere processes left visual field  
+- `Left hemisphere` processes <u>right visual field</u>  
+- `Right hemisphere` processes <u>left visual field</u>  
 
 :::
 
@@ -559,7 +559,7 @@ The LGN:
 - `Preserves` retinal organization  
 - Maintains `separation` of inputs (monocular)  
 - `Modulates` signal flow to cortex  
-- Receptive fields are similar to those of RGC (circular)
+- `Receptive fields are similar to those of RGC` (circular)
 
 :::
 

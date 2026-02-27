@@ -438,7 +438,7 @@
     "href": "5_sensory.html#beyond-the-five-senses",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Beyond the “Five Senses”",
-    "text": "Beyond the “Five Senses”\nThe idea that humans have only five senses is a historical simplification.\n\nWhat we call a sense is any system that:\n\ndetects a specific form of energy or chemical signal\nconverts it into neural activity\nprovides information about the body or the environment\n\n\nBy this definition, the nervous system supports many parallel sensory channels, often operating outside awareness.\n\nThe brain does not experience “the world” directly.\nIt constructs reality from multiple specialized input streams, some obvious, some silent."
+    "text": "Beyond the “Five Senses”\nThe idea that humans have only five senses is a historical simplification.\n\nWhat we call a sense is any system that:\n\ndetects a specific form of energy or chemical signal\nconverts (or transduce) it into neural activity\nprovides information about the body or the environment\n\n\nBy this definition, the nervous system supports many parallel sensory channels, often operating outside awareness.\n\nThe brain does not experience “the world” directly.\nIt constructs reality from multiple specialized input streams, some obvious, some silent."
   },
   {
     "objectID": "5_sensory.html#additional-sensory-systems",
@@ -459,7 +459,7 @@
     "href": "5_sensory.html#sensory-neural-code",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Sensory Neural Code",
-    "text": "Sensory Neural Code\n\n\nSensory transduction begins at sensory receptors.\n\nReceptor potentials\nSensory receptors generate receptor potentials, graded changes in membrane potential. Stronger stimuli generally produce larger receptor potentials. If threshold is reached, action potentials are generated.\n\n\nStimulus intensity is encoded in two main ways:\n\nFiring rate of action potentials\n\nNumber of activated receptors\n\n\n\n\nReceptive fields\nA receptive field is the region of sensory space that influences a neuron.\nExamples include:\n\nA patch of skin\n\nA region of the retina\n\nA specific sound frequency"
+    "text": "Sensory Neural Code\n\n\nSensory transduction begins at sensory receptors.\n\nReceptor potentials\nSensory receptors generate receptor potentials, graded changes in membrane potential. Stronger stimuli generally produce larger receptor potentials. If threshold is reached, action potentials are generated.\n\n\nStimulus intensity is encoded in two main ways:\n\nFiring rate of action potentials\n\nNumber of activated receptors\n\n\n\n\nReceptive fields\nA receptive field is the region of sensory space-time that influences a neuron.\nExamples include:\n\nA patch of skin\n\nA region of the retina\n\nA specific sound frequency"
   },
   {
     "objectID": "5_sensory.html#sensory-pathways",
@@ -480,14 +480,14 @@
     "href": "5_sensory.html#distributed-processing",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Distributed processing",
-    "text": "Distributed processing\n\n\nPerception does not arise in a single area.\n\nSensory information is processed across:\n\nPrimary cortex\n\nSecondary areas\n\nAssociation cortices\n\n\n\n\nPerception is an emergent property of distributed networks."
+    "text": "Distributed processing\n\n\n\nPerception does not arise in a single area.\n\n\nSensory information is processed across:\n\nPrimary cortex\n\nSecondary areas\n\nAssociation cortices\n\n\n\n\nPerception is an emergent property of distributed networks."
   },
   {
     "objectID": "5_sensory.html#vision",
     "href": "5_sensory.html#vision",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Vision",
-    "text": "Vision\n\n\n\nThe visual system responds to electromagnetic radiation in the visible spectrum.\nKey properties of light include:\n\nWavelength\n\nIntensity\n\nThese properties are transformed into neural signals by the retina.\n\n\nA ‘sensory window’ is the part of a physical dimension that a biological system can detect. What lies outside the window is not perceived, but it still exists. Human vision : Sensitive roughly to wavelengths between ~400 nm (violet) and ~700 nm (red)"
+    "text": "Vision\n\n\n\nThe visual system responds to electromagnetic radiation in the visible spectrum.\nKey properties of light include:\n\nWavelength\n\nIntensity\n\nThese properties are transformed into neural signals by the retina.\n\n\nA sensory window is the part of a physical dimension that a biological system can detect. What lies outside the window is not perceived, but it still exists. Human vision : Sensitive roughly to wavelengths between ~400 nm (violet) and ~700 nm (red)"
   },
   {
     "objectID": "5_sensory.html#anatomy-of-the-eye",
@@ -529,7 +529,7 @@
     "href": "5_sensory.html#rgc-receptive-field-1",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "RGC Receptive Field",
-    "text": "RGC Receptive Field\n\nUniform illumination produces weak responses. his makes the RGC sensitive to changes in relative illumination across space-time.\n\n\n\n\nCenter–surround organization emphasizes:\n\nContrast\nChanges in light intensity\n\nNo relation with the absolute light levels\n\n\n\n\nCenter-surround receptive fields arise from retinal circuitry.\nKey contributors include:\n\nBipolar cells\n\nHorizontal cells\n\nAmacrine cells\n\nLateral interactions are essential."
+    "text": "RGC Receptive Field\n\nUniform illumination produces weak responses. This makes the RGC sensitive to changes in relative illumination across space-time.\n\n\n\n\nCenter-surround organization emphasizes:\n\nContrast\nChanges in light intensity\n\nNo relation with the absolute light levels\n\n\n\n\nCenter-surround receptive fields arise from retinal circuitry.\nKey contributors include:\n\nBipolar cells\n\nHorizontal cells\n\nAmacrine cells\n\nLateral interactions are essential."
   },
   {
     "objectID": "5_sensory.html#visual-acuity",
@@ -543,7 +543,7 @@
     "href": "5_sensory.html#from-retina-to-the-brain",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "From retina to the Brain",
-    "text": "From retina to the Brain\n\n\n\nAfter retinal processing, visual information leaves the eye through the optic nerve. Each optic nerve carries information from one eye. At this stage, information is segregated by eye. The optic nerves meet at the optic chiasm. Here, some axons cross to the opposite side of the brain. This crossing is partial, not complete.\n\n\nThe Crossing Rule:\n\nAxons from the nasal retina cross at the chiasm.\nAxons from the temporal retina remain on the same side.\n\nEach hemisphere receives information from the contralateral visual field.\n\n\n\nIpsilateral\nLocated on the same side of the body as the structure or reference point.\nContralateral\nLocated on the opposite side of the body relative to the structure or reference point.\n\n\nAfter the chiasm:\n\nLeft hemisphere processes right visual field\n\nRight hemisphere processes left visual field"
+    "text": "From retina to the Brain\n\n\n\nAfter retinal processing, visual information leaves the eye through the optic nerve. Each optic nerve (left and right) carries information from one eye. At this stage, information is segregated by eye. The optic nerves meet at the optic chiasm. Here, some axons cross to the opposite side of the brain. This crossing is partial, not complete.\n\n\nThe Crossing Rule:\n\nAxons from the nasal retina cross at the chiasm.\nAxons from the temporal retina remain on the same side.\n\nEach hemisphere receives information from the contralateral visual field.\n\n\n\nIpsilateral\nLocated on the same side of the body as the structure or reference point.\nContralateral\nLocated on the opposite side of the body relative to the structure or reference point.\n\n\nAfter the chiasm:\n\nLeft hemisphere processes right visual field\n\nRight hemisphere processes left visual field"
   },
   {
     "objectID": "5_sensory.html#the-thalamus",
