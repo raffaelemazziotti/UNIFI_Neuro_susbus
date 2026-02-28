@@ -580,7 +580,7 @@ The LGN:
 >Axons from the lateral geniculate nucleus project to V1 (Primary Visual Cortex).
 >These projections travel via the `optic radiations`.
 > Arriving to the `IV layer` of V1.
-> Each hemisphere represents the **contralateral visual field**.
+> Each hemisphere represents the <u>contralateral visual field</u>.
 
 :::info-box
 V1 is organized [retinotopically]{.highlight}.
@@ -598,14 +598,14 @@ This means that:
 :::column
 
 :::info-box
-[Cortical Magnification Factor]{.highlight}:Retinotopy is not uniform.
+[Cortical Magnification Factor]{.highlight}:Retinotopy is <u>not uniform</u>.
 
 The fovea occupies a disproportionately large area of V1.
 
 This reflects:
 
-- High cone density  
-- High visual acuity  
+- High `cone density`  
+- High `visual acuity`  
 
 Central vision is overrepresented.
 
@@ -649,11 +649,11 @@ V1 extracts structure from retinal input.
 :::column
 
 >Neurons in primary visual cortex have receptive fields that differ from those in the retina.
-> **They are not circular!**
+> `They are not circular!`
 > They are `elongated` and selective for specific visual features.
 
 ::: info-box
-Each V1 neuron prefers a specific orientation.
+Each V1 neuron prefers a `specific orientation`.
 Rotation of the stimulus away from the preferred orientation reduces the response.
 :::
 
@@ -842,10 +842,10 @@ Higher-order areas send feedback to earlier visual cortex (`top-down` stream).
 :::columns
 :::column
 
-> Faces detection and recognition is a [Holistic process]{.highlight}. This means that faces  are processed as integrated wholes.
+> Faces detection and recognition is a [Holistic process]{.highlight}. This means that faces  are processed as <u>integrated wholes</u>.
 
 :::info-box
-A key region for face perception is the [fusiform area]{.highlight} of the temporal lobe.
+A key region for face perception is the [fusiform area]{.highlight} of the <u>temporal lobe</u>.
 
 It is involved in:
 
@@ -866,19 +866,19 @@ It is involved in:
 
 :::columns
 :::column
->Damage to ventral visual cortex can spare basic vision.
->Patients may see objects clearly but fail to identify or discriminate objects.
+>Damage to ventral visual cortex can <u>spare basic vision</u>.
+>Patients may see objects clearly but fail to <u>identify</u> or <u>discriminate</u> objects.
 
 :::info-box
 
-[Prosopagnosia]{.highlight} is a selective impairment in face recognition.
+[Prosopagnosia]{.highlight} is a selective impairment in `face recognition`.
 
 Affected individuals:
 
-- Can (or cannot, in severe cases) see faces  
+- Can (or cannot, in severe cases) `see` faces  
 - Cannot `recognize` faces 
 
-Other visual abilities are often preserved.
+>Other visual abilities are often preserved.
 
 :::
 
@@ -906,15 +906,14 @@ Individuals with prosopagnosia often rely on:
 :::info-box
 Prosopagnosia demonstrates that:
 
-- Face recognition is neurally specialized  
-- Vision and recognition can dissociate  
+- Face recognition is `neurally specialized`  
+- <u>Vision</u> and <u>recognition</u> can `dissociate`  
 - The higher order cortical areas can act as `expert systems` 
 
-Seeing is not the same as knowing.
 :::
 
 :::info-box
-An expert system is a neural network that:
+An `expert system` is a neural network that:
 
 - Is highly `selective`  
 - Encodes complex, meaningful `patterns`  
@@ -937,7 +936,7 @@ We discriminate faces:
 :::info-box
 The [grandmother neuron]{.highlight} hypothesis proposes that:
 
-- A single neuron represents a specific, complex concept  
+- A `single neuron` represents a specific, complex concept  
 - For example, one neuron for your grandmother  
 
 :::
@@ -953,37 +952,25 @@ The [grandmother neuron]{.highlight} hypothesis proposes that:
 :::info-box
 A strict grandmother neuron model would be:
 
-- Fragile to cell loss  
-- Inflexible  
-- Inefficient for representing many identities  
+- `Fragile` to cell loss  
+- `Inflexible`  
+- `Inefficient` for representing many identities  
 
-Most neuroscientists reject this literal interpretation.
+Most neuroscientists `reject` this <u>literal</u> interpretation.
 :::
 
-
-
-:::card
-These neurons do not encode a single image. 
-They respond to an **abstract identity**. 
-They are better understood as:
-
-- Highly selective nodes  
-- Within a distributed representation  
-
-Not isolated concept holders.
-:::
 
 :::
 :::column
 
 :::info-box
-Higher-order cortex likely uses **sparse coding**.
+Higher-order cortex likely uses `sparse coding`.
 
 This means:
 
-- Few neurons respond strongly  
-- Many neurons contribute weakly  
-- Representations are distributed but efficient  
+- `Few` neurons <u>respond strongly</u>  
+- `Many` neurons <u>contribute weakly</u>  
+- Representations are distributed but `efficient`  
 
 This balances specificity and robustness.
 :::
@@ -996,10 +983,10 @@ This balances specificity and robustness.
 :::columns
 :::column
 :::info-box
-Damage to dorsal areas impairs:
+Damage to `dorsal` areas impairs:
 
-- Impaired perception of movement  
-- Difficulty tracking moving objects  
+- Impaired perception of `movement`  
+- Difficulty `tracking` moving objects  
 
 In extreme cases, motion appears fragmented or absent.
 :::
@@ -1007,9 +994,9 @@ In extreme cases, motion appears fragmented or absent.
 :::info-box
 [Akinetopsia]{.highlight}, or motion blindness, is a rare condition linked to dorsal stream damage.
 
-Patients perceive the world as a sequence of static snapshots.
+Patients perceive the world as a <u>sequence of static snapshots</u>.
 
-Motion information fails to integrate over time.
+Motion information `fails to integrate` over time.
 :::
 
 :::
@@ -1022,8 +1009,8 @@ Motion information fails to integrate over time.
 
 ## The somatosensory system
 
-The sense of touch allows the nervous system to detect mechanical stimulation of the body. Touch is not a single sense.
-It is a collection of specialized channels working together.
+The sense of `touch` allows the nervous system to detect mechanical stimulation of the body. Touch is `not a single sense`.
+It is a <u>collection of specialized channels working together</u>.
 
 :::columns
 :::column
@@ -1031,30 +1018,22 @@ It is a collection of specialized channels working together.
 :::info-box
 It provides information about:
 
-- Contact  
-- Pressure  
-- Vibration  
-- Stretch  
+- `Light touch`  
+- `Pressure` and `vibration`  
+- Skin `stretch`  
+- `Proprioception`  
+- `Pain` and `temperature`  
 
-Touch is essential for interaction with the environment.
+Touch is essential for </u>interaction with the environment</u>.
 :::
-
 
 :::
 :::column
 
-![](images/sen_touch.jpg){width="100" fig-align="right"}
+![](images/sen_touch.jpg){width="200" fig-align="center"}
 
-:::info-box
-The somatosensory system includes multiple modalities:
-
-- Light touch  
-- Pressure and vibration  
-- Skin stretch  
-- Proprioception  
-- Pain and temperature  
-
-These modalities are detected by different receptor types.
+:::card
+The somatosensory system includes multiple modalities and these modalities are detected by <u>different receptor types</u>.
 
 :::
 
@@ -1064,24 +1043,24 @@ These modalities are detected by different receptor types.
 ## Mechanoreceptors {#mechanoreceptors}
 
 >Touch begins at [mechanoreceptors]{.highlight}.
-These receptors convert mechanical forces into neural signals. Each type is tuned to specific stimulus properties.
+These receptors convert `mechanical forces` <u>into neural signals</u>. Each type is tuned to specific stimulus properties.
 
 :::columns
 :::column
 :::info-box
 Key mechanoreceptors in the skin include:
 
-- **Meissner corpuscles**  
-  Sensitive to motion and light touch  
+- `Meissner corpuscles`  
+  Sensitive to motion and <u>light touch</u>  
 
-- **Merkel cells**  
-  Detect edges and fine detail  
+- `Merkel cells`  
+  Detect <u>edges and fine detail </u>
 
-- **Pacinian corpuscles**  
-  Detect vibration  
+- `Pacinian corpuscles`  
+  Detect <u>vibration</u>  
 
-- **Ruffini endings**  
-  Detect skin stretch  
+- `Ruffini endings`  
+  Detect skin <u>stretch</u>
 :::
 
 :::
@@ -1098,8 +1077,7 @@ Key mechanoreceptors in the skin include:
 :::column
 
 :::card
-Each mechanoreceptor has a **receptive field**.
-This is the region of skin where stimulation affects that receptor.
+Each mechanoreceptor has a `receptive field`.
 Smaller receptive fields allow finer spatial resolution.
 :::
 
@@ -1108,10 +1086,10 @@ Touch sensitivity is `not uniform` across the body.
 
 Regions such as:
 
-- Fingertips  
-- Lips  
+- `Fingertips`  
+- `Lips`  
 
-Have higher receptor density and smaller receptive fields.
+Have <u>higher receptor density</u> and <u>smaller receptive fields</u>.
 :::
 
 :::
@@ -1120,19 +1098,19 @@ Have higher receptor density and smaller receptive fields.
 :::info-box
 Touch intensity is encoded by:
 
-- Firing rate  
-- Number of activated receptors  
+- `Firing rate`  
+- `Number` of activated receptors  
 
 :::
 
 :::info-box
 Somatosensory information travels from:
 
-- Peripheral receptors  
-- Through spinal nerves  
-- Into the central nervous system  
+- Peripheral `receptors`  
+- Through `spinal nerves`  
+- Into the CNS  
 
-This information is organized and preserved along the pathway.
+This information is <u>organized and preserved</u> along the pathway.
 
 :::
 
@@ -1141,24 +1119,21 @@ This information is organized and preserved along the pathway.
 
 ## Two major somatosensory pathways
 
-
 :::columns
 :::column
 
-Somatosensory information reaches the brain through `two main pathways`.
+Somatosensory information reaches the brain through `two main pathways`. They differ in:
 
-They differ in:
-
-- The type of information they carry  
-- Their anatomical routes  
-- Their functional roles
+- The `type of information` they carry  
+- Their `anatomical` routes  
+- Their `functional` roles
 
 :::info-box
-The **dorsal column pathway** carries:
+The [dorsal column]{.highlight} pathway carries:
 
-- Fine touch  
-- Vibration  
-- Proprioception  
+- `Fine touch`  
+- `Vibration`  
+- `Proprioception`  
 
 This pathway supports precise spatial and discriminative touch.
 :::
@@ -1169,11 +1144,12 @@ This pathway supports precise spatial and discriminative touch.
 :::info-box
 In the dorsal column pathway:
 
-- Primary afferents enter the spinal cord  
-- Ascend ipsilaterally in the dorsal columns  
-- `Synapse in the medulla`  
+- Primary <u>afferents enter the</u> `spinal cord`  
+- <u>Ascend ipsilaterally</u> in the dorsal columns  
+- `Synapse in the Medulla`  
 - `Cross` to the contralateral side  
-- Project to the thalamus  
+- Project to the `Thalamus`
+- The Thalamus relay to the `Primary Somatosensory Cortex`
 :::
 
 :::
@@ -1185,12 +1161,12 @@ In the dorsal column pathway:
 :::column
 
 :::info-box
-The **spinothalamic pathway** carries:
+The [spinothalamic pathway]{.highlight} carries:
 
-- Pain  
-- Temperature
+- `Pain`  
+- `Temperature`
 
-It is specialized for detecting potentially harmful stimuli.
+It is specialized for detecting <u>potentially harmful stimuli</u>.
 :::
 
 :::
@@ -1201,18 +1177,19 @@ In the spinothalamic pathway:
 
 - Primary afferents enter the spinal cord  
 - `Synapse almost immediately`  
-- Cross to the contralateral side near entry  
-- Ascend to the thalamus  
+- `Cross` to the contralateral side near entry  
+- Ascend to the `Thalamus`  
+- The Thalamus relay to the `Primary Somatosensory Cortex`
 :::
 
 :::info-box
 The two pathways differ in function:
 
-- **Dorsal column**  
-  Precise, fast, spatially accurate  
+- `Dorsal` column  
+  `Precise`, `fast`, spatially `accurate`  
 
-- **Spinothalamic**  
-  Coarser, slower, protective
+- `Spinothalamic`  
+  `Coarser`, `slower`, `protective`
 
 :::
 
@@ -1227,21 +1204,21 @@ The two pathways differ in function:
 :::columns
 :::column
 
->Somatosensory information reaches **primary somatosensory cortex** (S1).
-S1 is located in the postcentral gyrus.
-It contains an ordered map of the body (Somatotopy).
+>Somatosensory information reaches [primary somatosensory cortex (S1)]{.highlight}.
+S1 is located in the <u>postcentral gyrus</u>.
+It contains an ordered map of the body ('Somatotopy').
 
 :::info-box
 `Somatotopy` means that:
 
-- Body position is mapped systematically  
-- Neighboring body regions map to neighboring neural regions  
+- Body position is <u>mapped systematically</u>  
+- `Neighboring body regions map to neighboring neural regions`  
 :::
 
 :::
 :::column
->The **sensory homunculus** is a distorted body map.
-Body parts with high sensory acuity occupy more cortical space.
+>The `sensory homunculus` is a `distorted body map`.
+<u>Body parts with high sensory acuity occupy more cortical space</u>.
 Hands, lips, and face are overrepresented.
 
 ![](images/sen_touch_cortex.jpe ){width="300" fig-align="left"}
@@ -1256,14 +1233,14 @@ Hands, lips, and face are overrepresented.
 :::column
 
 :::info-box
-Cortical representation does not reflect body size.
+Cortical representation does <u>not reflect body size</u>.
 
 It reflects:
 
-- Receptor density  
-- Behavioral relevance  
+- `Receptor density`  
+- `Behavioral relevance`  
 
-This parallels foveal magnification in vision.
+This <u>parallels foveal magnification in vision</u>.
 :::
 
 :::
@@ -1272,10 +1249,16 @@ This parallels foveal magnification in vision.
 :::info-box
 Lesions in somatosensory cortex produce:
 
-- Loss of sensation in specific body regions  
+- `Loss of sensation` in specific body regions  
 - Deficits that reflect the cortical map  
 
 The pattern of loss reveals underlying organization.
+:::
+
+:::card
+
+If you want to create your Homunculus click [here](https://brainmapper.org/experiment/)
+
 :::
 
 :::
@@ -1284,7 +1267,7 @@ The pattern of loss reveals underlying organization.
 ## Pain as a distinct system
 
 >Pain is not simply strong touch.
-It is a distinct sensory system specialized for detecting potential or actual tissue damage.
+It is a `distinct` sensory `system` specialized for detecting <u>potential or actual tissue damage</u>.
 Its primary function is protection, not perception.
 
 :::columns
@@ -1296,11 +1279,11 @@ Pain begins at specialized receptors called [nociceptors]{.highlight}.
 
 These receptors respond to:
 
-- Mechanical damage  
-- Extreme temperatures  
-- Chemical irritants  
+- `Mechanical damage`  
+- `Extreme temperatures`  
+- `Chemical irritants`  
 
-They are activated only when stimuli exceed safe limits and activate the Spinothalamic pathway.
+They are activated only when stimuli exceed safe limits and activate the `Spinothalamic` pathway.
 
 :::
 
@@ -1310,13 +1293,13 @@ They are activated only when stimuli exceed safe limits and activate the Spinoth
 :::info-box
 Nociception is detected by [Free Nerve Endings](#mechanoreceptors) and there are two main fiber types:
 
-- **Aδ fibers**  
-  Fast, sharp, well-localized pain  
+- `Aδ fibers`  
+  `Fast`, sharp, well-localized pain  
 
-- **C fibers**  
-  Slow, dull, poorly localized pain  
+- `C fibers`  
+  `Slow`, dull, poorly localized pain  
 
-These produce different pain sensations.
+These produce `different pain sensations`.
 :::
 
 :::
@@ -1327,19 +1310,19 @@ These produce different pain sensations.
 :::columns
 :::column
 
-Pain processing involves multiple brain regions.
+Pain processing involves `multiple brain regions`.
 
 These include:
 
-- Thalamus  
-- Amygdala
-- Hyppocampus
-- Somatosensory cortex  
-- Insular cortex  
-- Anterior cingulate cortex  
-- Prefrontal Cortex
+- `Thalamus`  
+- `Amygdala`
+- `Hyppocampus`
+- `Somatosensory cortex`  
+- `Insular cortex`  
+- `Anterior cingulate cortex`  
+- `Prefrontal Cortex`
 
-Pain has both sensory and emotional components.
+Pain has both `sensory` and `emotional` components.
 
 :::
 :::column
@@ -1389,7 +1372,7 @@ Pain perception is `dynamic`.
 ## The auditory system
 
 >Hearing allows the nervous system to detect and interpret sound.
-Sound is a `pattern of pressure waves in air`from 20 Hz to 20 kHz.
+Sound is a `pattern of pressure waves in air`from 20 [Hz](https://en.wikipedia.org/wiki/Hertz) to 20 kHz.
 Perception arises from how these waves are transformed into neural signals.
 
 :::columns
@@ -1433,9 +1416,9 @@ Sound waves are characterized by:
 :::info-box
 The auditory system converts:
 
-- Air pressure changes  
-- Into mechanical vibrations  
-- Into electrical signals  
+- `Air pressure` changes  
+- `Into mechanical vibrations`  
+- `Into electrical signals`  
 
 This transformation occurs in specialized structures of the ear.
 :::
@@ -1443,9 +1426,9 @@ This transformation occurs in specialized structures of the ear.
 :::info-box
 The ear is divided into 3 main parts:
 
-- Outer ear  
-- Middle ear  
-- Inner ear  
+- `Outer` ear  
+- `Middle` ear  
+- `Inner` ear  
 
 Each part performs a specific transformation.
 :::
@@ -1464,8 +1447,8 @@ The inner ear contains the [cochlea]{.highlight}.
 
 Inside the cochlea:
 
-- Sound vibrations create traveling waves  
-- Different frequencies peak at different locations  
+- Sound vibrations create `traveling waves`  
+- Different frequencies peak at `different locations`  
 
 This spatial separation is fundamental to hearing.
 
@@ -1486,13 +1469,13 @@ This spatial separation is fundamental to hearing.
 They are true `sensory receptors`.
 
 :::info-box
-Movement of hair bundles opens mechanically gated ion channels.
+Movement of hair bundles opens `mechanically gated` ion channels.
 
 This leads to:
 
-- Receptor potentials  
-- Neurotransmitter release  
-- Activation of auditory nerve fibers  
+- `Receptor potentials`  
+- `Neurotransmitter release`  
+- `Activation of auditory nerve fibers`  
 
 Sound is now encoded neurally.
 
@@ -1512,38 +1495,38 @@ Sound is now encoded neurally.
 :::info-box
 Brainstem
 
->The first synapse occurs in the [cochlear nuclei]{.highlight} of the brainstem.
-Information is split into parallel pathways.
+>The first synapse occurs in the [cochlear nuclei]{.highlight} of the `brainstem`.
+Information is split into `parallel pathways`.
 Different aspects of sound are processed simultaneously.
 
->The [superior olivary complex]{.highlight} is a key site for sound localization.
-It integrates input from both ears.
+>The [superior olivary complex]{.highlight} is a key site for `sound localization`.
+It integrates input `from both ears`.
 Different nuclei specialize in timing and intensity comparisons.
+
 :::
 
 :::info-box
 From the brainstem, signals ascend through:
 
-- Inferior colliculus  
+- `Inferior colliculus` (Midbrain)  
 - Medial Geniculate Nucleus (Thalamus)  
 
 :::
 
-## Interaural level differences
+## Localize Sound
 
 :::columns
 :::column
->**Interaural level differences** arise from sound shadowing by the head.
+>To localize sound we use `Interaural level differences` that arise from sound shadowing by the head.
 They are most informative for high-frequency sounds.
 These differences are computed in brainstem circuits.
 
 :::info-box
 The auditory system uses two main `interaural cues`:
 
-- Interaural `time` differences (due to speed of sound)
-- Interaural `amplitude` differences (due to the acoustic shadow)
+- Interaural `time` differences (due to `speed` of sound)
+- Interaural `amplitude` differences (due to the `acoustic shadow`)
 
-Each cue is informative under different conditions.
 :::
 
 :::
@@ -1557,8 +1540,8 @@ Each cue is informative under different conditions.
 ## Primary auditory cortex
 
 
-The **primary auditory cortex** is the first cortical stage of hearing.
-It is located in the temporal lobe.
+The [primary auditory cortex (A1)]{.highlight} is the <u>first cortical stage of hearing</u>.
+It is located in the `temporal lobe`.
 It receives organized input from the thalamus.
 
 :::columns
@@ -1567,21 +1550,22 @@ It receives organized input from the thalamus.
 >Primary auditory cortex is organized `tonotopically`:
 Neighboring neurons respond to neighboring sound frequencies.
 
->`Cortical magnification`: Frequencies important for communication occupy more cortical space.
+>`Cortical magnification`: <u>Frequencies important for communication occupy more cortical space</u>.
 Representation reflects behavioral relevance, not physical frequency spacing.
 
 :::
 :::column
 
 :::info-box
-Damage to primary auditory cortex rarely causes deafness.
+`Damage` to primary auditory cortex rarely causes deafness.
 
-Instead, it impairs:
+Instead, it `impairs`:
 
-- Sound discrimination  
-- Complex auditory perception  
+- Sound `discrimination`  
+- `Complex auditory perception`  
 
-Basic hearing often remains intact.
+>Basic hearing often remains intact.
+
 :::
 
 :::
@@ -1614,9 +1598,9 @@ Higher-order auditory cortex supports [auditory objects]{.highlight}.
 An auditory object is a coherent sound source over time.
 Like:
 
-- A voice  
-- A melody  
-- A moving sound  
+- `A voice`  
+- `A melody`  
+- `A moving sound`  
 
 The brain groups sound features into `perceptual units`.
 :::

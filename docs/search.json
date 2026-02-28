@@ -620,21 +620,21 @@
     "href": "5_sensory.html#damage-to-the-what-pathway",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Damage to the what pathway",
-    "text": "Damage to the what pathway\n\n\n\nDamage to ventral visual cortex can spare basic vision. Patients may see objects clearly but fail to identify or discriminate objects.\n\n\nProsopagnosia is a selective impairment in face recognition.\nAffected individuals:\n\nCan (or cannot, in severe cases) see faces\n\nCannot recognize faces\n\nOther visual abilities are often preserved.\n\n\n\nIndividuals with prosopagnosia often rely on:\n\nVoice\n\nClothing\n\nContextual cues"
+    "text": "Damage to the what pathway\n\n\n\nDamage to ventral visual cortex can spare basic vision. Patients may see objects clearly but fail to identify or discriminate objects.\n\n\nProsopagnosia is a selective impairment in face recognition.\nAffected individuals:\n\nCan (or cannot, in severe cases) see faces\n\nCannot recognize faces\n\n\nOther visual abilities are often preserved.\n\n\n\n\nIndividuals with prosopagnosia often rely on:\n\nVoice\n\nClothing\n\nContextual cues"
   },
   {
     "objectID": "5_sensory.html#what-prosopagnosia-reveals",
     "href": "5_sensory.html#what-prosopagnosia-reveals",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "What prosopagnosia reveals",
-    "text": "What prosopagnosia reveals\n\n\n\nProsopagnosia demonstrates that:\n\nFace recognition is neurally specialized\n\nVision and recognition can dissociate\n\nThe higher order cortical areas can act as expert systems\n\nSeeing is not the same as knowing.\n\n\nAn expert system is a neural network that:\n\nIs highly selective\n\nEncodes complex, meaningful patterns\n\nResponds efficiently to familiar categories\n\n\n\n\nWe discriminate faces:\n\nRapidly (100-400 ms)\nAutomatically\n\nWith high precision\n\n\n\nThe grandmother neuron hypothesis proposes that:\n\nA single neuron represents a specific, complex concept\n\nFor example, one neuron for your grandmother"
+    "text": "What prosopagnosia reveals\n\n\n\nProsopagnosia demonstrates that:\n\nFace recognition is neurally specialized\n\nVision and recognition can dissociate\n\nThe higher order cortical areas can act as expert systems\n\n\n\nAn expert system is a neural network that:\n\nIs highly selective\n\nEncodes complex, meaningful patterns\n\nResponds efficiently to familiar categories\n\n\n\n\nWe discriminate faces:\n\nRapidly (100-400 ms)\nAutomatically\n\nWith high precision\n\n\n\nThe grandmother neuron hypothesis proposes that:\n\nA single neuron represents a specific, complex concept\n\nFor example, one neuron for your grandmother"
   },
   {
     "objectID": "5_sensory.html#problems-with-grandmother-neurons",
     "href": "5_sensory.html#problems-with-grandmother-neurons",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Problems with grandmother neurons",
-    "text": "Problems with grandmother neurons\n\n\n\nA strict grandmother neuron model would be:\n\nFragile to cell loss\n\nInflexible\n\nInefficient for representing many identities\n\nMost neuroscientists reject this literal interpretation.\n\n\nThese neurons do not encode a single image. They respond to an abstract identity. They are better understood as:\n\nHighly selective nodes\n\nWithin a distributed representation\n\nNot isolated concept holders.\n\n\n\nHigher-order cortex likely uses sparse coding.\nThis means:\n\nFew neurons respond strongly\n\nMany neurons contribute weakly\n\nRepresentations are distributed but efficient\n\nThis balances specificity and robustness."
+    "text": "Problems with grandmother neurons\n\n\n\nA strict grandmother neuron model would be:\n\nFragile to cell loss\n\nInflexible\n\nInefficient for representing many identities\n\nMost neuroscientists reject this literal interpretation.\n\n\n\nHigher-order cortex likely uses sparse coding.\nThis means:\n\nFew neurons respond strongly\n\nMany neurons contribute weakly\n\nRepresentations are distributed but efficient\n\nThis balances specificity and robustness."
   },
   {
     "objectID": "5_sensory.html#spatial-localization-deficits",
@@ -648,35 +648,35 @@
     "href": "5_sensory.html#the-somatosensory-system",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "The somatosensory system",
-    "text": "The somatosensory system\nThe sense of touch allows the nervous system to detect mechanical stimulation of the body. Touch is not a single sense. It is a collection of specialized channels working together.\n\n\n\nIt provides information about:\n\nContact\n\nPressure\n\nVibration\n\nStretch\n\nTouch is essential for interaction with the environment.\n\n\n\n\n\n\n\n\nThe somatosensory system includes multiple modalities:\n\nLight touch\n\nPressure and vibration\n\nSkin stretch\n\nProprioception\n\nPain and temperature\n\nThese modalities are detected by different receptor types."
+    "text": "The somatosensory system\nThe sense of touch allows the nervous system to detect mechanical stimulation of the body. Touch is not a single sense. It is a collection of specialized channels working together.\n\n\n\nIt provides information about:\n\nLight touch\n\nPressure and vibration\n\nSkin stretch\n\nProprioception\n\nPain and temperature\n\nTouch is essential for interaction with the environment.\n\n\n\n\n\n\n\n\nThe somatosensory system includes multiple modalities and these modalities are detected by different receptor types."
   },
   {
     "objectID": "5_sensory.html#mechanoreceptors",
     "href": "5_sensory.html#mechanoreceptors",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Mechanoreceptors",
-    "text": "Mechanoreceptors\n\nTouch begins at mechanoreceptors. These receptors convert mechanical forces into neural signals. Each type is tuned to specific stimulus properties.\n\n\n\n\nKey mechanoreceptors in the skin include:\n\nMeissner corpuscles\nSensitive to motion and light touch\nMerkel cells\nDetect edges and fine detail\nPacinian corpuscles\nDetect vibration\nRuffini endings\nDetect skin stretch"
+    "text": "Mechanoreceptors\n\nTouch begins at mechanoreceptors. These receptors convert mechanical forces into neural signals. Each type is tuned to specific stimulus properties.\n\n\n\n\nKey mechanoreceptors in the skin include:\n\nMeissner corpuscles\nSensitive to motion and light touch\nMerkel cells\nDetect edges and fine detail \nPacinian corpuscles\nDetect vibration\nRuffini endings\nDetect skin stretch"
   },
   {
     "objectID": "5_sensory.html#spatial-acuity",
     "href": "5_sensory.html#spatial-acuity",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Spatial acuity",
-    "text": "Spatial acuity\n\n\n\nEach mechanoreceptor has a receptive field. This is the region of skin where stimulation affects that receptor. Smaller receptive fields allow finer spatial resolution.\n\n\nTouch sensitivity is not uniform across the body.\nRegions such as:\n\nFingertips\n\nLips\n\nHave higher receptor density and smaller receptive fields.\n\n\n\nTouch intensity is encoded by:\n\nFiring rate\n\nNumber of activated receptors\n\n\n\nSomatosensory information travels from:\n\nPeripheral receptors\n\nThrough spinal nerves\n\nInto the central nervous system\n\nThis information is organized and preserved along the pathway."
+    "text": "Spatial acuity\n\n\n\nEach mechanoreceptor has a receptive field. Smaller receptive fields allow finer spatial resolution.\n\n\nTouch sensitivity is not uniform across the body.\nRegions such as:\n\nFingertips\n\nLips\n\nHave higher receptor density and smaller receptive fields.\n\n\n\nTouch intensity is encoded by:\n\nFiring rate\n\nNumber of activated receptors\n\n\n\nSomatosensory information travels from:\n\nPeripheral receptors\n\nThrough spinal nerves\n\nInto the CNS\n\nThis information is organized and preserved along the pathway."
   },
   {
     "objectID": "5_sensory.html#two-major-somatosensory-pathways",
     "href": "5_sensory.html#two-major-somatosensory-pathways",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Two major somatosensory pathways",
-    "text": "Two major somatosensory pathways\n\n\nSomatosensory information reaches the brain through two main pathways.\nThey differ in:\n\nThe type of information they carry\n\nTheir anatomical routes\n\nTheir functional roles\n\n\nThe dorsal column pathway carries:\n\nFine touch\n\nVibration\n\nProprioception\n\nThis pathway supports precise spatial and discriminative touch.\n\n\n\nIn the dorsal column pathway:\n\nPrimary afferents enter the spinal cord\n\nAscend ipsilaterally in the dorsal columns\n\nSynapse in the medulla\n\nCross to the contralateral side\n\nProject to the thalamus"
+    "text": "Two major somatosensory pathways\n\n\nSomatosensory information reaches the brain through two main pathways. They differ in:\n\nThe type of information they carry\n\nTheir anatomical routes\n\nTheir functional roles\n\n\nThe dorsal column pathway carries:\n\nFine touch\n\nVibration\n\nProprioception\n\nThis pathway supports precise spatial and discriminative touch.\n\n\n\nIn the dorsal column pathway:\n\nPrimary afferents enter the spinal cord\n\nAscend ipsilaterally in the dorsal columns\n\nSynapse in the Medulla\n\nCross to the contralateral side\n\nProject to the Thalamus\nThe Thalamus relay to the Primary Somatosensory Cortex"
   },
   {
     "objectID": "5_sensory.html#spinothalamic-pathway",
     "href": "5_sensory.html#spinothalamic-pathway",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Spinothalamic pathway",
-    "text": "Spinothalamic pathway\n\n\n\nThe spinothalamic pathway carries:\n\nPain\n\nTemperature\n\nIt is specialized for detecting potentially harmful stimuli.\n\n\n\nIn the spinothalamic pathway:\n\nPrimary afferents enter the spinal cord\n\nSynapse almost immediately\n\nCross to the contralateral side near entry\n\nAscend to the thalamus\n\n\n\n\nThe two pathways differ in function:\n\nDorsal column\nPrecise, fast, spatially accurate\nSpinothalamic\nCoarser, slower, protective"
+    "text": "Spinothalamic pathway\n\n\n\nThe spinothalamic pathway carries:\n\nPain\n\nTemperature\n\nIt is specialized for detecting potentially harmful stimuli.\n\n\n\nIn the spinothalamic pathway:\n\nPrimary afferents enter the spinal cord\n\nSynapse almost immediately\n\nCross to the contralateral side near entry\n\nAscend to the Thalamus\n\nThe Thalamus relay to the Primary Somatosensory Cortex\n\n\n\nThe two pathways differ in function:\n\nDorsal column\nPrecise, fast, spatially accurate\nSpinothalamic\nCoarser, slower, protective"
   },
   {
     "objectID": "5_sensory.html#somatosensory-pathways",
@@ -690,14 +690,14 @@
     "href": "5_sensory.html#S1",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Primary somatosensory cortex",
-    "text": "Primary somatosensory cortex\n\n\n\nSomatosensory information reaches primary somatosensory cortex (S1). S1 is located in the postcentral gyrus. It contains an ordered map of the body (Somatotopy).\n\n\nSomatotopy means that:\n\nBody position is mapped systematically\n\nNeighboring body regions map to neighboring neural regions\n\n\n\n\n\nThe sensory homunculus is a distorted body map. Body parts with high sensory acuity occupy more cortical space. Hands, lips, and face are overrepresented."
+    "text": "Primary somatosensory cortex\n\n\n\nSomatosensory information reaches primary somatosensory cortex (S1). S1 is located in the postcentral gyrus. It contains an ordered map of the body (‘Somatotopy’).\n\n\nSomatotopy means that:\n\nBody position is mapped systematically\n\nNeighboring body regions map to neighboring neural regions\n\n\n\n\n\nThe sensory homunculus is a distorted body map. Body parts with high sensory acuity occupy more cortical space. Hands, lips, and face are overrepresented."
   },
   {
     "objectID": "5_sensory.html#cortical-magnification-and-lesions",
     "href": "5_sensory.html#cortical-magnification-and-lesions",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Cortical magnification and Lesions",
-    "text": "Cortical magnification and Lesions\n\n\n\nCortical representation does not reflect body size.\nIt reflects:\n\nReceptor density\n\nBehavioral relevance\n\nThis parallels foveal magnification in vision.\n\n\n\nLesions in somatosensory cortex produce:\n\nLoss of sensation in specific body regions\n\nDeficits that reflect the cortical map\n\nThe pattern of loss reveals underlying organization."
+    "text": "Cortical magnification and Lesions\n\n\n\nCortical representation does not reflect body size.\nIt reflects:\n\nReceptor density\n\nBehavioral relevance\n\nThis parallels foveal magnification in vision.\n\n\n\nLesions in somatosensory cortex produce:\n\nLoss of sensation in specific body regions\n\nDeficits that reflect the cortical map\n\nThe pattern of loss reveals underlying organization.\n\n\nIf you want to create your Homunculus click here"
   },
   {
     "objectID": "5_sensory.html#pain-as-a-distinct-system",
@@ -753,7 +753,7 @@
     "href": "5_sensory.html#from-ear-to-brain",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "From ear to brain",
-    "text": "From ear to brain\n\nBrainstem\n\nThe first synapse occurs in the cochlear nuclei of the brainstem. Information is split into parallel pathways. Different aspects of sound are processed simultaneously.\n\n\nThe superior olivary complex is a key site for sound localization. It integrates input from both ears. Different nuclei specialize in timing and intensity comparisons.\n\n\n\nFrom the brainstem, signals ascend through:\n\nInferior colliculus\n\nMedial Geniculate Nucleus (Thalamus)"
+    "text": "From ear to brain\n\nBrainstem\n\nThe first synapse occurs in the cochlear nuclei of the brainstem. Information is split into parallel pathways. Different aspects of sound are processed simultaneously.\n\n\nThe superior olivary complex is a key site for sound localization. It integrates input from both ears. Different nuclei specialize in timing and intensity comparisons.\n\n\n\nFrom the brainstem, signals ascend through:\n\nInferior colliculus (Midbrain)\n\nMedial Geniculate Nucleus (Thalamus)"
   },
   {
     "objectID": "5_sensory.html#interaural-level-differences",
@@ -767,7 +767,7 @@
     "href": "5_sensory.html#primary-auditory-cortex",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Primary auditory cortex",
-    "text": "Primary auditory cortex\nThe primary auditory cortex is the first cortical stage of hearing. It is located in the temporal lobe. It receives organized input from the thalamus.\n\n\n\nPrimary auditory cortex is organized tonotopically: Neighboring neurons respond to neighboring sound frequencies.\n\n\nCortical magnification: Frequencies important for communication occupy more cortical space. Representation reflects behavioral relevance, not physical frequency spacing.\n\n\n\nDamage to primary auditory cortex rarely causes deafness.\nInstead, it impairs:\n\nSound discrimination\n\nComplex auditory perception\n\nBasic hearing often remains intact."
+    "text": "Primary auditory cortex\nThe primary auditory cortex (A1) is the first cortical stage of hearing. It is located in the temporal lobe. It receives organized input from the thalamus.\n\n\n\nPrimary auditory cortex is organized tonotopically: Neighboring neurons respond to neighboring sound frequencies.\n\n\nCortical magnification: Frequencies important for communication occupy more cortical space. Representation reflects behavioral relevance, not physical frequency spacing.\n\n\n\nDamage to primary auditory cortex rarely causes deafness.\nInstead, it impairs:\n\nSound discrimination\n\nComplex auditory perception\n\n\nBasic hearing often remains intact."
   },
   {
     "objectID": "5_sensory.html#beyond-primary-auditory-cortex",
@@ -1951,5 +1951,12 @@
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Self-check",
     "text": "Self-check"
+  },
+  {
+    "objectID": "5_sensory.html#localize-sound",
+    "href": "5_sensory.html#localize-sound",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Localize Sound",
+    "text": "Localize Sound\n\n\n\nTo localize sound we use Interaural level differences that arise from sound shadowing by the head. They are most informative for high-frequency sounds. These differences are computed in brainstem circuits.\n\n\nThe auditory system uses two main interaural cues:\n\nInteraural time differences (due to speed of sound)\nInteraural amplitude differences (due to the acoustic shadow)"
   }
 ]
