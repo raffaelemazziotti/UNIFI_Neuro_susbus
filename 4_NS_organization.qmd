@@ -263,7 +263,7 @@ Information flows in two directions:
 ::: 
 ::: 
 
-## Somatic nervous system
+## Somatic nervous system {#somatic}
 
 ::: columns
 ::: column

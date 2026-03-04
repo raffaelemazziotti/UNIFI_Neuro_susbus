@@ -822,11 +822,11 @@ Vision is dynamic, not strictly hierarchical.
 :::
 
 :::info-box
-Higher-order areas send feedback to earlier visual cortex (`top-down` stream).
+Higher-order areas <u>send feedback</u> to earlier visual cortex (`top-down` stream).
 
-- Attention  
-- Contextual effects
-- Prediction
+- `Attention`  
+- `Contextual` effects
+- `Prediction`
 :::
 
 :::
@@ -944,6 +944,10 @@ The [grandmother neuron]{.highlight} hypothesis proposes that:
 :::
 :::
 
+## What prosopagnosia reveals
+
+![](images/sens_face_feedforward.png){width="200" fig-align="center"}
+
 ## Problems with grandmother neurons
 
 :::columns
@@ -970,7 +974,7 @@ This means:
 
 - `Few` neurons <u>respond strongly</u>  
 - `Many` neurons <u>contribute weakly</u>  
-- Representations are distributed but `efficient`  
+- Representations are <u>distributed</u> but `efficient`  
 
 This balances specificity and robustness.
 :::
@@ -1042,7 +1046,7 @@ The somatosensory system includes multiple modalities and these modalities are d
 
 ## Mechanoreceptors {#mechanoreceptors}
 
->Touch begins at [mechanoreceptors]{.highlight}.
+>Touch begins at [mechanoreceptors](https://www.youtube.com/watch?v=bHHPEUbaGac).
 These receptors convert `mechanical forces` <u>into neural signals</u>. Each type is tuned to specific stimulus properties.
 
 :::columns
