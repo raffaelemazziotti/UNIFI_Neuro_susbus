@@ -49,7 +49,7 @@ It must decide:
 ![](images/emot_priorities.jpg){width="400" fig-align="center"}
 
 :::info-box
-Emotion and motivation are tightly linked.
+Emotion and motivation are <u>tightly linked</u>.
 Both contribute to:
 
 - `Prioritizing` information  
@@ -64,11 +64,13 @@ Both contribute to:
 
 ## A functional definition of emotion
 
+:::card
 Emotion can be defined as:
 
 A `coordinated` brain-body `state` that `assigns value` to a situation and prepares action.
 The terms `emotion` and `feeling` are often used interchangeably.
-In neuroscience, they refer to related but distinct processes.
+In neuroscience, they refer to related but <u>distinct</u> processes.
+:::
 
 :::columns
 :::column
@@ -80,7 +82,7 @@ In neuroscience, they refer to related but distinct processes.
 - Brain `circuits`  
 - Bodily `responses`  
 - Action tendencies  
-- Occur without conscious awareness
+- Occur `without` conscious <u>awareness</u>
 :::
 
 :::
@@ -110,8 +112,7 @@ They reflect:
 
 `Feelings` depend more strongly on `cortical processing`.
 
-`Emotions typically occur first`.
-Feelings emerge later, if at all.
+`Emotions typically occur first`. Feelings emerge later, if at all.
 
 :::
 :::column
@@ -120,8 +121,8 @@ Feelings emerge later, if at all.
 
 You can have:
 
-- Emotions without feelings  
-- But not feelings without emotions  
+- `Emotions without feelings`  
+- `But not feelings without emotions`  
 :::
 
 :::
@@ -153,7 +154,7 @@ The brain acts before the mind explains.
 ::: columns
 ::: column
 
-There is no single “emotion center”.
+There is no single `emotion center`.
 
 :::info-box
 Several brain regions are consistently involved in emotion-related processes:
@@ -322,7 +323,7 @@ Training phase
 During the test phase
 
 - The tone is presented alone  
-- Often in a 'different context'
+- Often in a `different context`
 
 >If learning occurred, the CS alone elicits fear responses.
 
@@ -369,19 +370,19 @@ Regulation does not mean suppression.
 Different prefrontal subregions contribute differently:
 
 - `Ventrolateral` prefrontal cortex  
-  Value, emotional meaning, safety  
+  <u>Value</u>, <u>emotional meaning</u>, <u>safety</u>  
 
 - `Dorsolateral` prefrontal cortex  
-  Cognitive control and reappraisal  
+  <u>Cognitive control</u> and <u>reappraisal</u>  
 
 - `Orbitofrontal` cortex  
-  Outcome evaluation and updating  
+  <u>Outcome evaluation</u> and updating  
 
 :::info-box
 One key regulatory strategy is [reappraisal](https://pmc.ncbi.nlm.nih.gov/articles/PMC6188704/).
 Reappraisal involves:
 
-- Changing how a situation is interpreted  
+- <u>Changing how a situation is interpreted</u>  
 - Altering emotional impact  
 
 This strategy strongly recruits prefrontal regions.
@@ -399,9 +400,9 @@ Prefrontal cortex regulates emotion through `top-down control`.
 
 It can influence:
 
-- Amygdala activity  
-- Autonomic responses  
-- Behavioral expression  
+- `Amygdala activity`  
+- `Autonomic responses`  
+- `Behavioral expression`  
 
 :::
 
@@ -420,11 +421,11 @@ This maturation timeline has important behavioral consequences.
 :::info-box
 During `adolescence`:
 
-- Subcortical emotion-related systems are largely matured  
-- Emotional reactivity is strong  
-- Prefrontal regulatory systems are still developing  
+- `Subcortical emotion-related systems are largely matured`  
+- `Emotional reactivity is strong`  
+- `Prefrontal` regulatory systems are `still developing`  
 
-Emotion generation is functional, regulation is not yet fully mature.
+Emotion generation is functional but regulation is not yet fully mature.
 :::
 
 ::: 
@@ -449,15 +450,15 @@ This imbalance contributes to increased emotional intensity and `risk-taking`.
 ::: columns
 ::: column
 
->Fear learning is not permanent and inflexible.
-Fear responses can be reduced when the threat is no longer present.
+>Fear learning is <u>not permanent and inflexible</u>.
+Fear responses can be <u>reduced when the threat is no longer present</u>.
 This process is called `fear extinction`.
 
 :::info-box
 During extinction:
 
-- The conditioned stimulus (CS) is presented repeatedly  
-- The unconditioned stimulus (US) is omitted
+- The `CS` is `presented` repeatedly  
+- The `US` is `omitted`
 
 Over time, fear responses decrease.
 Extinction is a `new form of learning`.
@@ -468,17 +469,17 @@ Extinction is a `new form of learning`.
 
 :::info-box
 
-Extinction does **not** erase the original fear memory.
+Extinction does <u>not erase</u> the original fear memory.
 The CS-US association remains stored.
 Fear expression is `modulated`, not deleted.
 
 Fear responses can `reappear`:
 
-- After time has passed  
-- In a different context  
-- After stress  
+- `After time has passed` 
+- In a `different context`  
+- `After stress`  
 
-This shows that the original memory persists.
+>This shows that the original memory `persists`.
 
 :::
 
@@ -492,12 +493,12 @@ This shows that the original memory persists.
 ::: column
 During extinction:
 
-- Prefrontal cortex activity increases  
-- Amygdala-driven fear responses decrease  
+- `Prefrontal` cortex activity `increases`  
+- `Amygdala-driven fear` responses `decrease`  
 
 This reflects `top-down` inhibitory control.
 In rodents, extinction depends strongly on the `infralimbic cortex`.
-The infralimbic cortex is considered homologous to ventromedial prefrontal regions in humans.
+The infralimbic cortex is considered <u>homologous to ventromedial prefrontal</u> regions in humans.
 
 ::: 
 ::: column
@@ -512,6 +513,7 @@ The infralimbic cortex is considered homologous to ventromedial prefrontal regio
 ::: columns
 ::: column
 
+:::info-box
 Motivation is the `inner drive` that initiates, guides, and sustains goal-directed behavior
 Motivation refers to processes that:
 
@@ -520,7 +522,9 @@ Motivation refers to processes that:
 
 Motivation answers the question:
 
-*Why act at all?*
+>Why act at all?
+
+:::
 
 :::
 :::column
@@ -560,8 +564,8 @@ These processes can be dissociated.
 :::info-box
 Motivation depends on `interactions` between:
 
-- `Cortical` decision and control regions (Wanting)
-- `Subcortical` reward-related systems (Liking)
+- `Cortical` <u>decision and control</u> regions (Wanting)
+- `Subcortical` <u>reward</u>-related systems (Liking)
 
 These systems bias action selection.
 
@@ -575,16 +579,16 @@ These systems bias action selection.
 
 It is involved in:
 
-- Learning from outcomes  
-- Predicting future rewards  
+- <u>Learning</u> from outcomes  
+- <u>Predicting</u> future rewards  
 
 >Dopamine signals are not simple pleasure signals.
 
 Two major dopaminergic pathways:
 
-- `Mesolimbic` pathway: Involved in reward prediction and reinforcement  
+- `Mesolimbic` pathway: Involved in <u>reward prediction</u> and reinforcement  
 
-- `Mesocortical` pathway: Involved in decision-making, cognitive control, and goal maintenance  
+- `Mesocortical` pathway: Involved in <u>decision-making</u>, cognitive control, and goal maintenance  
 
 
 :::
@@ -604,21 +608,19 @@ Two major dopaminergic pathways:
 :::info-box
 Motivational signals influence:
 
-- Basal nuclei and motor planning areas  
-- Decision-making circuits  
+- `Basal nuclei` and `motor planning` areas  
+- `Decision-making` circuits  
 
 They `bias` which actions are selected and executed.
 :::
 
 :::info-box
-Dopamine neurons respond to:
+`Dopamine neurons` respond to:
 
-- Unexpected rewards  
-- Cues that predict rewards  
+- `Unexpected` rewards  
+- `Cues that predict rewards`  
 
-Over learning, activity `shifts` from outcome to predictor.
-
-This supports adaptive behavior.
+Over learning, activity `shifts` from outcome to predictor. This supports adaptive behavior.
 :::
 
 ::: 
@@ -644,10 +646,10 @@ This signal is called a [reward prediction error]{.highlight}.
 :::info-box
 A reward prediction error reflects the difference between:
 
-- Expected outcome  
-- Actual outcome  
+- `Expected` outcome  
+- `Actual` outcome  
 
-This signal is used to update future behavior.
+This signal is used to `update` <u>future behavior</u>.
 Prediction error signals:
 
 - `Update` value representations
@@ -667,11 +669,11 @@ Dopamine activity reflects prediction error:
 
 - Reward is `worse` than expected or omitted: dopamine activity [decreases]{.highlight}   
 
-Learning occurs when expectations are `violated`.
+Learning occurs when <u>expectations are </u>`violated`.
 Over learning:
 
-- Dopamine responses shift from reward to predictive cues  
-- The brain learns what predicts valuable outcomes  
+- Dopamine responses <u>shift</u> from reward to predictive cues  
+- <u>The brain learns what predicts valuable outcomes</u>  
 
 This supports adaptive, `flexible` behavior.
 
@@ -690,19 +692,19 @@ This supports adaptive, `flexible` behavior.
 ::: column
 
 :::tip
-Stress is not an emotion.
-Stress is a `physiological response` to challenge or threat.
+Stress is `not` an emotion.
+Stress is a <u>physiological </u>`response` to challenge or threat.
 It prepares the organism to cope with demands.
 :::
 
 :::info-box
 Stress refers to `coordinated brain and body responses` that:
 
-- Mobilize energy  
-- Increase vigilance  
-- Promote adaptive action  
+- `Mobilize energy`  
+- `Increase vigilance`  
+- `Promote adaptive action`  
 
-Stress is `adaptive` by design.
+Stress is <u>adaptive</u> by design.
 :::
 
 ::: 
@@ -712,17 +714,17 @@ Stress is `adaptive` by design.
 The body responds to stress through 2 major systems:
 
 - The `autonomic` nervous system  
-- The hypothalamic–pituitary–adrenal (`HPA`) axis  
+- The <u>hypothalamic-pituitary-adrenal (`HPA`) axis</u>  
 
 These systems operate on `different time scales`.
 
 - `Autonomic responses` 
-  Fast, neural, seconds  
+  <u>Fast</u>, <u>neural</u>, seconds  
 
 - `HPA axis responses`
-  Slower, hormonal, minutes to hours  
+  <u>Slower</u>, <u>hormonal</u>, minutes to hours  
 
-Both are coordinated but serve different functions.
+Both are `coordinated` but serve different functions.
 
 :::
 
@@ -731,22 +733,22 @@ Both are coordinated but serve different functions.
 
 ## Autonomic responses in stress
 
-During stress, the autonomic system (the sympathetic division) produces rapid effects:
+During stress, the autonomic system (the `sympathetic division`) produces rapid effects:
 
-- Increased heart rate  
-- Increased blood pressure  
-- Faster breathing  
-- Reduced digestion  
+- `Increased heart rate`  
+- `Increased blood pressure`  
+- `Faster breathing`  
+- `Reduced digestion`  
 
-These changes prepare the body for immediate action.
+>These changes prepare the body for immediate action.
 
 ## The HPA axis {#hpa}
 
 ::: columns
 ::: column
 
->The **HPA axis** is a hormonal stress response system.
-It `links` the `brain to peripheral` organs through endocrine signaling.
+>The `HPA axis` is a hormonal stress response system.
+It `links` the `brain to peripheral` organs through <u>endocrine signaling</u>.
 It produces slower but longer-lasting effects than autonomic responses.
 
 During stress:
@@ -774,8 +776,8 @@ This cascade is a loop.
 Glucocorticoids, such as cortisol:
 
 - Increase `glucose` availability  
-- Decrease sensitivity to pain
-- Modify immune and metabolic activity  
+- `Decrease sensitivity to pain`
+- `Modify immune and metabolic activity`  
 
 They `prepare the body` for prolonged challenge.
 
@@ -799,18 +801,18 @@ Stress responses differ in duration.
 
 - `Chronic` stress: Prolonged, costly, potentially damaging  
 
-The difference lies in regulation, not intensity.
+The <u>difference lies in regulation, not intensity</u>.
 :::
 
 ::: info-box
 The HPA axis is regulated by the brain.
 Key contributors include:
 
-- Amygdala  
-- Prefrontal cortex  
-- Hippocampus  
+- `Amygdala`  
+- `Prefrontal cortex`  
+- `Hippocampus`  
 
-Stress is not just peripheral.
+Stress is <u>not just peripheral</u>.
 :::
 
 ::: 
