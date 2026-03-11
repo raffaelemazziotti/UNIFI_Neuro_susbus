@@ -1817,14 +1817,14 @@
     "href": "8_Neuroplasticity.html#neuroplasticity",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Neuroplasticity",
-    "text": "Neuroplasticity\n\n\n\nSynaptic Plasticity\nSynaptic plasticity refers to changes in the effectiveness of communication\nbetween a presynaptic neuron and one or more postsynaptic neurons. It can involve:\n\nFunctional\n\nChanges in the efficacy of existing synaptic contacts\n\nStructural\n\nFormation of new synaptic contacts\n(structural plasticity)\nElimination of existing synaptic contacts\n(structural plasticity)\n\n\n\n\n\nAdult Neurogenesis\nAdult neurogenesis refers to the generation of new neurons\nthat integrate into pre-existing neural circuits.\nIt occurs only in specific brain structures:\n\nHippocampus\nOlfactory bulb\nNot in the cerebral cortex"
+    "text": "Neuroplasticity\n\n\n\nSynaptic Plasticity\nSynaptic plasticity refers to changes in the effectiveness of communication\nbetween a presynaptic neuron and one or more postsynaptic neurons. It can involve:\n\nFunctional\n\nChanges in the efficacy of existing synaptic contacts\n\nStructural\n\nFormation of new synaptic contacts\nElimination of existing synaptic contacts\n\n\n\n\n\nAdult Neurogenesis\nAdult neurogenesis refers to the generation of new neurons\nthat integrate into pre-existing neural circuits.\nIt occurs only in specific brain structures:\n\nHippocampus\nOlfactory bulb\nNot in the cerebral cortex"
   },
   {
     "objectID": "8_Neuroplasticity.html#the-rules-of-synaptic-plasticity",
     "href": "8_Neuroplasticity.html#the-rules-of-synaptic-plasticity",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "The rules of Synaptic Plasticity",
-    "text": "The rules of Synaptic Plasticity\n\nNot all changes in electrical activity induce plasticity phenomena in a neural circuit.\n\n\nHebb’s Principle\nHebb’s principle states that if a presynaptic neuron A repeatedly activates\na postsynaptic neuron B, the synaptic connection between A and B is strengthened\n(1949).\nA corollary of Hebb’s principle\nIf neuron A repeatedly fails to activate neuron B,\nthe synaptic connection between A and B is weakened.\n\nNeurons that fire together, wire together."
+    "text": "The rules of Synaptic Plasticity\n\nNot all changes in electrical activity induce plasticity phenomena in a neural circuit.\n\n\nHebb’s Principle\nHebb’s principle states that if a presynaptic neuron A repeatedly activates\na postsynaptic neuron B, the synaptic connection between A and B is strengthened (1949).\nA corollary of Hebb’s principle\nIf neuron A repeatedly fails to activate neuron B,\nthe synaptic connection between A and B is weakened.\n\nNeurons that fire together, wire together."
   },
   {
     "objectID": "8_Neuroplasticity.html#detecting-correlated-activity",
@@ -1845,7 +1845,7 @@
     "href": "8_Neuroplasticity.html#long-term-potentiation-ltp",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Long-term potentiation (LTP)",
-    "text": "Long-term potentiation (LTP)\nLong-term potentiation (LTP) is a persistent increase\nin synaptic efficacy following correlated activity.\n\nLTP is considered a cellular mechanism of learning and memory."
+    "text": "Long-term potentiation (LTP)\nLong-term potentiation (LTP) is a persistent increase in synaptic efficacy following correlated activity. HFS: High Frequency Stimulation\n\nLTP is considered a cellular mechanism of learning and memory."
   },
   {
     "objectID": "8_Neuroplasticity.html#effects-of-synaptic-plasticity",
@@ -1873,7 +1873,7 @@
     "href": "8_Neuroplasticity.html#synaptic-weakening-1",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Synaptic weakening",
-    "text": "Synaptic weakening"
+    "text": "Synaptic weakening\n\n\nHFS: High Frequency Stimulation LFS: Low Frequency Stimulation"
   },
   {
     "objectID": "8_Neuroplasticity.html#the-instability-problem",
@@ -1901,14 +1901,14 @@
     "href": "8_Neuroplasticity.html#adult-neurogenesis",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Adult neurogenesis",
-    "text": "Adult neurogenesis\n\n\nThe richness of the environment affects neural plasticity\nnot only at synapses, but also at the level of cell generation.\n\nThis process is called adult neurogenesis.\n\n\nAdult neurogenesis refers to the generation of new neurons\nthat integrate into pre-existing neural circuits.\nFor a long time, this was believed to occur only during development.\nAdult neurons were considered a non-renewable population.\n\n\n\nThe presence of adult neurogenesis was demonstrated\nby Fernando Nottebohm in the late 1980s.\nThis discovery challenged a long-standing dogma in neuroscience."
+    "text": "Adult neurogenesis\n\n\nThe richness of the environment affects neural plasticity not only at synapses, but also at the level of cell generation.\n\nThis process is called adult neurogenesis.\n\n\nAdult neurogenesis refers to the generation of new neurons that integrate into pre-existing neural circuits.\nFor a long time, this was believed to occur only during development.\nAdult neurons were considered a non-renewable population.\n\n\n\nThe presence of adult neurogenesis was demonstrated by Fernando Nottebohm in the late 1980s.\nThis discovery challenged a long-standing dogma in neuroscience."
   },
   {
     "objectID": "8_Neuroplasticity.html#neurogenesis-in-adult-birds-and-mammals",
     "href": "8_Neuroplasticity.html#neurogenesis-in-adult-birds-and-mammals",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Neurogenesis in adult birds and mammals",
-    "text": "Neurogenesis in adult birds and mammals\n\n\nIn adult birds, neurogenesis occurs in:\n\nSong nuclei\n\nHippocampus\n\nThese neurons were proposed to support:\n\nSeasonal song learning\n\nMemory for food cache locations\n\nAdult neurogenesis is linked to learning and memory.\n\nIn the late 1990s, adult neurogenesis was also demonstrated\nin adult mammals, including humans.\nHowever, it occurs only in specific brain regions.\n\n\nIn adult mammals, neurogenesis occurs mainly in:\n\nThe dentate gyrus of the hippocampus\n\nThere is no clear evidence for neurogenesis in:\n\nNeocortical areas\n\nAdult neurogenesis is spatially restricted."
+    "text": "Neurogenesis in adult birds and mammals\n\n\nIn adult birds, neurogenesis occurs in:\n\nSong nuclei\n\nHippocampus\n\nThese neurons were proposed to support:\n\nSeasonal song learning\n\nMemory for food cache locations\n\nAdult neurogenesis is linked to learning and memory.\n\nIn the late 1990s, adult neurogenesis was also demonstrated in adult mammals, including humans.\nHowever, it occurs only in specific brain regions.\n\n\nIn adult mammals, neurogenesis occurs mainly in:\n\nThe dentate gyrus of the hippocampus\n\nThere is no evidence for neurogenesis in:\n\nNeocortical areas\n\nAdult neurogenesis is spatially restricted."
   },
   {
     "objectID": "8_Neuroplasticity.html#estimating-neuron-birth-in-humans",

@@ -175,7 +175,7 @@ way.
 ::: column
 
 :::info-box
-[Synaptic Plasticity]{.higlight}
+[Synaptic Plasticity]{.highlight}
 
 Synaptic plasticity refers to changes in the effectiveness of communication  
 between a presynaptic neuron and one or more postsynaptic neurons.
@@ -184,17 +184,16 @@ It can involve:
 - [Functional]{.highlight}
   - Changes in the `efficacy` of existing synaptic contacts
 - [Structural]{.highlight}
-  - `Formation` of new synaptic contacts  
-    (structural plasticity)
+  - `Formation` of new synaptic contacts
   - `Elimination` of existing synaptic contacts  
-    (structural plasticity)
+
 :::
 
 ::: 
 ::: column
 
 :::info-box
-Adult Neurogenesis
+[Adult Neurogenesis]{.highlight}
 
 Adult neurogenesis refers to the `generation of new neurons`  
 that integrate into pre-existing neural circuits.
@@ -217,18 +216,17 @@ It occurs `only` in specific brain structures:
 neural circuit.
 
 :::info-box
-Hebb’s Principle
+[Hebb’s Principle]{.highlight}
 
-Hebb’s principle states that if a presynaptic neuron **A** repeatedly activates  
-a postsynaptic neuron **B**, the synaptic connection between **A** and **B** is strengthened  
-(1949).
+Hebb’s principle states that if a presynaptic neuron A repeatedly activates  
+a postsynaptic neuron B, the synaptic connection between A and B is <u>strengthened</u> (1949).
 
 A corollary of Hebb’s principle
 
-If neuron **A** repeatedly fails to activate neuron **B**,  
-the synaptic connection between **A** and **B** is weakened.
+If neuron A repeatedly fails to activate neuron B,  
+the synaptic connection between A and B is <u>weakened</u>.
 
->Neurons that fire together, wire together.
+>Neurons that <u>fire together, wire together</u>.
 
 :::
 
@@ -243,10 +241,10 @@ It acts as a `coincidence detector`.
 :::info-box
 [NMDA]{.highlight} receptors require `two conditions` to be met:
 
-- Glutamate release from the `presynaptic` neuron  
-- Depolarization of the `postsynaptic` membrane  
+- <u>Glutamate release</u> from the `presynaptic` neuron  
+- <u>Depolarization</u> of the `postsynaptic` membrane  
 
->At resting membrane potential the NMDA receptor channel is blocked by a magnesium ion.
+>At resting membrane potential the NMDA receptor channel is blocked by a <u>magnesium ion</u>.
 Glutamate alone is not sufficient to activate it.
 
 :::
@@ -259,19 +257,19 @@ Glutamate alone is not sufficient to activate it.
 :::info-box
 During normal synaptic activity:
 
-- **AMPA receptors** open  
+- [AMPA receptors]{.highlight} open  
 - Sodium enters the postsynaptic neuron  
 
-This produces fast excitatory synaptic transmission.
+This produces fast <u>excitatory synaptic transmission</u>.
 :::
 
 :::info-box
-During correlated activity:
+During <u>correlated activity</u>:
 
-- Presynaptic glutamate release occurs  
-- Postsynaptic depolarization is sufficient  
+- `Presynaptic glutamate` release occurs  
+- `Postsynaptic depolarization` is sufficient  
 
-The magnesium block is removed and NMDA receptors now open.
+The <u>magnesium</u> block <u>is removed</u> and NMDA receptors now open.
 :::
 
 ::: 
@@ -282,7 +280,7 @@ The magnesium block is removed and NMDA receptors now open.
 :::info-box
 Opening of NMDA receptors allows:
 
-- **Calcium ions** to enter the postsynaptic neuron 
+- `Calcium ions` to <u>enter</u> the postsynaptic neuron 
 
 The most important `effect` is:
 
@@ -295,8 +293,8 @@ The most important `effect` is:
 
 ## Long-term potentiation (LTP)
 
-[Long-term potentiation (LTP)]{.highlight} is a persistent increase  
-in synaptic efficacy following correlated activity.
+[Long-term potentiation (LTP)]{.highlight} is a persistent increase in synaptic efficacy following correlated activity.
+HFS: <u>H</u>igh <u>F</u>requency <u>S</u>timulation
 
 >LTP is considered a cellular mechanism of learning and memory.
 
@@ -313,11 +311,11 @@ One form of LTP is the [functional]{.highlight} modification of the synapse.
 
 This involves:
 
-- Increased synaptic efficacy  
-- Insertion of additional AMPA receptors  
-- Enhanced postsynaptic responsiveness  
+- `Increased synaptic efficacy`  
+- <u>Insertion of additional AMPA receptors</u>  
+- <u>Enhanced postsynaptic responsiveness</u>  
 
-This effect take place after few seconds after the triggering event.
+This effect take place after few `seconds` after the triggering event.
 :::
 
 ::: 
@@ -328,11 +326,11 @@ LTP can also involve [morphological]{.highlight} modification of the synapse.
 
 This includes:
 
-- Growth of dendritic spines  
-- Enlargement of existing synapses  
-- Formation of new synaptic contacts  
+- `Growth` of dendritic spines  
+- `Enlargement` of existing synapses  
+- Formation of <u>new synaptic contacts</u>  
 
-Structural changes `stabilize` long-term modifications and take place after hours or days respect to the triggering event.
+Structural changes `stabilize` long-term modifications and take place after `hours or days` respect to the triggering event.
 
 :::
 
@@ -351,42 +349,42 @@ Structural changes `stabilize` long-term modifications and take place after hour
 ::: column
 
 :::card
-Hebbian plasticity has an important corollary.
-If presynaptic activity repeatedly fails to activate  
-the postsynaptic neuron, synapses can weaken.
+Hebbian plasticity has an important `corollary`.
+If presynaptic activity <u>repeatedly fails</u> to activate  
+the postsynaptic neuron, synapses can `weaken`.
 :::
 
 :::info-box
-`Long-term depression (LTD)` is a persistent decrease in synaptic efficacy.
+`Long-term depression (LTD)` is a <u>persistent decrease</u> in synaptic efficacy.
 
 Functional LTD involves:
 
-- Removal of AMPA receptors from the synapse  
-- Reduced postsynaptic responsiveness  
+- `Removal of AMPA` receptors from the synapse  
+- <u>Reduced postsynaptic responsiveness</u>  
 
-Transmission becomes less effective.
+Transmission becomes `less effective`.
 :::
 
 ::: 
 ::: column
 
 :::info-box
-LTD can also produce morphological changes:
+LTD can also produce `morphological` changes:
 
-- Shrinkage of dendritic spines  
-- Elimination of synaptic contacts  
+- `Shrinkage` of dendritic spines  
+- `Elimination` of synaptic contacts  
 
-This supports pruning and circuit refinement.
+This supports `pruning` and `circuit refinement`.
 :::
 
 :::info-box
 
-LTP and LTD operate together. They allow neural circuits to:
+<u>LTP and LTD operate together</u>. They allow neural circuits to:
 
 - Strengthen relevant connections  
 - Weaken irrelevant ones  
 
-Plasticity is about balance, not only growth.
+Plasticity is about `balance`, not only growth.
 
 :::
 
@@ -397,18 +395,21 @@ Plasticity is about balance, not only growth.
 
 ![](images/plast_LTP_LTD.png){width="500" fig-align="center"}
 
+>`HFS`: <u>H</u>igh <u>F</u>requency <u>S</u>timulation 
+`LFS`: <u>L</u>ow <u>F</u>requency <u>S</u>timulation
+
 ## The instability problem
 
 ::: columns
 ::: column
 
 :::info-box
-If Hebbian plasticity acted alone:
+If Hebbian plasticity acted <u>alone</u>:
 
-- Highly active neurons would increase their firing indefinitely  
-- Weakly active neurons would fall silent  
+- <u>Highly active neurons would increase their firing indefinitely</u>  
+- <u>Weakly active neurons would fall silent</u>
 
-Neural activity would become unbalanced.
+Neural activity would become `unbalanced`.
 
 :::
 
@@ -416,8 +417,8 @@ Neural activity would become unbalanced.
 This is incompatible with stable brain function.
 Unregulated Hebbian plasticity would lead to:
 
-- Runaway excitation in some circuits  
-- Loss of activity in others  
+- `Runaway excitation` in some circuits  
+- `Loss of activity` in others  
 
 Learning would destroy, rather than preserve, network function.
 :::
@@ -428,16 +429,16 @@ Learning would destroy, rather than preserve, network function.
 :::info-box
 The nervous system requires mechanisms that:
 
-- Stabilize overall activity  
-- Prevent excessive excitation or depression  
+- `Stabilize` overall activity  
+- <u>Prevent excessive excitation or depression</u>  
 
-This principle is called **homeostatic plasticity**.
+This principle is called `homeostatic plasticity`.
 :::
 
 :::card
-**Homeostatic plasticity** refers to mechanisms that maintain neural activity within a functional range.
+`Homeostatic plasticity` refers to mechanisms that <u>maintain</u> neural activity within a `functional range`.
 
-It preserves the **overall level of discharge** of neurons and networks.
+It <u>preserves</u> the `overall level of discharge` of neurons and networks.
 
 :::
 
@@ -452,25 +453,25 @@ It preserves the **overall level of discharge** of neurons and networks.
 
 :::info-box
 
-Homeostatic plasticity acts to stabilize:
+Homeostatic plasticity acts to <u>stabilize</u>:
 
-- Average firing rate  
-- Synaptic input strength  
-- Network excitability  
+- Average <u>firing rate</u>  
+- Synaptic <u>input strength</u>  
+- Network <u>excitability</u>  
 
 
 :::
 
 :::info-box
-When activity is chronically high:
+When activity is <u>chronically high</u>:
 
-- Synaptic strengths are globally scaled down  
+- Synaptic strengths are globally <u>scaled down</u>  
 
-When activity is chronically low:
+When activity is <u>chronically low</u>:
 
-- Synaptic strengths are globally scaled up  
+- Synaptic strengths are globally <u>scaled up</u>  
 
-`Relative differences` between synapses are preserved.
+`Relative differences` between synapses are <u>preserved</u>.
 :::
 
 
@@ -480,10 +481,10 @@ When activity is chronically low:
 :::info-box
 A key contrast:
 
-- **Hebbian plasticity**  
+- [Hebbian plasticity]{.highlight}  
   Strengthens or weakens specific synapses  
 
-- **Homeostatic plasticity**  
+- [Homeostatic plasticity]{.highlight}  
   Regulates overall activity levels  
 
 Both operate simultaneously.
@@ -766,14 +767,12 @@ to <u>learn from the environment</u>.
 ::: columns
 ::: column
 
-The richness of the environment affects neural plasticity  
-not only at synapses, but also at the level of `cell generation`.
+The richness of the environment affects neural plasticity not only at synapses, but also at the level of `cell generation`.
 
 >This process is called `adult neurogenesis`.
 
 :::info-box
-Adult neurogenesis refers to the generation of `new neurons`  
-that integrate into `pre-existing neural circuits`.
+Adult neurogenesis refers to the generation of `new neurons` that integrate into `pre-existing neural circuits`.
 
 For a long time, this was believed to occur only during development.
 
@@ -785,10 +784,9 @@ Adult neurons were considered a `non-renewable population`.
 ::: column
 
 :::info-box
-The presence of adult neurogenesis was demonstrated  
-by [Fernando Nottebohm](https://en.wikipedia.org/wiki/Fernando_Nottebohm) in the late 1980s.
+The presence of adult neurogenesis was demonstrated by [Fernando Nottebohm](https://en.wikipedia.org/wiki/Fernando_Nottebohm) in the late 1980s.
 
-This discovery challenged a long-standing dogma in neuroscience.
+This discovery challenged a long-standing <u>dogma</u> in neuroscience.
 
 :::
 
@@ -815,8 +813,7 @@ These neurons were proposed to support:
 Adult neurogenesis is linked to `learning and memory`.
 
 :::card
-In the late 1990s, adult neurogenesis was also demonstrated  
-in adult mammals, including `humans`.
+In the late 1990s, adult neurogenesis was also demonstrated in adult mammals, including `humans`.
 
 However, it occurs only in `specific brain regions`.
 :::
@@ -828,11 +825,11 @@ In adult mammals, neurogenesis occurs mainly in:
 
 - The `dentate gyrus` of the hippocampus  
 
-There is `no clear evidence` for neurogenesis in:
+There is `no evidence` for neurogenesis in:
 
 - Neocortical areas  
 
-Adult neurogenesis is spatially restricted.
+Adult neurogenesis is `spatially restricted`.
 
 
 ![](images/plast_dentage_gyrus.png){width="200" fig-align="center"}
