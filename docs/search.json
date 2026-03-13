@@ -11,42 +11,42 @@
     "href": "9_resilience_gxe.html#the-kauai-longitudinal-study",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "The Kauai longitudinal study",
-    "text": "The Kauai longitudinal study\n\n\nThe concept of resilience entered psychology through a landmark longitudinal study.\nWerner (1993) followed the entire cohort of children born in 1955 on the island of Kauai (about 700 individuals, for more than 40 years).\n\nAbout 1/3 of these children were exposed to:\n\nSocial disadvantage\n\nFamily instability\n\nEnvironmental stress\n\nAs a group, this population showed a higher incidence of psychological distress.\n\n\n\nDespite high risk exposure:\n\nOne third of these children developed normally\n\nThey formed stable relationships\n\nShowed good work performance\n\nDemonstrated sociability and altruism\n\nThese individuals were defined as resilient.\n\n\nWhat differentiated resilient individuals\nfrom those who succumbed to early adversity?"
+    "text": "The Kauai longitudinal study\n\n\nThe concept of resilience entered psychology through a landmark longitudinal study.\nWerner (1993) followed the entire cohort of children born in 1955 on the island of Kauai (about 700 individuals, for more than 40 years).\n\nAbout 1/3 of these children were exposed to:\n\nSocial disadvantage\n\nFamily instability\n\nEnvironmental stress\n\nAs a group, this population showed a higher incidence of psychological distress.\n\n\n\nDespite high risk exposure, 1/3 of these children developed normally:\n\nThey formed stable relationships\n\nShowed good work performance\n\nDemonstrated sociability and altruism\n\nThese individuals were defined as resilient.\n\n\nWhat differentiated resilient individuals from those who succumbed to early adversity?"
   },
   {
     "objectID": "9_resilience_gxe.html#from-risk-to-protection",
     "href": "9_resilience_gxe.html#from-risk-to-protection",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "From risk to protection",
-    "text": "From risk to protection\n\n\nPossible factors included:\n\nGenetics\n\nLife experiences\n\nProtective environmental factors\n\n\nThese findings shifted research focus:\nFrom identifying risk factors\nto identifying protective factors.\nThe question became:\nHow does the brain adapt successfully to adversity?\n\n\n\n\n\n\n\n\nTo study mechanisms of resilience,\nanimal models are essential.\nOne widely used model is social defeat stress."
+    "text": "From risk to protection\n\n\nPossible factors included:\n\nGenetics\n\nLife experiences\n\nProtective environmental factors\n\n\nThese findings shifted research focus:\nFrom identifying risk factors to identifying protective factors.\nThe question became:\nHow does the brain adapt successfully to adversity?\n\n\n\n\n\n\n\n\nTo study mechanisms of resilience, animal models are essential.\nOne widely used model is social defeat stress."
   },
   {
     "objectID": "9_resilience_gxe.html#resilience-as-an-active-process",
     "href": "9_resilience_gxe.html#resilience-as-an-active-process",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Resilience as an active process",
-    "text": "Resilience as an active process\n\n\n\nResilience is not simply the absence of pathology. It involves active and adaptive processes. These include specific molecular and circuit-level changes.\n\n\nResilience involves both:\n\nPassive resilience\nAbsence of maladaptive molecular responses\nseen in vulnerable individuals\nActive resilience\nPresence of adaptive plastic changes\nseen only in resilient individuals\n\n\n\n\n\nBoth forms of resilience depend on neuroplasticity.\nPlastic changes allow the brain to:\n\nAdjust stress responses\n\nReorganize circuits\n\nMaintain functional behavior\n\nResilience is biologically implemented."
+    "text": "Resilience as an active process\n\n\n\nResilience is not simply the absence of pathology. It involves active and adaptive processes. These include specific molecular and circuit-level changes.\n\n\nResilience involves both:\n\nPassive resilience\nAbsence of maladaptive molecular responses seen in vulnerable individuals\nActive resilience\nPresence of adaptive plastic changes seen only in resilient individuals\n\n\n\n\n\nBoth forms of resilience depend on neuroplasticity.\nPlastic changes allow the brain to:\n\nAdjust stress responses\n\nReorganize circuits\n\nMaintain functional behavior\n\nResilience is biologically implemented."
   },
   {
     "objectID": "9_resilience_gxe.html#genetic-factors-and-behavior",
     "href": "9_resilience_gxe.html#genetic-factors-and-behavior",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Genetic factors and behavior",
-    "text": "Genetic factors and behavior\n\n\nUnderstanding how genetic factors contribute\nto behavior and its disorders is a central problem in neuroscience.\n\nCaspi et al. (2006) described three main approaches to study this relationship:\n\nGene-to-disorder approach\n\nEndophenotype-to-disorder approach\n\nGene–environment interaction approach"
+    "text": "Genetic factors and behavior\n\n\n\nUnderstanding how genetic factors contribute to behavior and its disorders is a central problem in neuroscience.\n\n\nCaspi et al. (2006) described three main approaches to study this relationship:\n\nGene-to-disorder approach\n\nEndophenotype-to-disorder approach\n\nGene-environment interaction approach"
   },
   {
     "objectID": "9_resilience_gxe.html#gene-to-disorder",
     "href": "9_resilience_gxe.html#gene-to-disorder",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Gene-to-disorder",
-    "text": "Gene-to-disorder\n\n\nThe gene-to-disorder approach assumes:\n\nA direct, linear relationship between genes and disorders\n\nGenes are the primary cause of disorders\n\n\nThis approach used:\n\nLinkage analysis\n\nAssociation studies\n\nIt searched for correlations between:\n\nPsychiatric diagnoses\n\nIndividual differences in DNA sequence\n\n\n\n\n\n\n\n\n\nflowchart LR\n    Genes[\"Genes\"]\n    Disorder[\"Disorder\"]\n\n    Genes --&gt; Disorder\n\n    classDef simple fill:#a4d5c2,color:#000,stroke:#9f8ca0,stroke-width:3px,font-size:18px\n    class Genes,Disorder simple\n    linkStyle 0 stroke:#9f8ca0,stroke-width:3px,fill:#9f8ca0\n\n\n\n\n\n\n\nAlthough a few genes showed replicated associations:\n\nReplication failures were common\n\nProgress was slow and inconsistent\n\nMany researchers abandoned the search\nfor direct main effects of genotype on diagnosis."
+    "text": "Gene-to-disorder\n\n\nThe gene-to-disorder approach assumes:\n\nA direct, linear relationship between genes and disorders\n\nGenes are the primary cause of disorders\n\n\nThis approach used:\n\nLinkage analysis\n\nAssociation studies\n\nIt searched for correlations between:\n\nPsychiatric diagnoses\n\nIndividual differences in DNA sequence\n\n\n\n\n\n\n\n\n\nflowchart LR\n    Genes[\"Genes\"]\n    Disorder[\"Disorder\"]\n\n    Genes --&gt; Disorder\n\n    classDef simple fill:#a4d5c2,color:#000,stroke:#9f8ca0,stroke-width:3px,font-size:18px\n    class Genes,Disorder simple\n    linkStyle 0 stroke:#9f8ca0,stroke-width:3px,fill:#9f8ca0\n\n\n\n\n\n\n\nAlthough a few genes showed replicated associations:\n\nReplication failures were common\n\nProgress was slow and inconsistent\n\nMany researchers abandoned the search for direct main effects of genotype on diagnosis."
   },
   {
     "objectID": "9_resilience_gxe.html#endophenotype-to-disorder",
     "href": "9_resilience_gxe.html#endophenotype-to-disorder",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Endophenotype-to-disorder",
-    "text": "Endophenotype-to-disorder\n\n\nThe endophenotype-to-disorder approach introduced\nintermediate phenotypes.\n\nEndophenotypes are heritable biological traits associated with disorders.\n\n\nThey can be:\n\nPhysiological\n\nBiochemical\n\nAnatomical\n\nExample: macrocephaly or immune alterations in ASD.\n\n\n\nThis approach assumes that:\n\nEndophenotypes have clearer genetic bases\n\nGenes exert stronger effects on intermediate traits\nthan on complex diagnoses\n\n\n\n\n\n\n\n\nflowchart LR\n    Genes[\"Genes\"]\n    Endo[\"Endophenotype\"]\n    Disorder[\"Disorder\"]\n\n    Genes --&gt; Endo\n    Endo --&gt; Disorder\n\n    %% Node style\n    classDef simple fill:#a4d5c2,color:#000,stroke:#9f8ca0,stroke-width:3px,font-size:18px\n    class Genes,Endo,Disorder simple\n\n    %% Arrow style (line + arrowhead)\n    linkStyle 0 stroke:#9f8ca0,stroke-width:3px,fill:#9f8ca0\n    linkStyle 1 stroke:#9f8ca0,stroke-width:3px,fill:#9f8ca0"
+    "text": "Endophenotype-to-disorder\n\n\nThe endophenotype-to-disorder approach introduced intermediate phenotypes.\n\nEndophenotypes are heritable biological traits associated with disorders.\n\n\nThey can be:\n\nPhysiological\n\nBiochemical\n\nAnatomical\n\nExample: macrocephaly or immune alterations in ASD.\n\n\n\nThis approach assumes that:\n\nEndophenotypes have clear genetic bases\n\nGenes exert stronger effects on intermediate traits than on complex diagnoses\n\n\n\n\n\n\n\n\nflowchart LR\n    Genes[\"Genes\"]\n    Endo[\"Endophenotype\"]\n    Disorder[\"Disorder\"]\n\n    Genes --&gt; Endo\n    Endo --&gt; Disorder\n\n    %% Node style\n    classDef simple fill:#a4d5c2,color:#000,stroke:#9f8ca0,stroke-width:3px,font-size:18px\n    class Genes,Endo,Disorder simple\n\n    %% Arrow style (line + arrowhead)\n    linkStyle 0 stroke:#9f8ca0,stroke-width:3px,fill:#9f8ca0\n    linkStyle 1 stroke:#9f8ca0,stroke-width:3px,fill:#9f8ca0"
   },
   {
     "objectID": "9_resilience_gxe.html#geneenvironment-interaction-g-e",
@@ -67,7 +67,7 @@
     "href": "9_resilience_gxe.html#polymorphisms-as-risk-and-protective-factors",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Polymorphisms as risk and protective factors",
-    "text": "Polymorphisms as risk and protective factors\n\n\n\nA polymorphism is a variation in DNA sequence present in more than 1% of the population.\n\nPolymorphisms can involve:\n\nSubstitution of DNA bases\n\nDeletion of DNA bases\n\nInsertion of DNA bases\n\nThey do not cause disease by themselves.\n\n\nPolymorphisms can act as:\n\nRisk factors\n\nProtective factors\n\nTheir effect depends on the environment.\nThis fits the gene–environment interaction framework."
+    "text": "Polymorphisms as risk and protective factors\n\n\n\nA polymorphism is a variation in DNA sequence present in more than 1% of the population.\n\nPolymorphisms can involve:\n\nSubstitution of DNA bases\n\nDeletion of DNA bases\n\nInsertion of DNA bases\n\n\nThey do not cause disease by themselves.\n\n\n\nPolymorphisms can act as:\n\nRisk factors\n\nProtective factors\n\nTheir effect depends on the environment.\nThis fits the gene–environment interaction framework."
   },
   {
     "objectID": "9_resilience_gxe.html#childhood-maltreatment-and-antisocial-behavior",
@@ -81,21 +81,21 @@
     "href": "9_resilience_gxe.html#maoa-polymorphism",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "MAOA polymorphism",
-    "text": "MAOA polymorphism\n\n\nA functional polymorphism affects MAOA activity. Low-activity MAOA variants:\n\nDegrade monoamines less efficiently\n\nAllow neurotransmitters to persist longer\n\nIncrease synaptic signaling\n\n\nIn mice:\n\nSilencing the MAOA gene increases aggression\nRestoring MAOA expression normalizes aggression\n\nThis shows a causal link in regulating aggression.\n\n\n\nIn humans:\n\nA rare null mutation of MAOA was linked\nto antisocial behavior in a Dutch family\n\nBecause MAOA is X-linked:\n\nAffected males had no functional enzyme\n\nThis acted as a human knockout\n\nThis mutation is extremely rare.\n\n\nIn most individuals:\n\nMAOA is present\n\nBut its activity varies"
+    "text": "MAOA polymorphism\n\n\nA functional polymorphism affects MAOA activity. Low-activity MAOA variants:\n\nDegrade monoamines less efficiently\n\nAllow neurotransmitters to persist longer\n\nIncrease synaptic signaling\n\n\nIn mice:\n\n Silencing the MAOA gene increases aggression\n Restoring MAOA expression normalizes aggression\n\nThis shows a causal link in regulating aggression.\n\n\n\nIn humans:\n\nA  rare null mutation of MAOA was linked\nto antisocial behavior in a  Dutch family\n\nBecause MAOA is X-linked:\n\nAffected males had no functional enzyme\n\nThis acted as a human knockout\n\nThis mutation is extremely rare.\n\n\nIn most individuals:\n\nMAOA is present\n\nBut its activity varies"
   },
   {
     "objectID": "9_resilience_gxe.html#the-dunedin-longitudinal-study",
     "href": "9_resilience_gxe.html#the-dunedin-longitudinal-study",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "The Dunedin longitudinal study",
-    "text": "The Dunedin longitudinal study\n\n\n\nCaspi et al. tested this hypothesis\nin the Dunedin Multidisciplinary Health and Development Study.\nThis cohort includes:\n\n1,037 individuals\n\nBorn in 1972–1973 in Dunedin, New Zealand\n\nParticipants were followed from childhood into adulthood.\n\n\nThe study had three major strengths:\n\nThe cohort represents the general population.\nWell-characterized adversity\nAntisocial behavior was assessed using multiple sources"
+    "text": "The Dunedin longitudinal study\n\n\n\nCaspi et al. tested this hypothesis\nin the Dunedin Multidisciplinary Health and Development Study.\nThis cohort includes:\n\n1,037 individuals\n\nBorn in 1972-1973 in Dunedin, New Zealand\n\nParticipants were followed from childhood into adulthood.\n\n\nThe study had three major strengths:\n\nThe cohort represents the general population.\nWell-characterized adversity\nAntisocial behavior was assessed using multiple sources"
   },
   {
     "objectID": "9_resilience_gxe.html#gene-environment-interaction",
     "href": "9_resilience_gxe.html#gene-environment-interaction",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Gene-environment interaction",
-    "text": "Gene-environment interaction\n\n\nIn the absence of maltreatment:\n\nBoth MAOA genotypes showed low antisocial behavior\n\nThe polymorphism alone was not sufficient.\n\nWhen maltreatment occurred:\n\nAntisocial behavior increased in all individuals\n\nThe increase was much stronger\nin low-activity MAOA individuals\n\nThe curves diverged only under adversity.\n\n\n\nIf the environment is protective:\n\nThe genotype does not produce antisocial behavior\n\nMaltreatment is necessary for the genetic effect to emerge.\nAlthough only 12% of males had both:\n\nLow-activity MAOA\n\nChildhood maltreatment\n\nThey accounted for 44% of violent convictions."
+    "text": "Gene-environment interaction\n\n\nIn the absence of maltreatment:\n\nBoth MAOA genotypes showed low antisocial behavior\n\n\nThe polymorphism alone was not sufficient.\n\n\nWhen maltreatment occurred:\n\nAntisocial behavior increased in all individuals\n\nThe increase was much stronger in low-activity MAOA individuals\n\nThe curves diverged only under adversity.\n\n\n\nIf the environment is protective:\n\nThe genotype does not produce antisocial behavior\n\nMaltreatment is necessary for the genetic effect to emerge.\nAlthough only 12% of males had both:\n\nLow-activity MAOA\n\nChildhood maltreatment\n\nThey accounted for 44% of violent convictions."
   },
   {
     "objectID": "9_resilience_gxe.html#gene-environment-interaction-1",
@@ -109,7 +109,7 @@
     "href": "9_resilience_gxe.html#life-stress-and-depression",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Life stress and depression",
-    "text": "Life stress and depression\n\n\nAcross the lifespan, stressful life events involving:\n\nThreat\n\nLoss\n\nHumiliation\n\nDefeat\n\nstrongly influence the onset and course of depression.\nHowever, not everyone exposed to stress becomes depressed.\n\n\nCaspi et al. proposed that:\n\nStressful life events act as an environmental risk factor\n\nGenetic variation moderates individual sensitivity to stress\n\nThis follows the gene–environment interaction framework."
+    "text": "Life stress and depression\n\n\nAcross the lifespan, stressful life events involving:\n\nThreat\n\nLoss\n\nHumiliation\n\nDefeat\n\nStrongly influence the onset and course of depression.\nHowever, not everyone exposed to stress becomes depressed.\n\n\nCaspi et al. proposed that:\n\nStressful life events act as an environmental risk factor\n\nGenetic variation moderates individual sensitivity to stress\n\nThis follows the gene–environment interaction framework."
   },
   {
     "objectID": "9_resilience_gxe.html#major-depressive-disorder-mdd",
@@ -123,14 +123,14 @@
     "href": "9_resilience_gxe.html#the-candidate-gene-5-htt",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "The candidate gene: 5-HTT",
-    "text": "The candidate gene: 5-HTT\n\n\n\nThe gene under study codes for the serotonin transporter (5-HTT). The transporter regulates serotonin reuptake at the synapse.\n\nThe serotonin system is relevant to depression because:\n\nIt is the target of SSRI antidepressant drugs\n\nIt modulates mood, stress reactivity, and emotion regulation\n\nThis makes 5-HTT a plausible candidate gene.\n\n\nThe 5-HTT gene contains a polymorphism in its promoter region\ncalled 5-HTTLPR. Two main variants exist: Long (l) and Short (s) allele.\n\nThe short allele is associated with:\n\nLower transcriptional efficiency\n\nReduced serotonin transporter expression\n\n\nGenotypes:\n\nl/l: high transporter expression\n\ns/l: intermediate expression\n\ns/s: low expression"
+    "text": "The candidate gene: 5-HTT\n\n\n\nThe gene under study codes for the serotonin transporter (5-HTT). The transporter regulates serotonin reuptake at the synapse.\n\n\nThe serotonin system is relevant to depression because:\n\nIt is the target of SSRI antidepressant drugs\n\nIt modulates mood, stress reactivity, and emotion regulation\n\nThis makes 5-HTT a plausible candidate gene.\n\n\n\nThe 5-HTT gene contains a polymorphism in its promoter region called 5-HTTLPR. Two main variants exist: Long (l) and Short (s) allele.\n\nThe short allele is associated with:\n\nLower transcriptional efficiency\n\nReduced serotonin transporter expression\n\n\nGenotypes:\n\nl/l: high transporter expression\n\ns/l: intermediate expression\n\ns/s: low expression"
   },
   {
     "objectID": "9_resilience_gxe.html#non-human-primates",
     "href": "9_resilience_gxe.html#non-human-primates",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Non-human primates",
-    "text": "Non-human primates\n\n\nIn rhesus macaques:\n\nThe 5-HTTLPR polymorphism is analogous to humans\n\nThe short allele is associated with:\n\nReduced serotonergic function\n\nAbnormal HPA response\n\n\nOnly in monkeys reared in stressful conditions No effect is seen in normally reared monkeys."
+    "text": "Non-human primates\n\n\nIn rhesus macaques:\n\nThe 5-HTTLPR polymorphism is analogous to humans\n\nThe short allele is associated with:\n\nReduced serotonergic function\n\nAbnormal HPA response\n\n\nOnly in monkeys reared in stressful conditions. No effect is seen in normally reared monkeys."
   },
   {
     "objectID": "9_resilience_gxe.html#the-dunedin-study-on-mdd",
@@ -165,7 +165,7 @@
     "href": "9_resilience_gxe.html#alchol-experiment",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Alchol Experiment",
-    "text": "Alchol Experiment\n\n\n\n Experimental Design\n\n\nAlcohol study\n\n\n\nParticipants\nYoung adults\nConditions\n\nOne session with 3 alcoholic drinks\n\nOne session with 3 non-alcoholic control drinks\nThe order of conditions was counterbalanced\n\nResults\nParticipants with the L/L genotype: reported a stronger desire to continue drinking, but only after the alcoholic condition Participants with the S/S genotype showed no difference between conditions."
+    "text": "Alchol Experiment\n\n\n\n Experimental Design\n\n\nAlcohol study\n\n\n\nParticipants\nYoung adults\nConditions\n\nOne session with 3 alcoholic drinks\n\nOne session with 3 non-alcoholic control drinks\nThe order of conditions was counterbalanced\n\nResults\nParticipants with the L/L genotype: reported a stronger desire to continue drinking, but only after the alcoholic condition. Participants with the S/S genotype showed no difference between conditions."
   },
   {
     "objectID": "9_resilience_gxe.html#not-only-for-alcohol",
@@ -179,7 +179,7 @@
     "href": "9_resilience_gxe.html#other-gxe-interactions-cannabis-use",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Other GxE interactions: Cannabis Use",
-    "text": "Other GxE interactions: Cannabis Use\n\n\n\nEarly use of cannabis, especially during adolescence, is associated with an increased risk of psychosis.\n\n\nThis includes:\n\nTransient psychotic symptoms\n\nClinically relevant disorders\n\nDiagnosis of schizophrenia\n\n\n\n\nBut most individuals who use cannabis do not develop psychosis. This suggests that cannabis exposure alone\nis not sufficient.\n\n\n\nOne candidate gene is COMT.\n\n\nThe COMT gene codes for catechol-O-methyltransferase.\nThis enzyme is involved in the degradation of Dopamine\nCOMT activity is particularly important\nin the prefrontal cortex.\n\n\nA functional polymorphism exists in the COMT gene:\n\nMET allele (high activity)\nVAL allele (low activity)"
+    "text": "Other GxE interactions: Cannabis Use\n\n\n\nEarly use of cannabis, especially during adolescence, is associated with an increased risk of psychosis.\n\n\nThis includes:\n\nTransient psychotic symptoms\n\nClinically relevant disorders\n\nDiagnosis of schizophrenia\n\n\n\n\nBut most individuals who use cannabis do not develop psychosis. This suggests that cannabis exposure alone is not sufficient.\n\n\n\nOne candidate gene is COMT.\n\n\nThe COMT gene codes for catechol-O-methyltransferase.\nThis enzyme is involved in the degradation of Dopamine\nCOMT activity is particularly important\nin the prefrontal cortex.\n\n\nA functional polymorphism exists in the COMT gene:\n\nMET allele (high activity)\nVAL allele (low activity)"
   },
   {
     "objectID": "9_resilience_gxe.html#other-gxe-interactions-cannabis-use-1",
@@ -200,21 +200,21 @@
     "href": "9_resilience_gxe.html#early-gene-environment-interactions",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Early gene-environment interactions",
-    "text": "Early gene-environment interactions\n\n\nGene-environment interactions are especially powerful\nduring early development.\nEarly experiences can shape long-term cognitive\nand emotional outcomes.\n\nOne of the most influential projects in this area is the\nBucharest Early Intervention (BEI) Project.\nThis study examined the effects of early psychosocial deprivation\non child development.\n\n\n\n\n\n\n\n\nThe BEI Project studied children raised in\nRomanian orphanages.\nThese children experienced:\n\nSevere social deprivation\n\nLimited caregiver interaction"
+    "text": "Early gene-environment interactions\n\n\nGene-environment interactions are especially powerful during early development.\nEarly experiences can shape long-term cognitive and emotional outcomes.\n\nOne of the most influential projects in this area is the\nBucharest Early Intervention (BEI) Project.\nThis study examined the effects of early psychosocial deprivation on child development.\n\n\n\n\n\n\n\n\nThe BEI Project studied children raised in\nRomanian orphanages.\nThese children experienced:\n\nSevere social deprivation\n\nLimited caregiver interaction"
   },
   {
     "objectID": "9_resilience_gxe.html#bucharest-early-intervention-project",
     "href": "9_resilience_gxe.html#bucharest-early-intervention-project",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Bucharest Early Intervention Project",
-    "text": "Bucharest Early Intervention Project\n\n\nRandomized early-life intervention\n\n\n\n\n\nExperimental design\n\nChildren were randomly assigned to:\n\nRemain in institutional care\n\nBe placed in foster care\n\n\n\n\n\nComparison groups\n\nThree groups were compared:\n\nInstitutionalized children\n\nFoster care children\n\nNever institutionalized children\n\nThis design allowed causal inference.\n\n\n\n\nCognitive outcomes\n\n\nCognitive performance was consistently higher in foster care\n\nOutcomes were better when fostering occurred earlier\n\nEarly intervention mattered."
+    "text": "Bucharest Early Intervention Project\n\n\nRandomized early-life intervention\n\n\n\n\n\nExperimental design\n\nChildren were randomly assigned to:\n\nRemain in institutional care\n\nBe placed in foster care\n\n\n\n\n\nComparison groups\n\nThree groups were compared:\n\nInstitutionalized children\n\nFoster care children\n\nNever institutionalized children\n\nThis design allowed causal inference.\n\n\n\n\nCognitive outcomes\n\n\nCognitive performance was consistently higher in foster care\n\nOutcomes were better when fostering occurred earlier\n\n\nEarly intervention matters."
   },
   {
     "objectID": "9_resilience_gxe.html#a-genetic-moderator",
     "href": "9_resilience_gxe.html#a-genetic-moderator",
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "A genetic moderator",
-    "text": "A genetic moderator\n\n\n\nDespite overall benefits, children differed in their degree of recovery.\n\nDrury et al. (2010) investigated whether genetic variation\ncould explain differences in recovery. They focused on the COMT val158met polymorphism.\n\nThe study included 136 children from the BEI Project. Procedure:\n\nAt 2.5 years: children assigned to foster care or institution\n\nAt 4.5 years: psychiatric assessment\nGenotyping for COMT val158met\n\n\n\n\nAmong children who remained institutionalized:\n\nCarriers of the MET allele showed fewer depressive symptoms\n\nVAL/VAL homozygotes showed higher symptoms\n\n\n\nAmong children placed in foster care:\n\nVAL/VAL children improved dramatically\n\nTheir depressive symptoms dropped\n\nThey reached levels similar to MET/MET children\n\nPositive environments had a strong impact."
+    "text": "A genetic moderator\n\n\n\nDespite overall benefits, children differed in their degree of recovery.\n\nDrury et al. (2010) investigated whether genetic variation could explain differences in recovery. They focused on the COMT val158met polymorphism.\n\nThe study included 136 children from the BEI Project. Procedure:\n\nAt 2.5 years: children assigned to foster care or institution\n\nAt 4.5 years: psychiatric assessment\nGenotyping for COMT val158met\n\n\n\n\nAmong children who remained institutionalized:\n\nCarriers of the MET allele showed fewer depressive symptoms\n\nVAL/VAL homozygotes showed higher symptoms\n\n\n\nAmong children placed in foster care:\n\nVAL/VAL children improved dramatically\n\nTheir depressive symptoms dropped\n\nThey reached levels similar to MET/MET children\n\nPositive environments had a strong impact."
   },
   {
     "objectID": "9_resilience_gxe.html#a-key-insight",
@@ -2035,5 +2035,12 @@
     "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
     "section": "Development, experience and lifelong plasticity",
     "text": "Development, experience and lifelong plasticity\n\n\n\nDuring early development:\n\nPlasticity is high\nCircuits are rapidly shaped by experience\n\nDuring adulthood:\n\nPlasticity remains possible\nBut changes tend to be more gradual and localized\n\n\n\nDevelopment therefore combines:\n\nGenetic programs\nExperience-dependent plasticity\n\n\n\n\nCritical and sensitive periods explain why:\n\nEarly experience can have lasting effects\nEarly deprivation can produce long-term deficits\n\nBut they also show that the brain is designed to learn from the environment."
+  },
+  {
+    "objectID": "9_resilience_gxe.html#gene-environment-interaction-g-e",
+    "href": "9_resilience_gxe.html#gene-environment-interaction-g-e",
+    "title": "Neuroscience of social-cognitive enhancement for well-being and Neural bases of decision processes",
+    "section": "Gene-environment interaction (G × E)",
+    "text": "Gene-environment interaction (G × E)\n\n\nThe gene–environment interaction (G × E) approach explicitly includes environmental factors.\n\nThe G × E approach assumes that:\n\nEnvironmental risk factors can contribute to disorders\n\nGenotype modulates susceptibility to these factors\n\n\n\nGenes influence sensitivity to the environment.\n\n\n\nAccording to the G × E framework:\n\nThere may be no gene-behavior association in the absence of environmental stressors\nThere may be no environmental effect without genetic susceptibility\n\nRisk emerges from their interaction.\n\n\n\n\n\n\nflowchart LR\n    Genes[\"Genes\"]\n    Env[\"Environment\"]\n    J(( ))\n    Disorder[\"Disorder\"]\n\n    Genes --&gt; J\n    Env --&gt; J\n    J --&gt; Disorder\n\n    %% Node styles\n    classDef simple fill:#a4d5c2,color:#000,stroke:#9f8ca0,stroke-width:3px,font-size:18px\n    classDef junction fill:#ffffff,stroke:#9f8ca0,stroke-width:3px\n\n\n    class Genes,Env,Disorder box\n    class J junction\n\n    %% Arrow style\n    linkStyle 0 stroke:#9f8ca0,stroke-width:4px\n    linkStyle 1 stroke:#9f8ca0,stroke-width:4px\n    linkStyle 2 stroke:#9f8ca0,stroke-width:4px"
   }
 ]
