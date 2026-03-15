@@ -24,17 +24,6 @@
       "feedback": "Neuroscience studies both central and peripheral nervous systems."
     },
     {
-      "question": "Which disciplines contribute to neuroscience?",
-      "options": [
-        "Only biology and medicine",
-        "Biology, psychology, physics, engineering, and philosophy",
-        "Only psychology and philosophy",
-        "Only engineering and physics"
-      ],
-      "correct": 1,
-      "feedback": "Neuroscience is an interdisciplinary field."
-    },
-    {
       "question": "What is the primary functional unit of the nervous system?",
       "options": [
         "Glial cell",
@@ -170,7 +159,7 @@
       "question": "What is the effect of axon myelination?",
       "options": [
         "Slower signaling",
-        "Faster signal conduction",
+        "Faster and reliable signal conduction",
         "More neurotransmitter release",
         "Increased dendritic input"
       ],
@@ -187,28 +176,6 @@
       ],
       "correct": 2,
       "feedback": "Presynaptic terminals release neurotransmitters."
-    },
-    {
-      "question": "Neuronal communication is described as dual because it involves:",
-      "options": [
-        "Two types of neurons",
-        "Electrical and chemical signaling",
-        "Fast and slow neurons",
-        "Sensory and motor pathways"
-      ],
-      "correct": 1,
-      "feedback": "Signals travel electrically along axons and chemically at synapses."
-    },
-    {
-      "question": "Which example best illustrates structure influencing function?",
-      "options": [
-        "Larger nucleus produces stronger signals",
-        "More dendrites allow more inputs",
-        "More DNA increases firing rate",
-        "Longer soma improves memory"
-      ],
-      "correct": 1,
-      "feedback": "More dendrites allow a neuron to receive more inputs."
     },
     {
       "question": "Why is neuron diversity important?",

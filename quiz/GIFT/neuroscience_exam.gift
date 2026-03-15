@@ -1,0 +1,3179 @@
+$CATEGORY: module_1_multi/NS
+
+::NS_which_division::
+Which division of the nervous system is based on physical structures and location?
+{
+~Functional division
+=Anatomical division #The anatomical division classifies the nervous system by physical structures and location.
+~Physiological division
+~Behavioral division
+}
+
+::NS_which_term::
+Which term refers to a direction toward the front of the body?
+{
+~Caudal
+~Ventral
+=Rostral #Rostral (or anterior) means toward the front of the body.
+~Dorsal
+}
+
+::NS_which_anatomical::
+Which anatomical plane divides the body into left and right halves?
+{
+~Coronal
+~Horizontal
+=Sagittal #The sagittal plane divides the body into left and right halves.
+~Transverse
+}
+
+::NS_which_structure::
+Which structure is part of the central nervous system?
+{
+~Spinal nerve
+~Dorsal root ganglion
+=Spinal cord #The central nervous system includes the brain and spinal cord.
+~Autonomic ganglion
+}
+
+::NS_which_component::
+Which component belongs to the peripheral nervous system?
+{
+~Cerebellum
+~Spinal cord
+=Cranial nerves #Cranial nerves are part of the peripheral nervous system.
+~Thalamus
+}
+
+::NS_afferent_signals::
+Afferent signals carry information:
+{
+~From CNS to muscles
+~From CNS to glands
+=From body to CNS #Afferent pathways carry sensory information from the body to the CNS.
+~Only within the brain
+}
+
+::NS_efferent_signals::
+Efferent signals are mainly responsible for:
+{
+~Sensory input
+=Motor output #Efferent pathways carry motor commands from the CNS to the body.
+~Hormone synthesis
+~Memory formation
+}
+
+::NS_which_system::
+Which system controls voluntary skeletal muscle movement?
+{
+~Autonomic nervous system
+~Enteric nervous system
+=Somatic nervous system #The somatic nervous system controls voluntary skeletal muscle activity.
+~Sympathetic nervous system
+}
+
+::NS_most_autonomic::
+Most autonomic nervous system activity occurs:
+{
+~Under voluntary control
+~Only during sleep
+=Without conscious awareness #Autonomic regulation usually occurs without conscious awareness.
+~Only during stress
+}
+
+::NS_which_branch::
+Which branch of the autonomic nervous system supports fight-or-flight responses?
+{
+~Parasympathetic
+~Somatic
+~Enteric
+=Sympathetic #The sympathetic nervous system prepares the body for action.
+}
+
+::NS_which_effect::
+Which effect is typical of sympathetic activation?
+{
+~Decreased heart rate
+~Increased digestion
+=Bronchodilation #Sympathetic activation increases heart rate and causes bronchodilation.
+~Energy storage
+}
+
+::NS_which_branch::
+Which branch of the autonomic nervous system promotes rest and digestion?
+{
+~Sympathetic
+~Somatic
+=Parasympathetic #The parasympathetic nervous system supports recovery and homeostasis.
+~Enteric
+}
+
+::NS_which_brain::
+Which brain division includes the cerebrum?
+{
+~Hindbrain
+~Midbrain
+=Forebrain #The cerebrum is part of the forebrain.
+~Brainstem
+}
+
+::NS_the_two::
+The two cerebral hemispheres are connected by:
+{
+~Thalamus
+=Corpus callosum #The corpus callosum connects the left and right hemispheres.
+~Brainstem
+~Cerebellum
+}
+
+::NS_gyri_are::
+Gyri are best described as:
+{
+~Grooves separating cortical folds
+~White matter tracts
+=Raised ridges of cortex #Gyri are the raised ridges of the cerebral cortex.
+~Subcortical nuclei
+}
+
+::NS_which_lobe::
+Which lobe is primarily involved in voluntary movement and executive control?
+{
+~Parietal
+~Temporal
+~Occipital
+=Frontal #The frontal lobe is involved in motor control and executive functions.
+}
+
+::NS_damage_to::
+Damage to the parietal lobe may result in:
+{
+~Visual blindness
+=Spatial neglect #Parietal lobe damage can cause spatial neglect, especially after right hemisphere lesions.
+~Language production deficits
+~Motor paralysis
+}
+
+::NS_which_lobe::
+Which lobe is primarily dedicated to visual processing?
+{
+~Temporal
+~Frontal
+=Occipital #The occipital lobe is dedicated to visual processing.
+~Parietal
+}
+
+::NS_which_subcortical::
+Which subcortical structure is essential for forming new long-term memories?
+{
+~Amygdala
+~Basal nuclei
+=Hippocampus #The hippocampus is critical for forming new long-term memories.
+~Thalamus
+}
+
+::NS_which_structure::
+Which structure assigns emotional value to stimuli?
+{
+~Hippocampus
+=Amygdala #The amygdala plays a key role in emotional processing and threat detection.
+~Basal nuclei
+~Cerebellum
+}
+
+::NS_damage_to::
+Damage to the basal nuclei primarily disrupts:
+{
+~Sensory perception
+~Consciousness
+=Movement regulation #Basal nuclei damage disrupts movement regulation without causing paralysis.
+~Vision
+}
+
+::NS_which_diencephalic::
+Which diencephalic structure relays sensory information to cortex?
+{
+~Hypothalamus
+~Epithalamus
+=Thalamus #The thalamus relays and modulates sensory information to cortex.
+~Amygdala
+}
+
+::NS_which_structure::
+Which structure links the nervous and endocrine systems?
+{
+~Thalamus
+=Hypothalamus #The hypothalamus connects neural activity to hormonal regulation.
+~Cerebellum
+~Brainstem
+}
+
+::NS_which_structure::
+Which structure is essential for breathing and heart rate control?
+{
+~Cerebellum
+~Basal nuclei
+=Brainstem #The brainstem controls vital functions such as breathing and heart rate.
+~Hippocampus
+}
+
+::NS_which_are::
+Which are the three subdivisions of the brainstem?
+{
+=Midbrain, pons, medulla #The brainstem consists of the midbrain, pons, and medulla.
+~Thalamus, hypothalamus, epithalamus
+~Cerebrum, cerebellum, brainstem
+~Frontal, parietal, temporal
+}
+
+::NS_damage_to::
+Damage to the cerebellum primarily affects:
+{
+~Memory formation
+~Language comprehension
+=Movement accuracy and coordination #Cerebellar damage causes inaccurate and uncoordinated movements.
+~Autonomic regulation
+}
+
+::NS_cranial_nerves::
+Cranial nerves are part of the:
+{
+~Central nervous system
+=Peripheral nervous system #Cranial nerves belong to the peripheral nervous system.
+~Autonomic nervous system only
+~Somatic nervous system only
+}
+
+::NS_how_many::
+How many pairs of cranial nerves are there?
+{
+~10
+~11
+=12 #There are 12 pairs of cranial nerves, numbered I to XII.
+~14
+}
+
+::NS_which_cranial::
+Which cranial nerve provides extensive parasympathetic innervation?
+{
+~Optic nerve
+~Trigeminal nerve
+~Facial nerve
+=Vagus nerve #The vagus nerve provides major parasympathetic innervation to thoracic and abdominal organs.
+}
+
+::NS_which_spinal::
+Which spinal root carries sensory information into the spinal cord?
+{
+~Ventral root
+=Dorsal root #The dorsal root carries sensory information into the spinal cord.
+~Anterior horn
+~Lateral column
+}
+
+$CATEGORY: module_1_multi/neuron
+
+::neuron_why_are::
+Why are ions essential for neural signaling?
+{
+~They generate heat
+=They carry electrical charge #Electrical signals in neurons arise because ions carry electrical charge.
+~They synthesize neurotransmitters
+~They stabilize membranes
+}
+
+::neuron_which_of::
+Which of the following is a cation?
+{
+~Cl⁻
+~Protein anion
+=Na⁺ #Na⁺ is a positively charged ion and therefore a cation.
+~Phosphate
+}
+
+::neuron_which_ion::
+Which ion is most abundant inside neurons at rest?
+{
+~Na⁺
+=K⁺ #Potassium concentration is higher inside neurons at rest.
+~Ca²⁺
+~Cl⁻
+}
+
+::neuron_what_property::
+What property of the lipid bilayer is crucial for electrical signaling?
+{
+~High conductivity
+=Electrical insulation #The lipid bilayer is electrically insulating and prevents free ion flow.
+~Ion selectivity
+~Elasticity
+}
+
+::neuron_how_do::
+How do ions cross the neuronal membrane?
+{
+~By diffusion through lipids
+=Through ion channels #Ions cross membranes through specific membrane proteins called ion channels.
+~By vesicular transport
+~Through gap junctions only
+}
+
+::neuron_ion_channel::
+Ion channel selectivity is mainly determined by:
+{
+~Channel color
+~Ion speed
+=Ion size and charge #Channel pores are selective based on ion size and charge.
+~Membrane thickness
+}
+
+::neuron_which_force::
+Which force drives ions from high to low concentration?
+{
+~Electrical force
+=Diffusion #Diffusion drives particles down their concentration gradient.
+~Osmosis
+~Active transport
+}
+
+::neuron_which_force::
+Which force depends on the electrical charge of ions?
+{
+~Diffusion
+~Chemical gradient
+=Electrical force #Electrical forces arise from attraction or repulsion between charges.
+~Thermal motion
+}
+
+::neuron_the_electrochemical::
+The electrochemical gradient is the combination of:
+{
+~Temperature and pressure
+~Ion size and channel shape
+=Chemical and electrical gradients #Ion movement depends on both chemical and electrical forces.
+~Diffusion and osmosis
+}
+
+::neuron_why_does::
+Why does Na⁺ strongly enter neurons when its channels open?
+{
+~Only electrical forces act
+~Only diffusion acts
+=Both forces push inward #Both diffusion and electrical attraction drive Na⁺ inward.
+~Na⁺ is actively pumped inside
+}
+
+::neuron_for_k::
+For K⁺ at rest, which forces act in opposite directions?
+{
+=Electrical attraction inward and diffusion outward #Diffusion pushes K⁺ outward while electrical forces pull it inward.
+~Diffusion inward and electrical repulsion outward
+~Both forces inward
+~Both forces outward
+}
+
+::neuron_why_is::
+Why is intracellular Ca²⁺ concentration normally very low?
+{
+~Ca²⁺ cannot enter neurons
+~Ca²⁺ is rapidly degraded
+=Ca²⁺ is tightly regulated as a signal #Ca²⁺ acts as a powerful signaling molecule and must be tightly controlled.
+~Ca²⁺ diffuses out freely
+}
+
+::neuron_ion_movement::
+Ion movement through channels is considered passive because:
+{
+~It requires ATP
+~It moves ions against gradients
+=It follows electrochemical gradients #Ions move passively down their electrochemical gradients.
+~It stops at equilibrium
+}
+
+::neuron_which_proteins::
+Which proteins maintain ion gradients across membranes?
+{
+~Channels
+~Receptors
+=Pumps #Pumps use energy to maintain ion gradients.
+~Gap junctions
+}
+
+::neuron_membrane_voltage::
+Membrane voltage is best described as:
+{
+~An electrical current
+~A substance inside neurons
+=A difference in electrical potential #Voltage is a difference in electrical potential across the membrane.
+~A chemical gradient
+}
+
+::neuron_at_rest::
+At rest, neuronal membranes are most permeable to:
+{
+~Na⁺
+~Ca²⁺
+=K⁺ #Resting membrane potential reflects potassium dominance.
+~Cl⁻
+}
+
+::neuron_opening_na::
+Opening Na⁺ channels causes:
+{
+~Hyperpolarization
+=Depolarization #Na⁺ influx makes the membrane potential less negative.
+~No voltage change
+~Refractory period
+}
+
+::neuron_opening_k::
+Opening K⁺ channels usually leads to:
+{
+~Depolarization
+=Hyperpolarization #K⁺ efflux makes the membrane potential more negative.
+~Threshold crossing
+~Inactivation
+}
+
+::neuron_which_property::
+Which property distinguishes graded potentials?
+{
+~All-or-none behavior
+~Constant amplitude
+=Amplitude depends on stimulus strength #Graded potentials vary in amplitude with stimulus strength.
+~Long-distance propagation
+}
+
+::neuron_why_do::
+Why do graded potentials decay with distance?
+{
+~Ion channels close
+=Membrane and cytoplasmic resistance #Passive spread is limited by membrane and axial resistance.
+~Energy depletion
+~Threshold effects
+}
+
+::neuron_where_do::
+Where do graded potentials typically occur?
+{
+~Axon terminals only
+~Nodes of Ranvier
+=Dendrites and soma #Graded potentials are common in dendrites and soma.
+~Myelin sheath
+}
+
+::neuron_spatial_summation::
+Spatial summation refers to:
+{
+~Signals adding over time
+=Signals adding across space #Spatial summation involves simultaneous inputs from different locations.
+~Action potential propagation
+~Threshold adaptation
+}
+
+::neuron_temporal_summation::
+Temporal summation occurs when:
+{
+~Inputs arrive at different dendrites
+=Inputs arrive close in time #Temporal summation results from rapid successive inputs.
+~Threshold is lowered
+~Channels inactivate
+}
+
+::neuron_action_potentials::
+Action potentials are triggered when:
+{
+~Graded potentials decay
+=Threshold is crossed #Crossing threshold triggers an action potential.
+~K⁺ channels close
+~Ca²⁺ enters dendrites
+}
+
+::neuron_where_do::
+Where do action potentials typically originate?
+{
+~Dendritic spines
+=Axon hillock #The axon hillock is specialized for action potential initiation.
+~Soma center
+~Synaptic cleft
+}
+
+::neuron_which_property::
+Which property defines action potentials?
+{
+~Graded amplitude
+~Passive spread
+=All-or-none behavior #Action potentials are stereotyped, all-or-none events.
+~Decay with distance
+}
+
+::neuron_why_are::
+Why are action potentials needed for long-distance signaling?
+{
+~They are slower
+=They do not decay #Action potentials propagate without loss of amplitude.
+~They require less energy
+~They occur only in dendrites
+}
+
+::neuron_which_membrane::
+Which membrane proteins dominate during action potentials?
+{
+~Passive leak channels
+~Ligand-gated channels
+=Voltage-gated channels #Voltage-gated Na⁺ and K⁺ channels dominate during spikes.
+~Pumps
+}
+
+::neuron_what_is::
+What is channel gating?
+{
+~Ion degradation
+~Channel synthesis
+=Opening and closing of channels #Gating refers to transitions between open and closed states.
+~Ion pumping
+}
+
+::neuron_which_signal::
+Which signal can gate voltage-gated channels?
+{
+~Neurotransmitter binding
+~Mechanical stretch
+=Membrane voltage #Voltage-gated channels respond to changes in membrane voltage.
+~Ion concentration only
+}
+
+::neuron_what_causes::
+What causes the refractory period?
+{
+~K⁺ channel closure
+=Na⁺ channel inactivation #Na⁺ channel inactivation prevents immediate re-firing.
+~Ion pump failure
+~Ca²⁺ accumulation
+}
+
+::neuron_one_function::
+One function of the refractory period is to:
+{
+~Increase spike size
+~Reverse spike direction
+=Ensure one-way propagation #Refractoriness enforces unidirectional propagation.
+~Slow down diffusion
+}
+
+::neuron_increasing_axon::
+Increasing axon diameter affects conduction speed by:
+{
+~Increasing membrane capacitance
+~Increasing axial resistance
+=Reducing axial resistance #Larger axons have lower internal resistance.
+~Reducing channel density
+}
+
+::neuron_myelin_primarily::
+Myelin primarily acts as:
+{
+~A conductor
+=An insulator #Myelin electrically insulates axons.
+~A channel cluster
+~A receptor
+}
+
+::neuron_nodes_of::
+Nodes of Ranvier are characterized by:
+{
+~Absence of channels
+=High channel density #Voltage-gated channels are concentrated at nodes.
+~Thick myelin layers
+~Synaptic terminals
+}
+
+::neuron_saltatory_conduction::
+Saltatory conduction means:
+{
+~Continuous propagation
+~Random propagation
+=Jumping between nodes #Action potentials jump from node to node in myelinated axons.
+~Backward propagation
+}
+
+::neuron_myelination_increases::
+Myelination increases conduction speed primarily by:
+{
+~Increasing ion concentration
+=Reducing current leakage #Myelin reduces current loss across the membrane.
+~Increasing channel opening time
+~Increasing pump activity
+}
+
+::neuron_which_statement::
+Which statement about voltage is correct?
+{
+~It is a force
+~It is a substance
+=It measures electrical energy difference #Voltage measures how much electrical energy is available to move ions.
+~It is an ion property
+}
+
+::neuron_which_ions::
+Which ions mainly shape the resting membrane potential?
+{
+~Na⁺ and Ca²⁺
+~Ca²⁺ and Cl⁻
+=K⁺ and leak channels #Resting potential reflects high K⁺ permeability through leak channels.
+~Na⁺ and pumps
+}
+
+::neuron_what_happens::
+What happens if depolarization does not reach threshold?
+{
+~An action potential still occurs
+~The neuron fires backward
+=The voltage returns to rest #Subthreshold depolarizations decay back to resting potential.
+~Na⁺ channels inactivate permanently
+}
+
+::neuron_why_are::
+Why are action potentials considered active events?
+{
+~They require ATP directly
+=They depend on voltage-gated channels #Voltage-gated channel dynamics make action potentials active processes.
+~They involve diffusion only
+~They are graded
+}
+
+::neuron_which_channel::
+Which channel state prevents immediate reopening after a spike?
+{
+~Closed
+~Open
+=Inactivated #Inactivation temporarily prevents Na⁺ channels from reopening.
+~Leaky
+}
+
+::neuron_which_property::
+Which property limits the maximum firing frequency of neurons?
+{
+~Membrane thickness
+~Channel selectivity
+=Refractory period #The refractory period limits how fast neurons can fire.
+~Diffusion rate
+}
+
+$CATEGORY: module_1_multi/synapse
+
+::synapse_what_is::
+What is a synapse?
+{
+~A continuous cytoplasmic bridge between neurons
+=A specialized junction for neuronal communication #A synapse is a specialized junction where neurons communicate with other cells.
+~A region of myelin insulation
+~An electrical gap junction only
+}
+
+::synapse_what_separates::
+What separates the presynaptic and postsynaptic neurons?
+{
+~Myelin sheath
+=Synaptic cleft #Neurons are not physically continuous; they are separated by the synaptic cleft.
+~Axon hillock
+~Cytoskeleton
+}
+
+::synapse_which_component::
+Which component releases neurotransmitters?
+{
+~Postsynaptic membrane
+~Synaptic cleft
+=Presynaptic terminal #Neurotransmitters are released from the presynaptic terminal.
+~Dendritic spine
+}
+
+::synapse_synaptic_signaling::
+Synaptic signaling is typically:
+{
+~Bidirectional
+~Random
+=Directional #Synaptic transmission is directional, from presynaptic to postsynaptic cell.
+~Independent of structure
+}
+
+::synapse_what_triggers::
+What triggers neurotransmitter release at the presynaptic terminal?
+{
+~Sodium influx
+~Potassium efflux
+=Calcium influx #Opening of voltage-gated Ca²⁺ channels triggers vesicle fusion.
+~Chloride influx
+}
+
+::synapse_synaptic_vesicles::
+Synaptic vesicles are best described as:
+{
+~Ion channels
+=Membrane-bound organelles storing neurotransmitters #Synaptic vesicles store neurotransmitters at high concentration.
+~Receptors on the postsynaptic membrane
+~Mitochondria at synapses
+}
+
+::synapse_neurotransmitter_release::
+Neurotransmitter release is described as quantal because:
+{
+~It is continuous
+=It occurs in discrete packets #Release occurs in discrete vesicle fusion events.
+~It depends on ion diffusion only
+~It is electrically graded
+}
+
+::synapse_which_proteins::
+Which proteins mediate vesicle fusion?
+{
+~Ion channels
+~G-proteins
+=SNARE proteins #SNARE proteins bring vesicle and membrane together for fusion.
+~Transporters
+}
+
+::synapse_neurotransmitter_release::
+Neurotransmitter release occurs through:
+{
+~Endocytosis
+~Diffusion
+=Exocytosis #Vesicles release neurotransmitters by exocytosis.
+~Active transport
+}
+
+::synapse_postsynaptic_receptors::
+Postsynaptic receptors are located on the:
+{
+~Presynaptic terminal
+~Synaptic cleft
+=Postsynaptic membrane #Receptors are embedded in the postsynaptic membrane.
+~Axon initial segment
+}
+
+::synapse_ionotropic_receptors::
+Ionotropic receptors are characterized by:
+{
+~Slow modulatory effects
+~G-protein activation
+=Ligand-gated ion channels #Ionotropic receptors directly open ion channels upon binding.
+~Second messenger cascades
+}
+
+::synapse_metabotropic_receptors::
+Metabotropic receptors differ from ionotropic receptors because they:
+{
+~Form ion channels
+~Act only at inhibitory synapses
+=Activate intracellular signaling pathways #Metabotropic receptors act via G-proteins and signaling cascades.
+~Produce only fast responses
+}
+
+::synapse_epsps_are::
+EPSPs are typically produced by:
+{
+~Cl⁻ influx
+=Na⁺ influx #Excitatory synapses usually depolarize the membrane via Na⁺ influx.
+~K⁺ efflux only
+~Na⁺ efflux
+}
+
+::synapse_ipsps_are::
+IPSPs are commonly mediated by:
+{
+~Na⁺ influx
+~Ca²⁺ influx
+=Cl⁻ influx #Inhibitory synapses often involve Cl⁻ influx.
+~Na⁺ efflux
+}
+
+::synapse_how_does::
+How does neurotransmitter action typically end?
+{
+~Ion diffusion
+=Reuptake or enzymatic degradation #Clearance occurs via reuptake or enzymatic breakdown.
+~Membrane depolarization
+~Vesicle fusion
+}
+
+::synapse_which_neurotransmitter::
+Which neurotransmitter is the main excitatory transmitter in the brain?
+{
+~GABA
+~Dopamine
+=Glutamate #Glutamate is the primary excitatory neurotransmitter in the CNS.
+~Acetylcholine
+}
+
+::synapse_which_neurotransmitter::
+Which neurotransmitter is the main inhibitory transmitter in the brain?
+{
+=GABA #GABA is the main inhibitory neurotransmitter.
+~Glutamate
+~Serotonin
+~Noradrenaline
+}
+
+::synapse_which_neurotransmitter::
+Which neurotransmitter acts as a diffuse projection system and is involved in movement and reward?
+{
+~Serotonin
+=Dopamine #Dopamine is involved in motivation, learning, and movement.
+~GABA
+~Glutamate
+}
+
+::synapse_which_neurotransmitter::
+Which neurotransmitter is strongly involved in mood and sleep regulation?
+{
+~Acetylcholine
+~Dopamine
+=Serotonin #Serotonin regulates mood, sleep, and appetite.
+~Glutamate
+}
+
+::synapse_which_neurotransmitter::
+Which neurotransmitter system is called cholinergic?
+{
+~Dopamine
+~Serotonin
+=Acetylcholine #Acetylcholine defines the cholinergic system.
+~Noradrenaline
+}
+
+::synapse_noradrenaline_is::
+Noradrenaline is primarily involved in:
+{
+~Memory storage
+=Arousal and attention #Noradrenaline regulates arousal, attention, and stress responses.
+~Fast inhibition
+~Muscle contraction
+}
+
+::synapse_which_neurotransmitter::
+Which neurotransmitter is less abundant in the CNS and more peripheral?
+{
+~Dopamine
+=Adrenaline #Adrenaline is less abundant in the CNS and more peripheral.
+~GABA
+~Glutamate
+}
+
+::synapse_neuropeptides_generally::
+Neuropeptides generally act as:
+{
+~Fast excitatory transmitters
+~Fast inhibitory transmitters
+=Modulatory signals #Neuropeptides often act as modulators rather than fast transmitters.
+~Ion channels
+}
+
+::synapse_endocannabinoids_are::
+Endocannabinoids are notable because they:
+{
+~Act only postsynaptically
+=Mediate retrograde signaling #Endocannabinoids can signal retrogradely from postsynaptic to presynaptic neurons.
+~Are classical fast transmitters
+~Are stored in vesicles
+}
+
+::synapse_nitric_oxide::
+Nitric oxide (NO) is unusual because it:
+{
+~Is stored in vesicles
+=Acts as a gas and diffuses freely #NO is a gaseous signaling molecule that diffuses freely.
+~Only excites neurons
+~Acts only at ionotropic receptors
+}
+
+::synapse_ampa_receptors::
+AMPA receptors primarily mediate:
+{
+~Slow inhibition
+=Fast excitation #AMPA receptors mediate fast excitatory synaptic transmission.
+~Calcium release from stores
+~Neuromodulation
+}
+
+::synapse_nmda_receptors::
+NMDA receptors are especially important for:
+{
+~Fast inhibition
+~Action potential generation
+=Synaptic plasticity #NMDA receptors are involved in synaptic plasticity.
+~Chloride conductance
+}
+
+::synapse_gaba_a::
+GABA-A receptors allow the flow of:
+{
+~Na⁺
+~K⁺
+=Cl⁻ #GABA-A receptors are Cl⁻ permeable ionotropic receptors.
+~Ca²⁺
+}
+
+::synapse_metabotropic_receptors::
+Metabotropic receptors produce slower effects because they:
+{
+~Open ion channels directly
+=Depend on intracellular signaling cascades #Metabotropic receptors activate intracellular signaling pathways.
+~Are less selective
+~Lack neurotransmitter binding
+}
+
+::synapse_neuromodulation_refers::
+Neuromodulation refers to:
+{
+~Fast electrical transmission
+~Direct ion channel opening
+=Changing how neurons respond to inputs #Neuromodulation alters neuronal responsiveness rather than triggering fast signals.
+~Blocking neurotransmitter release
+}
+
+::synapse_which_synapse::
+Which synapse type has the strongest influence on spike generation?
+{
+~Axo-dendritic
+=Axo-somatic #Axo-somatic synapses strongly influence action potential initiation.
+~Axo-axonic
+~Dendro-dendritic
+}
+
+::synapse_axo_axonic::
+Axo-axonic synapses primarily:
+{
+~Generate EPSPs
+~Generate IPSPs
+=Modulate neurotransmitter release #Axo-axonic synapses modulate neurotransmitter release.
+~Form electrical synapses
+}
+
+::synapse_why_must::
+Why must neurotransmitters be rapidly cleared from the synaptic cleft?
+{
+~To conserve energy
+=To prevent prolonged receptor activation #Rapid clearance ensures precise and brief synaptic signaling.
+~To allow vesicle recycling
+~To generate action potentials
+}
+
+::synapse_reuptake_involves::
+Reuptake involves:
+{
+~Diffusion away from synapse
+=Transport back into presynaptic terminal #Reuptake returns neurotransmitters to the presynaptic terminal.
+~Enzymatic breakdown
+~Postsynaptic receptor removal
+}
+
+::synapse_ssris_increase::
+SSRIs increase synaptic signaling by:
+{
+~Increasing vesicle release
+=Blocking serotonin reuptake #SSRIs block serotonin reuptake transporters.
+~Activating serotonin receptors
+~Increasing serotonin synthesis
+}
+
+::synapse_cocaine_increases::
+Cocaine increases synaptic signaling by blocking reuptake of:
+{
+~Only dopamine
+~Only serotonin
+=Dopamine, norepinephrine, and serotonin #Cocaine blocks reuptake of multiple monoamines.
+~GABA and glutamate
+}
+
+$CATEGORY: module_1_multi/sensory
+
+::sensory_why_is::
+Why is the idea of only five senses considered a simplification?
+{
+~Because senses overlap anatomically
+=Because many sensory systems operate outside awareness #The nervous system supports many parallel sensory channels beyond the classic five.
+~Because only vision and hearing are real senses
+~Because taste and smell are the same sense
+}
+
+::sensory_a_sensory::
+A sensory system is defined as one that:
+{
+~Produces conscious perception only
+=Detects, converts, and transmits specific stimuli #Sensory systems detect stimuli, transduce them, and provide information to the brain.
+~Operates only in the cortex
+~Uses action potentials exclusively
+}
+
+::sensory_what_is::
+What is sensory transduction?
+{
+~The propagation of action potentials
+=The conversion of physical stimuli into neural signals #Transduction converts physical energy into neural activity.
+~The integration of sensory inputs in cortex
+~The modulation of perception by attention
+}
+
+::sensory_which_sense::
+Which sense provides information about limb position without vision?
+{
+~Interoception
+~Nociception
+=Proprioception #Proprioception signals limb position, muscle stretch, and joint angle.
+~Thermoception
+}
+
+::sensory_which_sensory::
+Which sensory system monitors the internal state of the body?
+{
+~Exteroception
+=Interoception #Interoception monitors internal variables like heart rate and hunger.
+~Vestibular sense
+~Pruriception
+}
+
+::sensory_nociception_is::
+Nociception is best described as:
+{
+~The emotional experience of pain
+=Detection of harmful stimuli #Nociception detects potentially damaging stimuli; pain is a perceptual construct.
+~Weak activation of touch receptors
+~A form of proprioception
+}
+
+::sensory_what_is::
+What is a receptive field?
+{
+~A type of sensory receptor
+~A cortical area for perception
+=The region of sensory space influencing a neuron #A receptive field is the region of sensory space that affects a neuron’s activity.
+~A synaptic integration zone
+}
+
+::sensory_stimulus_intensity::
+Stimulus intensity is primarily encoded by:
+{
+~Receptor type only
+~Action potential shape
+=Firing rate and number of active receptors #Intensity is encoded by firing rate and population recruitment.
+~Cortical magnification
+}
+
+::sensory_which_sensory::
+Which sensory system bypasses the thalamus?
+{
+~Vision
+~Audition
+~Somatosensation
+=Olfaction #Olfactory signals reach cortex without a thalamic relay.
+}
+
+::sensory_what_is::
+What is the primary role of the thalamus in sensory processing?
+{
+~Generating action potentials
+~Passive signal relay only
+=Active modulation and organization of sensory signals #The thalamus actively modulates sensory information.
+~Creating perception
+}
+
+::sensory_what_property::
+What property of light determines perceived color?
+{
+~Intensity
+=Wavelength #Wavelength corresponds to perceived color.
+~Amplitude
+~Phase
+}
+
+::sensory_human_vision::
+Human vision is sensitive to wavelengths approximately between:
+{
+~100–300 nm
+~300–400 nm
+=400–700 nm #Human vision spans roughly 400 to 700 nm.
+~700–1000 nm
+}
+
+::sensory_which_structure::
+Which structure contains photoreceptors?
+{
+~Cornea
+~Lens
+=Retina #Photoreceptors are located in the retina.
+~Optic nerve
+}
+
+::sensory_rods_are::
+Rods are specialized for:
+{
+~Color vision
+~High spatial acuity
+=Low-light vision #Rods are highly sensitive and support scotopic vision.
+~Motion detection
+}
+
+::sensory_cones_are::
+Cones are primarily responsible for:
+{
+~Night vision
+=Color perception #Cones mediate color vision and high acuity.
+~Peripheral vision
+~Blind spot formation
+}
+
+::sensory_where_is::
+Where is visual acuity highest?
+{
+~Peripheral retina
+~Optic disc
+=Fovea #The fovea contains a high density of cones.
+~Optic chiasm
+}
+
+::sensory_what_causes::
+What causes the blind spot?
+{
+~Lack of cones
+~High rod density
+=Exit of optic nerve fibers #The optic nerve exits where no photoreceptors are present.
+~Lens opacity
+}
+
+::sensory_retinal_ganglion::
+Retinal ganglion cells are:
+{
+~Photoreceptors
+~Interneurons
+=Output neurons of the retina #Ganglion cells form the optic nerve.
+~Thalamic neurons
+}
+
+::sensory_on_center::
+ON-center ganglion cells respond best to:
+{
+~Uniform illumination
+=Bright center and dark surround #ON-center cells increase firing to light in the center.
+~Dark center and bright surround
+~No contrast
+}
+
+::sensory_center_surround::
+Center–surround organization emphasizes:
+{
+~Absolute light intensity
+~Color
+=Contrast #Center–surround fields emphasize changes and contrast.
+~Eye dominance
+}
+
+::sensory_which_retinal::
+Which retinal axons cross at the optic chiasm?
+{
+~Temporal retina
+~Foveal retina
+=Nasal retina #Nasal retinal axons cross to the contralateral side.
+~All retinal axons
+}
+
+::sensory_each_hemisphere::
+Each hemisphere processes information from:
+{
+~The ipsilateral visual field
+=The contralateral visual field #Each hemisphere processes the contralateral visual field.
+~Both visual fields equally
+~One eye only
+}
+
+::sensory_the_lateral::
+The lateral geniculate nucleus is located in the:
+{
+~Midbrain
+=Thalamus #The LGN is a thalamic nucleus.
+~Cerebellum
+~Brainstem
+}
+
+::sensory_v_neurons::
+V1 neurons are selective for:
+{
+~Color only
+=Edges and orientation #V1 neurons encode edges, orientation, and location.
+~Faces
+~Motion only
+}
+
+::sensory_what_does::
+What does cortical magnification reflect?
+{
+~Physical size of stimuli
+=Behavioral relevance #Important regions like the fovea occupy more cortical space.
+~Uniform retinal sampling
+~Eye dominance
+}
+
+::sensory_the_ventral::
+The ventral visual stream is primarily involved in:
+{
+~Motion processing
+~Spatial localization
+=Object recognition #The ventral stream answers “what is it?”
+~Eye movements
+}
+
+::sensory_the_dorsal::
+The dorsal visual stream is mainly involved in:
+{
+~Object identity
+~Color perception
+=Spatial localization and action #The dorsal stream supports spatial processing and action.
+~Face recognition
+}
+
+::sensory_prosopagnosia_results::
+Prosopagnosia results from damage to:
+{
+~Primary visual cortex
+~Dorsal stream
+=Ventral temporal cortex #Prosopagnosia reflects ventral stream damage.
+~LGN
+}
+
+::sensory_akinetopsia_is::
+Akinetopsia is characterized by:
+{
+~Color blindness
+=Motion blindness #Akinetopsia is the inability to perceive motion.
+~Loss of visual acuity
+~Face blindness
+}
+
+::sensory_which_mechanoreceptor::
+Which mechanoreceptor detects vibration?
+{
+~Merkel cells
+~Meissner corpuscles
+=Pacinian corpuscles #Pacinian corpuscles are sensitive to vibration.
+~Ruffini endings
+}
+
+::sensory_smaller_receptive::
+Smaller receptive fields allow:
+{
+~Higher sensitivity
+~Better temporal resolution
+=Finer spatial acuity #Smaller receptive fields support fine spatial discrimination.
+~Lower firing rates
+}
+
+::sensory_the_dorsal::
+The dorsal column pathway carries:
+{
+~Pain and temperature
+~Crude touch
+=Fine touch and proprioception #The dorsal column pathway carries precise touch information.
+~Motor commands
+}
+
+::sensory_the_spinothalamic::
+The spinothalamic pathway primarily conveys:
+{
+~Fine touch
+~Proprioception
+=Pain and temperature #The spinothalamic pathway carries pain and temperature.
+~Vibration
+}
+
+::sensory_primary_somatosensory::
+Primary somatosensory cortex is located in the:
+{
+~Precentral gyrus
+=Postcentral gyrus #S1 is located in the postcentral gyrus.
+~Temporal lobe
+~Occipital lobe
+}
+
+::sensory_the_sensory::
+The sensory homunculus reflects:
+{
+~Body size
+=Receptor density and importance #Cortical representation reflects functional importance.
+~Muscle strength
+~Skin thickness
+}
+
+::sensory_nociceptors_are::
+Nociceptors are activated by:
+{
+~Weak touch
+~Safe temperature changes
+=Potentially damaging stimuli #Nociceptors respond to harmful stimuli.
+~Muscle stretch
+}
+
+::sensory_a_fibers::
+Aδ fibers convey:
+{
+~Slow, dull pain
+=Fast, sharp pain #Aδ fibers transmit fast, sharp pain.
+~Itch
+~Temperature only
+}
+
+::sensory_pain_processing::
+Pain processing involves:
+{
+~Only somatosensory cortex
+~Only the thalamus
+=Distributed cortical and subcortical regions #Pain has sensory, emotional, and cognitive components.
+~Only peripheral receptors
+}
+
+::sensory_sound_frequency::
+Sound frequency is perceived as:
+{
+~Loudness
+=Pitch #Frequency corresponds to perceived pitch.
+~Intensity
+~Timbre
+}
+
+::sensory_sound_amplitude::
+Sound amplitude is perceived as:
+{
+~Pitch
+=Loudness #Amplitude corresponds to perceived loudness.
+~Frequency
+~Duration
+}
+
+::sensory_hair_cells::
+Hair cells transduce sound by:
+{
+~Voltage-gated sodium channels
+=Mechanically gated ion channels #Hair cell deflection opens mechanically gated channels.
+~Chemical synapses
+~Phototransduction
+}
+
+::sensory_tonotopy_refers::
+Tonotopy refers to:
+{
+~Spatial mapping of sound intensity
+=Mapping of frequency across auditory structures #Tonotopy maps sound frequency spatially.
+~Temporal coding of sound
+~Binaural integration
+}
+
+::sensory_primary_auditory::
+Primary auditory cortex is located in the:
+{
+~Frontal lobe
+=Temporal lobe #Primary auditory cortex lies in the temporal lobe.
+~Parietal lobe
+~Occipital lobe
+}
+
+$CATEGORY: module_1_multi/motor
+
+::motor_what_is::
+What is the primary function of the motor system?
+{
+~Processing sensory input
+=Generating movement from goals and intentions #The motor system transforms goals and intentions into coordinated muscle activity.
+~Regulating autonomic functions
+~Maintaining posture only
+}
+
+::motor_which_process::
+Which process is NOT required for producing movement?
+{
+~Action selection
+~Motor planning
+~Outcome monitoring
+=Sensory transduction #Sensory transduction belongs to sensory systems, not motor execution.
+}
+
+::motor_which_structure::
+Which structure is the main cortical output of the motor system?
+{
+~Premotor cortex
+=Primary motor cortex #M1 is the main cortical output sending commands to the spinal cord.
+~Supplementary motor area
+~Somatosensory cortex
+}
+
+::motor_somatotopic_organization::
+Somatotopic organization in M1 means that:
+{
+~Each muscle has one neuron
+=Different body parts map to different cortical regions #Different body parts are represented in distinct cortical regions.
+~Only sensory information is mapped
+~All body parts are equally represented
+}
+
+::motor_which_body::
+Which body parts occupy more cortical space in M1?
+{
+~Large muscles
+=Muscles with fine motor control #Fine motor control requires larger cortical representation.
+~Axial muscles
+~Postural muscles
+}
+
+::motor_motor_control::
+Motor control from cortex to spinal cord is largely:
+{
+~Ipsilateral
+~Bilateral
+=Contralateral #Motor cortex mainly controls the contralateral side of the body.
+~Unilateral but random
+}
+
+::motor_lower_motor::
+Lower motor neurons are located in the:
+{
+~Dorsal horn of the spinal cord
+=Ventral horn of the spinal cord #Lower motor neurons reside in the ventral horn of the spinal cord.
+~Motor cortex
+~Brainstem nuclei only
+}
+
+::motor_which_structure::
+Which structure is the main site of motor execution?
+{
+~Motor cortex
+~Basal ganglia
+~Cerebellum
+=Spinal cord #The spinal cord integrates commands and executes movement.
+}
+
+::motor_why_is::
+Why is M1 alone insufficient for voluntary movement?
+{
+~It cannot generate force
+=It cannot select or plan actions #Action selection and planning require additional motor areas.
+~It does not connect to the spinal cord
+~It lacks somatotopy
+}
+
+::motor_the_supplementary::
+The supplementary motor area is especially involved in:
+{
+~Externally guided movements
+=Internally generated actions #SMA supports internally generated and self-initiated movements.
+~Reflexes
+~Muscle tone regulation
+}
+
+::motor_the_premotor::
+The premotor cortex is mainly involved in:
+{
+~Internally driven actions
+=Externally guided movements #Premotor cortex links sensory cues to motor plans.
+~Error correction
+~Muscle execution
+}
+
+::motor_what_is::
+What is the primary role of the basal nuclei?
+{
+~Generating motor commands
+~Correcting movement errors
+=Selecting and gating actions #Basal nuclei regulate whether actions are initiated or suppressed.
+~Maintaining muscle tone
+}
+
+::motor_basal_nuclei::
+Basal nuclei do NOT:
+{
+~Influence action selection
+~Suppress competing actions
+=Send commands directly to muscles #Basal nuclei do not project directly to muscles.
+~Gate motor plans
+}
+
+::motor_the_cerebellum::
+The cerebellum is primarily involved in:
+{
+~Action selection
+~Movement execution commands
+=Coordination and timing #The cerebellum refines movement execution through coordination and timing.
+~Initiating voluntary movement
+}
+
+::motor_what_comparison::
+What comparison does the cerebellum perform?
+{
+~Desired reward vs outcome
+~Sensory input vs motor cortex activity
+=Intended movement vs actual outcome #The cerebellum compares intended and actual movement.
+~Muscle force vs reflex activity
+}
+
+::motor_damage_to::
+Damage to primary motor cortex typically causes:
+{
+~Loss of reflexes
+~Sensory deficits only
+=Contralateral weakness or paralysis #Primary motor cortex damage causes contralateral motor deficits.
+~Involuntary movements
+}
+
+::motor_why_are::
+Why are reflexes usually preserved after M1 damage?
+{
+~Reflexes depend on cortex
+=Reflexes are spinal #Reflexes are mediated by spinal circuits.
+~Reflexes are voluntary
+~Reflexes are cerebellar
+}
+
+::motor_damage_to::
+Damage to premotor cortex or SMA results in:
+{
+~Muscle paralysis
+~Loss of strength
+=Difficulty planning movements #These areas are critical for planning and sequencing actions.
+~Loss of reflexes
+}
+
+::motor_apraxia_is::
+Apraxia is best described as:
+{
+~Loss of muscle strength
+~Involuntary movements
+=Inability to plan movements despite normal strength #Apraxia reflects impaired motor planning, not execution.
+~Loss of coordination due to weakness
+}
+
+::motor_basal_nuclei::
+Basal nuclei damage primarily affects:
+{
+~Muscle strength
+=Action initiation and suppression #Basal nuclei damage disrupts action selection.
+~Reflex pathways
+~Sensory feedback
+}
+
+::motor_parkinsonian_disorders::
+Parkinsonian disorders are characterized by:
+{
+~Excessive involuntary movements
+~Loss of coordination only
+=Difficulty initiating movement #Parkinsonian disorders impair movement initiation.
+~Complete paralysis
+}
+
+::motor_which_symptom::
+Which symptom is typical of Parkinson’s disease?
+{
+~Flaccid paralysis
+=Bradykinesia #Bradykinesia is a hallmark of Parkinsonian disorders.
+~Loss of reflexes
+~Muscle atrophy
+}
+
+::motor_cerebellar_damage::
+Cerebellar damage usually causes:
+{
+~Paralysis
+~Loss of sensation
+=Poor coordination with preserved strength #Cerebellar damage affects accuracy and timing, not strength.
+~Spasticity
+}
+
+::motor_cerebellar_ataxia::
+Cerebellar ataxia includes which symptom?
+{
+~Rigidity
+=Dysmetria #Dysmetria reflects inaccurate movement scaling.
+~Hyperreflexia
+~Flaccidity
+}
+
+::motor_an_intention::
+An intention tremor is associated with damage to the:
+{
+~Basal nuclei
+~Motor cortex
+=Cerebellum #Intention tremor is characteristic of cerebellar damage.
+~Spinal cord
+}
+
+::motor_upper_motor::
+Upper motor neuron lesions typically produce:
+{
+~Flaccid paralysis
+~Muscle atrophy
+=Increased muscle tone and hyperreflexia #Upper motor neuron lesions remove inhibitory control.
+~Loss of reflexes
+}
+
+::motor_lower_motor::
+Lower motor neuron lesions result in:
+{
+~Spastic paralysis
+~Hyperreflexia
+=Flaccid paralysis and muscle atrophy #Lower motor neuron damage disrupts the final motor pathway.
+~Preserved reflexes
+}
+
+::motor_which_feature::
+Which feature distinguishes upper from lower motor neuron damage?
+{
+~Presence of weakness
+~Loss of voluntary movement
+=Muscle tone changes #Upper motor neuron damage increases tone; lower decreases it.
+~Contralateral deficits
+}
+
+::motor_spinal_cord::
+Spinal cord lesions typically cause:
+{
+~Localized muscle weakness only
+~Deficits above the lesion
+=Deficits below the lesion #Spinal cord lesions affect functions below the lesion level.
+~Only sensory loss
+}
+
+::motor_why_does::
+Why does the level of a spinal cord lesion matter?
+{
+~It determines reflex strength
+=It determines which muscles are affected #The lesion level defines which body regions lose control.
+~It determines cognitive deficits
+~It determines basal nuclei involvement
+}
+
+::motor_peripheral_nerve::
+Peripheral nerve damage typically results in:
+{
+~Contralateral weakness
+~Diffuse motor deficits
+=Deficits following peripheral anatomy #Peripheral nerve damage follows nerve distribution.
+~Preserved reflexes
+}
+
+::motor_which_deficit::
+Which deficit is common after peripheral nerve injury?
+{
+~Increased muscle tone
+~Hyperreflexia
+=Loss of reflexes #Peripheral nerve damage disrupts reflex arcs.
+~Intention tremor
+}
+
+::motor_motor_planning::
+Motor planning primarily occurs:
+{
+~After movement execution
+~Only in the spinal cord
+=Before movement execution #Planning precedes execution in voluntary movement.
+~Only during reflexes
+}
+
+::motor_which_structure::
+Which structure integrates descending motor commands with sensory input?
+{
+~Basal ganglia
+~Motor cortex
+~Cerebellum
+=Spinal cord #The spinal cord integrates commands and sensory feedback.
+}
+
+::motor_which_component::
+Which component of the motor system does NOT directly produce force?
+{
+~Lower motor neurons
+~Muscle fibers
+=Basal nuclei #Basal nuclei modulate plans but do not generate force.
+~Spinal circuits
+}
+
+::motor_which_structure::
+Which structure mainly contributes to externally cued movement preparation?
+{
+~SMA
+=Premotor cortex #Premotor cortex links sensory cues to motor plans.
+~Basal nuclei
+~Cerebellum
+}
+
+::motor_motor_system::
+Motor system organization is best described as:
+{
+~Strictly hierarchical
+~Localized to one region
+=Distributed across multiple interacting regions #Motor control arises from distributed interacting circuits.
+~Purely reflex-based
+}
+
+::motor_which_statement::
+Which statement best describes voluntary movement?
+{
+~Generated by a single cortical area
+~Independent of sensory input
+=Requires selection, planning, execution, and monitoring #Voluntary movement is a multi-stage distributed process.
+~Occurs only in the spinal cord
+}
+
+$CATEGORY: module_1_multi/intro
+
+::intro_what_core::
+What core question does neuroscience aim to answer?
+{
+~How neurons evolve over time
+=How the brain produces behavior #Neuroscience asks how brain activity gives rise to behavior.
+~How genes control movement
+~How muscles generate force
+}
+
+::intro_which_systems::
+Which systems are studied in neuroscience?
+{
+~Only the central nervous system
+~Only the peripheral nervous system
+=Central and peripheral nervous systems #Neuroscience studies both central and peripheral nervous systems.
+~Only sensory systems
+}
+
+::intro_what_is::
+What is the primary functional unit of the nervous system?
+{
+~Glial cell
+=Neuron #Neurons are the basic units that process and transmit signals.
+~Synapse
+~Axon
+}
+
+::intro_what_is::
+What is the main function of neurons?
+{
+~Producing hormones
+=Sending electrical signals #Neurons send electrical signals over short and long distances.
+~Supporting blood flow
+~Maintaining posture
+}
+
+::intro_neurons_are::
+Neurons are described as electrically and chemically excitable because they:
+{
+~Only release neurotransmitters
+~Respond only to chemicals
+=Generate electrical signals and release chemicals #Neurons use both electrical and chemical signaling.
+~Produce energy
+}
+
+::intro_which_neuronal::
+Which neuronal component primarily receives incoming signals?
+{
+~Axon
+~Axon hillock
+=Dendrites #Dendrites are the main targets of incoming synaptic signals.
+~Presynaptic terminal
+}
+
+::intro_what_is::
+What is the role of dendritic spines?
+{
+~Increase axon speed
+~Store neurotransmitters
+=Increase surface area for synapses #Spines increase the surface area for synaptic contact.
+~Generate action potentials
+}
+
+::intro_what_is::
+What is the primary role of the cell body (soma)?
+{
+~Releasing neurotransmitters
+~Conducting signals rapidly
+=Integrating incoming signals #The soma integrates signals from dendrites.
+~Generating reflexes
+}
+
+::intro_which_structure::
+Which structure contains the neuron’s DNA?
+{
+~Axon
+~Dendrites
+=Nucleus #DNA is stored inside the nucleus.
+~Presynaptic terminal
+}
+
+::intro_genes_are::
+Genes are best described as:
+{
+~Electrical signals
+~Proteins
+~Chains of amino acids
+=Instructions encoded in DNA #Genes are DNA sequences that encode instructions.
+}
+
+::intro_proteins_are::
+Proteins are composed of:
+{
+~Nucleotides
+~Lipids
+=Amino acids #Proteins are chains of amino acids.
+~Sugars
+}
+
+::intro_why_are::
+Why are proteins described as the working molecules of the cell?
+{
+~They store genetic information
+~They carry electrical signals
+=They perform most cellular functions #Proteins carry out most cellular processes.
+~They form membranes
+}
+
+::intro_where_are::
+Where are action potentials typically initiated?
+{
+~Dendrites
+~Cell body
+=Axon hillock #The axon hillock is the trigger zone for action potentials.
+~Presynaptic terminal
+}
+
+::intro_what_property::
+What property makes the axon suitable for long-distance signaling?
+{
+~High metabolic activity
+~Electrical insulation
+=Ability to conduct electrical signals #Axons conduct electrical signals over long distances.
+~Large nucleus
+}
+
+::intro_what_is::
+What is the effect of axon myelination?
+{
+~Slower signaling
+=Faster and reliable signal conduction #Myelination increases conduction speed.
+~More neurotransmitter release
+~Increased dendritic input
+}
+
+::intro_what_is::
+What is the function of the presynaptic terminal?
+{
+~Receiving neurotransmitters
+~Generating action potentials
+=Releasing neurotransmitters #Presynaptic terminals release neurotransmitters.
+~Integrating signals
+}
+
+::intro_why_is::
+Why is neuron diversity important?
+{
+~All neurons perform the same task
+=Different structures support specialized functions #Neuronal diversity enables specialized functions across the nervous system.
+~It increases metabolic cost
+~It reduces signaling efficiency
+}
+
+$CATEGORY: module_1_multi/emot
+
+::emot_what_core::
+What core problem do emotion and motivation help solve for the brain?
+{
+~Increasing sensory resolution
+=Prioritizing what is important and requires action #Emotion and motivation help the brain prioritize information and guide action.
+~Storing long-term memories
+~Optimizing motor precision
+}
+
+::emot_emotion_and::
+Emotion and motivation primarily contribute to:
+{
+~Signal transmission speed
+=Decision biasing and behavioral drive #They bias decisions and drive behavior.
+~Sensory adaptation
+~Muscle coordination
+}
+
+::emot_which_best::
+Which best defines emotion from a neuroscience perspective?
+{
+~A conscious feeling state
+=A coordinated brain–body state that assigns value #Emotion is a coordinated brain–body state that assigns value and prepares action.
+~A purely cognitive interpretation
+~A learned behavioral response
+}
+
+::emot_what_distinguishes::
+What distinguishes emotions from feelings?
+{
+~Emotions are slower than feelings
+~Feelings are objective and measurable
+=Emotions can occur without awareness #Emotions can occur without conscious awareness, while feelings require it.
+~Feelings originate subcortically
+}
+
+::emot_feelings_depend::
+Feelings depend most strongly on:
+{
+~Subcortical reflexes
+~Autonomic responses
+=Cortical processing and awareness #Feelings rely on cortical processing and conscious interpretation.
+~Motor execution
+}
+
+::emot_which_statement::
+Which statement is correct?
+{
+~You can have feelings without emotions
+~Emotions always require conscious awareness
+=Emotions typically occur before feelings #Emotions occur first; feelings may emerge later.
+~Feelings generate emotions
+}
+
+::emot_which_brain::
+Which brain regions are commonly involved in emotion processing?
+{
+~Only the amygdala
+~Only cortical areas
+=Amygdala, hypothalamus, brainstem, cortex #Emotion relies on distributed networks across cortex and subcortex.
+~Only the prefrontal cortex
+}
+
+::emot_subcortical_emotion::
+Subcortical emotion-related regions are mainly involved in:
+{
+~Conscious interpretation
+~Slow deliberation
+=Rapid and automatic responses #Subcortical systems support fast, automatic emotional responses.
+~Language processing
+}
+
+::emot_cortical_regions::
+Cortical regions contribute to emotion by:
+{
+~Generating reflexes
+~Suppressing autonomic function
+=Interpreting and regulating emotional states #Cortex supports interpretation, context, and regulation.
+~Encoding muscle force
+}
+
+::emot_the_amygdala::
+The amygdala is especially involved in:
+{
+~Language comprehension
+~Motor learning
+=Detecting biologically relevant stimuli #The amygdala evaluates relevance, especially threat.
+~Spatial navigation
+}
+
+::emot_amygdala_responses::
+Amygdala responses are characterized by:
+{
+~Slow cortical computation
+~Dependence on conscious awareness
+=Fast responses before detailed analysis #Amygdala responses are fast and can precede cortical analysis.
+~Exclusive sensitivity to negative stimuli
+}
+
+::emot_fear_conditioning::
+Fear conditioning is best described as:
+{
+~A reflexive motor response
+=A form of associative learning #Fear conditioning is associative learning between stimuli.
+~A conscious fear strategy
+~A hormonal stress response
+}
+
+::emot_in_fear::
+In fear conditioning, the conditioned stimulus is:
+{
+~An inherently aversive stimulus
+=A neutral stimulus that predicts danger #The CS is initially neutral and gains significance through learning.
+~A stress hormone
+~A motor response
+}
+
+::emot_which_structure::
+Which structure is required for acquiring fear memories?
+{
+~Prefrontal cortex
+=Amygdala #The amygdala is essential for fear memory acquisition.
+~Cerebellum
+~Basal nuclei
+}
+
+::emot_fear_extinction::
+Fear extinction involves:
+{
+~Erasing the original fear memory
+~Suppressing amygdala formation
+=Learning that the CS no longer predicts danger #Extinction is new learning, not erasure.
+~Blocking sensory input
+}
+
+::emot_fear_can::
+Fear can reappear after extinction because:
+{
+~The amygdala is destroyed
+=The original memory persists #Extinction modulates expression but does not erase the original memory.
+~Extinction damages memory
+~Hormones overwrite learning
+}
+
+::emot_emotion_regulation::
+Emotion regulation primarily relies on:
+{
+~Brainstem nuclei
+~Spinal circuits
+=Prefrontal cortex #Prefrontal regions support top-down regulation.
+~Sensory cortex
+}
+
+::emot_reappraisal_is::
+Reappraisal is best described as:
+{
+~Suppressing emotions
+~Avoiding emotional stimuli
+=Changing interpretation to alter emotional impact #Reappraisal changes meaning to regulate emotion.
+~Blocking autonomic responses
+}
+
+::emot_why_is::
+Why is adolescence associated with increased emotional intensity?
+{
+~Amygdala is underdeveloped
+~Prefrontal regulation matures early
+=Subcortical systems mature before prefrontal control #Emotion systems mature before regulatory control.
+~Stress hormones are absent
+}
+
+::emot_motivation_answers::
+Motivation answers which question?
+{
+~What do I feel?
+=Why act at all? #Motivation concerns initiating and sustaining action.
+~How do I perceive?
+~How fast should I move?
+}
+
+::emot_which_distinction::
+Which distinction is central to motivation?
+{
+~Emotion vs feeling
+=Wanting vs liking #Wanting and liking are dissociable motivational components.
+~Stress vs fear
+~Control vs reflex
+}
+
+::emot_dopamine_is::
+Dopamine is primarily involved in:
+{
+~Pure pleasure
+~Muscle contraction
+=Reward prediction and learning #Dopamine signals prediction and learning, not simple pleasure.
+~Autonomic reflexes
+}
+
+::emot_reward_prediction::
+Reward prediction error reflects:
+{
+~Reward magnitude
+~Reward pleasure
+=Difference between expected and actual outcomes #Prediction error updates expectations.
+~Stress hormone levels
+}
+
+::emot_when_a::
+When a reward is worse than expected, dopamine activity:
+{
+~Increases
+~Does not change
+=Decreases #Negative prediction error reduces dopamine firing.
+~Becomes random
+}
+
+::emot_stress_is::
+Stress is best defined as:
+{
+~A negative emotion
+=A physiological response to challenge #Stress is a coordinated physiological response.
+~A motivational state with negative reward
+~A cognitive bias
+}
+
+::emot_which_systems::
+Which systems mediate stress responses?
+{
+~Only cortex
+=Autonomic system and HPA axis #Stress involves fast autonomic and slower hormonal systems.
+~Motor cortex and cerebellum
+~Basal nuclei only
+}
+
+::emot_autonomic_stress::
+Autonomic stress responses are:
+{
+~Slow and hormonal
+=Fast and neural #Autonomic responses are rapid and neural.
+~Conscious and voluntary
+~Limited to digestion
+}
+
+::emot_the_hpa::
+The HPA axis response is characterized by:
+{
+~Milliseconds timing
+~Purely neural signaling
+=Hormonal cascades #The HPA axis operates through hormonal signaling.
+~Lack of brain control
+}
+
+::emot_cortisol_primarily::
+Cortisol primarily:
+{
+~Suppresses all behavior
+=Mobilizes energy resources #Cortisol increases energy availability.
+~Blocks learning and memory
+~Eliminates fear and increase pain
+}
+
+::emot_chronic_stress::
+Chronic stress differs from acute stress because it:
+{
+~Is stronger
+=Lasts longer due to dysregulation #Chronic stress reflects failure to terminate responses.
+~Involves different hormones
+~Is always adaptive and can heal wounds
+}
+
+$CATEGORY: module_1_multi/plast
+
+::plast_what_is::
+What is neuroplasticity?
+{
+~The irreversible maturation of neural circuits
+=The ability of neural circuits to change in response to experience #Neuroplasticity refers to the brain’s ability to change in response to experience.
+~The genetic determination of brain structure
+~The degeneration of synapses with age
+}
+
+::plast_experience_modifies::
+Experience modifies neural circuits primarily by changing:
+{
+~Neuron number
+~Axon length
+=Synaptic effectiveness #Experience alters the effectiveness of synaptic connections.
+~Brain size
+}
+
+::plast_which_statement::
+Which statement best captures the interaction between genes and experience?
+{
+~Genes act only before birth
+~Experience replaces genetic influence
+=Genes and experience interact throughout life #Genes and experience interact continuously across the lifespan.
+~Experience has no effect on development
+}
+
+::plast_at_birth::
+At birth, the human brain is:
+{
+~Fully mature
+=Largely immature #Human brain development continues well beyond birth.
+~Functionally inactive
+~Structurally complete
+}
+
+::plast_which_process::
+Which process refers to the generation of neurons during development?
+{
+~Synaptogenesis
+~Gliogenesis
+=Neurogenesis #Neurogenesis is the generation of neurons.
+~Myelination
+}
+
+::plast_which_developmental::
+Which developmental process involves programmed cell death?
+{
+~Neurulation
+~Synaptogenesis
+=Apoptosis #Apoptosis eliminates excess or improperly connected cells.
+~Myelination
+}
+
+::plast_which_developmental::
+Which developmental process improves conduction speed along axons?
+{
+~Gliogenesis
+=Myelination #Myelination increases conduction velocity.
+~Neurogenesis
+~Synaptogenesis
+}
+
+::plast_gene_specification::
+Gene specification primarily guides:
+{
+~Final behavioral outcomes
+=Initial stages of neural development #Genes guide early developmental processes.
+~Adult learning
+~Synaptic pruning in adulthood
+}
+
+::plast_individual_experience::
+Individual experience primarily influences:
+{
+~Initial brain patterning
+=Final circuit refinement #Experience guides final phases of circuit maturation.
+~Neural tube formation
+~Cell fate determination only
+}
+
+::plast_synaptic_plasticity::
+Synaptic plasticity refers to:
+{
+~Generation of new neurons
+=Changes in synaptic communication efficacy #Synaptic plasticity modifies communication between neurons.
+~Axonal regeneration
+~Neuron migration
+}
+
+::plast_functional_synaptic::
+Functional synaptic plasticity involves:
+{
+~Creation of new neurons
+=Changes in efficacy of existing synapses #Functional plasticity changes synaptic strength.
+~Axonal growth
+~Neuron death
+}
+
+::plast_structural_synaptic::
+Structural synaptic plasticity includes:
+{
+~Changes in ion channel kinetics only
+=Formation or elimination of synaptic contacts #Structural plasticity modifies synaptic architecture.
+~Only short-term effects
+~Neurotransmitter synthesis
+}
+
+::plast_adult_neurogenesis::
+Adult neurogenesis occurs primarily in:
+{
+~Cerebral cortex
+~Basal ganglia
+=Hippocampus #Adult neurogenesis is restricted mainly to the hippocampus.
+~Cerebellum
+}
+
+::plast_hebb_s::
+Hebb’s principle states that synapses strengthen when:
+{
+~Neurons fire independently
+=Presynaptic activity predicts postsynaptic firing #Correlated activity strengthens synaptic connections.
+~Postsynaptic neurons are silent
+~Activity is random
+}
+
+::plast_the_phrase::
+The phrase “neurons that fire together, wire together” summarizes:
+{
+~Homeostatic plasticity
+=Hebbian plasticity #This is the core idea of Hebbian plasticity.
+~Neurogenesis
+~Apoptosis
+}
+
+::plast_which_receptor::
+Which receptor acts as a coincidence detector?
+{
+~AMPA receptor
+~GABA-A receptor
+=NMDA receptor #NMDA receptors require presynaptic and postsynaptic activity.
+~Metabotropic glutamate receptor
+}
+
+::plast_why_is::
+Why is the NMDA receptor blocked at resting potential?
+{
+~Chloride ions
+~Calcium ions
+=Magnesium ions #Magnesium blocks the NMDA channel at rest.
+~Sodium ions
+}
+
+::plast_nmda_receptor::
+NMDA receptor activation allows entry of:
+{
+~Sodium
+~Chloride
+=Calcium #Calcium influx triggers plasticity mechanisms.
+~Potassium
+}
+
+::plast_long_term::
+Long-term potentiation (LTP) is defined as:
+{
+~Temporary synaptic fatigue
+=Persistent increase in synaptic efficacy #LTP produces long-lasting synaptic strengthening.
+~Neuron proliferation
+~Global network scaling
+}
+
+::plast_one_immediate::
+One immediate effect of LTP is:
+{
+~Neuron death
+~Removal of AMPA receptors
+=Insertion of AMPA receptors #LTP increases AMPA receptor insertion.
+~Axonal pruning
+}
+
+::plast_morphological_changes::
+Morphological changes in LTP typically occur:
+{
+~Within milliseconds
+~Within seconds
+=Hours to days later #Structural plasticity stabilizes long-term changes.
+~Only during development
+}
+
+::plast_long_term::
+Long-term depression (LTD) involves:
+{
+~Increased AMPA receptor insertion
+=Reduced synaptic efficacy #LTD weakens synaptic transmission.
+~Neuron migration
+~Increased firing rates
+}
+
+::plast_functional_ltd::
+Functional LTD typically involves:
+{
+~Insertion of NMDA receptors
+=Removal of AMPA receptors #AMPA receptor removal reduces synaptic strength.
+~Axon elongation
+~Increased calcium influx
+}
+
+::plast_ltp_and::
+LTP and LTD together allow circuits to:
+{
+~Grow indefinitely
+~Remain static
+=Strengthen relevant and weaken irrelevant connections #Plasticity is about balance, not just strengthening.
+~Eliminate all weak synapses
+}
+
+::plast_why_is::
+Why is Hebbian plasticity alone unstable?
+{
+~It eliminates learning
+=It leads to runaway excitation or silence #Unregulated Hebbian plasticity destabilizes networks.
+~It prevents memory formation
+~It blocks neurogenesis
+}
+
+::plast_homeostatic_plasticity::
+Homeostatic plasticity primarily functions to:
+{
+~Encode memories
+=Stabilize overall neural activity #Homeostatic mechanisms keep activity within functional ranges.
+~Generate new synapses
+~Eliminate variability
+}
+
+::plast_when_neural::
+When neural activity is chronically high, homeostatic plasticity:
+{
+~Strengthens all synapses
+=Weakens all synapses proportionally #Global downscaling prevents runaway excitation.
+~Eliminates synapses
+~Blocks firing completely
+}
+
+::plast_homeostatic_plasticity::
+Homeostatic plasticity preserves:
+{
+~Absolute synaptic strengths
+=Relative differences between synapses #Relative synaptic weights are maintained.
+~Only inhibitory synapses
+~Only excitatory synapses
+}
+
+::plast_who_demonstrated::
+Who demonstrated adult neurogenesis in birds?
+{
+~Donald Hebb
+~Eric Kandel
+=Fernando Nottebohm #Nottebohm overturned the dogma of no adult neurogenesis.
+~Santiago Ramón y Cajal
+}
+
+::plast_in_adult::
+In adult mammals, neurogenesis occurs mainly in:
+{
+~Neocortex
+~Cerebellum
+=Dentate gyrus #Adult neurogenesis is restricted to the dentate gyrus.
+~Amygdala
+}
+
+::plast_approximately_how::
+Approximately how many new hippocampal neurons are generated per day in humans?
+{
+~70
+=700 #About 700 new neurons are generated daily.
+~7,000
+~70,000
+}
+
+::plast_pattern_separation::
+Pattern separation refers to:
+{
+~Strengthening similar memories
+=Separating similar experiences into distinct representations #Pattern separation reduces interference.
+~Deleting overlapping memories
+~Reducing memory precision
+}
+
+::plast_the_dentate::
+The dentate gyrus is thought to support:
+{
+~Motor planning
+~Emotion regulation
+=Pattern separation #Dentate gyrus helps separate similar contexts.
+~Visual perception
+}
+
+::plast_systems_consolidation::
+Systems consolidation involves:
+{
+~Permanent hippocampal storage
+=Transfer of memories from hippocampus to cortex #Memories gradually become cortex-dependent.
+~Immediate cortical encoding
+~Elimination of hippocampal memories
+}
+
+::plast_increasing_adult::
+Increasing adult neurogenesis tends to:
+{
+~Slow consolidation
+=Accelerate consolidation #More neurogenesis accelerates consolidation.
+~Erase memories
+~Reduce learning
+}
+
+::plast_environmental_enrichment::
+Environmental enrichment tends to:
+{
+~Reduce plasticity
+=Increase synaptic plasticity and neurogenesis #Enrichment enhances plasticity.
+~Block hippocampal function
+~Decrease blood flow
+}
+
+::plast_physical_exercise::
+Physical exercise in humans is associated with:
+{
+~Reduced hippocampal blood flow
+=Increased dentate gyrus activity #Exercise enhances hippocampal function.
+~Cortical neurogenesis
+~Loss of synapses
+}
+
+$CATEGORY: module_1_multi/gxe
+
+::gxe_the_original::
+The original meaning of resilience comes from:
+{
+~Psychology
+~Biology
+=Metallurgy #Resilience originally referred to materials resisting force without breaking.
+~Medicine
+}
+
+::gxe_in_psychology::
+In psychology, resilience primarily refers to:
+{
+~Enduring stress without change
+~Suppressing emotional responses
+=Active adaptation to adversity #Psychological resilience involves active and adaptive responses.
+~Genetic resistance to disease
+}
+
+::gxe_the_kauai::
+The Kauai longitudinal study followed:
+{
+~Adults exposed to trauma
+=Children born in 1955 on Kauai #Werner followed an entire birth cohort from Kauai.
+~Families across generations
+~Clinical psychiatric patients
+}
+
+::gxe_approximately_what::
+Approximately what fraction of high-risk children in the Kauai study developed normally?
+{
+~Almost none
+=About one third #About one third showed resilient outcomes.
+~Half
+~Nearly all
+}
+
+::gxe_the_kauai::
+The Kauai study shifted research focus from:
+{
+~Genes to environment
+=Risk factors to protective factors #The key shift was toward identifying protective factors.
+~Brain to behavior
+~Diagnosis to treatment
+}
+
+::gxe_resilience_is::
+Resilience is best described as:
+{
+~The absence of pathology
+~Passive endurance
+=An active biological process #Resilience involves active molecular and circuit-level changes.
+~Purely psychological coping
+}
+
+::gxe_passive_resilience::
+Passive resilience refers to:
+{
+~Enhanced adaptive responses
+=Absence of maladaptive changes #Passive resilience reflects lack of harmful responses.
+~Increased plasticity
+~Environmental enrichment
+}
+
+::gxe_active_resilience::
+Active resilience involves:
+{
+~Lack of stress exposure
+=Presence of adaptive plastic changes #Active resilience includes changes unique to resilient individuals.
+~Reduced gene expression
+~Behavioral avoidance only
+}
+
+::gxe_which_concept::
+Which concept is central to both forms of resilience?
+{
+=Neuroplasticity #Plasticity enables adaptation to adversity.
+~Neurogenesis
+~Neurodegeneration
+~Neural pruning
+}
+
+::gxe_the_gene::
+The gene-to-disorder approach assumes:
+{
+~Genes act only with environment
+=Linear effects of genes on disorders #This approach assumes direct gene-disorder links.
+~Disorders arise without genetics
+~Genes affect only endophenotypes
+}
+
+::gxe_a_major::
+A major limitation of the gene-to-disorder approach was:
+{
+~Ethical concerns
+~Poor animal models
+=Replication failures #Many associations failed to replicate.
+~Lack of diagnostic criteria
+}
+
+::gxe_endophenotypes_are::
+Endophenotypes are defined as:
+{
+~Behavioral symptoms
+~Environmental risk factors
+=Heritable intermediate traits #Endophenotypes bridge genes and disorders.
+~Clinical diagnoses
+}
+
+::gxe_the_endophenotype::
+The endophenotype-to-disorder approach assumes:
+{
+~Genes affect diagnoses directly
+=Genes have stronger effects on intermediate traits #Intermediate traits are closer to genetic action.
+~Environment is irrelevant
+~Endophenotypes are non-heritable
+}
+
+::gxe_the_g::
+The G×E approach emphasizes:
+{
+~Genes alone
+~Environment alone
+=Their interaction #Risk emerges from gene–environment interaction.
+~Random developmental noise
+}
+
+::gxe_in_a::
+In a G×E framework, genes are best described as:
+{
+~Deterministic causes
+~Inactive without environment
+=Risk or sensitivity factors #Genes modulate sensitivity to environments.
+~Protective only
+}
+
+::gxe_a_polymorphism::
+A polymorphism is defined as a DNA variant present in:
+{
+~Any individual
+~Less than 0.1% of the population
+=More than 1% of the population #Polymorphisms are common variants.
+~Only clinical populations
+}
+
+::gxe_polymorphisms_typically::
+Polymorphisms typically:
+{
+~Cause disease directly
+=Act as risk or protective factors #Their effects depend on context.
+~Eliminate plasticity
+~Prevent development
+}
+
+::gxe_childhood_maltreatment::
+Childhood maltreatment is:
+{
+~A sufficient cause of antisocial behavior
+~A weak risk factor
+=A strong but non-deterministic risk factor #Maltreatment increases risk but does not determine outcomes.
+~Irrelevant to later outcomes
+}
+
+::gxe_the_maoa::
+The MAOA gene is located on the:
+{
+~Chromosome 1
+~Y chromosome
+=X chromosome #MAOA is X-linked.
+~Chromosome 21
+}
+
+::gxe_maoa_encodes::
+MAOA encodes an enzyme involved in the breakdown of:
+{
+~Glutamate
+=Monoamines #MAOA degrades dopamine, serotonin, and norepinephrine.
+~GABA
+~Acetylcholine
+}
+
+::gxe_low_activity::
+Low-activity MAOA variants result in:
+{
+~Faster neurotransmitter degradation
+~Reduced synaptic signaling
+=Prolonged monoamine action #Neurotransmitters persist longer at synapses.
+~Complete enzyme loss
+}
+
+::gxe_in_the::
+In the Dunedin study, antisocial behavior increased most in:
+{
+~High-activity MAOA individuals
+=Low-activity MAOA individuals exposed to maltreatment #The effect emerged only under adversity.
+~All individuals equally
+~Individuals without maltreatment
+}
+
+::gxe_the_maoa::
+The MAOA polymorphism alone was:
+{
+~Sufficient to cause antisocial behavior
+~Protective
+=Not sufficient to predict behavior #The environment was necessary.
+~Unrelated to neurotransmission
+}
+
+::gxe_the_serotonin::
+The serotonin transporter gene (5-HTT) regulates:
+{
+~Serotonin synthesis
+~Serotonin receptor binding
+=Serotonin reuptake #5-HTT controls synaptic serotonin clearance.
+~Serotonin degradation
+}
+
+::gxe_the_short::
+The short (s) allele of 5-HTTLPR is associated with:
+{
+~Higher transporter expression
+=Lower transporter expression #The short allele reduces transcription.
+~Faster serotonin breakdown
+~Increased dopamine release
+}
+
+::gxe_in_the::
+In the absence of stress, depression levels across 5-HTTLPR genotypes were:
+{
+~Very different
+~Highest in s/s individuals
+=Similar #The gene effect emerged only under stress.
+~Only present in l/l individuals
+}
+
+::gxe_the_dunedin::
+The Dunedin depression study showed:
+{
+~A main effect of genotype
+~A main effect of stress only
+=A significant gene–environment interaction #Stress effects depended on genotype.
+~No genetic involvement
+}
+
+::gxe_the_drd::
+The DRD4 gene codes for:
+{
+~A serotonin transporter
+=A dopamine receptor #DRD4 codes for the D4 dopamine receptor.
+~A dopamine enzyme
+~A glutamate receptor
+}
+
+::gxe_the_drd::
+The DRD4 long (L) variant is considered:
+{
+~Hyperfunctional
+=Hypofunctional #The L variant reduces receptor efficiency.
+~Inactive
+~Protective only
+}
+
+::gxe_in_the::
+In the alcohol experiment, L/L individuals showed:
+{
+~No effect of alcohol
+~Less desire to drink
+=Increased desire to continue drinking after alcohol #Genotype modulated alcohol effects.
+~Reduced reward sensitivity
+}
+
+::gxe_early_cannabis::
+Early cannabis use is associated with increased risk of:
+{
+~Depression only
+~Anxiety disorders only
+=Psychosis #Risk increases but is not universal.
+~Dementia
+}
+
+::gxe_the_comt::
+The COMT gene is particularly important in the:
+{
+~Amygdala
+~Hippocampus
+=Prefrontal cortex #COMT regulates dopamine in PFC.
+~Cerebellum
+}
+
+::gxe_in_the::
+In the cannabis working memory study, impairment was strongest in:
+{
+~MET/MET individuals
+=VAL/VAL individuals #Cannabis effects depended on COMT genotype.
+~All genotypes equally
+~Only non-users
+}
+
+::gxe_the_bucharest::
+The Bucharest Early Intervention Project studied:
+{
+~Genetic disorders
+~Adult depression
+=Early psychosocial deprivation #The BEI focused on institutional deprivation.
+~Substance abuse
+}
+
+::gxe_the_bei::
+The BEI project design allowed:
+{
+~Correlational inference
+~Pure genetic inference
+=Causal inference #Randomization allowed causal conclusions.
+~Animal modeling
+}
+
+::gxe_earlier_placement::
+Earlier placement into foster care resulted in:
+{
+~Worse outcomes
+~No differences
+=Better cognitive outcomes #Timing of intervention mattered.
+~Only emotional benefits
+}
+
+::gxe_in_the::
+In the BEI genetic moderator study, VAL/VAL children:
+{
+~Did not improve
+=Improved the most in foster care #They benefited strongly from positive environments.
+~Were always resilient
+~Were unaffected by environment
+}
+
+::gxe_this_pattern::
+This pattern supports the idea of:
+{
+~Pure vulnerability
+~Genetic determinism
+=Plasticity #Susceptibility applied to improvement as well.
+~Random recovery
+}
+
+::gxe_the_differential::
+The differential susceptibility model proposes that:
+{
+~Some genes only increase risk
+~Genes act only under stress
+=Some genotypes increase sensitivity to all environments #Plasticity variants amplify both positive and negative effects.
+~Environment overrides genetics completely
+}
+
+::gxe_according_to::
+According to differential susceptibility, some genes are better described as:
+{
+~Risk genes
+~Disease genes
+=Plasticity genes #They increase environmental responsiveness.
+~Neutral genes
+}
+
+::gxe_a_key::
+A key implication of G×E research is that:
+{
+~Genes cannot be changed
+~Environment is irrelevant
+=Improving environments can reduce risk #Prevention through environment is powerful.
+~Disorders are inevitable
+}
+
+$CATEGORY: module_1_multi/epigenetics
+
+::epigenetics_epigenetic_mechanisms::
+Epigenetic mechanisms are especially relevant for understanding behavior because they:
+{
+~Change the DNA sequence
+~Act only during embryonic development
+=Allow experiences to have long-lasting biological effects #Epigenetics explains how transient experiences can produce persistent effects.
+~Eliminate genetic influences
+}
+
+::epigenetics_epigenetics_was::
+Epigenetics was originally developed to explain:
+{
+~Mental disorders
+=Inheritance of traits without DNA sequence changes #Epigenetics emerged from developmental biology and cell differentiation.
+~Neural signaling
+~Learning and memory
+}
+
+::epigenetics_which_of::
+Which of the following is NOT an epigenetic mechanism?
+{
+~DNA methylation
+~Histone acetylation
+=DNA mutation #Epigenetic mechanisms do not alter DNA sequence.
+~Chromatin remodeling
+}
+
+::epigenetics_during_development::
+During development, cell differentiation occurs mainly through:
+{
+~Loss of genes
+=Epigenetic regulation of gene expression #Genes remain present but are differentially regulated.
+~Random mutations
+~Neuronal activity
+}
+
+::epigenetics_in_neurons::
+In neurons, epigenetic changes are important because they:
+{
+~Are rapidly reversible
+~Act only at the population level
+=Provide long-term regulation at the single-cell level #Epigenetic changes can persist within individual neurons.
+~Replace synaptic plasticity
+}
+
+::epigenetics_epigenetic_mechanisms::
+Epigenetic mechanisms modify gene expression by acting on:
+{
+~mRNA stability
+=Chromatin structure #They regulate accessibility of DNA to transcription machinery.
+~Protein folding
+~Ion channels
+}
+
+::epigenetics_chromatin_is::
+Chromatin is composed of:
+{
+~RNA and proteins
+=DNA and histone proteins #Chromatin is DNA wrapped around histones.
+~Only DNA
+~Only histones
+}
+
+::epigenetics_tightly_packed::
+Tightly packed chromatin is typically associated with:
+{
+~High transcription
+~Medium transcription
+=Low or absent transcription #Compact chromatin restricts access to transcription machinery.
+~Increased plasticity
+}
+
+::epigenetics_dna_methylation::
+DNA methylation generally:
+{
+~Promotes transcription
+=Blocks transcription #Methylation acts as a transcriptional stop signal.
+~Has no effect on gene expression
+~Removes histones
+}
+
+::epigenetics_studies_of::
+Studies of monozygotic twins show that epigenetic patterns:
+{
+~Remain identical throughout life
+=Diverge with different experiences #Life experiences shape epigenetic divergence.
+~Depend only on genetics
+~Disappear with age
+}
+
+::epigenetics_histone_modifications::
+Histone modifications are best described as:
+{
+~Changes in DNA sequence
+=Post-translational chemical modifications #They modify histone proteins after synthesis.
+~Permanent gene deletions
+~Random molecular noise
+}
+
+::epigenetics_histone_modifications::
+Histone modifications influence gene expression mainly by:
+{
+~Altering RNA transcription rate directly
+=Changing how tightly DNA is packed #They regulate chromatin accessibility.
+~Destroying transcription factors
+~Removing methyl groups from DNA
+}
+
+::epigenetics_the_concept::
+The concept of a "histone code" refers to:
+{
+~A single dominant modification
+~Random histone changes
+=Combinations of histone modifications encoding regulatory information #Different combinations fine-tune gene regulation.
+~Genetic mutations in histones
+}
+
+::epigenetics_histone_acetylation::
+Histone acetylation typically leads to:
+{
+~More compact chromatin
+~Reduced gene expression
+=Less compact chromatin #Acetylation increases DNA accessibility.
+~DNA degradation
+}
+
+::epigenetics_chronic_social::
+Chronic social defeat stress is used as a model to study:
+{
+~Learning and memory
+~Neurodevelopment
+=Stress, depression-like behavior, and resilience #It models chronic psychosocial stress.
+~Motor control
+}
+
+::epigenetics_in_the::
+In the social defeat paradigm, stable depression-like behavior requires:
+{
+~A single exposure
+=At least 10 days of stress #Shorter protocols are insufficient.
+~Genetic manipulation
+~Physical injury
+}
+
+::epigenetics_anhedonia_in::
+Anhedonia in mice is commonly assessed by:
+{
+~Maze performance
+~Food intake
+=Social interaction tests #Reduced social interaction reflects anhedonia-like behavior.
+~Pain sensitivity
+}
+
+::epigenetics_after_chronic::
+After chronic social defeat, mice can be classified as:
+{
+~Normal or abnormal
+~Genetically distinct
+=Susceptible or resilient #Behavioral outcomes differ despite identical genetics.
+~Healthy or sick
+}
+
+::epigenetics_differences_between::
+Differences between susceptible and resilient mice arise mainly from:
+{
+~DNA mutations
+=Epigenetic regulation #They belong to the same genetic strain.
+~Developmental defects
+~Sensory deprivation
+}
+
+::epigenetics_under_normal::
+Under normal conditions, the BDNF gene in the hippocampus shows:
+{
+~Low expression
+=Open chromatin and high expression #BDNF supports plasticity under normal conditions.
+~Permanent DNA methylation
+~No epigenetic regulation
+}
+
+::epigenetics_chronic_stress::
+Chronic stress reduces hippocampal BDNF expression mainly by:
+{
+~DNA mutation
+=Reduced histone acetylation #Chromatin becomes more compact.
+~Increased neurogenesis
+~Enhanced transcription
+}
+
+::epigenetics_reduced_hippocampal::
+Reduced hippocampal BDNF leads to:
+{
+~Enhanced plasticity
+~Increased neurogenesis
+=Reduced plasticity and neurogenesis #BDNF is crucial for hippocampal function.
+~Improved stress regulation
+}
+
+::epigenetics_antidepressant_treatment::
+Antidepressant treatment restores BDNF expression primarily by:
+{
+~Removing DNA methylation
+=Increasing histone acetylation #DNA methylation often persists.
+~Changing DNA sequence
+~Blocking transcription
+}
+
+::epigenetics_stress_induced::
+Stress-induced epigenetic changes that persist after stress ends are called:
+{
+~Genetic mutations
+=Molecular scars #They represent latent traces of past stress.
+~Homeostatic markers
+~Developmental errors
+}
+
+::epigenetics_in_vulnerable::
+In vulnerable mice, chronic stress causes hyperactivity of:
+{
+~Hippocampal pyramidal neurons
+=VTA dopamine neurons #This overstimulates the nucleus accumbens.
+~Cortical interneurons
+~Serotonergic neurons
+}
+
+::epigenetics_resilient_mice::
+Resilient mice counteract stress by:
+{
+~Reducing dopamine synthesis
+=Upregulating potassium channels in the VTA #This limits excessive dopamine firing.
+~Increasing DNA methylation
+~Suppressing plasticity
+}
+
+::epigenetics_these_findings::
+These findings support the idea that resilience is:
+{
+~Passive resistance
+~Genetically predetermined
+=An active adaptive process #Resilience involves specific mechanisms.
+~Independent of plasticity
+}
+
+::epigenetics_ssris_increase::
+SSRIs increase neural plasticity, but clinical effects appear slowly because:
+{
+~They act only on receptors
+=Plasticity requires time and environmental guidance #Plasticity must be shaped by context.
+~They block epigenetic mechanisms
+~They suppress experience
+}
+
+::epigenetics_fluoxetine_treated::
+Fluoxetine-treated mice improve when placed in:
+{
+~Stressful environments
+~Socially deprived conditions
+=Enriched environments #Environment determines plastic outcomes.
+~Isolated cages
+}
+
+::epigenetics_meaney_s::
+Meaney’s studies showed that maternal care influences:
+{
+~DNA sequence
+=Epigenetic regulation of stress-related genes #Maternal behavior programs stress systems.
+~Brain size
+~Motor development
+}
+
+::epigenetics_differences_between::
+Differences between high- and low-nurturing mothers lie mainly in:
+{
+~Nutrition
+~Abuse
+=Quality of interaction #Basic care is normal in both groups.
+~Genetic background
+}
+
+::epigenetics_high_maternal::
+High maternal care leads to offspring with:
+{
+~Chronically active HPA axis
+~Higher anxiety
+=Better stress regulation #Stress responses are efficiently regulated.
+~Lower glucocorticoid receptors
+}
+
+::epigenetics_glucocorticoid_receptors::
+Glucocorticoid receptors in the hippocampus are important because they:
+{
+~Activate stress responses
+=Provide negative feedback to the HPA axis #More receptors mean better feedback control.
+~Increase cortisol release
+~Block plasticity
+}
+
+::epigenetics_early_maternal::
+Early maternal care programs stress reactivity mainly through:
+{
+~DNA mutations
+=Epigenetic regulation of the GR gene #Gene expression is epigenetically modified.
+~Neurogenesis
+~Synapse elimination
+}
+
+::epigenetics_treatment_with::
+Treatment with TSA demonstrates that:
+{
+~Epigenetic effects are irreversible
+=Functional recovery is possible despite epigenetic scars #Epigenetic marks may persist, but function can recover.
+~Genes determine stress outcomes
+~Maternal care has no long-term effects
+}
+
+::epigenetics_overall_epigenetic::
+Overall, epigenetic mechanisms link:
+{
+~Genes to mutations
+=Experience to long-term brain function #They provide a biological bridge between experience and behavior.
+~Stress to DNA damage
+~Environment to genetics only during development
+}
+

@@ -134,7 +134,7 @@
       "feedback": "Fear conditioning is associative learning between stimuli."
     },
     {
-      "question": "In fear conditioning, the conditioned stimulus (CS) is:",
+      "question": "In fear conditioning, the conditioned stimulus is:",
       "options": [
         "An inherently aversive stimulus",
         "A neutral stimulus that predicts danger",
@@ -270,7 +270,7 @@
       "options": [
         "A negative emotion",
         "A physiological response to challenge",
-        "A motivational state",
+        "A motivational state with negative reward",
         "A cognitive bias"
       ],
       "correct": 1,
@@ -314,8 +314,8 @@
       "options": [
         "Suppresses all behavior",
         "Mobilizes energy resources",
-        "Blocks learning",
-        "Eliminates fear"
+        "Blocks learning and memory",
+        "Eliminates fear and increase pain"
       ],
       "correct": 1,
       "feedback": "Cortisol increases energy availability."
@@ -326,7 +326,7 @@
         "Is stronger",
         "Lasts longer due to dysregulation",
         "Involves different hormones",
-        "Is always adaptive"
+        "Is always adaptive and can heal wounds"
       ],
       "correct": 1,
       "feedback": "Chronic stress reflects failure to terminate responses."

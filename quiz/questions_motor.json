@@ -27,23 +27,12 @@
       "question": "Which structure is the main cortical output of the motor system?",
       "options": [
         "Premotor cortex",
-        "Primary motor cortex (M1)",
+        "Primary motor cortex",
         "Supplementary motor area",
         "Somatosensory cortex"
       ],
       "correct": 1,
       "feedback": "M1 is the main cortical output sending commands to the spinal cord."
-    },
-    {
-      "question": "Where is the primary motor cortex located?",
-      "options": [
-        "Posterior to the central sulcus",
-        "In the parietal lobe",
-        "Anterior to somatosensory cortex",
-        "In the temporal lobe"
-      ],
-      "correct": 2,
-      "feedback": "Primary motor cortex lies in the frontal lobe, anterior to somatosensory cortex."
     },
     {
       "question": "Somatotopic organization in M1 means that:",
@@ -68,17 +57,6 @@
       "feedback": "Fine motor control requires larger cortical representation."
     },
     {
-      "question": "What do neurons in primary motor cortex encode?",
-      "options": [
-        "Single muscle contractions",
-        "Only force",
-        "Only direction",
-        "Patterns of movement via population activity"
-      ],
-      "correct": 3,
-      "feedback": "Movement emerges from population activity encoding direction, force, and coordination."
-    },
-    {
       "question": "Motor control from cortex to spinal cord is largely:",
       "options": [
         "Ipsilateral",
@@ -99,17 +77,6 @@
       ],
       "correct": 1,
       "feedback": "Lower motor neurons reside in the ventral horn of the spinal cord."
-    },
-    {
-      "question": "Why are lower motor neurons called the final common pathway?",
-      "options": [
-        "They initiate voluntary movement",
-        "They integrate sensory input only",
-        "All motor commands converge on them",
-        "They plan motor sequences"
-      ],
-      "correct": 2,
-      "feedback": "All descending motor commands converge on lower motor neurons."
     },
     {
       "question": "Which structure is the main site of motor execution?",
@@ -134,7 +101,7 @@
       "feedback": "Action selection and planning require additional motor areas."
     },
     {
-      "question": "The supplementary motor area (SMA) is especially involved in:",
+      "question": "The supplementary motor area is especially involved in:",
       "options": [
         "Externally guided movements",
         "Internally generated actions",
@@ -143,17 +110,6 @@
       ],
       "correct": 1,
       "feedback": "SMA supports internally generated and self-initiated movements."
-    },
-    {
-      "question": "Which function is strongly associated with the SMA?",
-      "options": [
-        "Visual guidance",
-        "Bimanual coordination",
-        "Balance",
-        "Reflex modulation"
-      ],
-      "correct": 1,
-      "feedback": "SMA is critical for sequencing and bimanual coordination."
     },
     {
       "question": "The premotor cortex is mainly involved in:",
